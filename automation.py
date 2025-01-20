@@ -23,24 +23,18 @@ def run_actor_1():
         run_input={
     
     "categoryOrProductUrls": [
+
+
         {
-            "url": "https://www.amazon.com/s?k=Lat+Pulldown+Machine",
+            "url": "https://www.amazon.com/s?k=Pull-Up+Bar",
             "method": "GET"
-        }
+        },
         # {
-        #     "url": "https://www.amazon.com/s?k=Seated+Row+Machine",
+        #     "url": "https://www.amazon.com/s?k=Assisted+Pull-Up+Machine",
         #     "method": "GET"
         # },
-        # {
-        #     "url": "https://www.amazon.com/s?k=Shoulder+Press+Machine",
-        #     "method": "GET"
-        # },
-        # {
-        #     "url": "https://www.amazon.com/s?k=Reverse+Fly",
-        #     "method": "GET"
-        # },
-        # {
-        #     "url": "https://www.amazon.com/s?k=Rear+Delt+Machine",
+                # {
+        #     "url": "https://www.amazon.com/s?k=Chest+Press+Machine",
         #     "method": "GET"
         # }
     ],
@@ -98,7 +92,7 @@ def run_actor_2(asin_list):
     print(f"Retrieved {len(product_details.items)} product details.")
     return product_details.items
 
-def dump_to_json(data, filename='product_details.json'):
+def dump_to_json(data, filename='data/pull_up_bar.json'):
     # Dump the product details to a JSON file
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4)
