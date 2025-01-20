@@ -24,19 +24,10 @@ def run_actor_1():
     
     "categoryOrProductUrls": [
 
-
-        {
-            "url": "https://www.amazon.com/s?k=Pull-Up+Bar",
+                {
+            "url": "https://www.amazon.com/s?k=pec+deck+machine",
             "method": "GET"
-        },
-        # {
-        #     "url": "https://www.amazon.com/s?k=Assisted+Pull-Up+Machine",
-        #     "method": "GET"
-        # },
-                # {
-        #     "url": "https://www.amazon.com/s?k=Chest+Press+Machine",
-        #     "method": "GET"
-        # }
+        }
     ],
     "maxItemsPerStartUrl": 100,
     "maxOffers": 0,
@@ -92,7 +83,7 @@ def run_actor_2(asin_list):
     print(f"Retrieved {len(product_details.items)} product details.")
     return product_details.items
 
-def dump_to_json(data, filename='data/pull_up_bar.json'):
+def dump_to_json(data, filename='data/pec_deck_machine.json'):
     # Dump the product details to a JSON file
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4)
