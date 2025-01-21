@@ -24,10 +24,34 @@ def run_actor_1():
     
     "categoryOrProductUrls": [
 
-                {
-            "url": "https://www.amazon.com/s?k=pec+deck+machine",
+        {
+            "url": "https://www.amazon.com/s?k=Dumbells",
             "method": "GET"
-        }
+        },
+    #     {
+    #         "url": "https://www.amazon.com/s?k=Barbells",
+    #         "method": "GET"
+    #     },
+    #     {
+    #         "url": "https://www.amazon.com/s?k=Kettlebells",
+    #         "method": "GET"
+    #     },
+        #     {
+    #         "url": "https://www.amazon.com/s?k=Cable+Machines",
+    #         "method": "GET"
+    #     },
+        #     {
+    #         "url": "https://www.amazon.com/s?k=TRX+Suspension+Trainer",
+    #         "method": "GET"
+    #     },
+            #     {
+    #         "url": "https://www.amazon.com/s?k=Medicine+Balls",
+    #         "method": "GET"
+    #     },
+            #     {
+    #         "url": "https://www.amazon.com/s?k=Battle+Ropes",
+    #         "method": "GET"
+    #     }
     ],
     "maxItemsPerStartUrl": 100,
     "maxOffers": 0,
@@ -83,7 +107,7 @@ def run_actor_2(asin_list):
     print(f"Retrieved {len(product_details.items)} product details.")
     return product_details.items
 
-def dump_to_json(data, filename='data/pec_deck_machine.json'):
+def dump_to_json(data, filename='data/dumbells.json'):
     # Dump the product details to a JSON file
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4)
