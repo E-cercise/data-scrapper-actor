@@ -44,7 +44,7 @@ def process_json_file(input_filepath, output_filepath):
     if not isinstance(data, list):
         print(f"Skipping file {input_filepath}: Expected a list of records.")
         return 0
-    
+
     total_removed = 0
     for record in data:
         attributes = record.get("attributes")
