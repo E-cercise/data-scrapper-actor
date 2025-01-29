@@ -341,18 +341,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "29.4 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "White"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "43.4\"D x 23.5\"W x 26.7\"H"
             },
@@ -391,10 +379,6 @@
             {
                 "key": "Warranty Description",
                 "value": "T"
-            },
-            {
-                "key": "Model Name",
-                "value": "A"
             },
             {
                 "key": "Suggested Users",
@@ -510,7 +494,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "A",
+        "color": "White",
+        "material": "Alloy Steel",
+        "weight": "29.4 Pounds"
     },
     {
         "asin": "B0CJQVP5Q6",
@@ -782,18 +770,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "24 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "White"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "39\"D x 33\"W x 24\"H"
             },
@@ -832,10 +808,6 @@
             {
                 "key": "Brand Name",
                 "value": "Sunny Health & Fitness"
-            },
-            {
-                "key": "Model Name",
-                "value": "Sunny Health & Fitness SF-BH6629 45 Degree Hyperextension Roman Chair"
             },
             {
                 "key": "Number of Items",
@@ -895,7 +867,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Sunny Health & Fitness SF-BH6629 45 Degree Hyperextension Roman Chair",
+        "color": "White",
+        "material": "Alloy Steel",
+        "weight": "24 Pounds"
     },
     {
         "asin": "B0D12JWYV3",
@@ -1290,28 +1266,12 @@
                 "value": "12.04 Kilograms"
             },
             {
-                "key": "Item Weight",
-                "value": "12.04 Kilograms"
-            },
-            {
                 "key": "Brand Name",
                 "value": "FEIERDUN"
             },
             {
                 "key": "Warranty Description",
                 "value": "1 year"
-            },
-            {
-                "key": "Model Name",
-                "value": "PTJ-01"
-            },
-            {
-                "key": "Color",
-                "value": "Black orange"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, PU Leather"
             },
             {
                 "key": "Suggested Users",
@@ -1371,7 +1331,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "PTJ-01",
+        "color": "Black orange",
+        "material": "Alloy Steel, PU Leather",
+        "weight": "12.04 Kilograms"
     },
     {
         "asin": "B07MWV1JD7",
@@ -1391,20 +1355,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "SF-E3872"
-            },
-            {
-                "key": "Color",
-                "value": "Gray-Magnetic"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "25\"D x 20\"W x 12\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -1421,10 +1373,6 @@
             {
                 "key": "Screen Size",
                 "value": "7 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "25 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -1700,7 +1648,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-E3872",
+        "color": "Gray-Magnetic",
+        "material": "Alloy Steel",
+        "weight": "25 Pounds"
     },
     {
         "asin": "B0CM651XC5",
@@ -2127,18 +2079,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "14 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Multi"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "20\"D x 15.4\"W x 15.5\"H"
             },
@@ -2181,10 +2121,6 @@
             {
                 "key": "Warranty Description",
                 "value": "3-year frame. 2-year pad"
-            },
-            {
-                "key": "Model Name",
-                "value": "EX-1"
             },
             {
                 "key": "Suggested Users",
@@ -2256,7 +2192,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "EX-1",
+        "color": "Multi",
+        "material": "Alloy Steel",
+        "weight": "14 Pounds"
     },
     {
         "asin": "B0D5D4MFG5",
@@ -2900,28 +2840,12 @@
                 "value": "58.3 x 41 x 44 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "105 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "SPART"
             },
             {
                 "key": "Warranty Description",
                 "value": "1 Year"
-            },
-            {
-                "key": "Model Name",
-                "value": "AX1030Z-HX-GOLDEN"
-            },
-            {
-                "key": "Color",
-                "value": "GOLDEN"
-            },
-            {
-                "key": "Material",
-                "value": "Steel"
             },
             {
                 "key": "Suggested Users",
@@ -3025,7 +2949,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AX1030Z-HX-GOLDEN",
+        "color": "GOLDEN",
+        "material": "Steel",
+        "weight": "105 Pounds"
     },
     {
         "asin": "B0CWPK9QH5",
@@ -3254,18 +3182,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "10.55 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "A-Regular Weight Bench"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "15.1\"D x 42.3\"W x 42.4\"H"
             },
@@ -3312,10 +3228,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 YEAR"
-            },
-            {
-                "key": "Model Name",
-                "value": "BENCH"
             },
             {
                 "key": "Suggested Users",
@@ -3383,6 +3295,10 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "BENCH",
+        "color": "A-Regular Weight Bench",
+        "material": "Alloy Steel",
+        "weight": "10.55 Kilograms"
     }
 ]

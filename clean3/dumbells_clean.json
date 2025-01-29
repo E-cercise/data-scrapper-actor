@@ -205,18 +205,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "40.7 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "52.44\"D x 45.9\"W x 18.82\"H"
             },
@@ -255,10 +243,6 @@
             {
                 "key": "Brand Name",
                 "value": "Sunny Health & Fitness"
-            },
-            {
-                "key": "Model Name",
-                "value": "Adjustable Incline Flat Bench"
             },
             {
                 "key": "Part Number",
@@ -510,7 +494,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Adjustable Incline Flat Bench",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "40.7 Pounds"
     },
     {
         "asin": "B07QZHNWK6",
@@ -526,18 +514,6 @@
             "INCLUDES: (2) 1\u2033D x 17\u2033L inch Steel Bars, (4) Star Lock Collars; (4) 1. 5lb Weights, (4) 2. 5lb Weights, (4) 5lb Weights."
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "40 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
             {
                 "key": "Special Feature",
                 "value": "Knurled Grip; Vinyl Coated; Easy-to-use Star Lock Collars; Solid Steel Barbell"
@@ -597,10 +573,6 @@
             {
                 "key": "Warranty Description",
                 "value": "17 year structural frame / 180 days other parts and components"
-            },
-            {
-                "key": "Model Name",
-                "value": "40Lb Vinyl Dumbbell Set"
             },
             {
                 "key": "Suggested Users",
@@ -672,7 +644,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "40Lb Vinyl Dumbbell Set",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "40 Pounds"
     },
     {
         "asin": "B0CZ39TFTP",
@@ -1902,18 +1878,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Kettlebell 44 LB"
-            },
-            {
-                "key": "Item Weight",
-                "value": "43 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Plastic, Rubber, Acrylonitrile Butadiene Styrene (ABS)"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Adjustable"
             },
@@ -1964,10 +1928,6 @@
             {
                 "key": "Brand Name",
                 "value": "EDOSTORY"
-            },
-            {
-                "key": "Model Name",
-                "value": "OEM-Dumbell"
             },
             {
                 "key": "Part Number",
@@ -2163,7 +2123,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "OEM-Dumbell",
+        "color": "Kettlebell 44 LB",
+        "material": "Plastic, Rubber, Acrylonitrile Butadiene Styrene (ABS)",
+        "weight": "43 Pounds"
     },
     {
         "asin": "B09NF45RLC",
@@ -2189,24 +2153,8 @@
                 "value": "42.8 x 20 x 30.1 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "46 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Body-Solid"
-            },
-            {
-                "key": "Model Name",
-                "value": "Best Fitness 3 tier horizontal dumbbell rack"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Steel"
             },
             {
                 "key": "Suggested Users",
@@ -2250,7 +2198,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Best Fitness 3 tier horizontal dumbbell rack",
+        "color": "Black",
+        "material": "Steel",
+        "weight": "46 Pounds"
     },
     {
         "asin": "B071WSFSGC",
@@ -2887,18 +2839,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Multi-Color"
-            },
-            {
-                "key": "Item Weight",
-                "value": "32.1 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Neoprene, Iron"
-            },
-            {
                 "key": "Special Feature",
                 "value": "['Encased', 'Hexagon Shaped']"
             },
@@ -2957,10 +2897,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1"
-            },
-            {
-                "key": "Model Name",
-                "value": "BF-D358"
             },
             {
                 "key": "Suggested Users",
@@ -3052,7 +2988,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "BF-D358",
+        "color": "Multi-Color",
+        "material": "Neoprene, Iron",
+        "weight": "32.1 Pounds"
     },
     {
         "asin": "B0CHJNGGN2",
@@ -3557,16 +3497,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Aluminum"
-            },
-            {
                 "key": "Style",
                 "value": "150-Pound Set, Red"
-            },
-            {
-                "key": "Item Weight",
-                "value": "40.5 Pounds"
             },
             {
                 "key": "Number of Racks",
@@ -3607,14 +3539,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 day manufacturer warranty from date of original sale in original packaging to an authorized dealer"
-            },
-            {
-                "key": "Model Name",
-                "value": "154 LB Dumbbell Weight Set Series"
-            },
-            {
-                "key": "Color",
-                "value": "Red"
             },
             {
                 "key": "Suggested Users",
@@ -3770,7 +3694,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "154 LB Dumbbell Weight Set Series",
+        "color": "Red",
+        "material": "Aluminum",
+        "weight": "40.5 Pounds"
     },
     {
         "asin": "B0BPM2NHQ6",
@@ -5059,18 +4987,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "32 LB Set - 8, 5, & 3 LB Pairs"
-            },
-            {
-                "key": "Item Weight",
-                "value": "33 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Neoprene"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Compact"
             },
@@ -5127,10 +5043,6 @@
                 "value": "30 Day Amazon Guarantee"
             },
             {
-                "key": "Model Name",
-                "value": "Dumbbells"
-            },
-            {
                 "key": "Suggested Users",
                 "value": "unisex-adult"
             },
@@ -5184,7 +5096,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Dumbbells",
+        "color": "32 LB Set - 8, 5, & 3 LB Pairs",
+        "material": "Neoprene",
+        "weight": "33 Pounds"
     },
     {
         "asin": "B08QTGV9BW",
@@ -5487,18 +5403,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "1 LB PAIR"
-            },
-            {
-                "key": "Item Weight",
-                "value": "16 ounces"
-            },
-            {
-                "key": "Material",
-                "value": "Neoprene"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Compact"
             },
@@ -5553,10 +5457,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day Amazon Return"
-            },
-            {
-                "key": "Model Name",
-                "value": "JFIT Neoprene Dumbbell"
             },
             {
                 "key": "Suggested Users",
@@ -5620,7 +5520,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "JFIT Neoprene Dumbbell",
+        "color": "1 LB PAIR",
+        "material": "Neoprene",
+        "weight": "16 ounces"
     },
     {
         "asin": "B0DN6F4YNM",
@@ -5891,20 +5795,12 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "8.3\"D x 27\"W x 20.5\"H"
             },
             {
                 "key": "Style",
                 "value": "Compact"
-            },
-            {
-                "key": "Item Weight",
-                "value": "12 Pounds"
             },
             {
                 "key": "Number of Racks",
@@ -5949,14 +5845,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 day manufacturer warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "RK-16HB"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -6004,7 +5892,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RK-16HB",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "12 Pounds"
     },
     {
         "asin": "B01J8S38LW",
@@ -6020,18 +5912,6 @@
             "Compact design allows you to store and use dumbbells anywhere while still getting the true dumbbell feel"
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "50 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Composite, Aluminum"
-            },
             {
                 "key": "Special Feature",
                 "value": "Adjustable,Compact"
@@ -6091,10 +5971,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 Year Parts Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "Core Home Fitness Adjustable Dumbbell Set"
             },
             {
                 "key": "Suggested Users",
@@ -6162,7 +6038,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Core Home Fitness Adjustable Dumbbell Set",
+        "color": "Black",
+        "material": "Composite, Aluminum",
+        "weight": "50 Pounds"
     },
     {
         "asin": "B0DJNHQ1RJ",
@@ -6697,20 +6577,12 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Metal"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "26.4\"D x 26.9\"W x 25\"H"
             },
             {
                 "key": "Style",
                 "value": "Media Rack"
-            },
-            {
-                "key": "Item Weight",
-                "value": "31 Pounds"
             },
             {
                 "key": "Number of Racks",
@@ -6755,14 +6627,6 @@
             {
                 "key": "Warranty Description",
                 "value": "10 years frame"
-            },
-            {
-                "key": "Model Name",
-                "value": "Bowflex SelectTech Dumbbell Stand (MY17)"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -6846,7 +6710,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Bowflex SelectTech Dumbbell Stand (MY17)",
+        "color": "Black",
+        "material": "Metal",
+        "weight": "31 Pounds"
     },
     {
         "asin": "B0DN7SD3JM",
@@ -7318,18 +7186,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "7 LB PAIR"
-            },
-            {
-                "key": "Item Weight",
-                "value": "7 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Neoprene"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Compact"
             },
@@ -7380,10 +7236,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day Amazon Return"
-            },
-            {
-                "key": "Model Name",
-                "value": "Dumbbells"
             },
             {
                 "key": "Suggested Users",
@@ -7451,7 +7303,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Dumbbells",
+        "color": "7 LB PAIR",
+        "material": "Neoprene",
+        "weight": "7 Pounds"
     },
     {
         "asin": "B079PNQPFD",
@@ -7468,16 +7324,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Neoprene"
-            },
-            {
                 "key": "Style",
                 "value": "Dumbbell Rack Set"
-            },
-            {
-                "key": "Item Weight",
-                "value": "48.4 Pounds"
             },
             {
                 "key": "Number of Racks",
@@ -7514,14 +7362,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day Amazon Guarantee"
-            },
-            {
-                "key": "Model Name",
-                "value": "Dumbbells"
-            },
-            {
-                "key": "Color",
-                "value": "46 LB Set - 10, 8, & 5 LB Pairs"
             },
             {
                 "key": "Suggested Users",
@@ -7593,7 +7433,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Dumbbells",
+        "color": "46 LB Set - 10, 8, & 5 LB Pairs",
+        "material": "Neoprene",
+        "weight": "48.4 Pounds"
     },
     {
         "asin": "B0DLD4DBSD",
@@ -7850,18 +7694,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "20-Pound (Black)"
-            },
-            {
-                "key": "Item Weight",
-                "value": "20 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Neoprene"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Non-Slip"
             },
@@ -7908,10 +7740,6 @@
             {
                 "key": "Warranty Description",
                 "value": "Manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "New Balance Neoprene Hand Weight Dumbbell, Black, 20lb"
             },
             {
                 "key": "Suggested Users",
@@ -8191,7 +8019,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "New Balance Neoprene Hand Weight Dumbbell, Black, 20lb",
+        "color": "20-Pound (Black)",
+        "material": "Neoprene",
+        "weight": "20 Pounds"
     },
     {
         "asin": "B000ASG0VU",
@@ -8209,20 +8041,12 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "24.75\"D x 37\"W x 33\"H"
             },
             {
                 "key": "Style",
                 "value": "Compact"
-            },
-            {
-                "key": "Item Weight",
-                "value": "43 Pounds"
             },
             {
                 "key": "Number of Racks",
@@ -8259,14 +8083,6 @@
             {
                 "key": "Brand Name",
                 "value": "MARCY"
-            },
-            {
-                "key": "Model Name",
-                "value": "DBR-86"
-            },
-            {
-                "key": "Color",
-                "value": "Black 3-Tier DB Rack"
             },
             {
                 "key": "Number of Items",
@@ -8406,7 +8222,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "DBR-86",
+        "color": "Black 3-Tier DB Rack",
+        "material": "Alloy Steel",
+        "weight": "43 Pounds"
     },
     {
         "asin": "B0BW5FNNSQ",
@@ -8648,18 +8468,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "18 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Vinyl"
-            },
-            {
                 "key": "Special Feature",
                 "value": "ummanteilt"
             },
@@ -8710,10 +8518,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2-Year Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "BF-VNL40"
             },
             {
                 "key": "Suggested Users",
@@ -8777,7 +8581,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "BF-VNL40",
+        "color": "Black",
+        "material": "Vinyl",
+        "weight": "18 Kilograms"
     },
     {
         "asin": "B0C71JBLDN",
@@ -9115,18 +8923,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "H. 200LB or 100LB Dumbbell Pair"
-            },
-            {
-                "key": "Item Weight",
-                "value": "100 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Stainless Steel, Cast Iron"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Unbreakable, Non-Slip, Adjustable Weight, Rust Resistant"
             },
@@ -9177,10 +8973,6 @@
             {
                 "key": "Brand Name",
                 "value": "Yes4All"
-            },
-            {
-                "key": "Model Name",
-                "value": "Weights"
             },
             {
                 "key": "Suggested Users",
@@ -9240,7 +9032,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Weights",
+        "color": "H. 200LB or 100LB Dumbbell Pair",
+        "material": "Stainless Steel, Cast Iron",
+        "weight": "100 Pounds"
     },
     {
         "asin": "B088BG9799",
@@ -9256,18 +9052,6 @@
             "Dumbbells come in singles at your choice"
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "11 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Cast Iron"
-            },
             {
                 "key": "Special Feature",
                 "value": "Encased"
@@ -9315,10 +9099,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2-Year Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "HEX"
             },
             {
                 "key": "Suggested Users",
@@ -9550,7 +9330,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "HEX",
+        "color": "Black",
+        "material": "Cast Iron",
+        "weight": "11 Kilograms"
     },
     {
         "asin": "B0D78H5TYV",
@@ -9566,18 +9350,6 @@
             "VERSATILE USE - Use this dumbbell set for a full body workout, including arms, chest, back, core, and legs! You can also use them as an alternative to barbells or kettle bells when performing squats or lunges for added intensity"
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "L. 170LB or 85LB Dumbbell Pair"
-            },
-            {
-                "key": "Item Weight",
-                "value": "85 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Cast Iron"
-            },
             {
                 "key": "Special Feature",
                 "value": "Unbreakable, Non-Slip, Adjustable Weight, Rust Resistant"
@@ -9633,10 +9405,6 @@
             {
                 "key": "Brand Name",
                 "value": "Yes4All"
-            },
-            {
-                "key": "Model Name",
-                "value": "Weights"
             },
             {
                 "key": "Suggested Users",
@@ -9696,7 +9464,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Weights",
+        "color": "L. 170LB or 85LB Dumbbell Pair",
+        "material": "Cast Iron",
+        "weight": "85 Pounds"
     },
     {
         "asin": "B08M3HCHGG",
@@ -10138,20 +9910,12 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "14\"D x 16\"W x 25\"H"
             },
             {
                 "key": "Style",
                 "value": "Small Compact Weight Stand"
-            },
-            {
-                "key": "Item Weight",
-                "value": "14 Pounds"
             },
             {
                 "key": "Number of Racks",
@@ -10192,14 +9956,6 @@
             {
                 "key": "Brand Name",
                 "value": "POWERBLOCK"
-            },
-            {
-                "key": "Model Name",
-                "value": "600-00139-00"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Part Number",
@@ -10259,7 +10015,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "600-00139-00",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "14 Pounds"
     },
     {
         "asin": "B0CHS134TG",
@@ -11054,16 +10814,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "The CAP Barbell 100 LB Coated Hex Dumbbell Weight Set is made of several materials. dumbbells are ASTM A48 Class 20 grey iron and joined together by a 1018 cold rolled solid steel handle with an extreme durable rubber coating. A-frame dumbbell rack finished black powder coat. Therefore, the 'material' attribute for this product 'grey iron, steel, rubber'."
-            },
-            {
                 "key": "Style",
                 "value": "Compact"
-            },
-            {
-                "key": "Item Weight",
-                "value": "51.8 Pounds"
             },
             {
                 "key": "Number of Racks",
@@ -11096,14 +10848,6 @@
             {
                 "key": "Brand Name",
                 "value": "Cap Barbell"
-            },
-            {
-                "key": "Model Name",
-                "value": "CAP Barbell 50lb Coated Hex Dumbbell Set"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -11167,7 +10911,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "CAP Barbell 50lb Coated Hex Dumbbell Set",
+        "color": "Black",
+        "material": "The CAP Barbell 100 LB Coated Hex Dumbbell Weight Set is made of several materials. dumbbells are ASTM A48 Class 20 grey iron and joined together by a 1018 cold rolled solid steel handle with an extreme durable rubber coating. A-frame dumbbell rack finished black powder coat. Therefore, the 'material' attribute for this product 'grey iron, steel, rubber'.",
+        "weight": "51.8 Pounds"
     },
     {
         "asin": "B01A9981M0",
@@ -11184,20 +10932,12 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "powder-coat painted steel"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "17\"D x 18\"W x 26\"H"
             },
             {
                 "key": "Style",
                 "value": "Large Compact Weight Stand"
-            },
-            {
-                "key": "Item Weight",
-                "value": "15 Pounds"
             },
             {
                 "key": "Number of Racks",
@@ -11242,14 +10982,6 @@
             {
                 "key": "Warranty Description",
                 "value": "5 year limited warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "PowerBlock Large Compact Stand"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -11305,7 +11037,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "PowerBlock Large Compact Stand",
+        "color": "Black",
+        "material": "powder-coat painted steel",
+        "weight": "15 Pounds"
     },
     {
         "asin": "B0CQY6S4TD",
@@ -11321,18 +11057,6 @@
             "VERSATILE USE - Use this dumbbell set for a full body workout, including arms, chest, back, core, and legs! You can also use them as an alternative to barbells or kettle bells when performing squats or lunges for added intensity"
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "I. 105LB or 52.5LBS Dumbbell Pair"
-            },
-            {
-                "key": "Item Weight",
-                "value": "105 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Stainless Steel, Cast Iron"
-            },
             {
                 "key": "Special Feature",
                 "value": "Unbreakable, Non-Slip, Adjustable Weight, Rust Resistant"
@@ -11384,10 +11108,6 @@
             {
                 "key": "Brand Name",
                 "value": "Yes4All"
-            },
-            {
-                "key": "Model Name",
-                "value": "Weights"
             },
             {
                 "key": "Suggested Users",
@@ -11447,7 +11167,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Weights",
+        "color": "I. 105LB or 52.5LBS Dumbbell Pair",
+        "material": "Stainless Steel, Cast Iron",
+        "weight": "105 Pounds"
     },
     {
         "asin": "B002OOYIOY",
@@ -11464,20 +11188,12 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "12.8\"D x 14.37\"W x 25.98\"H"
             },
             {
                 "key": "Style",
                 "value": "A-Frame Dumbbell Rack Color Series"
-            },
-            {
-                "key": "Item Weight",
-                "value": "11 Pounds"
             },
             {
                 "key": "Number of Racks",
@@ -11522,14 +11238,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 days"
-            },
-            {
-                "key": "Model Name",
-                "value": "RK-12BIS"
-            },
-            {
-                "key": "Color",
-                "value": "Carbon"
             },
             {
                 "key": "Suggested Users",
@@ -11841,7 +11549,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RK-12BIS",
+        "color": "Carbon",
+        "material": "Alloy Steel",
+        "weight": "11 Pounds"
     },
     {
         "asin": "B09HBP8L9Q",
@@ -11857,18 +11569,6 @@
             "A+ Service: Free replacement or parts guarantee for any quality problem within 1 year, satisfaction guaranteed."
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "25lbs Black-Pair-Prime"
-            },
-            {
-                "key": "Item Weight",
-                "value": "25 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Metal"
-            },
             {
                 "key": "Special Feature",
                 "value": "Adjustable"
@@ -11916,10 +11616,6 @@
             {
                 "key": "Brand Name",
                 "value": "AOTOB"
-            },
-            {
-                "key": "Model Name",
-                "value": "25 lbs Pair"
             },
             {
                 "key": "Part Number",
@@ -12143,7 +11839,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "25 lbs Pair",
+        "color": "25lbs Black-Pair-Prime",
+        "material": "Metal",
+        "weight": "25 Pounds"
     },
     {
         "asin": "B0D5XQDCGJ",
@@ -12780,18 +12480,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "19.84 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Encased, Non Slip"
             },
@@ -12838,10 +12526,6 @@
             {
                 "key": "Brand Name",
                 "value": "Fitvids"
-            },
-            {
-                "key": "Model Name",
-                "value": "SFDB-BLK5to20"
             },
             {
                 "key": "Suggested Users",
@@ -12961,7 +12645,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SFDB-BLK5to20",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "19.84 Pounds"
     },
     {
         "asin": "B08XS3WYSC",
@@ -12977,18 +12665,6 @@
             "VERSATILE AND MULTIPURPOSE: Our freestyle weights, sold in pairs, aid in exercises that burn calories and help you tone and maintain strength, ideal for fitness, weight loss, and orthopedic therapy, they also help improve stamina, and muscle mass"
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "5 LB PAIR"
-            },
-            {
-                "key": "Item Weight",
-                "value": "5 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Neoprene"
-            },
             {
                 "key": "Special Feature",
                 "value": "Compact"
@@ -13040,10 +12716,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day Amazon Return"
-            },
-            {
-                "key": "Model Name",
-                "value": "JFIT Neoprene Dumbbell"
             },
             {
                 "key": "Suggested Users",
@@ -13107,7 +12779,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "JFIT Neoprene Dumbbell",
+        "color": "5 LB PAIR",
+        "material": "Neoprene",
+        "weight": "5 Pounds"
     },
     {
         "asin": "B0DJQJLZBP",
@@ -14212,18 +13888,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Light Pink"
-            },
-            {
-                "key": "Item Weight",
-                "value": "5 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum, Cast Iron, Acrylonitrile Butadiene Styrene (ABS)"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Non-Slip, Encased, Rust Resistant"
             },
@@ -14262,10 +13926,6 @@
             {
                 "key": "Brand Name",
                 "value": "Portzon"
-            },
-            {
-                "key": "Model Name",
-                "value": "Weights Anti-roll Dumbbells Set"
             },
             {
                 "key": "Part Number",
@@ -14485,7 +14145,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Weights Anti-roll Dumbbells Set",
+        "color": "Light Pink",
+        "material": "Aluminum, Cast Iron, Acrylonitrile Butadiene Styrene (ABS)",
+        "weight": "5 Pounds"
     },
     {
         "asin": "B08XSQTQ77",
@@ -14501,18 +14165,6 @@
             "BUILD YOUR INTENSITY: Sold in singles, our durable rubber hex dumbbells feature easy-to-read numbers, providing a comfy grip and protection against calluses as you push through your workout"
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Black with Silver"
-            },
-            {
-                "key": "Item Weight",
-                "value": "15 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Rubber"
-            },
             {
                 "key": "Special Feature",
                 "value": "Compact"
@@ -14568,10 +14220,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day Amazon Return"
-            },
-            {
-                "key": "Model Name",
-                "value": "JFIT Rubber Hex Dumbbell,Single - Hex Shaped Heads to Prevent Rolling and Injury - Ergonomic Hand Weights for Exercise, Therapy, Building Muscle, Strength and Weight Training"
             },
             {
                 "key": "Suggested Users",
@@ -14919,6 +14567,10 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "JFIT Rubber Hex Dumbbell,Single - Hex Shaped Heads to Prevent Rolling and Injury - Ergonomic Hand Weights for Exercise, Therapy, Building Muscle, Strength and Weight Training",
+        "color": "Black with Silver",
+        "material": "Rubber",
+        "weight": "15 Pounds"
     }
 ]

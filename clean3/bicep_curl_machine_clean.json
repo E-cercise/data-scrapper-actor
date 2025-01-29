@@ -1118,18 +1118,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "104 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "CB-5 Standing Preacher Curl Station"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "45\"D x 31\"W x 45.75\"H"
             },
@@ -1168,10 +1156,6 @@
             {
                 "key": "Brand Name",
                 "value": "Valor Fitness"
-            },
-            {
-                "key": "Model Name",
-                "value": "CB-5 Standing Preacher Curl"
             },
             {
                 "key": "Part Number",
@@ -1339,7 +1323,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "CB-5 Standing Preacher Curl",
+        "color": "CB-5 Standing Preacher Curl Station",
+        "material": "Alloy Steel",
+        "weight": "104 Pounds"
     },
     {
         "asin": "B0DH2MZFQ3",
@@ -1818,14 +1806,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "4.19 Pounds"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Ergonomic"
             },
@@ -1872,14 +1852,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 Year Limited Manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "BBEB-7355"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -1951,7 +1923,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "BBEB-7355",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "4.19 Pounds"
     },
     {
         "asin": "B08F2LYZMJ",
@@ -2393,14 +2369,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Leather"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.75 Kilograms"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Ergonomic"
             },
@@ -2435,14 +2403,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "Fitlaya Fitness Arm-1"
-            },
-            {
-                "key": "Color",
-                "value": "black"
             },
             {
                 "key": "Suggested Users",
@@ -2506,7 +2466,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Fitlaya Fitness Arm-1",
+        "color": "black",
+        "material": "Leather",
+        "weight": "1.75 Kilograms"
     },
     {
         "asin": "B07RKW5H68",
@@ -2522,18 +2486,6 @@
             "\u3010Top Gift Choice for Fitness Enthusiasts\u3011This workout roller goes beyond working your abs and burning your fat. As a versatile roller wheel, it is of no contest when it comes to selecting an ideal gift for your family and friends; not to mention the satisfaction guaranteed after-sales services. Wish you a joyful shopping experience!"
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Stainless Steel, Plastic, Rubber"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.41 Pounds"
-            },
             {
                 "key": "Style",
                 "value": "workout equipment"
@@ -2569,10 +2521,6 @@
             {
                 "key": "Warranty Description",
                 "value": "YES"
-            },
-            {
-                "key": "Model Name",
-                "value": "ab roller"
             },
             {
                 "key": "Suggested Users",
@@ -2672,7 +2620,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "ab roller",
+        "color": "Black",
+        "material": "Stainless Steel, Plastic, Rubber",
+        "weight": "1.41 Pounds"
     },
     {
         "asin": "B0BW5FNNSQ",
@@ -3022,28 +2974,12 @@
                 "value": "23.6 x 3.62 x 3.54 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "1.5 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Yes4All"
             },
             {
                 "key": "Warranty Description",
                 "value": "30 DAYS RETURN & 1 YEAR WARRANTY"
-            },
-            {
-                "key": "Model Name",
-                "value": "HHSF"
-            },
-            {
-                "key": "Color",
-                "value": "A. Arm Blaster"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum, Ethylene Vinyl Acetate, Fabric"
             },
             {
                 "key": "Suggested Users",
@@ -3111,7 +3047,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "HHSF",
+        "color": "A. Arm Blaster",
+        "material": "Aluminum, Ethylene Vinyl Acetate, Fabric",
+        "weight": "1.5 Pounds"
     },
     {
         "asin": "B01BXMX104",
@@ -3499,28 +3439,12 @@
                 "value": "31.9 x 6.1 x 2.4 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "5.3 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Body-Solid"
             },
             {
                 "key": "Warranty Description",
                 "value": "Body-Solid Tools 2-Year In-Home Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "Fat Grip Cable Bar"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Steel"
             },
             {
                 "key": "Suggested Users",
@@ -3576,7 +3500,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Fat Grip Cable Bar",
+        "color": "Black",
+        "material": "Steel",
+        "weight": "5.3 Pounds"
     },
     {
         "asin": "B00FJ2PL26",
@@ -3950,10 +3878,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "BLACK"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Pounds"
             },
@@ -3962,20 +3886,12 @@
                 "value": "Rack Mount"
             },
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Multiple Grip Position"
             },
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.6 Pounds"
             },
             {
                 "key": "Item Package Dimensions L x W x H",
@@ -3992,10 +3908,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 year"
-            },
-            {
-                "key": "Model Name",
-                "value": "ZML102 BAR"
             },
             {
                 "key": "Suggested Users",
@@ -4055,7 +3967,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "ZML102 BAR",
+        "color": "BLACK",
+        "material": "Alloy Steel",
+        "weight": "2.6 Pounds"
     },
     {
         "asin": "B07ZQX5DXX",
@@ -4084,28 +4000,12 @@
                 "value": "51 x 47 x 80 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "36 Kilograms"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Body-Solid"
             },
             {
                 "key": "Warranty Description",
                 "value": "Lifetime Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "GLA400"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Composite"
             },
             {
                 "key": "Suggested Users",
@@ -4173,7 +4073,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "GLA400",
+        "color": "Black",
+        "material": "Composite",
+        "weight": "36 Kilograms"
     },
     {
         "asin": "B004XMP9IE",
@@ -4276,18 +4180,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "60 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
-            },
-            {
-                "key": "Color",
-                "value": "Red / Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "64\"D x 22\"W x 46\"H"
             },
@@ -4330,10 +4222,6 @@
             {
                 "key": "Country of Origin",
                 "value": "China"
-            },
-            {
-                "key": "Model Name",
-                "value": "Ab Bench"
             },
             {
                 "key": "Suggested Users",
@@ -4405,7 +4293,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Ab Bench",
+        "color": "Red / Black",
+        "material": "Aluminum",
+        "weight": "60 Pounds"
     },
     {
         "asin": "B0D3DL33QM",
@@ -4426,10 +4318,6 @@
                 "value": "Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Manual Weight Plate"
             },
@@ -4446,24 +4334,12 @@
                 "value": "Stroke Count"
             },
             {
-                "key": "Model Name",
-                "value": "SR03"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "168 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "High"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -4543,7 +4419,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SR03",
+        "color": "black",
+        "material": "Alloy Steel",
+        "weight": "168 Pounds"
     },
     {
         "asin": "B094GXVT4C",
@@ -5167,14 +5047,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Aluminum"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.9 Kilograms"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Knurled"
             },
@@ -5221,14 +5093,6 @@
             {
                 "key": "Warranty Description",
                 "value": "31 Day Return"
-            },
-            {
-                "key": "Model Name",
-                "value": "MB229A"
-            },
-            {
-                "key": "Color",
-                "value": "Silver"
             },
             {
                 "key": "Suggested Users",
@@ -5292,7 +5156,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "MB229A",
+        "color": "Silver",
+        "material": "Aluminum",
+        "weight": "0.9 Kilograms"
     },
     {
         "asin": "B07C94TDDP",
@@ -5533,14 +5401,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Plastic"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.65 Kilograms"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Knurled"
             },
@@ -5571,14 +5431,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year"
-            },
-            {
-                "key": "Model Name",
-                "value": "m1"
-            },
-            {
-                "key": "Color",
-                "value": "black"
             },
             {
                 "key": "Suggested Users",
@@ -5638,7 +5490,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "m1",
+        "color": "black",
+        "material": "Plastic",
+        "weight": "1.65 Kilograms"
     },
     {
         "asin": "B0013ZAHDQ",
@@ -5654,14 +5510,6 @@
             "Premium Material: Our lat pull down bar provides additional strength and durability to your workout routine. Constructed with solid steel, our lat bar is far more heavy-duty than plastic or wooden lat bars. It is designed to have a strong grip, allowing for maximum muscle activation during your lat pull down routine."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "8 Pounds"
-            },
             {
                 "key": "Grip Type",
                 "value": "Knurled"
@@ -5709,14 +5557,6 @@
             {
                 "key": "Warranty Description",
                 "value": "Lifetime"
-            },
-            {
-                "key": "Model Name",
-                "value": "MB229"
-            },
-            {
-                "key": "Color",
-                "value": "Silver"
             },
             {
                 "key": "Suggested Users",
@@ -5784,7 +5624,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "MB229",
+        "color": "Silver",
+        "material": "Alloy Steel",
+        "weight": "8 Pounds"
     },
     {
         "asin": "B0DPPXDQN1",
@@ -5800,18 +5644,6 @@
             "Tricep Machine Information: Overall dimensions: 35.4\" L x 25.2\" W x 33.5\"-40.2\" H. Supports up to 265 lbs. Easy to assemble."
         ],
         "attributes": [
-            {
-                "key": "Item Weight",
-                "value": "29 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Polyurethane"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
             {
                 "key": "Product Dimensions",
                 "value": "25.2\"D x 35.4\"W x 40.2\"H"
@@ -5847,10 +5679,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year Warranty Against Manufacturer Defects"
-            },
-            {
-                "key": "Model Name",
-                "value": "Preacher Curl Bench"
             },
             {
                 "key": "Suggested Users",
@@ -6026,6 +5854,10 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Preacher Curl Bench",
+        "color": "Black",
+        "material": "Alloy Steel, Polyurethane",
+        "weight": "29 Pounds"
     }
 ]

@@ -16,24 +16,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Performance"
             },
             {
                 "key": "Product Dimensions",
                 "value": "68\"D x 33\"W x 62\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "250 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -110,10 +98,6 @@
             {
                 "key": "UPC",
                 "value": "810075991604"
-            },
-            {
-                "key": "Model Name",
-                "value": "Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -193,7 +177,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Treadmill",
+        "color": "Black",
+        "material": "Carbon Steel",
+        "weight": "250 Pounds"
     },
     {
         "asin": "B018RD3R6U",
@@ -214,10 +202,6 @@
                 "value": "Solid Hardwood, NO Veneer"
             },
             {
-                "key": "Color",
-                "value": "Hi-Rise"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Water"
             },
@@ -234,24 +218,12 @@
                 "value": "Distance"
             },
             {
-                "key": "Model Name",
-                "value": "Natural"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Ash Wood, Oak Wood"
             },
             {
-                "key": "Item Weight",
-                "value": "70 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "Low"
-            },
-            {
-                "key": "Material",
-                "value": "Ash Wood"
             },
             {
                 "key": "Power Source",
@@ -371,7 +343,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Natural",
+        "color": "Hi-Rise",
+        "material": "Ash Wood",
+        "weight": "70 Pounds"
     },
     {
         "asin": "B09LPQ51ZD",
@@ -392,10 +368,6 @@
                 "value": "Adjustable"
             },
             {
-                "key": "Color",
-                "value": "black, blue"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Water"
             },
@@ -412,24 +384,12 @@
                 "value": "Distance"
             },
             {
-                "key": "Model Name",
-                "value": "Wave Water Rower 1435"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Carbon Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "58 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "Increases with water level and rowing speed"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
             },
             {
                 "key": "Power Source",
@@ -597,7 +557,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Wave Water Rower 1435",
+        "color": "black, blue",
+        "material": "Carbon Steel",
+        "weight": "58 Pounds"
     },
     {
         "asin": "B0844GP7QP",
@@ -618,10 +582,6 @@
                 "value": "Adjustable Foot Strap, Sliding Seat, Padded Seat, Smart Machine, Easy Assembly"
             },
             {
-                "key": "Color",
-                "value": "Black/ Silver"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -638,24 +598,12 @@
                 "value": "Distance, Time, Calories Burned, Stroke Count"
             },
             {
-                "key": "Model Name",
-                "value": "Hydrow Rower"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Aluminum"
             },
             {
-                "key": "Item Weight",
-                "value": "145 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "Adjustable"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Power Source",
@@ -759,7 +707,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Hydrow Rower",
+        "color": "Black/ Silver",
+        "material": "Aluminum",
+        "weight": "145 Pounds"
     },
     {
         "asin": "B0B9MTW1MH",
@@ -772,10 +724,6 @@
             {
                 "key": "Special Feature",
                 "value": "Adjustable Resistance"
-            },
-            {
-                "key": "Color",
-                "value": "Smart Electromagnetic"
             },
             {
                 "key": "Resistance Mechanism",
@@ -794,24 +742,12 @@
                 "value": "Strokes Per Minute, Time, Calories Burned"
             },
             {
-                "key": "Model Name",
-                "value": "MR-R02B9-US-DLZ01"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Aluminum"
             },
             {
-                "key": "Item Weight",
-                "value": "50 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "16"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum,Silicone"
             },
             {
                 "key": "Power Source",
@@ -1103,7 +1039,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "MR-R02B9-US-DLZ01",
+        "color": "Smart Electromagnetic",
+        "material": "Aluminum,Silicone",
+        "weight": "50 Pounds"
     },
     {
         "asin": "B0DGL9B1JV",
@@ -1125,10 +1065,6 @@
                 "value": "Lightweight, Digital Monitor, Foldable, Easy Assembly"
             },
             {
-                "key": "Color",
-                "value": "Black+Red"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Elastic rope"
             },
@@ -1145,24 +1081,12 @@
                 "value": "Calories Burned, Time, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "S8HF-RM01"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Metal"
             },
             {
-                "key": "Item Weight",
-                "value": "23 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "3 levels"
-            },
-            {
-                "key": "Material",
-                "value": "ABS, IRON"
             },
             {
                 "key": "Power Source",
@@ -1250,7 +1174,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "S8HF-RM01",
+        "color": "Black+Red",
+        "material": "ABS, IRON",
+        "weight": "23 Pounds"
     },
     {
         "asin": "B0BHLXDZ2N",
@@ -1271,10 +1199,6 @@
                 "value": "Built-In Speaker, Lightweight, Foldable, Compact, Smart Machine"
             },
             {
-                "key": "Color",
-                "value": "Pirate Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -1291,24 +1215,12 @@
                 "value": "electric"
             },
             {
-                "key": "Model Name",
-                "value": "Hydrow Wave Rower"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Aluminum"
             },
             {
-                "key": "Item Weight",
-                "value": "102 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "adjustable"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Power Source",
@@ -1592,7 +1504,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Hydrow Wave Rower",
+        "color": "Pirate Black",
+        "material": "Aluminum",
+        "weight": "102 Pounds"
     },
     {
         "asin": "B0D8KWQKNZ",
@@ -1614,10 +1530,6 @@
                 "value": "Portable, Foldable, Easy Assembly, Low Noise"
             },
             {
-                "key": "Color",
-                "value": "Black+Red"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -1634,24 +1546,12 @@
                 "value": "Speed, Calories Burned, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "e09R2NP6lRj9j790E6LkmgL24"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Metal"
             },
             {
-                "key": "Item Weight",
-                "value": "63.27 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "High"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -1747,7 +1647,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "e09R2NP6lRj9j790E6LkmgL24",
+        "color": "Black+Red",
+        "material": "Alloy Steel",
+        "weight": "63.27 Pounds"
     },
     {
         "asin": "B09N7RZGY3",
@@ -1763,20 +1667,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black Frame/Charcoal"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "70\"D x 33\"W x 64\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "280 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -1861,10 +1753,6 @@
             {
                 "key": "Global Trade Identification Number",
                 "value": "00894458001081"
-            },
-            {
-                "key": "Model Name",
-                "value": "AssaultRunner Pro"
             },
             {
                 "key": "Manufacturer",
@@ -1960,7 +1848,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AssaultRunner Pro",
+        "color": "Black Frame/Charcoal",
+        "material": "Alloy Steel",
+        "weight": "280 Pounds"
     },
     {
         "asin": "B09Y6B5JT9",
@@ -1982,10 +1874,6 @@
                 "value": "Adjustable Foot Strap, Digital Monitor, Adjustable Footboard, Compact, Easy Assembly"
             },
             {
-                "key": "Color",
-                "value": "Dark Rower Machine"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Water"
             },
@@ -1998,24 +1886,12 @@
                 "value": "400 Pounds"
             },
             {
-                "key": "Model Name",
-                "value": "TOPIOM Water rowing machine"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Wood"
             },
             {
-                "key": "Item Weight",
-                "value": "66 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "Adjustable"
-            },
-            {
-                "key": "Material",
-                "value": "wood"
             },
             {
                 "key": "Power Source",
@@ -2251,7 +2127,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "TOPIOM Water rowing machine",
+        "color": "Dark Rower Machine",
+        "material": "wood",
+        "weight": "66 Pounds"
     },
     {
         "asin": "B0D5WHHKFW",
@@ -2274,10 +2154,6 @@
                 "value": "Folding"
             },
             {
-                "key": "Color",
-                "value": "silver"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Hydraulic"
             },
@@ -2294,24 +2170,12 @@
                 "value": "Distance or Calories Burned"
             },
             {
-                "key": "Model Name",
-                "value": "rowing-1"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Stainless Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "28 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "12"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -2379,7 +2243,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "rowing-1",
+        "color": "silver",
+        "material": "Alloy Steel",
+        "weight": "28 Pounds"
     },
     {
         "asin": "B0CJ51N6W3",
@@ -2402,10 +2270,6 @@
                 "value": "Foldable"
             },
             {
-                "key": "Color",
-                "value": "Wood"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Water"
             },
@@ -2422,20 +2286,8 @@
                 "value": "Distance or Time or Calories Burned"
             },
             {
-                "key": "Model Name",
-                "value": "Water Rower"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Wood"
-            },
-            {
-                "key": "Item Weight",
-                "value": "36.25 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "wood"
             },
             {
                 "key": "Power Source",
@@ -2523,7 +2375,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Water Rower",
+        "color": "Wood",
+        "material": "wood",
+        "weight": "36.25 Kilograms"
     },
     {
         "asin": "B0CHRSSXNL",
@@ -2547,10 +2403,6 @@
                 "value": "LCD-Display"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Water"
             },
@@ -2567,24 +2419,12 @@
                 "value": "Distance"
             },
             {
-                "key": "Model Name",
-                "value": "PW30"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "25 Kilograms"
-            },
-            {
                 "key": "Tension Level",
                 "value": "adjustable"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -2664,7 +2504,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "PW30",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "25 Kilograms"
     },
     {
         "asin": "B09Q892G1S",
@@ -2685,10 +2529,6 @@
                 "value": "Adjustable Resistance"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Air"
             },
@@ -2705,20 +2545,8 @@
                 "value": "Distance"
             },
             {
-                "key": "Model Name",
-                "value": "Fitness Rowing Machine"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Aluminum"
-            },
-            {
-                "key": "Item Weight",
-                "value": "25.4 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum Frame"
             },
             {
                 "key": "Power Source",
@@ -2822,7 +2650,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Fitness Rowing Machine",
+        "color": "Black",
+        "material": "Aluminum Frame",
+        "weight": "25.4 Pounds"
     },
     {
         "asin": "B0DK37W2SL",
@@ -2846,10 +2678,6 @@
                 "value": "Digital Monitor, Foldable, Easy Assembly, Low Noise"
             },
             {
-                "key": "Color",
-                "value": "Black/Gray"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -2866,24 +2694,12 @@
                 "value": "Speed, Calories Burned, Time, Stroke Count, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "DR1000"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Carbon Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "56 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "medium"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
             },
             {
                 "key": "Power Source",
@@ -2971,7 +2787,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "DR1000",
+        "color": "Black/Gray",
+        "material": "Carbon Steel",
+        "weight": "56 Pounds"
     },
     {
         "asin": "B004NNVSUQ",
@@ -2992,10 +2812,6 @@
                 "value": "Distance;Stroke Rate"
             },
             {
-                "key": "Color",
-                "value": "Oak"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Water"
             },
@@ -3012,24 +2828,12 @@
                 "value": "Distance"
             },
             {
-                "key": "Model Name",
-                "value": "A1"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Oak Wood"
             },
             {
-                "key": "Item Weight",
-                "value": "98 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "Medium"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Power Source",
@@ -3125,7 +2929,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "A1",
+        "color": "Oak",
+        "material": "Aluminum",
+        "weight": "98 Pounds"
     },
     {
         "asin": "B01M8GSBON",
@@ -3151,10 +2959,6 @@
                 "value": "Adjustable Resistance"
             },
             {
-                "key": "Color",
-                "value": "Steel"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -3171,24 +2975,12 @@
                 "value": "time, count, calories, total count, and scan"
             },
             {
-                "key": "Model Name",
-                "value": "SF-RW5622"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "64.2 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "8"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -3376,7 +3168,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-RW5622",
+        "color": "Steel",
+        "material": "Alloy Steel",
+        "weight": "64.2 Pounds"
     },
     {
         "asin": "B01BDXQR40",
@@ -3397,10 +3193,6 @@
                 "value": "Adjustable"
             },
             {
-                "key": "Color",
-                "value": "Blue"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Hydraulic"
             },
@@ -3417,24 +3209,12 @@
                 "value": "Calories Burned"
             },
             {
-                "key": "Model Name",
-                "value": "1060"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Carbon Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "37 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "Adjustable"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Power Source",
@@ -3530,7 +3310,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "1060",
+        "color": "Blue",
+        "material": "Aluminum",
+        "weight": "37 Pounds"
     },
     {
         "asin": "B0D862YFYD",
@@ -3553,10 +3337,6 @@
                 "value": "Adjustable Resistance, Digital Monitor, Anti-Slip, Easy Assembly"
             },
             {
-                "key": "Color",
-                "value": "Water Rower"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Water"
             },
@@ -3573,24 +3353,12 @@
                 "value": "Speed, Calories Burned, Time, Stroke Count, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "ECHANFIT R49 PLUS"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "68 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "6 * 32"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -3670,7 +3438,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "ECHANFIT R49 PLUS",
+        "color": "Water Rower",
+        "material": "Alloy Steel",
+        "weight": "68 Pounds"
     },
     {
         "asin": "B0CJQ856TK",
@@ -3691,10 +3463,6 @@
                 "value": "Accessory pockets"
             },
             {
-                "key": "Color",
-                "value": "black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -3707,24 +3475,12 @@
                 "value": "350 Pounds"
             },
             {
-                "key": "Model Name",
-                "value": "Magnetic Rowing Machine"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Carbon Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "39 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "16"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -3840,7 +3596,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Magnetic Rowing Machine",
+        "color": "black",
+        "material": "Alloy Steel",
+        "weight": "39 Pounds"
     },
     {
         "asin": "B09FSJVZM7",
@@ -3860,28 +3620,12 @@
                 "value": "Adjustable"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "resistance-bike-trainers"
             },
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "150 Kilograms"
-            },
-            {
-                "key": "Model Name",
-                "value": "adidas R-21x Rower"
-            },
-            {
-                "key": "Item Weight",
-                "value": "51.7 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Plastic, Metal"
             },
             {
                 "key": "Power Source",
@@ -3981,7 +3725,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "adidas R-21x Rower",
+        "color": "Black",
+        "material": "Plastic, Metal",
+        "weight": "51.7 Kilograms"
     },
     {
         "asin": "B0D812RR63",
@@ -4005,10 +3753,6 @@
                 "value": "Low Noise, Easy Assembly"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -4021,19 +3765,7 @@
                 "value": "350 Pounds"
             },
             {
-                "key": "Model Name",
-                "value": "R10S"
-            },
-            {
                 "key": "Frame Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "48 Pounds"
-            },
-            {
-                "key": "Material",
                 "value": "Alloy Steel"
             },
             {
@@ -4278,7 +4010,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "R10S",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "48 Pounds"
     },
     {
         "asin": "B0B9NZCW6D",
@@ -4299,10 +4035,6 @@
                 "value": "Adjustable,Foldable"
             },
             {
-                "key": "Color",
-                "value": "Black/Red"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -4319,24 +4051,12 @@
                 "value": "Distance, Time, Calories Burned, or Strokes Count"
             },
             {
-                "key": "Model Name",
-                "value": "SP-MR-008-B"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Metal"
             },
             {
-                "key": "Item Weight",
-                "value": "59 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "8"
-            },
-            {
-                "key": "Material",
-                "value": "Metal"
             },
             {
                 "key": "Power Source",
@@ -4524,7 +4244,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SP-MR-008-B",
+        "color": "Black/Red",
+        "material": "Metal",
+        "weight": "59 Pounds"
     },
     {
         "asin": "B0BX4GZCG8",
@@ -4727,10 +4451,6 @@
                 "value": "Adjustable,Folding"
             },
             {
-                "key": "Color",
-                "value": "Dark Grey"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Hydraulic"
             },
@@ -4743,19 +4463,7 @@
                 "value": "250 Pounds"
             },
             {
-                "key": "Model Name",
-                "value": "Hydraulic Rowing Machine"
-            },
-            {
                 "key": "Frame Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "30 Pounds"
-            },
-            {
-                "key": "Material",
                 "value": "Alloy Steel"
             },
             {
@@ -4832,7 +4540,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Hydraulic Rowing Machine",
+        "color": "Dark Grey",
+        "material": "Alloy Steel",
+        "weight": "30 Pounds"
     },
     {
         "asin": "B0D7CL5QZC",
@@ -4854,10 +4566,6 @@
                 "value": "Foldable/Adjustable Resistance/ Built-in Wheels/Device Holder/Digital Monitor/Low Noise"
             },
             {
-                "key": "Color",
-                "value": "Oak"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Water"
             },
@@ -4874,24 +4582,12 @@
                 "value": "Heart Rate, Bluetooth, Time, Count, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "PW60"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Oak Wood"
             },
             {
-                "key": "Item Weight",
-                "value": "24 Kilograms"
-            },
-            {
                 "key": "Tension Level",
                 "value": "High"
-            },
-            {
-                "key": "Material",
-                "value": "Oak Wood"
             },
             {
                 "key": "Power Source",
@@ -4991,7 +4687,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "PW60",
+        "color": "Oak",
+        "material": "Oak Wood",
+        "weight": "24 Kilograms"
     },
     {
         "asin": "B0DNHLDLRP",
@@ -5017,10 +4717,6 @@
                 "value": "LCD-Display"
             },
             {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -5037,24 +4733,12 @@
                 "value": "Speed, Calories Burned, Time, Stroke Count, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "Gray"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Aluminum"
             },
             {
-                "key": "Item Weight",
-                "value": "19.5 Kilograms"
-            },
-            {
                 "key": "Tension Level",
                 "value": "High"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Power Source",
@@ -5198,7 +4882,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Gray",
+        "color": "Gray",
+        "material": "Aluminum",
+        "weight": "19.5 Kilograms"
     },
     {
         "asin": "B01GP535SM",
@@ -5220,10 +4908,6 @@
                 "value": "Adjustable Resistance"
             },
             {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Elastic Cord"
             },
@@ -5240,24 +4924,12 @@
                 "value": "Time, Count, Total Count, Calories Burned, Count per Minute, and Scan"
             },
             {
-                "key": "Model Name",
-                "value": "SF-RW5606"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "34.5 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "4"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -5373,7 +5045,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-RW5606",
+        "color": "Gray",
+        "material": "Alloy Steel",
+        "weight": "34.5 Pounds"
     },
     {
         "asin": "B0CXMSMHTW",
@@ -5394,10 +5070,6 @@
                 "value": "foldable"
             },
             {
-                "key": "Color",
-                "value": "Grey, Green"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -5414,24 +5086,12 @@
                 "value": "[MIXED]"
             },
             {
-                "key": "Model Name",
-                "value": "SRM1000"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "62 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "8"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -5503,7 +5163,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SRM1000",
+        "color": "Grey, Green",
+        "material": "Alloy Steel",
+        "weight": "62 Pounds"
     },
     {
         "asin": "B0DCZJBZMH",
@@ -5519,10 +5183,6 @@
             "SPACE SAVING DESIGN: The foldable rowing machine features a foldable design that provides the benefits of a full-body workout without taking up too much space. Moving and storing it is effortless, making it ideal for apartments and tight spaces."
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Red"
-            },
             {
                 "key": "Resistance Mechanism",
                 "value": "Elastic"
@@ -5540,24 +5200,12 @@
                 "value": "LCD Monitor"
             },
             {
-                "key": "Model Name",
-                "value": "Squat Machines"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "23.14 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "adjustable"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -5733,7 +5381,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Squat Machines",
+        "color": "Red",
+        "material": "Alloy Steel",
+        "weight": "23.14 Pounds"
     },
     {
         "asin": "B0DBHP7JG6",
@@ -5757,10 +5409,6 @@
                 "value": "Air and magnetic resistance/Max 350LBS/44 Days-Kinomap/10 Resistance Levels/Bluetooth LED Monitor/Adjustable Tablet Stand"
             },
             {
-                "key": "Color",
-                "value": "Black-BW5 Air Magnetic Rowing Machines for Home Commercial Rower Machine"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Air and Magnetic Dual Resistance"
             },
@@ -5777,24 +5425,12 @@
                 "value": "Speed, Calories Burned, Stroke Count, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "BW5 Air Magnetic Rowing Machines for Home Commercial Rower Machine"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Carbon Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "72 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "High"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
             },
             {
                 "key": "Power Source",
@@ -5886,7 +5522,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "BW5 Air Magnetic Rowing Machines for Home Commercial Rower Machine",
+        "color": "Black-BW5 Air Magnetic Rowing Machines for Home Commercial Rower Machine",
+        "material": "Carbon Steel",
+        "weight": "72 Pounds"
     },
     {
         "asin": "B0CN7Z3RN9",
@@ -5907,10 +5547,6 @@
                 "value": "Adjustable Foot Strap, Adjustable Resistance, Digital Monitor, Contoured Seat, Adjustable Footboard"
             },
             {
-                "key": "Color",
-                "value": "10 Levels - Black/Grey"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Air"
             },
@@ -5927,24 +5563,12 @@
                 "value": "Calories Burned, Time, Stroke Count, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "NS-7874RW"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "62 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "10"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -6104,7 +5728,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "NS-7874RW",
+        "color": "10 Levels - Black/Grey",
+        "material": "Alloy Steel",
+        "weight": "62 Pounds"
     },
     {
         "asin": "B089KTLNCL",
@@ -6129,10 +5757,6 @@
                 "value": "Bi-Directional - 2x Muscle Engagement, Muscle-Targeting, Multi-Grip Handles, Low Impact Elliptical Motion, Extra Large Seat Cushion"
             },
             {
-                "key": "Color",
-                "value": "Titanium/Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -6149,24 +5773,12 @@
                 "value": "Heart Rate, Calories Burned, Time, Stroke Count, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "Power10"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "81.65 Kilograms"
-            },
-            {
                 "key": "Tension Level",
                 "value": "1-7"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -6294,7 +5906,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Power10",
+        "color": "Titanium/Black",
+        "material": "Alloy Steel",
+        "weight": "81.65 Kilograms"
     },
     {
         "asin": "B00F74RX40",
@@ -6315,24 +5931,12 @@
                 "value": "Pivot points to provide a smooth and durable feel, Unlimited resistance for upper and lower body extremities based on air resistance, Twenty sealed ball bearings throughout the frame"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "110 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum, Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -6349,10 +5953,6 @@
             {
                 "key": "Handle Material",
                 "value": "[GU] Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "AS-Assault Airbike"
             },
             {
                 "key": "Maximum Height",
@@ -6460,7 +6060,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AS-Assault Airbike",
+        "color": "Black",
+        "material": "Aluminum, Alloy Steel",
+        "weight": "110 Pounds"
     },
     {
         "asin": "B0CFGDH6QT",
@@ -6480,10 +6084,6 @@
                 "value": "Built-In Handle and Transport Wheels, Stands Upright for Storage, Folding Console for Compact Storage, Dual Stage Chain and Belt Drive System, 3-Fan Infinite Resistance"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Air"
             },
@@ -6500,24 +6100,12 @@
                 "value": "Speed, Heart Rate, Calories Burned, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "AssaultRower Pro"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Aluminum"
             },
             {
-                "key": "Item Weight",
-                "value": "109 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "High"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum, Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -6617,7 +6205,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AssaultRower Pro",
+        "color": "Black",
+        "material": "Aluminum, Alloy Steel",
+        "weight": "109 Pounds"
     },
     {
         "asin": "B0BJ7Q2DJ7",
@@ -6643,10 +6235,6 @@
                 "value": "Adjustable Foot Strap, Built-In Accessory Tray, Adjustable Resistance, Digital Monitor, Smart Machine"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Dual Magnetic + Water Resistance System"
             },
@@ -6663,24 +6251,12 @@
                 "value": "Calories, Distance, HRC/Pulse (Optional), SPM, Strokes, Time, Time/500, Total Strokes, WATTS, Scan"
             },
             {
-                "key": "Model Name",
-                "value": "Hydro + Dual Resistance Smart Magnetic Water Rower"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "76.7 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "16 Level Resistance"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -6988,7 +6564,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Hydro + Dual Resistance Smart Magnetic Water Rower",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "76.7 Pounds"
     },
     {
         "asin": "B0D8KBT9D9",
@@ -7011,10 +6591,6 @@
                 "value": "Adjustable Resistance, Digital Monitor, Easy Assembly, Distance"
             },
             {
-                "key": "Color",
-                "value": "Blue"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -7031,24 +6607,12 @@
                 "value": "Speed, Calories Burned, Time, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "CRW4416"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "34.5 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "16"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -7188,7 +6752,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "CRW4416",
+        "color": "Blue",
+        "material": "Alloy Steel",
+        "weight": "34.5 Pounds"
     },
     {
         "asin": "B0876HRL5B",
@@ -7209,10 +6777,6 @@
                 "value": "Water Bottle Holder"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -7229,24 +6793,12 @@
                 "value": "Calories Burned, Time, Stroke Count, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "XTERRA Fitness ERG160 Rower"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Aluminum"
             },
             {
-                "key": "Item Weight",
-                "value": "52 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "8 levels adjustable"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum, Alloy Steel, Plastic"
             },
             {
                 "key": "Power Source",
@@ -7338,7 +6890,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "XTERRA Fitness ERG160 Rower",
+        "color": "Black",
+        "material": "Aluminum, Alloy Steel, Plastic",
+        "weight": "52 Pounds"
     },
     {
         "asin": "B017HSNIEW",
@@ -7364,10 +6920,6 @@
                 "value": "Adjustable Foot Strap, Digital Monitor, Contoured Seat, Anti-Slip, Compact"
             },
             {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -7384,24 +6936,12 @@
                 "value": "Time, Count, Calories, Scan"
             },
             {
-                "key": "Model Name",
-                "value": "SF-RW5515"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "60.9 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "8"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -7665,7 +7205,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-RW5515",
+        "color": "Grey",
+        "material": "Alloy Steel",
+        "weight": "60.9 Pounds"
     },
     {
         "asin": "B0CHRWKWKW",
@@ -7686,10 +7230,6 @@
                 "value": "Adjustable Resistance, Adjustable Monitor Holder, Silent, Built-In Wheel, Convenient storage, LCD-Display"
             },
             {
-                "key": "Color",
-                "value": "BLACK"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Air & Magnetic Commbine"
             },
@@ -7706,24 +7246,12 @@
                 "value": "LCD Monitor"
             },
             {
-                "key": "Model Name",
-                "value": "PR70"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "26 Kilograms"
-            },
-            {
                 "key": "Tension Level",
                 "value": "10"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -7811,7 +7339,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "PR70",
+        "color": "BLACK",
+        "material": "Alloy Steel",
+        "weight": "26 Kilograms"
     },
     {
         "asin": "B0C8342FMM",
@@ -7837,10 +7369,6 @@
                 "value": "Adjustable Foot Strap, Ergonomic, Compact"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Hydraulic"
             },
@@ -7857,24 +7385,12 @@
                 "value": "Calories, Count, Scan, Time"
             },
             {
-                "key": "Model Name",
-                "value": "SF-RW1205SMART"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "22.4 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "12 levels"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -8038,7 +7554,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-RW1205SMART",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "22.4 Pounds"
     },
     {
         "asin": "B0DGG1TWSG",
@@ -8059,10 +7579,6 @@
                 "value": "Adjustable Resistance"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Air"
             },
@@ -8075,24 +7591,12 @@
                 "value": "120 Kilograms"
             },
             {
-                "key": "Model Name",
-                "value": "Fitness Rowing Machine"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Aluminum"
             },
             {
-                "key": "Item Weight",
-                "value": "25.4 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "12"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum Frame"
             },
             {
                 "key": "Power Source",
@@ -8192,7 +7696,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Fitness Rowing Machine",
+        "color": "Black",
+        "material": "Aluminum Frame",
+        "weight": "25.4 Pounds"
     },
     {
         "asin": "B0CTNQ3GSG",
@@ -8215,10 +7723,6 @@
                 "value": "Adjustable Foot Strap, Adjustable Resistance, Low Noise, Easy Assembly"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Air and Magnetic"
             },
@@ -8231,20 +7735,8 @@
                 "value": "507 Pounds"
             },
             {
-                "key": "Model Name",
-                "value": "Aviron StrongGo Rower"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "105 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Aluminum"
             },
             {
                 "key": "Power Source",
@@ -8340,7 +7832,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Aviron StrongGo Rower",
+        "color": "Black",
+        "material": "Alloy Steel, Aluminum",
+        "weight": "105 Pounds"
     },
     {
         "asin": "B0009V9Z9W",
@@ -8361,10 +7857,6 @@
                 "value": "Heart rate monitor;Stroke Rate"
             },
             {
-                "key": "Color",
-                "value": "Silver"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Water"
             },
@@ -8381,24 +7873,12 @@
                 "value": "Heart Rate"
             },
             {
-                "key": "Model Name",
-                "value": "M1 HiRise"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Aluminum"
             },
             {
-                "key": "Item Weight",
-                "value": "200 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "High (relative to rowing machine standards, but an exact numeric value cannot be inferred from the provided information)"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Power Source",
@@ -8494,7 +7974,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "M1 HiRise",
+        "color": "Silver",
+        "material": "Aluminum",
+        "weight": "200 Pounds"
     },
     {
         "asin": "B0BCNQ6DMJ",
@@ -8766,10 +8250,6 @@
                 "value": "Built-In Speaker, Adjustable Resistance, Smart Machine, Easy Assembly, Low Noise"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Air and Magnetic"
             },
@@ -8786,24 +8266,12 @@
                 "value": "Heart Rate, Calories Burned, Time, Stroke Count, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "Strong Series Rower"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "114 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "100 lbs"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum, Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -8899,7 +8367,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Strong Series Rower",
+        "color": "Black",
+        "material": "Aluminum, Alloy Steel",
+        "weight": "114 Pounds"
     },
     {
         "asin": "B075MB7DM8",
@@ -8922,10 +8394,6 @@
                 "value": "adjustable"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Water"
             },
@@ -8942,24 +8410,12 @@
                 "value": "Total time, 500 M time, SPM, Total strokes, Calories, HR., Ambient Temperature"
             },
             {
-                "key": "Model Name",
-                "value": "SF-RW5713"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "37.01 Kilograms"
-            },
-            {
                 "key": "Tension Level",
                 "value": "Dynamic"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -9171,7 +8627,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-RW5713",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "37.01 Kilograms"
     },
     {
         "asin": "B08BQS7PKY",
@@ -9193,10 +8653,6 @@
                 "value": "Adjustable Resistance"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -9213,24 +8669,12 @@
                 "value": "Calories Burned"
             },
             {
-                "key": "Model Name",
-                "value": "Echelon Row S"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "123 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "32 Levels of Resistance"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -9398,7 +8842,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Echelon Row S",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "123 Pounds"
     },
     {
         "asin": "B07DKHS7H2",
@@ -9423,10 +8871,6 @@
                 "value": "Adjustable Resistance"
             },
             {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -9443,24 +8887,12 @@
                 "value": "Time, Count, Calories, Scan"
             },
             {
-                "key": "Model Name",
-                "value": "SF-RW5801"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "49.6 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "16"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel,Foam"
             },
             {
                 "key": "Power Source",
@@ -9676,7 +9108,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-RW5801",
+        "color": "Gray",
+        "material": "Alloy Steel,Foam",
+        "weight": "49.6 Pounds"
     },
     {
         "asin": "B0BCPDTCBW",
@@ -9702,10 +9138,6 @@
                 "value": "Air and Magnetic Reistance Combination"
             },
             {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic & Air Reistance"
             },
@@ -9722,24 +9154,12 @@
                 "value": "Heart Rate"
             },
             {
-                "key": "Model Name",
-                "value": "MR60"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel; Aluminum"
             },
             {
-                "key": "Item Weight",
-                "value": "43 Kilograms"
-            },
-            {
                 "key": "Tension Level",
                 "value": "1-10"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Power Source",
@@ -9879,7 +9299,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "MR60",
+        "color": "Gray",
+        "material": "Aluminum",
+        "weight": "43 Kilograms"
     },
     {
         "asin": "B0B8PCNQMK",
@@ -9900,10 +9324,6 @@
                 "value": "22-inch rotating HD screen"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -9920,24 +9340,12 @@
                 "value": "Stroke Count"
             },
             {
-                "key": "Model Name",
-                "value": "Echelon Row S"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "120 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "33 Resistance Levels"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -10029,7 +9437,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Echelon Row S",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "120 Pounds"
     },
     {
         "asin": "B0CK5T29BT",
@@ -10050,10 +9462,6 @@
                 "value": "Adjustable Resistance, Foldable"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -10066,20 +9474,8 @@
                 "value": "200 Kilograms"
             },
             {
-                "key": "Model Name",
-                "value": "Rowing Machine"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "13 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Carbon Steel"
             },
             {
                 "key": "Power Source",
@@ -10183,7 +9579,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Rowing Machine",
+        "color": "Black",
+        "material": "Alloy Steel, Carbon Steel",
+        "weight": "13 Kilograms"
     },
     {
         "asin": "B079K3B4QW",
@@ -10204,10 +9604,6 @@
                 "value": "Adjustable Foot Straps"
             },
             {
-                "key": "Color",
-                "value": "black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Air"
             },
@@ -10224,24 +9620,12 @@
                 "value": "Console reports on time, heart rate, calories, paddle width, stroke rate, distance cycle and watts"
             },
             {
-                "key": "Model Name",
-                "value": "R300"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Metal"
             },
             {
-                "key": "Item Weight",
-                "value": "37 Kilograms"
-            },
-            {
                 "key": "Tension Level",
                 "value": "User-controlled air resistance puts users in full control for a balanced and coordinated workout"
-            },
-            {
-                "key": "Material",
-                "value": "Other"
             },
             {
                 "key": "Power Source",
@@ -10341,7 +9725,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "R300",
+        "color": "black",
+        "material": "Other",
+        "weight": "37 Kilograms"
     },
     {
         "asin": "B09P1JF8H1",
@@ -10362,10 +9750,6 @@
                 "value": "Adjustable"
             },
             {
-                "key": "Color",
-                "value": "Black and Red"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -10378,20 +9762,8 @@
                 "value": "265 Pounds"
             },
             {
-                "key": "Model Name",
-                "value": "Rowing Machine"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "23 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Abs,Steel"
             },
             {
                 "key": "Power Source",
@@ -10471,7 +9843,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Rowing Machine",
+        "color": "Black and Red",
+        "material": "Abs,Steel",
+        "weight": "23 Pounds"
     },
     {
         "asin": "B097C61Z5P",
@@ -10494,10 +9870,6 @@
                 "value": "Adjustable Foot Strap"
             },
             {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Air"
             },
@@ -10514,24 +9886,12 @@
                 "value": "LCD Monitor"
             },
             {
-                "key": "Model Name",
-                "value": "RowErg"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Aluminum with Steel Components"
             },
             {
-                "key": "Item Weight",
-                "value": "26 Kilograms"
-            },
-            {
                 "key": "Tension Level",
                 "value": "adjustable"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Power Source",
@@ -10623,7 +9983,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RowErg",
+        "color": "Gray",
+        "material": "Aluminum",
+        "weight": "26 Kilograms"
     },
     {
         "asin": "B0D841HLMC",
@@ -10644,10 +10008,6 @@
                 "value": "Foldable"
             },
             {
-                "key": "Color",
-                "value": "Black+Red"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -10660,24 +10020,12 @@
                 "value": "350 Pounds"
             },
             {
-                "key": "Model Name",
-                "value": "e09R2NP6lRj9j790E6LkmgImbC922"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Steel Pipe"
             },
             {
-                "key": "Item Weight",
-                "value": "50.7 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "32"
-            },
-            {
-                "key": "Material",
-                "value": "Steel Pipe"
             },
             {
                 "key": "Power Source",
@@ -10773,7 +10121,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "e09R2NP6lRj9j790E6LkmgImbC922",
+        "color": "Black+Red",
+        "material": "Steel Pipe",
+        "weight": "50.7 Pounds"
     },
     {
         "asin": "B0CSYMQSV5",
@@ -10796,10 +10148,6 @@
                 "value": "Coaxial Driving System, Dual Slide Rail, Thickened Support Tube"
             },
             {
-                "key": "Color",
-                "value": "black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -10812,19 +10160,7 @@
                 "value": "350 Pounds"
             },
             {
-                "key": "Model Name",
-                "value": "snode rowing machine"
-            },
-            {
                 "key": "Frame Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "48 Pounds"
-            },
-            {
-                "key": "Material",
                 "value": "Alloy Steel"
             },
             {
@@ -11073,7 +10409,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "snode rowing machine",
+        "color": "black",
+        "material": "Alloy Steel",
+        "weight": "48 Pounds"
     },
     {
         "asin": "B0CK9MLCT5",
@@ -11097,10 +10437,6 @@
                 "value": "LCD-Display"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Water"
             },
@@ -11113,24 +10449,12 @@
                 "value": "350 Pounds"
             },
             {
-                "key": "Model Name",
-                "value": "Rowing Machine for Home"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "57 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "Adjustable based on water level"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -11214,7 +10538,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Rowing Machine for Home",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "57 Pounds"
     },
     {
         "asin": "B074B3B22G",
@@ -11239,10 +10567,6 @@
                 "value": "Adjustable Resistance"
             },
             {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Resistance Bands"
             },
@@ -11259,24 +10583,12 @@
                 "value": "Calories, Scan, Time, Count."
             },
             {
-                "key": "Model Name",
-                "value": "NO. 077S"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "24.5 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "3"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -11520,7 +10832,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "NO. 077S",
+        "color": "Grey",
+        "material": "Alloy Steel",
+        "weight": "24.5 Pounds"
     },
     {
         "asin": "B0CXHSHX6L",
@@ -11542,10 +10858,6 @@
                 "value": "LCD-Display"
             },
             {
-                "key": "Color",
-                "value": "black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -11562,24 +10874,12 @@
                 "value": "Calories Burned, Time, Time, Count, Calories, Scan"
             },
             {
-                "key": "Model Name",
-                "value": "5303D"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "23.59 Kilograms"
-            },
-            {
                 "key": "Tension Level",
                 "value": "16 Levels"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -11659,7 +10959,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "5303D",
+        "color": "black",
+        "material": "Alloy Steel",
+        "weight": "23.59 Kilograms"
     },
     {
         "asin": "B08SSFZN4P",
@@ -11685,10 +10989,6 @@
                 "value": "Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Silver"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Hydraulic"
             },
@@ -11705,24 +11005,12 @@
                 "value": "Time, Count, Calories, Scan"
             },
             {
-                "key": "Model Name",
-                "value": "Row-N-Ride PRO\u00ae Squat Assist Trainer, 300 LB. Capacity"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "37.8 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "12"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -11970,7 +11258,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Row-N-Ride PRO\u00ae Squat Assist Trainer, 300 LB. Capacity",
+        "color": "Silver",
+        "material": "Alloy Steel",
+        "weight": "37.8 Pounds"
     },
     {
         "asin": "B0CJM3NQK7",
@@ -11993,10 +11285,6 @@
                 "value": "Adjustable Foot Strap, Anti-Slip, Foldable, Built-In Wheel"
             },
             {
-                "key": "Color",
-                "value": "MR280PRO-Tablet Holder"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Water"
             },
@@ -12009,20 +11297,8 @@
                 "value": "150 Kilograms"
             },
             {
-                "key": "Model Name",
-                "value": "water rowing machine"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Oak Wood"
-            },
-            {
-                "key": "Item Weight",
-                "value": "24 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Oak"
             },
             {
                 "key": "Power Source",
@@ -12202,7 +11478,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "water rowing machine",
+        "color": "MR280PRO-Tablet Holder",
+        "material": "Oak",
+        "weight": "24 Kilograms"
     },
     {
         "asin": "B0DB1PPLQN",
@@ -12223,10 +11503,6 @@
                 "value": "Easy Assembly"
             },
             {
-                "key": "Color",
-                "value": "Black+Orange"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -12243,24 +11519,12 @@
                 "value": "Speed, Calories Burned, Time, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "LHiRwiAfyIVZp2zV7QJSRwegI5M"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "71.89 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "14"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -12360,7 +11624,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "LHiRwiAfyIVZp2zV7QJSRwegI5M",
+        "color": "Black+Orange",
+        "material": "Alloy Steel",
+        "weight": "71.89 Pounds"
     },
     {
         "asin": "B0CL9KNYWD",
@@ -12381,10 +11649,6 @@
                 "value": "Folding"
             },
             {
-                "key": "Color",
-                "value": "black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -12401,24 +11665,12 @@
                 "value": "Calories Burned, Time, Stroke Count, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "LUFT SWEDEN"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "20 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "magnetic resistance"
-            },
-            {
-                "key": "Material",
-                "value": "Stainless steel"
             },
             {
                 "key": "Power Source",
@@ -12506,7 +11758,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "LUFT SWEDEN",
+        "color": "black",
+        "material": "Stainless steel",
+        "weight": "20 Pounds"
     },
     {
         "asin": "B0977QMKWV",
@@ -12529,10 +11785,6 @@
                 "value": "Adjustable"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Air"
             },
@@ -12545,19 +11797,7 @@
                 "value": "500 Pounds"
             },
             {
-                "key": "Model Name",
-                "value": "Concept2 Model D"
-            },
-            {
                 "key": "Frame Material",
-                "value": "Aluminum"
-            },
-            {
-                "key": "Item Weight",
-                "value": "57 Pounds"
-            },
-            {
-                "key": "Material",
                 "value": "Aluminum"
             },
             {
@@ -12654,7 +11894,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Concept2 Model D",
+        "color": "Black",
+        "material": "Aluminum",
+        "weight": "57 Pounds"
     },
     {
         "asin": "B086WN5MP7",
@@ -12676,10 +11920,6 @@
                 "value": "Multi-Function"
             },
             {
-                "key": "Color",
-                "value": "Silver"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -12696,24 +11936,12 @@
                 "value": "Display Time, Count, Total Count, Calories, and Scan"
             },
             {
-                "key": "Model Name",
-                "value": "SF-RW5941"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "24 Kilograms"
-            },
-            {
                 "key": "Tension Level",
                 "value": "16"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -12889,7 +12117,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-RW5941",
+        "color": "Silver",
+        "material": "Alloy Steel",
+        "weight": "24 Kilograms"
     },
     {
         "asin": "B07KG93HD6",
@@ -12910,10 +12142,6 @@
                 "value": "Digital Monitor, Device Holder, 16-Level Adjustable Resistance, Floor Stabilizers, Non-Slip Pedal, Non-Slip Handlebars, Wide Cusioned Seat, Transportation Wheels, Bottle Holder"
             },
             {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -12930,24 +12158,12 @@
                 "value": "Time, Distance, Calories Burned, Stroke Count, RPM"
             },
             {
-                "key": "Model Name",
-                "value": "Magnetic"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "53.9 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "16"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -13135,7 +12351,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Magnetic",
+        "color": "Gray",
+        "material": "Alloy Steel",
+        "weight": "53.9 Pounds"
     },
     {
         "asin": "B005IQS6TI",
@@ -13156,10 +12376,6 @@
                 "value": "Smooth, quiet magnetic resistance, Easily switch from rowing to biking/biking to rowin, Oversized, molded, adjustable foam-padded seat and seatback"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -13172,24 +12388,12 @@
                 "value": "Heart Rate"
             },
             {
-                "key": "Model Name",
-                "value": "Conversion II Rower/Recumbent Bike"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Carbon Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "100 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "Adjustable Tension"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum, Carbon Steel"
             },
             {
                 "key": "Power Source",
@@ -13305,7 +12509,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Conversion II Rower/Recumbent Bike",
+        "color": "Black",
+        "material": "Aluminum, Carbon Steel",
+        "weight": "100 Pounds"
     },
     {
         "asin": "B0B1V4NZD8",
@@ -13331,10 +12539,6 @@
                 "value": "Full-Body Workout, Space-Efficient, Adjustable Resistance Levels, Smooth and Quiet Operation, Digital Monitoring"
             },
             {
-                "key": "Color",
-                "value": "H015-3"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -13347,24 +12551,12 @@
                 "value": "360 Pounds"
             },
             {
-                "key": "Model Name",
-                "value": "H015"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Metal"
             },
             {
-                "key": "Item Weight",
-                "value": "62 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "14"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -13504,7 +12696,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "H015",
+        "color": "H015-3",
+        "material": "Alloy Steel",
+        "weight": "62 Pounds"
     },
     {
         "asin": "B07JPY549L",
@@ -13527,10 +12723,6 @@
                 "value": "Water Resistance"
             },
             {
-                "key": "Color",
-                "value": "Oak Wood - Vintage Stain"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Water"
             },
@@ -13547,24 +12739,12 @@
                 "value": "Heart Rate, Speed, Calories Burned, Time, Stroke Count, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "Waterrower Vintage Oak"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Oak Wood"
             },
             {
-                "key": "Item Weight",
-                "value": "53 Kilograms"
-            },
-            {
                 "key": "Tension Level",
                 "value": "adjustable"
-            },
-            {
-                "key": "Material",
-                "value": "Oak Wood"
             },
             {
                 "key": "Power Source",
@@ -13672,7 +12852,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Waterrower Vintage Oak",
+        "color": "Oak Wood - Vintage Stain",
+        "material": "Oak Wood",
+        "weight": "53 Kilograms"
     },
     {
         "asin": "B0CXDD611S",
@@ -13695,10 +12879,6 @@
                 "value": "Adjustable Foot Strap, Padded Seat, Digital Monitor, Foldable"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Air"
             },
@@ -13711,20 +12891,8 @@
                 "value": "500 Pounds"
             },
             {
-                "key": "Model Name",
-                "value": "Concept2 RowErg Model E Indoor Rowing Machine with tall legs - PM5 Monitor, Device Holder, Adjustable Air Resistance, Easy Storage with FitXion Seat Cushion"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Aluminum and Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "85 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum, Stainless Steel"
             },
             {
                 "key": "Power Source",
@@ -13808,7 +12976,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Concept2 RowErg Model E Indoor Rowing Machine with tall legs - PM5 Monitor, Device Holder, Adjustable Air Resistance, Easy Storage with FitXion Seat Cushion",
+        "color": "Black",
+        "material": "Aluminum, Stainless Steel",
+        "weight": "85 Pounds"
     },
     {
         "asin": "B0CJ9N9ZZX",
@@ -13832,10 +13004,6 @@
                 "value": "Folding Storage"
             },
             {
-                "key": "Color",
-                "value": "Black/Orange"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -13852,19 +13020,7 @@
                 "value": "Calories Burned, Cnt, Scan, Time, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "R05B2"
-            },
-            {
                 "key": "Frame Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "44 Pounds"
-            },
-            {
-                "key": "Material",
                 "value": "Alloy Steel"
             },
             {
@@ -14013,7 +13169,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "R05B2",
+        "color": "Black/Orange",
+        "material": "Alloy Steel",
+        "weight": "44 Pounds"
     },
     {
         "asin": "B07J2LR5C1",
@@ -14035,10 +13195,6 @@
                 "value": "Adjustable Foot Strap, Buit-In Wheel, Digital Monitor, Contoured Seat"
             },
             {
-                "key": "Color",
-                "value": "Black/Yellow"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -14055,24 +13211,12 @@
                 "value": "RPM, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "Circuit Fitness Deluxe Foldable Magnetic Rowing Machine with 8 Resistance Settings & Transport Wheels AMZ-986RW"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Aluminum"
             },
             {
-                "key": "Item Weight",
-                "value": "41 Kilograms"
-            },
-            {
                 "key": "Tension Level",
                 "value": "8 Levels"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum, Alloy Steel, Plastic"
             },
             {
                 "key": "Power Source",
@@ -14184,7 +13328,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Circuit Fitness Deluxe Foldable Magnetic Rowing Machine with 8 Resistance Settings & Transport Wheels AMZ-986RW",
+        "color": "Black/Yellow",
+        "material": "Aluminum, Alloy Steel, Plastic",
+        "weight": "41 Kilograms"
     },
     {
         "asin": "B09NSM27TF",
@@ -14205,10 +13353,6 @@
                 "value": "Adjustable,Folding"
             },
             {
-                "key": "Color",
-                "value": "Black and Red"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "59\"D x 17\"W x 17\"H"
             },
@@ -14217,20 +13361,8 @@
                 "value": "265 Pounds"
             },
             {
-                "key": "Model Name",
-                "value": "rowing machine"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "23 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Steel, ABS"
             },
             {
                 "key": "Power Source",
@@ -14310,7 +13442,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "rowing machine",
+        "color": "Black and Red",
+        "material": "Steel, ABS",
+        "weight": "23 Pounds"
     },
     {
         "asin": "B0CKMQKWQH",
@@ -14333,10 +13469,6 @@
                 "value": "View your workout intensity in different units of measurement: pace, watts or calories"
             },
             {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Air"
             },
@@ -14353,24 +13485,12 @@
                 "value": "Odometer"
             },
             {
-                "key": "Model Name",
-                "value": "RowErg"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Stainless Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "57.32 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "Resistance is adjusted by changing the damper setting on a Concept2"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Power Source",
@@ -14454,7 +13574,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RowErg",
+        "color": "Gray",
+        "material": "Aluminum",
+        "weight": "57.32 Pounds"
     },
     {
         "asin": "B0BCP6BRZT",
@@ -14479,10 +13603,6 @@
                 "value": "Air & Magnetic Resistance Combination"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic & Air Reistance"
             },
@@ -14499,24 +13619,12 @@
                 "value": "Distance"
             },
             {
-                "key": "Model Name",
-                "value": "MR60"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel; Aluminum"
             },
             {
-                "key": "Item Weight",
-                "value": "43 Kilograms"
-            },
-            {
                 "key": "Tension Level",
                 "value": "1-10"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Power Source",
@@ -14656,7 +13764,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "MR60",
+        "color": "Black",
+        "material": "Aluminum",
+        "weight": "43 Kilograms"
     },
     {
         "asin": "B0CDB8BHX1",

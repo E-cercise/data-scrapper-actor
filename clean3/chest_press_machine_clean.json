@@ -353,18 +353,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "60 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
-            },
-            {
-                "key": "Color",
-                "value": "Red / Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "64\"D x 22\"W x 46\"H"
             },
@@ -407,10 +395,6 @@
             {
                 "key": "Country of Origin",
                 "value": "China"
-            },
-            {
-                "key": "Model Name",
-                "value": "Ab Bench"
             },
             {
                 "key": "Suggested Users",
@@ -482,7 +466,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Ab Bench",
+        "color": "Red / Black",
+        "material": "Aluminum",
+        "weight": "60 Pounds"
     },
     {
         "asin": "B07GYXF65S",
@@ -615,18 +603,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "38.56 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "73\"D x 46\"W x 65\"H"
             },
@@ -665,10 +641,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2-Year Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "HRP-RS60"
             },
             {
                 "key": "Suggested Users",
@@ -732,7 +704,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "HRP-RS60",
+        "color": "Grey",
+        "material": "Alloy Steel",
+        "weight": "38.56 Kilograms"
     },
     {
         "asin": "B00FJ2PL26",
@@ -886,18 +862,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "60 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Multi Colored"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "53\"D x 66\"W x 47\"H"
             },
@@ -940,10 +904,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 Year Limited Manufacturer Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "MD-389"
             },
             {
                 "key": "Suggested Users",
@@ -1019,7 +979,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "MD-389",
+        "color": "Multi Colored",
+        "material": "Alloy Steel",
+        "weight": "60 Pounds"
     },
     {
         "asin": "B0CSDJTNSK",
@@ -1143,18 +1107,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "32.03 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Black/Red"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "40\"D x 18\"W x 19\"H"
             },
@@ -1193,10 +1145,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2-Year Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "RS 40"
             },
             {
                 "key": "Suggested Users",
@@ -1320,7 +1268,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RS 40",
+        "color": "Black/Red",
+        "material": "Alloy Steel",
+        "weight": "32.03 Pounds"
     },
     {
         "asin": "B00FN9M7LS",
@@ -1336,18 +1288,6 @@
             "FULL-BODY WORKOUT STATION: This utility bench can help you target multiple muscle groups. It lets you perform various exercises to develop your arms, legs, chest, and core. Pair it with dumbbells to start training to a fitter body."
         ],
         "attributes": [
-            {
-                "key": "Item Weight",
-                "value": "143 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Black - 100 lbs"
-            },
             {
                 "key": "Product Dimensions",
                 "value": "65.5\"D x 48\"W x 49\"H"
@@ -1387,10 +1327,6 @@
             {
                 "key": "Brand Name",
                 "value": "MARCY"
-            },
-            {
-                "key": "Model Name",
-                "value": "standard weight bench"
             },
             {
                 "key": "Suggested Users",
@@ -1562,7 +1498,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "standard weight bench",
+        "color": "Black - 100 lbs",
+        "material": "Alloy Steel",
+        "weight": "143 Pounds"
     },
     {
         "asin": "B0D9FQ9GWB",
@@ -2147,14 +2087,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "11.02 Pounds"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Ergonomic"
             },
@@ -2209,14 +2141,6 @@
             {
                 "key": "Brand Name",
                 "value": "Yes4All"
-            },
-            {
-                "key": "Model Name",
-                "value": "Viking Press Handle"
-            },
-            {
-                "key": "Color",
-                "value": "A. (Black) Viking Press Handle"
             },
             {
                 "key": "Suggested Users",
@@ -2280,7 +2204,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Viking Press Handle",
+        "color": "A. (Black) Viking Press Handle",
+        "material": "Alloy Steel",
+        "weight": "11.02 Pounds"
     },
     {
         "asin": "B0CG39VRSK",
@@ -2444,18 +2372,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon, Thermoplastic Rubber, Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.7 Pounds"
-            },
-            {
                 "key": "Style",
                 "value": "All-in-One"
             },
@@ -2502,10 +2418,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year limited warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "TRX ALL-IN-ONE"
             },
             {
                 "key": "Suggested Users",
@@ -2581,7 +2493,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "TRX ALL-IN-ONE",
+        "color": "Black",
+        "material": "Nylon, Thermoplastic Rubber, Steel",
+        "weight": "1.7 Pounds"
     },
     {
         "asin": "B001BEZ99Q",
@@ -3192,10 +3108,6 @@
                 "value": "Adjustable Foot Strap, Sliding Seat, Padded Seat, Smart Machine, Easy Assembly"
             },
             {
-                "key": "Color",
-                "value": "Black/ Silver"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -3212,24 +3124,12 @@
                 "value": "Distance, Time, Calories Burned, Stroke Count"
             },
             {
-                "key": "Model Name",
-                "value": "Hydrow Rower"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Aluminum"
             },
             {
-                "key": "Item Weight",
-                "value": "145 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "Adjustable"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Power Source",
@@ -3333,7 +3233,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Hydrow Rower",
+        "color": "Black/ Silver",
+        "material": "Aluminum",
+        "weight": "145 Pounds"
     },
     {
         "asin": "B0D5YQNW1H",
@@ -3778,18 +3682,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "83 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Red"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "41.9\"D x 36.2\"W x 25\"H"
             },
@@ -3824,10 +3716,6 @@
             {
                 "key": "Brand Name",
                 "value": "STMHOM"
-            },
-            {
-                "key": "Model Name",
-                "value": "Chest Press Machine"
             },
             {
                 "key": "Part Number",
@@ -3931,7 +3819,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Chest Press Machine",
+        "color": "Red",
+        "material": "Carbon Steel",
+        "weight": "83 Pounds"
     },
     {
         "asin": "B0D59XZM25",
@@ -4513,18 +4405,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "38.4 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Half Rack"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "35.7\"D x 46.1\"W x 63.9\"H"
             },
@@ -4567,10 +4447,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year structural frame / 180 days other parts and components"
-            },
-            {
-                "key": "Model Name",
-                "value": "FITNESS_BENCH"
             },
             {
                 "key": "Suggested Users",
@@ -4810,7 +4686,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "FITNESS_BENCH",
+        "color": "Half Rack",
+        "material": "Alloy Steel",
+        "weight": "38.4 Pounds"
     },
     {
         "asin": "B0DRYCGCJG",
@@ -5400,18 +5280,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "83 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Metallic Grey and Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "60\"D x 59\"W x 28\"H"
             },
@@ -5454,10 +5322,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 year pad., 3 year frame."
-            },
-            {
-                "key": "Model Name",
-                "value": "BF-47"
             },
             {
                 "key": "Suggested Users",
@@ -5529,7 +5393,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "BF-47",
+        "color": "Metallic Grey and Black",
+        "material": "Alloy Steel",
+        "weight": "83 Pounds"
     },
     {
         "asin": "B08GSB7HBK",

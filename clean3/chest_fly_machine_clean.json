@@ -14,18 +14,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "60 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
-            },
-            {
-                "key": "Color",
-                "value": "Red / Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "64\"D x 22\"W x 46\"H"
             },
@@ -68,10 +56,6 @@
             {
                 "key": "Country of Origin",
                 "value": "China"
-            },
-            {
-                "key": "Model Name",
-                "value": "Ab Bench"
             },
             {
                 "key": "Suggested Users",
@@ -143,7 +127,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Ab Bench",
+        "color": "Red / Black",
+        "material": "Aluminum",
+        "weight": "60 Pounds"
     },
     {
         "asin": "B0DQSLP7RF",
@@ -159,18 +147,6 @@
             "Overall Dimensions: 38.6\" L x 43.3\" W x 78.1\" H; Weight Capacity: 265 lbs.; Assembly required."
         ],
         "attributes": [
-            {
-                "key": "Item Weight",
-                "value": "75 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Polyurethane"
-            },
-            {
-                "key": "Color",
-                "value": "Red"
-            },
             {
                 "key": "Product Dimensions",
                 "value": "43.3\"D x 38.6\"W x 78.1\"H"
@@ -206,10 +182,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year Warranty Against Manufacturer Defects"
-            },
-            {
-                "key": "Model Name",
-                "value": "Power Tower"
             },
             {
                 "key": "Suggested Users",
@@ -337,7 +309,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Power Tower",
+        "color": "Red",
+        "material": "Alloy Steel, Polyurethane",
+        "weight": "75 Pounds"
     },
     {
         "asin": "B0DP6FMBXH",
@@ -366,28 +342,12 @@
                 "value": "70.87 x 61.81 x 85.83 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "310.6 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "HarmonyHealth"
             },
             {
                 "key": "Warranty Description",
                 "value": "We offer dedicated after-sales support"
-            },
-            {
-                "key": "Model Name",
-                "value": "ikAShmn7pzMMoSaeob1dQATzut7Q"
-            },
-            {
-                "key": "Color",
-                "value": "black"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
             },
             {
                 "key": "Suggested Users",
@@ -455,7 +415,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "ikAShmn7pzMMoSaeob1dQATzut7Q",
+        "color": "black",
+        "material": "Carbon Steel",
+        "weight": "310.6 Pounds"
     },
     {
         "asin": "B0012MA81G",
@@ -886,28 +850,12 @@
                 "value": "82 x 18 x 9 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "118 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Body-Solid"
             },
             {
                 "key": "Warranty Description",
                 "value": "10 years"
-            },
-            {
-                "key": "Model Name",
-                "value": "Crossover"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Suggested Users",
@@ -983,7 +931,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Crossover",
+        "color": "Black",
+        "material": "Aluminum",
+        "weight": "118 Pounds"
     },
     {
         "asin": "B0D5YQNW1H",
@@ -1164,18 +1116,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "184 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "71\"D x 53\"W x 41\"H"
             },
@@ -1210,10 +1150,6 @@
             {
                 "key": "Brand Name",
                 "value": "Body-Solid"
-            },
-            {
-                "key": "Model Name",
-                "value": "Body-Solid LVIP Pcl Leverage Incline Press"
             },
             {
                 "key": "Number of Items",
@@ -1269,7 +1205,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Body-Solid LVIP Pcl Leverage Incline Press",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "184 Pounds"
     },
     {
         "asin": "B08M5DP6FZ",
@@ -1421,10 +1361,6 @@
                 "value": "Padded Seat"
             },
             {
-                "key": "Color",
-                "value": "Metallic Grey and Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Weight plates"
             },
@@ -1441,20 +1377,8 @@
                 "value": "No Display"
             },
             {
-                "key": "Model Name",
-                "value": "CB-14"
-            },
-            {
-                "key": "Item Weight",
-                "value": "80 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "400 lb"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Rubber"
             },
             {
                 "key": "Power Source",
@@ -1546,7 +1470,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "CB-14",
+        "color": "Metallic Grey and Black",
+        "material": "Alloy Steel, Rubber",
+        "weight": "80 Pounds"
     },
     {
         "asin": "B0063NCDLM",
@@ -1575,28 +1503,12 @@
                 "value": "55 x 84 x 61 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "330 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Body-Solid"
             },
             {
                 "key": "Warranty Description",
                 "value": "3 Year Frame"
-            },
-            {
-                "key": "Model Name",
-                "value": "Body-Solid BFFT10R Best Fitness Functional Trainer"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "steel"
             },
             {
                 "key": "Number of Items",
@@ -1668,7 +1580,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Body-Solid BFFT10R Best Fitness Functional Trainer",
+        "color": "Black",
+        "material": "steel",
+        "weight": "330 Pounds"
     },
     {
         "asin": "B08X17YNL3",
@@ -2127,18 +2043,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "12 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Faux Leather"
-            },
-            {
-                "key": "Color",
-                "value": "800LBS"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "15\"D x 34\"W x 10\"H"
             },
@@ -2173,10 +2077,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year"
-            },
-            {
-                "key": "Model Name",
-                "value": "A-002"
             },
             {
                 "key": "Part Number",
@@ -2232,7 +2132,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "A-002",
+        "color": "800LBS",
+        "material": "Faux Leather",
+        "weight": "12 Kilograms"
     },
     {
         "asin": "B07GYXF65S",
@@ -2365,22 +2269,6 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Steel Bow"
-            },
-            {
-                "key": "Color",
-                "value": "Matte Black"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1 Kilograms"
-            },
-            {
                 "key": "Hand Orientation",
                 "value": "Ambidextrous"
             },
@@ -2482,7 +2370,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Steel Bow",
+        "color": "Matte Black",
+        "material": "Aluminum",
+        "weight": "1 Kilograms"
     },
     {
         "asin": "B0BFWVXY32",
@@ -2719,18 +2611,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "60 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Multi Colored"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "53\"D x 66\"W x 47\"H"
             },
@@ -2773,10 +2653,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 Year Limited Manufacturer Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "MD-389"
             },
             {
                 "key": "Suggested Users",
@@ -2852,7 +2728,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "MD-389",
+        "color": "Multi Colored",
+        "material": "Alloy Steel",
+        "weight": "60 Pounds"
     },
     {
         "asin": "B004SBAWMI",
@@ -2868,18 +2748,6 @@
             "ADDITIONAL- Max weight load 125 lb per arm, 250 lb total. Also includes 2 plate storage pegs, each measuring 8\u201d long and 1\u201d in diameter, allows a clean and organized home gym. Meant for home and light-commercial use."
         ],
         "attributes": [
-            {
-                "key": "Item Weight",
-                "value": "83 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Metallic Grey and Black"
-            },
             {
                 "key": "Product Dimensions",
                 "value": "60\"D x 59\"W x 28\"H"
@@ -2923,10 +2791,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 year pad., 3 year frame."
-            },
-            {
-                "key": "Model Name",
-                "value": "BF-47"
             },
             {
                 "key": "Suggested Users",
@@ -2998,7 +2862,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "BF-47",
+        "color": "Metallic Grey and Black",
+        "material": "Alloy Steel",
+        "weight": "83 Pounds"
     },
     {
         "asin": "B08DNLCJXV",

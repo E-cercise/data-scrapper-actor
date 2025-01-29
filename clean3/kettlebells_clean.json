@@ -262,18 +262,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "12.8 Pounds"
-            },
-            {
-                "key": "Color",
-                "value": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple"
-            },
-            {
-                "key": "Material",
-                "value": "Neoprene, Metal"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Neoprene Coating"
             },
@@ -316,10 +304,6 @@
             {
                 "key": "Warranty Description",
                 "value": "ALL OF OUR PRODUCTS HAVE A 1 YEAR WARRANTY FROM THE DATE THAT IT WAS PURCHASED"
-            },
-            {
-                "key": "Model Name",
-                "value": "G326-12"
             },
             {
                 "key": "Suggested Users",
@@ -723,7 +707,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "G326-12",
+        "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
+        "material": "Neoprene, Metal",
+        "weight": "12.8 Pounds"
     },
     {
         "asin": "B00I6CRLLA",
@@ -739,18 +727,6 @@
             "CHOICES \u2013 This kettlebell group from CAP is available in the following lb: 9, 13, 18, 26, 35, 44, 53, 62, 70, 80, 88."
         ],
         "attributes": [
-            {
-                "key": "Item Weight",
-                "value": "26 Pounds"
-            },
-            {
-                "key": "Color",
-                "value": "Blue"
-            },
-            {
-                "key": "Material",
-                "value": "Cast Iron"
-            },
             {
                 "key": "Special Feature",
                 "value": "Portable"
@@ -794,10 +770,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day Limited Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "SDK5-026"
             },
             {
                 "key": "Suggested Users",
@@ -1025,7 +997,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SDK5-026",
+        "color": "Blue",
+        "material": "Cast Iron",
+        "weight": "26 Pounds"
     },
     {
         "asin": "B00A8CCD5U",
@@ -1041,18 +1017,6 @@
             "STURDY FLAT BOTTOM: The kettlebells feature a flat base, offering stability & suitable for various workout such as swings, deadlifts, squats, lifting and many muscle groups including biceps, shoulders, legs"
         ],
         "attributes": [
-            {
-                "key": "Item Weight",
-                "value": "35 Pounds"
-            },
-            {
-                "key": "Color",
-                "value": "B. 15 - 20 lbs"
-            },
-            {
-                "key": "Material",
-                "value": "Cast Iron"
-            },
             {
                 "key": "Product Dimensions",
                 "value": "11.5\"L x 9\"W x 6\"H"
@@ -1092,10 +1056,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30-day free return and 1-year warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "K51T"
             },
             {
                 "key": "Suggested Users",
@@ -1367,7 +1327,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "K51T",
+        "color": "B. 15 - 20 lbs",
+        "material": "Cast Iron",
+        "weight": "35 Pounds"
     },
     {
         "asin": "B0796K4183",
@@ -1913,18 +1877,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "12 Pounds"
-            },
-            {
-                "key": "Color",
-                "value": "F-Pink-12lb"
-            },
-            {
-                "key": "Material",
-                "value": "Cast Iron"
-            },
-            {
                 "key": "Special Feature",
                 "value": "adjustable, Ergonomic design, falt bottom, kettlebell weight set for strength training, save time and save money, body builing, anti-rust"
             },
@@ -1947,10 +1899,6 @@
             {
                 "key": "Brand Name",
                 "value": "TopMade"
-            },
-            {
-                "key": "Model Name",
-                "value": "12lbs adjustable kettlebell weight set"
             },
             {
                 "key": "Suggested Users",
@@ -2170,7 +2118,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "12lbs adjustable kettlebell weight set",
+        "color": "F-Pink-12lb",
+        "material": "Cast Iron",
+        "weight": "12 Pounds"
     },
     {
         "asin": "B017WC6DSG",
@@ -2811,18 +2763,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon, Natural Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "1-Orange"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.21 Kilograms"
-            },
-            {
                 "key": "Sport",
                 "value": "Weightlifting, pull up, Exercise and Fitness, Body Building, Strength Training"
             },
@@ -2837,10 +2777,6 @@
             {
                 "key": "Special Feature",
                 "value": "Stackable, Anti-Snap, Adjustable"
-            },
-            {
-                "key": "Model Name",
-                "value": "pull up assist band"
             },
             {
                 "key": "Style",
@@ -3120,7 +3056,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "pull up assist band",
+        "color": "1-Orange",
+        "material": "Nylon, Natural Rubber",
+        "weight": "1.21 Kilograms"
     },
     {
         "asin": "B0D9JJ9XH3",
@@ -4235,18 +4175,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "24 Kilograms"
-            },
-            {
-                "key": "Color",
-                "value": "Rage 1.0"
-            },
-            {
-                "key": "Material",
-                "value": "Cast Iron"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Portable"
             },
@@ -4289,10 +4217,6 @@
             {
                 "key": "Warranty Description",
                 "value": "RAGE FITNESS EQUIPMENT (WITH THE EXCEPTION OF GRIPS) IS GUARANTEED FOR A PERIOD OF ONE YEAR FROM DATE OF INVOICE AGAINST FAULTY MANUFACTURING OR DEFECTS IN MATERIAL."
-            },
-            {
-                "key": "Model Name",
-                "value": "Powder Coated Kettlebell"
             },
             {
                 "key": "Suggested Users",
@@ -4372,7 +4296,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Powder Coated Kettlebell",
+        "color": "Rage 1.0",
+        "material": "Cast Iron",
+        "weight": "24 Kilograms"
     },
     {
         "asin": "B0030J2IPS",
@@ -4507,18 +4435,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "20 Pounds"
-            },
-            {
-                "key": "Color",
-                "value": "black"
-            },
-            {
-                "key": "Material",
-                "value": "Cast Iron"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Adjustable,Heavy Duty"
             },
@@ -4561,10 +4477,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 year manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "Apex Adjustable Heavy-Duty Exercise Kettlebell Weight Set Strength Training and Weightlifting Equipment for Home Gyms APKB-5009"
             },
             {
                 "key": "Suggested Users",
@@ -4636,7 +4548,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Apex Adjustable Heavy-Duty Exercise Kettlebell Weight Set Strength Training and Weightlifting Equipment for Home Gyms APKB-5009",
+        "color": "black",
+        "material": "Cast Iron",
+        "weight": "20 Pounds"
     },
     {
         "asin": "B09WZN4FD2",
@@ -5007,18 +4923,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "4.5 Kilograms"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Adjustable"
             },
@@ -5053,10 +4957,6 @@
             {
                 "key": "Brand Name",
                 "value": "POWERBLOCK"
-            },
-            {
-                "key": "Model Name",
-                "value": "PowerBlock Pro Series Kettlebell Handle"
             },
             {
                 "key": "Suggested Users",
@@ -5108,7 +5008,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "PowerBlock Pro Series Kettlebell Handle",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "4.5 Kilograms"
     },
     {
         "asin": "B0DDHK4HLM",
@@ -5807,18 +5711,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "26.5 Pounds"
-            },
-            {
-                "key": "Color",
-                "value": "25lbs"
-            },
-            {
-                "key": "Material",
-                "value": "Other"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "10\"L x 7.8\"W x 11.6\"H"
             },
@@ -5865,10 +5757,6 @@
             {
                 "key": "Warranty Description",
                 "value": "Limited Lifetime Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "25lb"
             },
             {
                 "key": "Suggested Users",
@@ -6096,7 +5984,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "25lb",
+        "color": "25lbs",
+        "material": "Other",
+        "weight": "26.5 Pounds"
     },
     {
         "asin": "B0DGVZTBJK",
@@ -6602,18 +6494,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "20 Pounds"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Cast Iron"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "7\"L x 4.5\"W x 7.5\"H"
             },
@@ -6660,10 +6540,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 year manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "HKB-020"
             },
             {
                 "key": "Suggested Users",
@@ -6987,7 +6863,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "HKB-020",
+        "color": "Black",
+        "material": "Cast Iron",
+        "weight": "20 Pounds"
     },
     {
         "asin": "B0D72LJFYK",

@@ -376,14 +376,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "28.2 Pounds"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Ergonomic"
             },
@@ -442,14 +434,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Days"
-            },
-            {
-                "key": "Model Name",
-                "value": "OB-93"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -633,7 +617,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "OB-93",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "28.2 Pounds"
     },
     {
         "asin": "B01HM4Z8AI",
@@ -649,14 +637,6 @@
             "MULTI-WORKOUTS: Ideal to work out your back, traps, biceps, abs, hamstrings and more"
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "5 Pounds"
-            },
             {
                 "key": "Grip Type",
                 "value": "Smooth"
@@ -708,14 +688,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year"
-            },
-            {
-                "key": "Model Name",
-                "value": "T bar row"
-            },
-            {
-                "key": "Color",
-                "value": "H. Combo T bar Row + Double Grip Row"
             },
             {
                 "key": "Suggested Users",
@@ -1047,7 +1019,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "T bar row",
+        "color": "H. Combo T bar Row + Double Grip Row",
+        "material": "Alloy Steel",
+        "weight": "5 Pounds"
     },
     {
         "asin": "B07PD84RXL",
@@ -1076,28 +1052,12 @@
                 "value": "42 x 1.5 x 0.04 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "5 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Body-Solid"
             },
             {
                 "key": "Warranty Description",
                 "value": "31 Day Return"
-            },
-            {
-                "key": "Model Name",
-                "value": "MB100A"
-            },
-            {
-                "key": "Color",
-                "value": "Silver"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Suggested Users",
@@ -1169,7 +1129,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "MB100A",
+        "color": "Silver",
+        "material": "Aluminum",
+        "weight": "5 Pounds"
     },
     {
         "asin": "B0DNMYLBSF",
@@ -1304,16 +1268,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black Rotate"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "400 Kilograms, 880 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Special Feature",
@@ -1322,10 +1278,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.3 Kilograms"
             },
             {
                 "key": "Item Package Dimensions L x W x H",
@@ -1342,10 +1294,6 @@
             {
                 "key": "Country of Origin",
                 "value": "China"
-            },
-            {
-                "key": "Model Name",
-                "value": "DHBAR-0020"
             },
             {
                 "key": "Manufacturer",
@@ -1525,7 +1473,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "DHBAR-0020",
+        "color": "Black Rotate",
+        "material": "Aluminum",
+        "weight": "0.3 Kilograms"
     },
     {
         "asin": "B07SFDS8RW",
@@ -1773,14 +1725,6 @@
         "features": [],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Metal"
-            },
-            {
-                "key": "Item Weight",
-                "value": "5.44 Kilograms"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Ergonomic"
             },
@@ -1811,14 +1755,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year"
-            },
-            {
-                "key": "Model Name",
-                "value": "KPVPA-02"
-            },
-            {
-                "key": "Color",
-                "value": "Viking Press Landmine Handle"
             },
             {
                 "key": "Suggested Users",
@@ -1878,7 +1814,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "KPVPA-02",
+        "color": "Viking Press Landmine Handle",
+        "material": "Metal",
+        "weight": "5.44 Kilograms"
     },
     {
         "asin": "B09FFSQBJ6",
@@ -1904,10 +1844,6 @@
                 "value": "Adjustable Resistance"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Elastic Cord"
             },
@@ -1924,24 +1860,12 @@
                 "value": "Time, Count, Calories, Scan"
             },
             {
-                "key": "Model Name",
-                "value": "Upright Row-N-Ride\u00ae Plus Exerciser"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "37.9 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "Low, Medium, High"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -2053,7 +1977,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Upright Row-N-Ride\u00ae Plus Exerciser",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "37.9 Pounds"
     },
     {
         "asin": "B08469S315",
@@ -2308,14 +2236,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Metal"
-            },
-            {
-                "key": "Color",
-                "value": "White/Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "24\"L x 36\"W x 36\"H"
             },
@@ -2334,10 +2254,6 @@
             {
                 "key": "Warranty Type",
                 "value": "10 Manufacturers Defects"
-            },
-            {
-                "key": "Item Weight",
-                "value": "18.5 Pounds"
             },
             {
                 "key": "Manufacturer",
@@ -2370,10 +2286,6 @@
             {
                 "key": "Warranty Description",
                 "value": "10 year limited"
-            },
-            {
-                "key": "Model Name",
-                "value": "Dip Bar Fitness Station"
             },
             {
                 "key": "Suggested Users",
@@ -2437,7 +2349,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Dip Bar Fitness Station",
+        "color": "White/Black",
+        "material": "Metal",
+        "weight": "18.5 Pounds"
     },
     {
         "asin": "B09MSYJYCV",
@@ -2455,18 +2371,6 @@
             "INSTRUCTIONAL PLACARD: Detailed instructions for 9 different stretches help you get started on your stretching regimen."
         ],
         "attributes": [
-            {
-                "key": "Item Weight",
-                "value": "13.6 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
             {
                 "key": "Product Dimensions",
                 "value": "42.1\"D x 18.9\"W x 34.9\"H"
@@ -2506,10 +2410,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year structural frame / 180 days other parts and components"
-            },
-            {
-                "key": "Model Name",
-                "value": "Stretch Training Machine"
             },
             {
                 "key": "Suggested Users",
@@ -2629,7 +2529,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Stretch Training Machine",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "13.6 Kilograms"
     },
     {
         "asin": "B0CQ4KWJ5R",
@@ -2645,14 +2549,6 @@
             "\u3010SATISFACTION GUARANETT\u3011 a professional home fitness brand\uff0cIf you have any questions about the product or are not satisfied with the product, please feel free to contact us, we will provide you with the best solution. Your satisfaction is our biggest concern."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Stainless Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "3.4 Pounds"
-            },
             {
                 "key": "Grip Type",
                 "value": "U-shaped handle"
@@ -2692,14 +2588,6 @@
             {
                 "key": "Warranty Description",
                 "value": "If you have any questions, please contact us and reply to your questions within 24 hours"
-            },
-            {
-                "key": "Model Name",
-                "value": "Original"
-            },
-            {
-                "key": "Color",
-                "value": "black\u3001blue"
             },
             {
                 "key": "Suggested Users",
@@ -2747,7 +2635,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Original",
+        "color": "black\u3001blue",
+        "material": "Stainless Steel",
+        "weight": "3.4 Pounds"
     },
     {
         "asin": "B08S79WXHF",
@@ -2914,10 +2806,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "BLACK"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Pounds"
             },
@@ -2926,20 +2814,12 @@
                 "value": "Rack Mount"
             },
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Multiple Grip Position"
             },
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.6 Pounds"
             },
             {
                 "key": "Item Package Dimensions L x W x H",
@@ -2956,10 +2836,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 year"
-            },
-            {
-                "key": "Model Name",
-                "value": "ZML102 BAR"
             },
             {
                 "key": "Suggested Users",
@@ -3019,7 +2895,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "ZML102 BAR",
+        "color": "BLACK",
+        "material": "Alloy Steel",
+        "weight": "2.6 Pounds"
     },
     {
         "asin": "B0DMSX4TZ7",
@@ -3242,18 +3122,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "35 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Silver"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "42\"D x 25.5\"W x 42\"H"
             },
@@ -3296,10 +3164,6 @@
             {
                 "key": "Warranty Description",
                 "value": "3-year warranty, 2-year padding"
-            },
-            {
-                "key": "Model Name",
-                "value": "DG-1"
             },
             {
                 "key": "Suggested Users",
@@ -3375,7 +3239,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "DG-1",
+        "color": "Silver",
+        "material": "Alloy Steel",
+        "weight": "35 Pounds"
     },
     {
         "asin": "B094J6N2MN",
@@ -3522,18 +3390,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "75 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Polyurethane"
-            },
-            {
-                "key": "Color",
-                "value": "Yellow"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "43.3\"D x 38.6\"W x 78.1\"H"
             },
@@ -3568,10 +3424,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year Warranty Against Manufacturer Defects"
-            },
-            {
-                "key": "Model Name",
-                "value": "Power Tower"
             },
             {
                 "key": "Suggested Users",
@@ -3699,7 +3551,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Power Tower",
+        "color": "Yellow",
+        "material": "Alloy Steel, Polyurethane",
+        "weight": "75 Pounds"
     },
     {
         "asin": "B0CCCWYM4F",
@@ -3803,18 +3659,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "0.01 Ounces"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "45\"D x 25\"W x 42\"H"
             },
@@ -3857,10 +3701,6 @@
             {
                 "key": "Warranty Description",
                 "value": "3-year frame, 2-year padding"
-            },
-            {
-                "key": "Model Name",
-                "value": "DG-2"
             },
             {
                 "key": "Suggested Users",
@@ -3928,7 +3768,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "DG-2",
+        "color": "Grey",
+        "material": "Alloy Steel",
+        "weight": "0.01 Ounces"
     },
     {
         "asin": "B0D59XZM25",
@@ -4340,14 +4184,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Rubber"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.8 Pounds"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Textured"
             },
@@ -4386,14 +4222,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1year"
-            },
-            {
-                "key": "Model Name",
-                "value": "Landmine"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -4481,7 +4309,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Landmine",
+        "color": "Black",
+        "material": "Rubber",
+        "weight": "0.8 Pounds"
     },
     {
         "asin": "B0CH1JGSL9",
@@ -4698,18 +4530,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "83 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Metallic Grey and Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "60\"D x 59\"W x 28\"H"
             },
@@ -4752,10 +4572,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 year pad., 3 year frame."
-            },
-            {
-                "key": "Model Name",
-                "value": "BF-47"
             },
             {
                 "key": "Suggested Users",
@@ -4827,7 +4643,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "BF-47",
+        "color": "Metallic Grey and Black",
+        "material": "Alloy Steel",
+        "weight": "83 Pounds"
     },
     {
         "asin": "B0CZDMG2CC",

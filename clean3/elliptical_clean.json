@@ -15,20 +15,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "U5"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "17\"D x 15\"W x 10\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Resistance Mechanism",
@@ -41,10 +29,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "16.5 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "12 Pounds"
             },
             {
                 "key": "Manufacturer",
@@ -176,7 +160,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "U5",
+        "color": "Black",
+        "material": "Aluminum",
+        "weight": "12 Pounds"
     },
     {
         "asin": "B0DK61ZL1L",
@@ -198,20 +186,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "SF-E323050S"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "53.5\"D x 25.2\"W x 64\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -224,10 +200,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "12 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "89.3 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -355,7 +327,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-E323050S",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "89.3 Pounds"
     },
     {
         "asin": "B00PCCBY6K",
@@ -373,20 +349,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Life Fitness E5 Cross Trainer Elliptical"
-            },
-            {
-                "key": "Color",
-                "value": "Titanium"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "84\"D x 34\"W x 66\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Resistance Mechanism",
@@ -399,10 +363,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "24 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "251 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -506,7 +466,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Life Fitness E5 Cross Trainer Elliptical",
+        "color": "Titanium",
+        "material": "Aluminum",
+        "weight": "251 Pounds"
     },
     {
         "asin": "B07XTQ6SRG",
@@ -526,20 +490,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "SF-E3919"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "44\"D x 25\"W x 64\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -556,10 +508,6 @@
             {
                 "key": "Screen Size",
                 "value": "9 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "94.8 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -743,7 +691,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-E3919",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "94.8 Pounds"
     },
     {
         "asin": "B0D43WCV3R",
@@ -760,20 +712,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "E3"
-            },
-            {
-                "key": "Color",
-                "value": "Pink"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "17.53\"D x 15.43\"W x 9.72\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Resistance Mechanism",
@@ -786,10 +726,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "20 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "15 Pounds"
             },
             {
                 "key": "League",
@@ -941,7 +877,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "E3",
+        "color": "Pink",
+        "material": "Aluminum",
+        "weight": "15 Pounds"
     },
     {
         "asin": "B018WMQRYK",
@@ -1080,20 +1020,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "E1 Go"
-            },
-            {
-                "key": "Color",
-                "value": "Titanium"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "59\"D x 30\"W x 82\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Resistance Mechanism",
@@ -1106,10 +1034,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "18 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "211 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -1209,7 +1133,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "E1 Go",
+        "color": "Titanium",
+        "material": "Aluminum",
+        "weight": "211 Pounds"
     },
     {
         "asin": "B0CPQPT848",
@@ -1231,20 +1159,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Endurance Smart Elliptical Trainer"
-            },
-            {
-                "key": "Color",
-                "value": "Dark Grey"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "53.5\"D x 25.2\"W x 64\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -1257,10 +1173,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "12 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "89.3 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -1356,7 +1268,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Endurance Smart Elliptical Trainer",
+        "color": "Dark Grey",
+        "material": "Alloy Steel",
+        "weight": "89.3 Pounds"
     },
     {
         "asin": "B0B8W7BWD6",
@@ -1373,20 +1289,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "YF-90"
-            },
-            {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "44\"D x 20\"W x 63\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Resistance Mechanism",
@@ -1403,10 +1307,6 @@
             {
                 "key": "Screen Size",
                 "value": "20 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "104 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -1490,7 +1390,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "YF-90",
+        "color": "Gray",
+        "material": "Aluminum",
+        "weight": "104 Pounds"
     },
     {
         "asin": "B09X23WFF5",
@@ -1512,20 +1416,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Corded Electric"
-            },
-            {
-                "key": "Item Weight",
-                "value": "113.1 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -1538,10 +1430,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "Recumbent Cross Trainer Exercise Bike"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -1705,7 +1593,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Recumbent Cross Trainer Exercise Bike",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "113.1 Pounds"
     },
     {
         "asin": "B0DFBGX9VN",
@@ -1724,20 +1616,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "AMA006015"
-            },
-            {
-                "key": "Color",
-                "value": "Orange"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "14\"D x 16\"W x 8\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Acrylonitrile Butadiene Styrene (ABS)"
             },
             {
                 "key": "Resistance Mechanism",
@@ -1750,10 +1630,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "17 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "9.5 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -1893,7 +1769,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AMA006015",
+        "color": "Orange",
+        "material": "Acrylonitrile Butadiene Styrene (ABS)",
+        "weight": "9.5 Pounds"
     },
     {
         "asin": "B07NSD7L77",
@@ -1910,20 +1790,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Elliptical Trainer"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "26\"D x 62\"W x 70\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -1940,10 +1808,6 @@
             {
                 "key": "Screen Size",
                 "value": "5 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "189.6 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -2163,7 +2027,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Elliptical Trainer",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "189.6 Pounds"
     },
     {
         "asin": "B0CNCS7KFL",
@@ -2181,20 +2049,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "AMA005968"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "16\"D x 15\"W x 10\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Iron"
             },
             {
                 "key": "Resistance Mechanism",
@@ -2207,10 +2063,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "15 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "14 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -2314,7 +2166,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AMA005968",
+        "color": "Black",
+        "material": "Iron",
+        "weight": "14 Pounds"
     },
     {
         "asin": "B09X22XLGS",
@@ -2340,24 +2196,12 @@
                 "value": "Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "86 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -2374,10 +2218,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel, Rubber"
-            },
-            {
-                "key": "Model Name",
-                "value": "Recumbent Cross Trainer Elliptical Bike"
             },
             {
                 "key": "Maximum Height",
@@ -2525,7 +2365,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Recumbent Cross Trainer Elliptical Bike",
+        "color": "Gray",
+        "material": "Alloy Steel",
+        "weight": "86 Pounds"
     },
     {
         "asin": "B0CF4LM43J",
@@ -2546,20 +2390,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Yolid-ET0001"
-            },
-            {
-                "key": "Color",
-                "value": "Blue"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "17.3\"D x 14.1\"W x 8.6\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Resistance Mechanism",
@@ -2572,10 +2404,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "20 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "15.2 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -2667,7 +2495,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Yolid-ET0001",
+        "color": "Blue",
+        "material": "Aluminum",
+        "weight": "15.2 Pounds"
     },
     {
         "asin": "B00LJWR8Y4",
@@ -2684,28 +2516,12 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "EFX 425"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Metal"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "110 Kilograms"
-            },
-            {
-                "key": "Item Weight",
-                "value": "240 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -2789,7 +2605,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "EFX 425",
+        "color": "Black",
+        "material": "Alloy Steel, Metal",
+        "weight": "240 Pounds"
     },
     {
         "asin": "B0C9CPT6BS",
@@ -2809,20 +2629,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "CT11S"
-            },
-            {
-                "key": "Color",
-                "value": "Brown"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "41.54\"D x 15.04\"W x 23.82\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Commercial steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -2835,10 +2643,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "15.5 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "100 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -3026,7 +2830,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "CT11S",
+        "color": "Brown",
+        "material": "Commercial steel",
+        "weight": "100 Pounds"
     },
     {
         "asin": "B09KNDGPPQ",
@@ -3044,10 +2852,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
             },
@@ -3064,20 +2868,12 @@
                 "value": "2"
             },
             {
-                "key": "Model Name",
-                "value": "Me Metover Speed"
-            },
-            {
                 "key": "Wheel Material",
                 "value": "Aluminum"
             },
             {
                 "key": "Frame Material",
                 "value": "Aluminum"
-            },
-            {
-                "key": "Item Weight",
-                "value": "23.7 Kilograms"
             },
             {
                 "key": "Handlebar Type",
@@ -3130,10 +2926,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 Years"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Suggested Users",
@@ -3353,7 +3145,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Me Metover Speed",
+        "color": "Black",
+        "material": "Aluminum",
+        "weight": "23.7 Kilograms"
     },
     {
         "asin": "B0CJVCM65C",
@@ -3647,20 +3443,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "ME03S-APP"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "10\"D x 12\"W x 10\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -3673,10 +3457,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "12 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.2 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -3768,7 +3548,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "ME03S-APP",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "2.2 Pounds"
     },
     {
         "asin": "B00CSAJ2TA",
@@ -3783,20 +3567,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "EFX 885"
-            },
-            {
-                "key": "Color",
-                "value": "Multicolor"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "85\"D x 32\"W x 44\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum, Polypropylene (PP)"
             },
             {
                 "key": "Resistance Mechanism",
@@ -3809,10 +3581,6 @@
             {
                 "key": "Screen Size",
                 "value": "15 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "190 Kilograms"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -3900,7 +3668,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "EFX 885",
+        "color": "Multicolor",
+        "material": "Aluminum, Polypropylene (PP)",
+        "weight": "190 Kilograms"
     },
     {
         "asin": "B0DDKY8S4R",
@@ -3917,20 +3689,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "AMA006015-O"
-            },
-            {
-                "key": "Color",
-                "value": "Warm Orange"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "17\"D x 15.5\"W x 8.7\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Resistance Mechanism",
@@ -3943,10 +3703,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "17 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "12.3 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -4130,7 +3886,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AMA006015-O",
+        "color": "Warm Orange",
+        "material": "Aluminum",
+        "weight": "12.3 Pounds"
     },
     {
         "asin": "B0CQK15SZT",
@@ -4150,20 +3910,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "EM-02"
-            },
-            {
-                "key": "Color",
-                "value": "Green"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "16.93\"D x 13.39\"W x 9.85\"H"
-            },
-            {
-                "key": "Material",
-                "value": "ABS Plastic, Aluminum"
             },
             {
                 "key": "Resistance Mechanism",
@@ -4176,10 +3924,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "11.8 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "7.5 Kilograms"
             },
             {
                 "key": "Manufacturer",
@@ -4255,7 +3999,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "EM-02",
+        "color": "Green",
+        "material": "ABS Plastic, Aluminum",
+        "weight": "7.5 Kilograms"
     },
     {
         "asin": "B07MBQ19Z2",
@@ -4272,20 +4020,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Ellipse"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "23\"D x 18\"W x 10\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Steel and High-Impact Plastic"
             },
             {
                 "key": "Resistance Mechanism",
@@ -4298,10 +4034,6 @@
             {
                 "key": "Screen Size",
                 "value": "2.2 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "13.68 Kilograms"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -4393,7 +4125,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Ellipse",
+        "color": "Black",
+        "material": "Steel and High-Impact Plastic",
+        "weight": "13.68 Kilograms"
     },
     {
         "asin": "B00HAUVECQ",
@@ -4410,20 +4146,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "E5000"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "68\"D x 31\"W x 69\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Iron, Plastic"
             },
             {
                 "key": "Resistance Mechanism",
@@ -4440,10 +4164,6 @@
             {
                 "key": "Screen Size",
                 "value": "21 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "280 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -4543,7 +4263,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "E5000",
+        "color": "Black",
+        "material": "Iron, Plastic",
+        "weight": "280 Pounds"
     },
     {
         "asin": "B0DSFW65NT",
@@ -4560,20 +4284,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "TM013-BK-GR"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "20.5\"D x 17.5\"W x 10.4\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Metal"
             },
             {
                 "key": "Resistance Mechanism",
@@ -4586,10 +4298,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "13 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "25 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -4705,7 +4413,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "TM013-BK-GR",
+        "color": "Black",
+        "material": "Metal",
+        "weight": "25 Pounds"
     },
     {
         "asin": "B0C73DJR41",
@@ -4885,18 +4597,6 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Commercial 9.9"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Metal Plastic"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -4911,10 +4611,6 @@
             {
                 "key": "Screen Size",
                 "value": "7 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "93 Kilograms"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -5018,7 +4714,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Commercial 9.9",
+        "color": "Black",
+        "material": "Metal Plastic",
+        "weight": "93 Kilograms"
     },
     {
         "asin": "B08GYQFT5W",
@@ -5038,24 +4738,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Number of Batteries",
                 "value": "1 LR44 batteries required. (included)"
             },
             {
                 "key": "Product Dimensions",
                 "value": "16.3\"L x 12.8\"W x 13.6\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "16.2 Pounds"
             },
             {
                 "key": "Weight Limit",
@@ -5092,10 +4780,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year structural frame / 180 days other parts and components"
-            },
-            {
-                "key": "Model Name",
-                "value": "Step Machine 0978+Smart"
             },
             {
                 "key": "Suggested Users",
@@ -5263,7 +4947,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Step Machine 0978+Smart",
+        "color": "Grey",
+        "material": "Alloy Steel",
+        "weight": "16.2 Pounds"
     },
     {
         "asin": "B00PISO2UI",
@@ -5280,18 +4968,6 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "EFX 576i"
-            },
-            {
-                "key": "Color",
-                "value": "silver, grey"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -5306,10 +4982,6 @@
             {
                 "key": "Screen Size",
                 "value": "24.7 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "338 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -5381,7 +5053,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "EFX 576i",
+        "color": "silver, grey",
+        "material": "Alloy Steel",
+        "weight": "338 Pounds"
     },
     {
         "asin": "B0C2QKBWLS",
@@ -5398,20 +5074,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "YF-90"
-            },
-            {
-                "key": "Color",
-                "value": "Silver"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "44\"D x 20\"W x 63\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Resistance Mechanism",
@@ -5428,10 +5092,6 @@
             {
                 "key": "Screen Size",
                 "value": "20 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "15 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -5519,7 +5179,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "YF-90",
+        "color": "Silver",
+        "material": "Aluminum",
+        "weight": "15 Pounds"
     },
     {
         "asin": "B07F45N1VK",
@@ -5536,20 +5200,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Experience Series EFX 833"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "67\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Stainless Steel, Polypropylene"
             },
             {
                 "key": "Resistance Mechanism",
@@ -5558,10 +5210,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "18 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "338 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -5673,7 +5321,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Experience Series EFX 833",
+        "color": "Black",
+        "material": "Stainless Steel, Polypropylene",
+        "weight": "338 Pounds"
     },
     {
         "asin": "B0DCNWTJ18",
@@ -5691,20 +5343,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "YE40"
-            },
-            {
-                "key": "Color",
-                "value": "Black/orange"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "53.15\"D x 23.82\"W x 63.19\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -5717,10 +5357,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "17 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "38 Kilograms"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -5804,7 +5440,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "YE40",
+        "color": "Black/orange",
+        "material": "Carbon Steel",
+        "weight": "38 Kilograms"
     },
     {
         "asin": "B0DF2WS15J",
@@ -5821,20 +5461,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "FZH834"
-            },
-            {
-                "key": "Color",
-                "value": "orange"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "16.3\"D x 12.4\"W x 9.6\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -5847,10 +5475,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "20 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "13.7 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -5934,7 +5558,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "FZH834",
+        "color": "orange",
+        "material": "Alloy Steel",
+        "weight": "13.7 Pounds"
     },
     {
         "asin": "B0C4ZB3WT5",
@@ -5959,24 +5587,12 @@
                 "value": "Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Corded Electric"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "135 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -5993,10 +5609,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber or Stainless Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "Original Peloton Bike | Indoor Stationary Exercise Bike with Immersive 22\" HD Touchscreen (Updated Seat Post)"
             },
             {
                 "key": "Maximum Height",
@@ -6124,7 +5736,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Original Peloton Bike | Indoor Stationary Exercise Bike with Immersive 22\" HD Touchscreen (Updated Seat Post)",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "135 Pounds"
     },
     {
         "asin": "B0053O3Y4W",
@@ -6141,20 +5757,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "EFX 833"
-            },
-            {
-                "key": "Color",
-                "value": "black, silver"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "85\"D x 32\"W x 44\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Polypropylene (PP), Polyurethane, Stainless Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -6171,10 +5775,6 @@
             {
                 "key": "Screen Size",
                 "value": "80 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "394 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -6254,7 +5854,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "EFX 833",
+        "color": "black, silver",
+        "material": "Polypropylene (PP), Polyurethane, Stainless Steel",
+        "weight": "394 Pounds"
     },
     {
         "asin": "B0DBL56337",
@@ -6273,20 +5877,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "509 Elipitical"
-            },
-            {
-                "key": "Color",
-                "value": "Black/Orange"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "17.3\"D x 8.6\"W x 14.5\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Plastic"
             },
             {
                 "key": "Resistance Mechanism",
@@ -6299,10 +5891,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "18 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "5.4 Kilograms"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -6438,7 +6026,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "509 Elipitical",
+        "color": "Black/Orange",
+        "material": "Plastic",
+        "weight": "5.4 Kilograms"
     },
     {
         "asin": "B0CVJSWJR8",
@@ -6460,20 +6052,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Elite EM X Elliptical Trainer"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "66\"D x 29.5\"W x 65\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Plastic, Metal"
             },
             {
                 "key": "Resistance Mechanism",
@@ -6486,10 +6066,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "23 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "143 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -6577,7 +6153,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Elite EM X Elliptical Trainer",
+        "color": "Black",
+        "material": "Plastic, Metal",
+        "weight": "143 Pounds"
     },
     {
         "asin": "B0029KOD66",
@@ -6594,18 +6174,6 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "EFX 546i Version 4 New Body Style"
-            },
-            {
-                "key": "Color",
-                "value": "black, silver"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Aluminum, Polyurethane"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
@@ -6620,10 +6188,6 @@
             {
                 "key": "Screen Size",
                 "value": "24.7 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "318 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -6691,7 +6255,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "EFX 546i Version 4 New Body Style",
+        "color": "black, silver",
+        "material": "Alloy Steel, Aluminum, Polyurethane",
+        "weight": "318 Pounds"
     },
     {
         "asin": "B0CRYSX4X3",
@@ -6708,20 +6276,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "MR-E32"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "17.9\"D x 9.64\"W x 15.43\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -6734,10 +6290,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "15 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "8.8 Kilograms"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -6885,7 +6437,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "MR-E32",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "8.8 Kilograms"
     },
     {
         "asin": "B08MVG81P6",
@@ -6907,20 +6463,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Teeter FreeStep Recumbent Cross Trainer Stepper, Zero-Impact Exercise Bike Alternative w/Patented Physical Therapy Stride, Up to 350lb, Free App w/Trainer Workouts"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "54\"D x 38\"W x 52.5\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -6933,10 +6477,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "11 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "110.2 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -7112,7 +6652,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Teeter FreeStep Recumbent Cross Trainer Stepper, Zero-Impact Exercise Bike Alternative w/Patented Physical Therapy Stride, Up to 350lb, Free App w/Trainer Workouts",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "110.2 Pounds"
     },
     {
         "asin": "B07DVMJCTM",
@@ -7129,20 +6673,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "EFX 546i Version 4 New Body Style"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "80\"D x 32\"W x 68\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -7159,10 +6691,6 @@
             {
                 "key": "Screen Size",
                 "value": "24.7 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "318 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -7242,7 +6770,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "EFX 546i Version 4 New Body Style",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "318 Pounds"
     },
     {
         "asin": "B06WW5XXJL",
@@ -7266,10 +6798,6 @@
                 "value": "Ergonomic, Adjustable Resistance, Anti-Slip, Compact, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Silver"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Hydraulic"
             },
@@ -7286,24 +6814,12 @@
                 "value": "Time, Count, Calories, Scan"
             },
             {
-                "key": "Model Name",
-                "value": "SF-RW5639"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "33 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "12"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -7583,7 +7099,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-RW5639",
+        "color": "Silver",
+        "material": "Alloy Steel",
+        "weight": "33 Pounds"
     },
     {
         "asin": "B0D216VS11",
@@ -7605,20 +7125,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "SF-E324005"
-            },
-            {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "47.2\"D x 25.6\"W x 58.5\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -7631,10 +7139,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "12 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "61.8 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -7806,7 +7310,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-E324005",
+        "color": "Gray",
+        "material": "Alloy Steel",
+        "weight": "61.8 Pounds"
     },
     {
         "asin": "B0CFR8GWYR",
@@ -7825,24 +7333,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Performance"
             },
             {
                 "key": "Product Dimensions",
                 "value": "68\"D x 33\"W x 62\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "250 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -7919,10 +7415,6 @@
             {
                 "key": "UPC",
                 "value": "810075991604"
-            },
-            {
-                "key": "Model Name",
-                "value": "Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -8002,7 +7494,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Treadmill",
+        "color": "Black",
+        "material": "Carbon Steel",
+        "weight": "250 Pounds"
     },
     {
         "asin": "B07HQ164VM",
@@ -8019,20 +7515,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Commercial 14.9"
-            },
-            {
-                "key": "Color",
-                "value": "black, silver"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "28.8\"D x 68.3\"W x 68.5\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Plastic, Metal"
             },
             {
                 "key": "Resistance Mechanism",
@@ -8049,10 +7533,6 @@
             {
                 "key": "Screen Size",
                 "value": "10 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "210 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -8144,7 +7624,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Commercial 14.9",
+        "color": "black, silver",
+        "material": "Plastic, Metal",
+        "weight": "210 Pounds"
     },
     {
         "asin": "B0C8342FMM",
@@ -8170,10 +7654,6 @@
                 "value": "Adjustable Foot Strap, Ergonomic, Compact"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Hydraulic"
             },
@@ -8190,24 +7670,12 @@
                 "value": "Calories, Count, Scan, Time"
             },
             {
-                "key": "Model Name",
-                "value": "SF-RW1205SMART"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "22.4 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "12 levels"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -8371,7 +7839,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-RW1205SMART",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "22.4 Pounds"
     },
     {
         "asin": "B0CMXYLXQQ",
@@ -8392,20 +7864,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "YSD-SE01"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "16.5\"D x 13\"W x 8\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -8418,10 +7878,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "13 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "7.8 Kilograms"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -8509,7 +7965,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "YSD-SE01",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "7.8 Kilograms"
     },
     {
         "asin": "B0C833W5C3",
@@ -8531,20 +7991,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Handlebar Stepper"
-            },
-            {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "30.9\"D x 19.3\"W x 50.2\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -8561,10 +8009,6 @@
             {
                 "key": "Screen Size",
                 "value": "1.7 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "36.4 Pounds"
             },
             {
                 "key": "Manufacturer",
@@ -8704,7 +8148,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Handlebar Stepper",
+        "color": "Gray",
+        "material": "Alloy Steel",
+        "weight": "36.4 Pounds"
     },
     {
         "asin": "B0CNTC2SDQ",
@@ -8722,20 +8170,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "C5"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "16\"D x 14\"W x 9\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Resistance Mechanism",
@@ -8748,10 +8184,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "15 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "12 Pounds"
             },
             {
                 "key": "Manufacturer",
@@ -8923,7 +8355,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "C5",
+        "color": "Black",
+        "material": "Aluminum",
+        "weight": "12 Pounds"
     },
     {
         "asin": "B07MWV1JD7",
@@ -8943,20 +8379,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "SF-E3872"
-            },
-            {
-                "key": "Color",
-                "value": "Gray-Magnetic"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "25\"D x 20\"W x 12\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -8973,10 +8397,6 @@
             {
                 "key": "Screen Size",
                 "value": "7 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "25 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -9252,7 +8672,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-E3872",
+        "color": "Gray-Magnetic",
+        "material": "Alloy Steel",
+        "weight": "25 Pounds"
     },
     {
         "asin": "B0CX33CPR2",
@@ -9274,20 +8698,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "LT7"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "59\"D x 32.7\"W x 54.8\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -9304,10 +8716,6 @@
             {
                 "key": "Screen Size",
                 "value": "13 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "150 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -9487,7 +8895,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "LT7",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "150 Pounds"
     },
     {
         "asin": "B0BLFNN6JR",
@@ -9504,20 +8916,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "MOVE"
-            },
-            {
-                "key": "Color",
-                "value": "Aqua"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "21.7\"D x 19.7\"W x 9.7\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Metal"
             },
             {
                 "key": "Resistance Mechanism",
@@ -9534,10 +8934,6 @@
             {
                 "key": "Screen Size",
                 "value": "7 Centimeters"
-            },
-            {
-                "key": "Item Weight",
-                "value": "17.6 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -9637,7 +9033,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "MOVE",
+        "color": "Aqua",
+        "material": "Metal",
+        "weight": "17.6 Pounds"
     },
     {
         "asin": "B01LYRNITC",
@@ -9654,20 +9054,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "XTERRA EU100 Elliptical/Upright Bike Hybrid"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "42.5\"D x 24.5\"W x 61.5\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Plastic"
             },
             {
                 "key": "Resistance Mechanism",
@@ -9684,10 +9072,6 @@
             {
                 "key": "Screen Size",
                 "value": "3.7 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "73.9 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -9859,7 +9243,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "XTERRA EU100 Elliptical/Upright Bike Hybrid",
+        "color": "Black",
+        "material": "Alloy Steel, Plastic",
+        "weight": "73.9 Pounds"
     },
     {
         "asin": "B07SRDFKQR",
@@ -9881,20 +9269,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "SF-E3912"
-            },
-            {
-                "key": "Color",
-                "value": "Silver"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "55\"D x 23\"W x 64.5\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -9911,10 +9287,6 @@
             {
                 "key": "Screen Size",
                 "value": "35.6 Centimeters"
-            },
-            {
-                "key": "Item Weight",
-                "value": "104.8 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -10082,7 +9454,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-E3912",
+        "color": "Silver",
+        "material": "Alloy Steel",
+        "weight": "104.8 Pounds"
     },
     {
         "asin": "B0D8W68VGZ",
@@ -10101,20 +9477,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "KMSO16M"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "17.44\"D x 15.55\"W x 10.35\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -10127,10 +9491,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "18 Hundredths-Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "6.53 Kilograms"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -10222,7 +9582,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "KMSO16M",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "6.53 Kilograms"
     },
     {
         "asin": "B088P6TKQB",
@@ -10239,20 +9603,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Elliptical Trainer 1704"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "46\"D x 24.25\"W x 62.5\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Plastic Housing/Steel Frame"
             },
             {
                 "key": "Resistance Mechanism",
@@ -10261,10 +9613,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "250 Pounds"
-            },
-            {
-                "key": "Item Weight",
-                "value": "66 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -10436,7 +9784,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Elliptical Trainer 1704",
+        "color": "Black",
+        "material": "Plastic Housing/Steel Frame",
+        "weight": "66 Pounds"
     },
     {
         "asin": "B0D3BVXD8J",
@@ -10456,20 +9808,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Elliptical-399"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "49.2\"D x 29.92\"W x 62.2\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -10482,10 +9822,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "15 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "46.27 Kilograms"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -10661,7 +9997,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Elliptical-399",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "46.27 Kilograms"
     },
     {
         "asin": "B0DDXP7GRW",
@@ -10680,20 +10020,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Orange"
-            },
-            {
-                "key": "Material",
-                "value": "Vinyl"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "16.8\"L x 11.02\"W x 18.3\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "14 Pounds"
             },
             {
                 "key": "Manufacturer",
@@ -10722,10 +10050,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year Manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "EB-030"
             },
             {
                 "key": "Suggested Users",
@@ -10781,7 +10105,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "EB-030",
+        "color": "Orange",
+        "material": "Vinyl",
+        "weight": "14 Pounds"
     },
     {
         "asin": "B0DBDSXMJG",
@@ -10798,20 +10126,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Morelax Ellipse Leg Exerciser M858Black"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "14.35\"D x 17.34\"W x 8.85\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Plastic"
             },
             {
                 "key": "Maximum Weight Recommendation",
@@ -10820,10 +10136,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "10 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "14 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -10915,7 +10227,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Morelax Ellipse Leg Exerciser M858Black",
+        "color": "Black",
+        "material": "Plastic",
+        "weight": "14 Pounds"
     },
     {
         "asin": "B09KHG8D8V",
@@ -10931,10 +10247,6 @@
             "FOLDING MECHANISM: The easy folding mechanism allows you to bring the Me-Mover along for your trips by train, car or plane."
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Red"
-            },
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
@@ -10952,20 +10264,12 @@
                 "value": "2"
             },
             {
-                "key": "Model Name",
-                "value": "Me-Mover Fit"
-            },
-            {
                 "key": "Wheel Material",
                 "value": "Aluminum"
             },
             {
                 "key": "Frame Material",
                 "value": "Aluminum"
-            },
-            {
-                "key": "Item Weight",
-                "value": "29.6 Kilograms"
             },
             {
                 "key": "Handlebar Type",
@@ -11022,10 +10326,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 years"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Part Number",
@@ -11193,7 +10493,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Me-Mover Fit",
+        "color": "Red",
+        "material": "Aluminum",
+        "weight": "29.6 Kilograms"
     },
     {
         "asin": "B0D2XCM21M",
@@ -11213,20 +10517,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "UK-3613"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "24.5\"D x 11.4\"W x 17\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -11243,10 +10535,6 @@
             {
                 "key": "Screen Size",
                 "value": "7 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "14.56 Kilograms"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -11338,7 +10626,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "UK-3613",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "14.56 Kilograms"
     },
     {
         "asin": "B0B81FKZVJ",
@@ -11357,20 +10649,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "DSJ-01"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "38\"D x 21\"W x 62\"H"
-            },
-            {
-                "key": "Material",
-                "value": "02 Climber Stepping Elliptical"
             },
             {
                 "key": "Resistance Mechanism",
@@ -11383,10 +10663,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "18 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "94.6 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -11482,7 +10758,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "DSJ-01",
+        "color": "Black",
+        "material": "02 Climber Stepping Elliptical",
+        "weight": "94.6 Pounds"
     },
     {
         "asin": "B00BDMH10Q",
@@ -11499,20 +10779,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "InMotion Compact Strider with Cords"
-            },
-            {
-                "key": "Color",
-                "value": "Black/Green"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "18\"D x 24\"W x 12\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Steel frame, plastic housing, plastic pedals, natural rubber latex resistance tubes"
             },
             {
                 "key": "Resistance Mechanism",
@@ -11521,10 +10789,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "250 Pounds"
-            },
-            {
-                "key": "Item Weight",
-                "value": "24 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -11696,6 +10960,10 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "InMotion Compact Strider with Cords",
+        "color": "Black/Green",
+        "material": "Steel frame, plastic housing, plastic pedals, natural rubber latex resistance tubes",
+        "weight": "24 Pounds"
     }
 ]

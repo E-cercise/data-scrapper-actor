@@ -1,7 +1,6 @@
 import os
 import re
 import json
-import random
 
 def remove_keys(attributes, keys_to_remove):
     """
@@ -62,11 +61,8 @@ def process_data(json_file):
         product["weight"] = weight
         
         product["attributes"] = remove_keys(product["attributes"], ["Brand", "Model Name", "Material", "Color", "Item Weight"])
-        
-        
 
 
-        
     return data
 
 
@@ -80,15 +76,15 @@ def main():
     for filename in os.listdir(input_directory):
         if filename.endswith(".json"):
             input_path = os.path.join(input_directory, filename)
-            processed_data = process_variant_data(input_path)
+            processed_data = process_data(input_path)
 
             # Construct output filename
             base_name = os.path.splitext(filename)[
                 0
             ]  # e.g., "assited_pull_up_machine_unique_clean"
             # Remove "_unique_clean" at the end if it exists
-            base_name = re.sub(r"__clean2$", "", base_name)
-            output_filename = base_name + "_clean.json"
+            output_filename = base_name.replace("clean2", "clean") + ".json"
+            
             output_path = os.path.join(output_directory, output_filename)
 
             with open(output_path, "w") as outfile:

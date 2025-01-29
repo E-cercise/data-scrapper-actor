@@ -777,14 +777,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Green"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "49\"L x 50\"W x 81\"H"
             },
@@ -803,10 +795,6 @@
             {
                 "key": "Warranty Type",
                 "value": "Limited"
-            },
-            {
-                "key": "Item Weight",
-                "value": "88 Pounds"
             },
             {
                 "key": "Manufacturer",
@@ -835,10 +823,6 @@
             {
                 "key": "Warranty Description",
                 "value": "3 Years Frame; 90 Days Parts"
-            },
-            {
-                "key": "Model Name",
-                "value": "Stamina\u00ae Outdoor Fitness Power Tower"
             },
             {
                 "key": "Suggested Users",
@@ -898,7 +882,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Stamina\u00ae Outdoor Fitness Power Tower",
+        "color": "Green",
+        "material": "Alloy Steel",
+        "weight": "88 Pounds"
     },
     {
         "asin": "B0C4YQNQ1T",
@@ -915,10 +903,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "440 Pounds"
             },
@@ -927,20 +911,12 @@
                 "value": "Wall Mount"
             },
             {
-                "key": "Material",
-                "value": "Carbon Steel"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Portable, Multiple Grip Position"
             },
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.95 Kilograms"
             },
             {
                 "key": "Item Package Dimensions L x W x H",
@@ -957,10 +933,6 @@
             {
                 "key": "Warranty Description",
                 "value": "24 months manufacturer\u2019s warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "Pull Up Bar for Doorway"
             },
             {
                 "key": "Suggested Users",
@@ -1068,7 +1040,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Pull Up Bar for Doorway",
+        "color": "Black",
+        "material": "Carbon Steel",
+        "weight": "1.95 Kilograms"
     },
     {
         "asin": "B0D58HLFGN",
@@ -1207,20 +1183,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "220 Pounds"
             },
             {
                 "key": "Mounting Type",
                 "value": "Doorway Mount"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Special Feature",
@@ -1233,10 +1201,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.75 Pounds"
             },
             {
                 "key": "UPC",
@@ -1265,10 +1229,6 @@
             {
                 "key": "Warranty Description",
                 "value": "Limited Lifetime Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "Pull-Up Bars"
             },
             {
                 "key": "Suggested Users",
@@ -1484,7 +1444,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Pull-Up Bars",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "2.75 Pounds"
     },
     {
         "asin": "B0DHVGPWPY",
@@ -2223,18 +2187,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon, Natural Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "1-Orange"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.21 Kilograms"
-            },
-            {
                 "key": "Sport",
                 "value": "Weightlifting, pull up, Exercise and Fitness, Body Building, Strength Training"
             },
@@ -2249,10 +2201,6 @@
             {
                 "key": "Special Feature",
                 "value": "Stackable, Anti-Snap, Adjustable"
-            },
-            {
-                "key": "Model Name",
-                "value": "pull up assist band"
             },
             {
                 "key": "Style",
@@ -2532,7 +2480,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "pull up assist band",
+        "color": "1-Orange",
+        "material": "Nylon, Natural Rubber",
+        "weight": "1.21 Kilograms"
     },
     {
         "asin": "B003TYCVKG",
@@ -2551,20 +2503,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "350 Pounds"
             },
             {
                 "key": "Mounting Type",
                 "value": "Ceiling Mount"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Special Feature",
@@ -2577,10 +2521,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "4.88 Kilograms"
             },
             {
                 "key": "UPC",
@@ -2609,10 +2549,6 @@
             {
                 "key": "Warranty Description",
                 "value": "10 Year Limited"
-            },
-            {
-                "key": "Model Name",
-                "value": "Joist Mount Pull Up Bar"
             },
             {
                 "key": "Suggested Users",
@@ -2676,7 +2612,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Joist Mount Pull Up Bar",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "4.88 Kilograms"
     },
     {
         "asin": "B00WTN683Y",
@@ -3087,20 +3027,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Rotating Pull Up Handles"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Kilograms"
             },
             {
                 "key": "Mounting Type",
                 "value": "Doorway Mount"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Special Feature",
@@ -3113,10 +3045,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.24 Kilograms"
             },
             {
                 "key": "UPC",
@@ -3145,10 +3073,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 DAYS RETURN & 1 YEAR WARRANTY"
-            },
-            {
-                "key": "Model Name",
-                "value": "1NHS"
             },
             {
                 "key": "Suggested Users",
@@ -3208,7 +3132,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "1NHS",
+        "color": "Rotating Pull Up Handles",
+        "material": "Alloy Steel",
+        "weight": "2.24 Kilograms"
     },
     {
         "asin": "B0BKPGWL83",
@@ -3777,20 +3705,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Chrome/Black"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Pounds"
             },
             {
                 "key": "Mounting Type",
                 "value": "Doorway Mount"
-            },
-            {
-                "key": "Material",
-                "value": "Metal"
             },
             {
                 "key": "Special Feature",
@@ -3803,10 +3723,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "3.7 Pounds"
             },
             {
                 "key": "UPC",
@@ -3835,10 +3751,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day Amazon Return"
-            },
-            {
-                "key": "Model Name",
-                "value": "20-0265-B"
             },
             {
                 "key": "Suggested Users",
@@ -3914,7 +3826,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "20-0265-B",
+        "color": "Chrome/Black",
+        "material": "Metal",
+        "weight": "3.7 Pounds"
     },
     {
         "asin": "B00F6N54JI",
@@ -3931,20 +3847,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "500 Pounds"
             },
             {
                 "key": "Mounting Type",
                 "value": "Wall Mount"
-            },
-            {
-                "key": "Material",
-                "value": "Metal"
             },
             {
                 "key": "Special Feature",
@@ -3957,10 +3865,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "25 Pounds"
             },
             {
                 "key": "UPC",
@@ -3985,10 +3889,6 @@
             {
                 "key": "Brand Name",
                 "value": "Rage Fitness"
-            },
-            {
-                "key": "Model Name",
-                "value": "RAGE Fitness R2 Wall Mounted Pull-up Bar"
             },
             {
                 "key": "Number of Items",
@@ -4056,7 +3956,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RAGE Fitness R2 Wall Mounted Pull-up Bar",
+        "color": "Black",
+        "material": "Metal",
+        "weight": "25 Pounds"
     },
     {
         "asin": "B09PRD5GRS",
@@ -5245,10 +5149,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Red"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "250 Pounds"
             },
@@ -5257,20 +5157,12 @@
                 "value": "Doorway Mount"
             },
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Heavy Duty,Lightweight,Portable"
             },
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "12 Pounds"
             },
             {
                 "key": "UPC",
@@ -5299,10 +5191,6 @@
             {
                 "key": "Warranty Description",
                 "value": "Stamina Products, Inc. (\u201cStamina\u201d) warrants to the original purchaser that this product will be free from defects in materials and workmanship that arise under normal use, service, proper assembly and proper operation in accordance with product warnings/ instructions for a period of 90 days on the parts and one year on the frame from the date of the original purchase from an authorized retailer."
-            },
-            {
-                "key": "Model Name",
-                "value": "Boulder Fit Doorway Trainer"
             },
             {
                 "key": "Suggested Users",
@@ -5382,7 +5270,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Boulder Fit Doorway Trainer",
+        "color": "Red",
+        "material": "Alloy Steel",
+        "weight": "12 Pounds"
     },
     {
         "asin": "B0DD37TYC2",
@@ -5401,20 +5293,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black-Red"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "440 Pounds"
             },
             {
                 "key": "Mounting Type",
                 "value": "Doorway Mount"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Special Feature",
@@ -5427,10 +5311,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "4.4 Pounds"
             },
             {
                 "key": "Item Package Dimensions L x W x H",
@@ -5451,10 +5331,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 year manufacture"
-            },
-            {
-                "key": "Model Name",
-                "value": "soportneer pull up bar black red"
             },
             {
                 "key": "Suggested Users",
@@ -5522,7 +5398,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "soportneer pull up bar black red",
+        "color": "Black-Red",
+        "material": "Alloy Steel",
+        "weight": "4.4 Pounds"
     },
     {
         "asin": "B0016BNDXI",
@@ -5540,20 +5420,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Steel"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "220 Pounds"
             },
             {
                 "key": "Mounting Type",
                 "value": "Doorway Mount"
-            },
-            {
-                "key": "Material",
-                "value": "Chrome"
             },
             {
                 "key": "Special Feature",
@@ -5566,10 +5438,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "3 Pounds"
             },
             {
                 "key": "UPC",
@@ -5602,10 +5470,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year manufacturer Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "NO. 025"
             },
             {
                 "key": "Suggested Users",
@@ -5685,7 +5549,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "NO. 025",
+        "color": "Steel",
+        "material": "Chrome",
+        "weight": "3 Pounds"
     },
     {
         "asin": "B098DRVM3H",
@@ -6176,20 +6044,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "2E+2 Pounds"
             },
             {
                 "key": "Mounting Type",
                 "value": "smaller bars are inserted into bigger bars"
-            },
-            {
-                "key": "Material",
-                "value": "high-strength alloy steel, Powder coating"
             },
             {
                 "key": "Special Feature",
@@ -6202,10 +6062,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult and Kids 4+"
-            },
-            {
-                "key": "Item Weight",
-                "value": "39.7 Pounds"
             },
             {
                 "key": "Item Package Dimensions L x W x H",
@@ -6222,10 +6078,6 @@
             {
                 "key": "Brand Name",
                 "value": "KT KHANH TRINH"
-            },
-            {
-                "key": "Model Name",
-                "value": "KT1.1518"
             },
             {
                 "key": "Suggested Users",
@@ -6297,7 +6149,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "KT1.1518",
+        "color": "Black",
+        "material": "high-strength alloy steel, Powder coating",
+        "weight": "39.7 Pounds"
     },
     {
         "asin": "B01NCP3S71",
@@ -6314,20 +6170,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Metallic Gray"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "3E+2 Pounds"
             },
             {
                 "key": "Mounting Type",
                 "value": "Doorway Mount"
-            },
-            {
-                "key": "Material",
-                "value": "heavy steel tubing, premium hardware, ABS, high density foam padding"
             },
             {
                 "key": "Special Feature",
@@ -6340,10 +6188,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "10.2 Pounds"
             },
             {
                 "key": "UPC",
@@ -6372,10 +6216,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day Satisfaction Guarantee, 10 Year Limited Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "XL Doorway Pull Up Bar with Elevated Bar and Adjustable Width"
             },
             {
                 "key": "Suggested Users",
@@ -6443,7 +6283,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "XL Doorway Pull Up Bar with Elevated Bar and Adjustable Width",
+        "color": "Metallic Gray",
+        "material": "heavy steel tubing, premium hardware, ABS, high density foam padding",
+        "weight": "10.2 Pounds"
     },
     {
         "asin": "B0DSC84S3T",
@@ -6460,10 +6304,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "single attribute"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "360 Grams"
             },
@@ -6472,20 +6312,12 @@
                 "value": "refer to description"
             },
             {
-                "key": "Material",
-                "value": "steel pipe"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Refer to description"
             },
             {
                 "key": "Age Range (Description)",
                 "value": "Refer to description"
-            },
-            {
-                "key": "Item Weight",
-                "value": "12.64 ounces"
             },
             {
                 "key": "Item Package Dimensions L x W x H",
@@ -6498,10 +6330,6 @@
             {
                 "key": "Brand Name",
                 "value": "Generic"
-            },
-            {
-                "key": "Model Name",
-                "value": "Generic-NLCIUFU6J5OA07LHN"
             },
             {
                 "key": "Manufacturer",
@@ -6577,7 +6405,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Generic-NLCIUFU6J5OA07LHN",
+        "color": "single attribute",
+        "material": "steel pipe",
+        "weight": "12.64 ounces"
     },
     {
         "asin": "B0B3Y6R2KG",
@@ -7001,16 +6833,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Mounting Type",
                 "value": "Wall Mount"
-            },
-            {
-                "key": "Material",
-                "value": "Rubber"
             },
             {
                 "key": "Special Feature",
@@ -7023,10 +6847,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "48 Pounds"
             },
             {
                 "key": "UPC",
@@ -7051,10 +6871,6 @@
             {
                 "key": "Brand Name",
                 "value": "XMark"
-            },
-            {
-                "key": "Model Name",
-                "value": "XM-9025"
             },
             {
                 "key": "Manufacturer",
@@ -7114,7 +6930,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "XM-9025",
+        "color": "Black",
+        "material": "Rubber",
+        "weight": "48 Pounds"
     },
     {
         "asin": "B0D63KKN1S",
@@ -7253,14 +7073,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Steel, foam"
-            },
-            {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "49\"L x 42.5\"W x 81\"H"
             },
@@ -7279,10 +7091,6 @@
             {
                 "key": "Warranty Type",
                 "value": "Limited"
-            },
-            {
-                "key": "Item Weight",
-                "value": "54 Pounds"
             },
             {
                 "key": "Manufacturer",
@@ -7315,10 +7123,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year frame/90 days parts"
-            },
-            {
-                "key": "Model Name",
-                "value": "Model 1690"
             },
             {
                 "key": "Suggested Users",
@@ -7402,7 +7206,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Model 1690",
+        "color": "Grey",
+        "material": "Steel, foam",
+        "weight": "54 Pounds"
     },
     {
         "asin": "B00SFD36IW",
@@ -7420,20 +7228,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "white and black"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "450 Pounds"
             },
             {
                 "key": "Mounting Type",
                 "value": "Ceiling Mount"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Special Feature",
@@ -7446,10 +7246,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "5.26 Kilograms"
             },
             {
                 "key": "UPC",
@@ -7474,10 +7270,6 @@
             {
                 "key": "Warranty Description",
                 "value": "10 Year Limited"
-            },
-            {
-                "key": "Model Name",
-                "value": "Ceiling Mount Pull Up Bar for 8' Ceilings"
             },
             {
                 "key": "Suggested Users",
@@ -7549,7 +7341,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Ceiling Mount Pull Up Bar for 8' Ceilings",
+        "color": "white and black",
+        "material": "Alloy Steel",
+        "weight": "5.26 Kilograms"
     },
     {
         "asin": "B0CWYFQBSF",
@@ -8251,10 +8047,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Pounds"
             },
@@ -8263,20 +8055,12 @@
                 "value": "Doorway Mount"
             },
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Portable, Adjustable"
             },
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "4.8 Pounds"
             },
             {
                 "key": "Item Package Dimensions L x W x H",
@@ -8297,10 +8081,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1-year of FREE replacement parts for brand new products!"
-            },
-            {
-                "key": "Model Name",
-                "value": "AB7000"
             },
             {
                 "key": "Suggested Users",
@@ -8364,7 +8144,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AB7000",
+        "color": "Grey",
+        "material": "Alloy Steel",
+        "weight": "4.8 Pounds"
     },
     {
         "asin": "B07FK7KXQX",
@@ -8496,18 +8280,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Orange"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.8 Pounds"
-            },
-            {
                 "key": "Sport",
                 "value": "Exercise and Fitness"
             },
@@ -8522,10 +8294,6 @@
             {
                 "key": "Special Feature",
                 "value": "Adjustable"
-            },
-            {
-                "key": "Model Name",
-                "value": "Pull Up Assistance Band"
             },
             {
                 "key": "Manufacturer",
@@ -8605,7 +8373,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Pull Up Assistance Band",
+        "color": "Orange",
+        "material": "Nylon",
+        "weight": "0.8 Pounds"
     },
     {
         "asin": "B0B2WFTN9R",

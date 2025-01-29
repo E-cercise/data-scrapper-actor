@@ -720,16 +720,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Style",
                 "value": "Chrome Handle"
-            },
-            {
-                "key": "Item Weight",
-                "value": "51.8 Pounds"
             },
             {
                 "key": "Number of Racks",
@@ -762,14 +754,6 @@
             {
                 "key": "Brand Name",
                 "value": "Cap Barbell"
-            },
-            {
-                "key": "Model Name",
-                "value": "CAP Barbell 50lb Coated Hex Dumbbell Set"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -829,7 +813,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "CAP Barbell 50lb Coated Hex Dumbbell Set",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "51.8 Pounds"
     },
     {
         "asin": "B0CZ3HT6X6",
@@ -1720,18 +1708,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Chrome No Collars"
-            },
-            {
-                "key": "Item Weight",
-                "value": "9.8 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Non Slip"
             },
@@ -1782,10 +1758,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 day manufacturer warranty from date of original purchase from an authorized dealer in original packaging"
-            },
-            {
-                "key": "Model Name",
-                "value": "Olympic Dumbbell Handle"
             },
             {
                 "key": "Suggested Users",
@@ -1985,7 +1957,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Olympic Dumbbell Handle",
+        "color": "Chrome No Collars",
+        "material": "Aluminum",
+        "weight": "9.8 Pounds"
     },
     {
         "asin": "B0CY4GX63H",
@@ -2173,14 +2149,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "20 Pounds"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Knurled"
             },
@@ -2223,14 +2191,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2-Year Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "NEW OB"
-            },
-            {
-                "key": "Color",
-                "value": "Chrome"
             },
             {
                 "key": "Suggested Users",
@@ -2398,7 +2358,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "NEW OB",
+        "color": "Chrome",
+        "material": "Alloy Steel",
+        "weight": "20 Pounds"
     },
     {
         "asin": "B00R93GJ74",
@@ -2414,14 +2378,6 @@
             "\u3010 SMOOTH & BALANCED PERFORMANCE \u3011: Rage Fitness barbell provides a smooth and balanced lifting experience. The weight distribution along the bar ensures stability and control during lifts, allowing you to focus on proper form and technique. Moreover, our training barbell securely holds the weight plates in place, preventing accidental slipping during exercises."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Aluminum"
-            },
-            {
-                "key": "Item Weight",
-                "value": "15 Pounds"
-            },
             {
                 "key": "Grip Type",
                 "value": "Knurled"
@@ -2481,14 +2437,6 @@
             {
                 "key": "Warranty Description",
                 "value": "RAGE FITNESS EQUIPMENT (WITH THE EXCEPTION OF GRIPS) IS GUARANTEED FOR A PERIOD OF ONE YEAR FROM DATE OF INVOICE AGAINST FAULTY MANUFACTURING OR DEFECTS IN MATERIAL."
-            },
-            {
-                "key": "Model Name",
-                "value": "Olympic Training"
-            },
-            {
-                "key": "Color",
-                "value": "Chrome"
             },
             {
                 "key": "Suggested Users",
@@ -2560,7 +2508,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Olympic Training",
+        "color": "Chrome",
+        "material": "Aluminum",
+        "weight": "15 Pounds"
     },
     {
         "asin": "B0BFYKYKCQ",
@@ -2576,14 +2528,6 @@
             "TRUST \u2013 Trust experience; CAP has been a pioneer in the fitness industry for over 30 years and has locations worldwide; Chances are if you have ever worked out before you have used a CAP product."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "44 Pounds"
-            },
             {
                 "key": "Grip Type",
                 "value": "Knurled"
@@ -2635,14 +2579,6 @@
             {
                 "key": "Brand Name",
                 "value": "Cap Barbell"
-            },
-            {
-                "key": "Model Name",
-                "value": "85in, Straight Bar, 44LB, Chrome"
-            },
-            {
-                "key": "Color",
-                "value": "Chrome - 28mm Grip"
             },
             {
                 "key": "Suggested Users",
@@ -2702,7 +2638,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "85in, Straight Bar, 44LB, Chrome",
+        "color": "Chrome - 28mm Grip",
+        "material": "Alloy Steel",
+        "weight": "44 Pounds"
     },
     {
         "asin": "B0DJPRXLBS",
@@ -4609,16 +4549,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "The CAP Barbell 100 LB Coated Hex Dumbbell Weight Set is made of several materials. dumbbells are ASTM A48 Class 20 grey iron and joined together by a 1018 cold rolled solid steel handle with an extreme durable rubber coating. A-frame dumbbell rack finished black powder coat. Therefore, the 'material' attribute for this product 'grey iron, steel, rubber'."
-            },
-            {
                 "key": "Style",
                 "value": "Compact"
-            },
-            {
-                "key": "Item Weight",
-                "value": "51.8 Pounds"
             },
             {
                 "key": "Number of Racks",
@@ -4651,14 +4583,6 @@
             {
                 "key": "Brand Name",
                 "value": "Cap Barbell"
-            },
-            {
-                "key": "Model Name",
-                "value": "CAP Barbell 50lb Coated Hex Dumbbell Set"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -4722,7 +4646,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "CAP Barbell 50lb Coated Hex Dumbbell Set",
+        "color": "Black",
+        "material": "The CAP Barbell 100 LB Coated Hex Dumbbell Weight Set is made of several materials. dumbbells are ASTM A48 Class 20 grey iron and joined together by a 1018 cold rolled solid steel handle with an extreme durable rubber coating. A-frame dumbbell rack finished black powder coat. Therefore, the 'material' attribute for this product 'grey iron, steel, rubber'.",
+        "weight": "51.8 Pounds"
     },
     {
         "asin": "B0B56BYQNR",
@@ -7380,14 +7308,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "61 Pounds"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Textured"
             },
@@ -7446,14 +7366,6 @@
             {
                 "key": "Warranty Description",
                 "value": "90 Day Limited"
-            },
-            {
-                "key": "Model Name",
-                "value": "Deluxe Dumbbell"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -7537,7 +7449,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Deluxe Dumbbell",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "61 Pounds"
     },
     {
         "asin": "B0D53H2FXR",
@@ -8244,28 +8160,12 @@
                 "value": "48 x 23.6 x 89.9 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "60 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Soozier"
             },
             {
                 "key": "Warranty Description",
                 "value": "1 Year Warranty Against Manufacturer Defects"
-            },
-            {
-                "key": "Model Name",
-                "value": "Folding Squat Rack"
-            },
-            {
-                "key": "Color",
-                "value": "Yellow"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Suggested Users",
@@ -8445,7 +8345,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Folding Squat Rack",
+        "color": "Yellow",
+        "material": "Alloy Steel",
+        "weight": "60 Pounds"
     },
     {
         "asin": "B09T6L2WH7",
@@ -8752,28 +8656,12 @@
                 "value": "4.1 x 4.1 x 0.1 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "0.9 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "LYHOME"
             },
             {
                 "key": "Warranty Description",
                 "value": "1 Year Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "LY-LM-02"
-            },
-            {
-                "key": "Color",
-                "value": "Deep Black"
-            },
-            {
-                "key": "Material",
-                "value": "Rubber"
             },
             {
                 "key": "Suggested Users",
@@ -8833,7 +8721,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "LY-LM-02",
+        "color": "Deep Black",
+        "material": "Rubber",
+        "weight": "0.9 Pounds"
     },
     {
         "asin": "B0013SZC8S",
@@ -8851,20 +8743,12 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "22\"D x 19\"W x 37\"H"
             },
             {
                 "key": "Style",
                 "value": "Compact"
-            },
-            {
-                "key": "Item Weight",
-                "value": "4.64 ounces"
             },
             {
                 "key": "Number of Racks",
@@ -8909,14 +8793,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 day manufacturer warranty from date of original sale from an authorized dealer"
-            },
-            {
-                "key": "Model Name",
-                "value": "RK-2A"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -8980,7 +8856,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RK-2A",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "4.64 ounces"
     },
     {
         "asin": "B0DRW8SZWQ",
@@ -9862,20 +9742,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
                 "key": "Item dimensions L x W x H",
                 "value": "3.25 x 1.1 x 3.75 inches"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "8 Ounces"
             },
             {
                 "key": "UPC",
@@ -9904,10 +9772,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 Year Manufacturer Limited"
-            },
-            {
-                "key": "Model Name",
-                "value": "OBC-8BK"
             },
             {
                 "key": "Suggested Users",
@@ -10107,7 +9971,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "OBC-8BK",
+        "color": "Black",
+        "material": "Nylon",
+        "weight": "8 Ounces"
     },
     {
         "asin": "B09Q99DV47",
@@ -10323,16 +10191,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Style",
                 "value": "Black - Multigrip Barbell"
-            },
-            {
-                "key": "Item Weight",
-                "value": "10.91 Kilograms"
             },
             {
                 "key": "Number of Racks",
@@ -10373,14 +10233,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1-year warranty and 30-day return"
-            },
-            {
-                "key": "Model Name",
-                "value": "9RV3"
-            },
-            {
-                "key": "Color",
-                "value": "A. Multigrip Barbell 400lbs"
             },
             {
                 "key": "Suggested Users",
@@ -10532,7 +10384,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "9RV3",
+        "color": "A. Multigrip Barbell 400lbs",
+        "material": "Alloy Steel",
+        "weight": "10.91 Kilograms"
     },
     {
         "asin": "B08MTM51VP",
@@ -11784,14 +11640,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Polyurethane (PU), EVA foam, Neoprene"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.14 Kilograms"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Ergonomic"
             },
@@ -11818,14 +11666,6 @@
             {
                 "key": "Brand Name",
                 "value": "AGGRESS SPORTS"
-            },
-            {
-                "key": "Model Name",
-                "value": "AGGRESS 8Pcs Barbell Pad Set Black"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -12009,7 +11849,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AGGRESS 8Pcs Barbell Pad Set Black",
+        "color": "Black",
+        "material": "Polyurethane (PU), EVA foam, Neoprene",
+        "weight": "1.14 Kilograms"
     },
     {
         "asin": "B0DJQJLZBP",
@@ -12693,14 +12537,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "11 Pounds"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Ergonomic"
             },
@@ -12755,14 +12591,6 @@
             {
                 "key": "Brand Name",
                 "value": "Yes4All"
-            },
-            {
-                "key": "Model Name",
-                "value": "Viking Press Handle"
-            },
-            {
-                "key": "Color",
-                "value": "A. (Black) Viking Press Handle"
             },
             {
                 "key": "Suggested Users",
@@ -12826,7 +12654,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Viking Press Handle",
+        "color": "A. (Black) Viking Press Handle",
+        "material": "Alloy Steel",
+        "weight": "11 Pounds"
     },
     {
         "asin": "B0DBHCZR5Q",
@@ -14456,14 +14288,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "12 Pounds"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Knurled"
             },
@@ -14518,14 +14342,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Days, 31 day manufacturer warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "RB-57TB"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -14589,7 +14405,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RB-57TB",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "12 Pounds"
     },
     {
         "asin": "B0868WQ5TL",
@@ -14743,14 +14563,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "TPR (Rubber & EVA Foam)"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.3 Pounds"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Smooth"
             },
@@ -14797,14 +14609,6 @@
             {
                 "key": "Brand Name",
                 "value": "Yes4All"
-            },
-            {
-                "key": "Model Name",
-                "value": "A. Barbell Bomb"
-            },
-            {
-                "key": "Color",
-                "value": "A. Barbell Bomb"
             },
             {
                 "key": "Part Number",
@@ -14872,7 +14676,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "A. Barbell Bomb",
+        "color": "A. Barbell Bomb",
+        "material": "TPR (Rubber & EVA Foam)",
+        "weight": "1.3 Pounds"
     },
     {
         "asin": "B00LWFU7ZK",
@@ -15025,18 +14833,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black, 52.5 LB, Single"
-            },
-            {
-                "key": "Item Weight",
-                "value": "52.5 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Cast Iron"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Adjustable,Compact"
             },
@@ -15099,10 +14895,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 day manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "RSW2-52.5T"
             },
             {
                 "key": "Suggested Users",
@@ -15438,6 +15230,10 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RSW2-52.5T",
+        "color": "Black, 52.5 LB, Single",
+        "material": "Cast Iron",
+        "weight": "52.5 Pounds"
     }
 ]

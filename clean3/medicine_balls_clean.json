@@ -14,20 +14,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "PVC"
-            },
-            {
-                "key": "Color",
-                "value": "Yellow"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "4.16 ounces"
             },
             {
                 "key": "Sport",
@@ -68,10 +56,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "Physical Therapy Ball"
             },
             {
                 "key": "Suggested Users",
@@ -195,7 +179,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Physical Therapy Ball",
+        "color": "Yellow",
+        "material": "PVC",
+        "weight": "4.16 ounces"
     },
     {
         "asin": "B0BM3ZRH8Z",
@@ -470,20 +458,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Plastic"
-            },
-            {
-                "key": "Color",
-                "value": "Yellow (65 cm)"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2 Pounds"
             },
             {
                 "key": "Sport",
@@ -528,10 +504,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year Manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "Body Sport Exercise Ball"
             },
             {
                 "key": "Suggested Users",
@@ -787,7 +759,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Body Sport Exercise Ball",
+        "color": "Yellow (65 cm)",
+        "material": "Plastic",
+        "weight": "2 Pounds"
     },
     {
         "asin": "B01F2OA2ME",
@@ -1032,20 +1008,12 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "16.25\"D x 103\"W x 6\"H"
             },
             {
                 "key": "Style",
                 "value": "Wall Mounted"
-            },
-            {
-                "key": "Item Weight",
-                "value": "25 Pounds"
             },
             {
                 "key": "Number of Racks",
@@ -1090,14 +1058,6 @@
             {
                 "key": "Warranty Description",
                 "value": "3-year."
-            },
-            {
-                "key": "Model Name",
-                "value": "BG-53"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -1169,7 +1129,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "BG-53",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "25 Pounds"
     },
     {
         "asin": "B0DGTH4SW8",
@@ -1185,18 +1149,6 @@
             "EASE TO USE: The 23\" training ball designed with convenient handles for easy transport to the gym, outdoors, office and various place. Inflating the balance ball is quick with the included foot pump. And the thoughtfully designed inflation port minimizes wear and tear, ensuring long-lasting use."
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Star-Blue"
-            },
-            {
-                "key": "Item Weight",
-                "value": "5.24 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Polyvinyl Chloride (PVC)"
-            },
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "1.2E+3 Pounds"
@@ -1220,10 +1172,6 @@
             {
                 "key": "Brand Name",
                 "value": "VBSD"
-            },
-            {
-                "key": "Model Name",
-                "value": "23in. Balance Ball Blue-1"
             },
             {
                 "key": "Part Number",
@@ -1363,7 +1311,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "23in. Balance Ball Blue-1",
+        "color": "Star-Blue",
+        "material": "Polyvinyl Chloride (PVC)",
+        "weight": "5.24 Kilograms"
     },
     {
         "asin": "B018UFV0KK",
@@ -1490,20 +1442,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Silver"
-            },
-            {
-                "key": "Color",
-                "value": "Blue"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1 Pounds"
             },
             {
                 "key": "Sport",
@@ -1548,10 +1488,6 @@
             {
                 "key": "Warranty Description",
                 "value": "90 days"
-            },
-            {
-                "key": "Model Name",
-                "value": "Professional Stabilit"
             },
             {
                 "key": "Suggested Users",
@@ -1615,7 +1551,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Professional Stabilit",
+        "color": "Blue",
+        "material": "Silver",
+        "weight": "1 Pounds"
     },
     {
         "asin": "B0D33X2KSQ",
@@ -1632,20 +1572,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "20 Pounds"
             },
             {
                 "key": "Sport",
@@ -1682,10 +1610,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day Manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "Rage Fitness Slam Ball"
             },
             {
                 "key": "Suggested Users",
@@ -1745,7 +1669,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Rage Fitness Slam Ball",
+        "color": "Gray",
+        "material": "Rubber",
+        "weight": "20 Pounds"
     },
     {
         "asin": "B084BRRJNX",
@@ -2197,20 +2125,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "16 ounces"
             },
             {
                 "key": "Sport",
@@ -2255,10 +2171,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day Amazon Guarantee"
-            },
-            {
-                "key": "Model Name",
-                "value": "Elite Medicine Ball"
             },
             {
                 "key": "Suggested Users",
@@ -2314,7 +2226,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Elite Medicine Ball",
+        "color": "Black",
+        "material": "Rubber",
+        "weight": "16 ounces"
     },
     {
         "asin": "B000VDTECQ",
@@ -2331,20 +2247,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "PVC"
-            },
-            {
-                "key": "Color",
-                "value": "Purple"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.25 Pounds"
             },
             {
                 "key": "Sport",
@@ -2381,10 +2285,6 @@
             {
                 "key": "Brand Name",
                 "value": "Gaiam"
-            },
-            {
-                "key": "Model Name",
-                "value": "05-51980"
             },
             {
                 "key": "Suggested Users",
@@ -2520,7 +2420,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "05-51980",
+        "color": "Purple",
+        "material": "PVC",
+        "weight": "0.25 Pounds"
     },
     {
         "asin": "B01N9VRFB0",
@@ -2537,20 +2441,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Faux Leather"
-            },
-            {
-                "key": "Color",
-                "value": "Green - 6LBS"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "6 Pounds"
             },
             {
                 "key": "Sport",
@@ -2595,10 +2487,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 day manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "Soft Weighted Toning Ball"
             },
             {
                 "key": "Suggested Users",
@@ -2674,7 +2562,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Soft Weighted Toning Ball",
+        "color": "Green - 6LBS",
+        "material": "Faux Leather",
+        "weight": "6 Pounds"
     },
     {
         "asin": "B01IRVKZCG",
@@ -2792,20 +2684,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "2-Pound- Teal"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.5 Kilograms"
             },
             {
                 "key": "Sport",
@@ -2842,10 +2722,6 @@
             {
                 "key": "Brand Name",
                 "value": "Cap Barbell"
-            },
-            {
-                "key": "Model Name",
-                "value": "Barbell Rubber Medicine Ball"
             },
             {
                 "key": "Suggested Users",
@@ -3049,7 +2925,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Barbell Rubber Medicine Ball",
+        "color": "2-Pound- Teal",
+        "material": "Rubber",
+        "weight": "0.5 Kilograms"
     },
     {
         "asin": "B073S6WCR8",
@@ -3668,20 +3548,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Polyvinyl Chloride (PVC)"
-            },
-            {
-                "key": "Color",
-                "value": "Multi-Color"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.3 Kilograms"
             },
             {
                 "key": "Sport",
@@ -3718,10 +3586,6 @@
             {
                 "key": "Warranty Description",
                 "value": "120-Day Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "PodiuMax Weighted Balls, Set of 6"
             },
             {
                 "key": "Suggested Users",
@@ -3793,7 +3657,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "PodiuMax Weighted Balls, Set of 6",
+        "color": "Multi-Color",
+        "material": "Polyvinyl Chloride (PVC)",
+        "weight": "2.3 Kilograms"
     },
     {
         "asin": "B072PWF9TN",
@@ -3932,28 +3800,12 @@
                 "value": "750 Grams"
             },
             {
-                "key": "Item Weight",
-                "value": "750 Grams"
-            },
-            {
                 "key": "Brand Name",
                 "value": "AQQHSAIN"
             },
             {
                 "key": "Warranty Description",
                 "value": "No"
-            },
-            {
-                "key": "Model Name",
-                "value": "Ball Storage Rack"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Suggested Users",
@@ -4005,7 +3857,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Ball Storage Rack",
+        "color": "Black",
+        "material": "Aluminum",
+        "weight": "750 Grams"
     },
     {
         "asin": "B0CFWG926P",
@@ -4022,20 +3878,12 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Iron"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "56\"D x 26\"W x 56\"H"
             },
             {
                 "key": "Style",
                 "value": "Medicine Ball Rack"
-            },
-            {
-                "key": "Item Weight",
-                "value": "46 Pounds"
             },
             {
                 "key": "Frame Type",
@@ -4064,14 +3912,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day"
-            },
-            {
-                "key": "Model Name",
-                "value": "GMR20"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -4123,7 +3963,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "GMR20",
+        "color": "Black",
+        "material": "Iron",
+        "weight": "46 Pounds"
     },
     {
         "asin": "B01N0HI02P",
@@ -4140,20 +3984,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "PVC"
-            },
-            {
-                "key": "Color",
-                "value": "G. Purple (8lbs)"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "3 Pounds"
             },
             {
                 "key": "Sport",
@@ -4194,10 +4026,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year Manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "DQEA"
             },
             {
                 "key": "Suggested Users",
@@ -4317,7 +4145,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "DQEA",
+        "color": "G. Purple (8lbs)",
+        "material": "PVC",
+        "weight": "3 Pounds"
     },
     {
         "asin": "B006CV4A3Y",
@@ -4333,18 +4165,6 @@
             "flexibility and cardio conditioning workouts"
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Leather"
-            },
-            {
-                "key": "Color",
-                "value": "Brown black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "25 Pounds"
-            },
             {
                 "key": "Sport",
                 "value": "Exercise & Fitness"
@@ -4376,10 +4196,6 @@
             {
                 "key": "Brand Name",
                 "value": "Ringside"
-            },
-            {
-                "key": "Model Name",
-                "value": "Medicine ball ringside h"
             },
             {
                 "key": "Suggested Users",
@@ -4419,7 +4235,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Medicine ball ringside h",
+        "color": "Brown black",
+        "material": "Leather",
+        "weight": "25 Pounds"
     },
     {
         "asin": "B07QCXN81Q",
@@ -4436,20 +4256,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "pvc"
-            },
-            {
-                "key": "Color",
-                "value": "['Red', 'Blue']"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "16 ounces"
             },
             {
                 "key": "Sport",
@@ -4478,10 +4286,6 @@
             {
                 "key": "Brand Name",
                 "value": "Jogi-HHACQUIT"
-            },
-            {
-                "key": "Model Name",
-                "value": "YJQX-1"
             },
             {
                 "key": "Manufacturer",
@@ -4541,7 +4345,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "YJQX-1",
+        "color": "['Red', 'Blue']",
+        "material": "pvc",
+        "weight": "16 ounces"
     },
     {
         "asin": "B01KWDRSS6",
@@ -5024,18 +4832,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "Black / Green"
-            },
-            {
-                "key": "Item Weight",
-                "value": "40 Pounds"
-            },
-            {
                 "key": "Sport",
                 "value": "Medicine Ball"
             },
@@ -5066,10 +4862,6 @@
             {
                 "key": "Warranty Description",
                 "value": "Lifetime Warranty covers original purchaser"
-            },
-            {
-                "key": "Model Name",
-                "value": "Heavy Rubber Ball"
             },
             {
                 "key": "Suggested Users",
@@ -5261,7 +5053,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Heavy Rubber Ball",
+        "color": "Black / Green",
+        "material": "Rubber",
+        "weight": "40 Pounds"
     },
     {
         "asin": "B07215Y8MR",
@@ -5532,20 +5328,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "carbon steel"
-            },
-            {
-                "key": "Color",
-                "value": "black"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.82 Kilograms"
             },
             {
                 "key": "Sport",
@@ -5574,10 +5358,6 @@
             {
                 "key": "Warranty Description",
                 "value": "one month"
-            },
-            {
-                "key": "Model Name",
-                "value": "HC-WR08"
             },
             {
                 "key": "Suggested Users",
@@ -5645,7 +5425,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "HC-WR08",
+        "color": "black",
+        "material": "carbon steel",
+        "weight": "2.82 Kilograms"
     },
     {
         "asin": "B016OJJJQQ",
@@ -5661,14 +5445,6 @@
             "ADDITIONAL- Perfect addition to any home gym & a great piece of personal training/physical therapy equipment. Note: the RX-T2 Medicine Ball Trampoline is not meant for human propulsion."
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Nylon"
-            },
             {
                 "key": "Frame Size",
                 "value": "45 inches"
@@ -5690,10 +5466,6 @@
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "52 Pounds"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "35 Pounds"
             },
@@ -5708,10 +5480,6 @@
             {
                 "key": "UPC",
                 "value": "844192005913"
-            },
-            {
-                "key": "Model Name",
-                "value": "RX-T2"
             },
             {
                 "key": "Global Trade Identification Number",
@@ -5807,7 +5575,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RX-T2",
+        "color": "Black",
+        "material": "Nylon",
+        "weight": "52 Pounds"
     },
     {
         "asin": "B003NYE63C",
@@ -5954,18 +5726,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "A. Matte Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "6.9 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Polyvinyl Chloride (PVC)"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "23.5\"L x 23.5\"W x 7.25\"H"
             },
@@ -6004,10 +5764,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 YEAR WARR \u2013 30 DAY RETURN"
-            },
-            {
-                "key": "Model Name",
-                "value": "SJ31"
             },
             {
                 "key": "Suggested Users",
@@ -6199,7 +5955,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SJ31",
+        "color": "A. Matte Black",
+        "material": "Polyvinyl Chloride (PVC)",
+        "weight": "6.9 Kilograms"
     },
     {
         "asin": "B00JU7UCU2",
@@ -6216,20 +5976,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "6 LB - Yellow/Black"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "6 Pounds"
             },
             {
                 "key": "Sport",
@@ -6274,10 +6022,6 @@
             {
                 "key": "Warranty Description",
                 "value": "Limited Lifetime Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "Rubber Medicine Balls"
             },
             {
                 "key": "Suggested Users",
@@ -6493,7 +6237,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Rubber Medicine Balls",
+        "color": "6 LB - Yellow/Black",
+        "material": "Rubber",
+        "weight": "6 Pounds"
     },
     {
         "asin": "B0BGQT6CRT",
@@ -6510,20 +6258,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Leather"
-            },
-            {
-                "key": "Color",
-                "value": "Aqua 8 LB"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "8 Pounds"
             },
             {
                 "key": "Sport",
@@ -6568,10 +6304,6 @@
             {
                 "key": "Warranty Description",
                 "value": "Limited Lifetime Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "Soft Medicine Balls"
             },
             {
                 "key": "Suggested Users",
@@ -6827,7 +6559,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Soft Medicine Balls",
+        "color": "Aqua 8 LB",
+        "material": "Leather",
+        "weight": "8 Pounds"
     },
     {
         "asin": "B07G4LG93B",
@@ -6986,20 +6722,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Resin"
-            },
-            {
-                "key": "Color",
-                "value": "Yellow"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "16 ounces"
             },
             {
                 "key": "Sport",
@@ -7044,10 +6768,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day Amazon Guarantee"
-            },
-            {
-                "key": "Model Name",
-                "value": "Fitpro Training and Exercise Ball,75 cm, Yellow"
             },
             {
                 "key": "Manufacturer",
@@ -7111,7 +6831,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Fitpro Training and Exercise Ball,75 cm, Yellow",
+        "color": "Yellow",
+        "material": "Resin",
+        "weight": "16 ounces"
     },
     {
         "asin": "B09PBZ8216",
@@ -7698,20 +7422,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Polyvinyl Chloride (PVC)"
-            },
-            {
-                "key": "Color",
-                "value": "Pale Gray"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.6 Pounds"
             },
             {
                 "key": "Sport",
@@ -7740,10 +7452,6 @@
             {
                 "key": "Brand Name",
                 "value": "primasole"
-            },
-            {
-                "key": "Model Name",
-                "value": "Balance ball"
             },
             {
                 "key": "Suggested Users",
@@ -7823,7 +7531,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Balance ball",
+        "color": "Pale Gray",
+        "material": "Polyvinyl Chloride (PVC)",
+        "weight": "2.6 Pounds"
     },
     {
         "asin": "B09SVHLWJH",
@@ -8068,20 +7780,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "Yellow"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.4 Pounds"
             },
             {
                 "key": "Sport",
@@ -8126,10 +7826,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day Amazon Guarantee"
-            },
-            {
-                "key": "Model Name",
-                "value": "Elite Medicine Ball"
             },
             {
                 "key": "Suggested Users",
@@ -8345,7 +8041,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Elite Medicine Ball",
+        "color": "Yellow",
+        "material": "Rubber",
+        "weight": "2.4 Pounds"
     },
     {
         "asin": "B006K431V0",
@@ -8705,20 +8405,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "16 ounces"
             },
             {
                 "key": "Sport",
@@ -8763,10 +8451,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day Amazon Guarantee"
-            },
-            {
-                "key": "Model Name",
-                "value": "Medicine Ball Tree"
             },
             {
                 "key": "Suggested Users",
@@ -8894,7 +8578,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Medicine Ball Tree",
+        "color": "Black",
+        "material": "Steel",
+        "weight": "16 ounces"
     },
     {
         "asin": "B0D3HBSN61",
@@ -8911,20 +8599,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "8 ounces"
             },
             {
                 "key": "Sport",
@@ -8957,10 +8633,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year Manufacture"
-            },
-            {
-                "key": "Model Name",
-                "value": "Medicine Ball Rope"
             },
             {
                 "key": "Suggested Users",
@@ -9024,7 +8696,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Medicine Ball Rope",
+        "color": "Black",
+        "material": "Nylon",
+        "weight": "8 ounces"
     },
     {
         "asin": "B01947A9DW",
@@ -9478,20 +9154,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Faux Leather"
-            },
-            {
-                "key": "Color",
-                "value": "Multi"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "20 Pounds"
             },
             {
                 "key": "Sport",
@@ -9536,10 +9200,6 @@
             {
                 "key": "Warranty Description",
                 "value": "TWO-YEAR MANUFACTURER\u2019S WARRNTY"
-            },
-            {
-                "key": "Model Name",
-                "value": "Soft Medicine Ball - 6 lb. / 10 lb. / 14 lb. / 20 lb. Weighted Slam Wall Ball"
             },
             {
                 "key": "Suggested Users",
@@ -9731,7 +9391,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Soft Medicine Ball - 6 lb. / 10 lb. / 14 lb. / 20 lb. Weighted Slam Wall Ball",
+        "color": "Multi",
+        "material": "Faux Leather",
+        "weight": "20 Pounds"
     },
     {
         "asin": "B004ATVQNW",
@@ -9748,20 +9412,12 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "21.5\"D x 21.5\"W x 32.7\"H"
             },
             {
                 "key": "Style",
                 "value": "Compact"
-            },
-            {
-                "key": "Item Weight",
-                "value": "9 Pounds"
             },
             {
                 "key": "Number of Racks",
@@ -9802,14 +9458,6 @@
             {
                 "key": "Warranty Description",
                 "value": "BODY-SOLID warrants the In-Home Warranty as follows: LIFETIME: Frame & Welds LIFETIME: Pulleys, Bushings, Bearings, Hardware, Plates, Guide Rods LIFETIME: Cables, Upholstery, Grips (Normal Wear)"
-            },
-            {
-                "key": "Model Name",
-                "value": "3 Ball or 4 Ball Medicine Ball Rack"
-            },
-            {
-                "key": "Color",
-                "value": "Grey/Black"
             },
             {
                 "key": "Suggested Users",
@@ -9865,7 +9513,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "3 Ball or 4 Ball Medicine Ball Rack",
+        "color": "Grey/Black",
+        "material": "Alloy Steel",
+        "weight": "9 Pounds"
     },
     {
         "asin": "B0DKWZKX35",
@@ -9882,20 +9534,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Polyvinyl Chloride (PVC)"
-            },
-            {
-                "key": "Color",
-                "value": "Dynamic Black"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "12 Pounds"
             },
             {
                 "key": "Sport",
@@ -9928,10 +9568,6 @@
             {
                 "key": "Brand Name",
                 "value": "STRPRETTY BASIC"
-            },
-            {
-                "key": "Model Name",
-                "value": "Medicine Ball 12 lbs Dynamic Black"
             },
             {
                 "key": "Manufacturer",
@@ -10087,7 +9723,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Medicine Ball 12 lbs Dynamic Black",
+        "color": "Dynamic Black",
+        "material": "Polyvinyl Chloride (PVC)",
+        "weight": "12 Pounds"
     },
     {
         "asin": "B077QD9TFF",
@@ -10104,20 +9744,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Polyvinyl Chloride (PVC)"
-            },
-            {
-                "key": "Color",
-                "value": "Turkis"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "All Ages"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.44 Pounds"
             },
             {
                 "key": "Sport",
@@ -10154,10 +9782,6 @@
             {
                 "key": "Warranty Description",
                 "value": "/"
-            },
-            {
-                "key": "Model Name",
-                "value": "Pilates Ball"
             },
             {
                 "key": "Suggested Users",
@@ -10253,7 +9877,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Pilates Ball",
+        "color": "Turkis",
+        "material": "Polyvinyl Chloride (PVC)",
+        "weight": "0.44 Pounds"
     },
     {
         "asin": "B091J86F2H",
@@ -10456,20 +10084,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "Red"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "4.4 Pounds"
             },
             {
                 "key": "Sport",
@@ -10506,10 +10122,6 @@
             {
                 "key": "Brand Name",
                 "value": "Champion Barbell"
-            },
-            {
-                "key": "Model Name",
-                "value": "Rubber Medicine Ball lb"
             },
             {
                 "key": "Manufacturer",
@@ -10549,7 +10161,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Rubber Medicine Ball lb",
+        "color": "Red",
+        "material": "Rubber",
+        "weight": "4.4 Pounds"
     },
     {
         "asin": "B01MT4L5ST",
@@ -10565,20 +10181,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Faux Leather"
-            },
-            {
-                "key": "Color",
-                "value": "Multi"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "10 Pounds"
             },
             {
                 "key": "Sport",
@@ -10623,10 +10227,6 @@
             {
                 "key": "Warranty Description",
                 "value": "TWO-YEAR MANUFACTURER\u2019S WARRNTY"
-            },
-            {
-                "key": "Model Name",
-                "value": "Soft Medicine Ball"
             },
             {
                 "key": "Suggested Users",
@@ -10818,7 +10418,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Soft Medicine Ball",
+        "color": "Multi",
+        "material": "Faux Leather",
+        "weight": "10 Pounds"
     },
     {
         "asin": "B01LZ242R4",
@@ -10835,20 +10439,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "3 lb Ball"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "3 Pounds"
             },
             {
                 "key": "Sport",
@@ -10893,10 +10485,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year"
-            },
-            {
-                "key": "Model Name",
-                "value": "RXM-3"
             },
             {
                 "key": "Suggested Users",
@@ -11200,7 +10788,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RXM-3",
+        "color": "3 lb Ball",
+        "material": "Rubber",
+        "weight": "3 Pounds"
     },
     {
         "asin": "B07XMNJ3QK",
@@ -11217,20 +10809,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Plastic"
-            },
-            {
-                "key": "Color",
-                "value": "Red"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "7.19 Kilograms"
             },
             {
                 "key": "Sport",
@@ -11275,10 +10855,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day Amazon Guarantee"
-            },
-            {
-                "key": "Model Name",
-                "value": "Slam Ball"
             },
             {
                 "key": "Suggested Users",
@@ -11350,7 +10926,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Slam Ball",
+        "color": "Red",
+        "material": "Plastic",
+        "weight": "7.19 Kilograms"
     },
     {
         "asin": "B01L774DWU",
@@ -11367,20 +10947,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "Red - 12LB"
-            },
-            {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2 Pounds"
             },
             {
                 "key": "Sport",
@@ -11409,10 +10977,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 days"
-            },
-            {
-                "key": "Model Name",
-                "value": "medicine ball"
             },
             {
                 "key": "Suggested Users",
@@ -11568,6 +11132,10 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "medicine ball",
+        "color": "Red - 12LB",
+        "material": "Rubber",
+        "weight": "2 Pounds"
     }
 ]

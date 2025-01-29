@@ -23,24 +23,12 @@
                 "value": "Belt drive mechanism for smooth and quiet workouts, Fully adjustable seat and handlebar, Transportation wheels for easy portability, Heavy duty steel frame"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "110.8 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -53,10 +41,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "275 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "SF-B1002"
             },
             {
                 "key": "Drive System",
@@ -264,7 +248,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-B1002",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "110.8 Pounds"
     },
     {
         "asin": "B07WZXSDKW",
@@ -539,24 +527,12 @@
                 "value": "Distance Travelled Monitor, Foldable"
             },
             {
-                "key": "Color",
-                "value": "White, Orange"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery-powered (with rechargeable battery)"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "37 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -569,10 +545,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "110 Kilograms"
-            },
-            {
-                "key": "Model Name",
-                "value": "628678060036"
             },
             {
                 "key": "Maximum Height",
@@ -656,7 +628,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "628678060036",
+        "color": "White, Orange",
+        "material": "Alloy Steel",
+        "weight": "37 Pounds"
     },
     {
         "asin": "B0D635SP84",
@@ -1157,24 +1133,12 @@
                 "value": "Calories Monitor, Portable, Adjustable Seat,Foldable, Distance Travelled Monitor, Adjustable Resistance Level"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "No"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "35.4 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -1191,10 +1155,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "XB-YK102"
             },
             {
                 "key": "Maximum Height",
@@ -1274,7 +1234,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "XB-YK102",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "35.4 Pounds"
     },
     {
         "asin": "B0DJ91862V",
@@ -1476,24 +1440,12 @@
                 "value": "Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "61 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -1510,10 +1462,6 @@
             {
                 "key": "Handle Material",
                 "value": "Stainless Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "RB- MKZP01"
             },
             {
                 "key": "Maximum Height",
@@ -1593,7 +1541,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RB- MKZP01",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "61 Pounds"
     },
     {
         "asin": "B0CNCC8PM2",
@@ -1615,24 +1567,12 @@
                 "value": "Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Black-Red"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "77 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -1649,10 +1589,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "Stationary Bicycle, Indoor Cycling Bike/Magnetic Stationary Bike - Fitness Stationary Bicycle Machine with Comfortable Seat Cushion & Digital Display with Pulse"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -1740,7 +1676,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Stationary Bicycle, Indoor Cycling Bike/Magnetic Stationary Bike - Fitness Stationary Bicycle Machine with Comfortable Seat Cushion & Digital Display with Pulse",
+        "color": "Black-Red",
+        "material": "Carbon Steel",
+        "weight": "77 Pounds"
     },
     {
         "asin": "B0D9SS4MLY",
@@ -1762,24 +1702,12 @@
                 "value": "Calories Monitor, Foldable, Easy to fold, Adjustable Resistance Level, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Cranberry"
-            },
-            {
                 "key": "Power Source",
                 "value": "Manpower Driver"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "33 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -1796,10 +1724,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber"
-            },
-            {
-                "key": "Model Name",
-                "value": "FBM-816-1"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -1879,7 +1803,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "FBM-816-1",
+        "color": "Cranberry",
+        "material": "Alloy Steel",
+        "weight": "33 Pounds"
     },
     {
         "asin": "B0DB5PC9BH",
@@ -2027,24 +1955,12 @@
                 "value": "Adjustable Seat/Resistance Level/Desktop, Heavy Duty,Digital Display,2-in-1 Exercise Bike,Movable"
             },
             {
-                "key": "Color",
-                "value": "White Pro Max"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "indoor,home,office,living room,sturdy room"
-            },
-            {
-                "key": "Item Weight",
-                "value": "51 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -2057,10 +1973,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "350 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "FLEXISPOT Home Workstation"
             },
             {
                 "key": "Maximum Height",
@@ -2412,7 +2324,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "FLEXISPOT Home Workstation",
+        "color": "White Pro Max",
+        "material": "Alloy Steel",
+        "weight": "51 Pounds"
     },
     {
         "asin": "B097P77B69",
@@ -2586,24 +2502,12 @@
                 "value": "Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Corded Electric"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Cycling, Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "140 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Polypropylene (PP)"
             },
             {
                 "key": "Resistance Mechanism",
@@ -2620,10 +2524,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "Peloton Bike+ | Indoor Stationary Exercise Bike with 24\u201d HD, Anti-Reflective Rotating Touchscreen"
             },
             {
                 "key": "Maximum Height",
@@ -2755,7 +2655,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Peloton Bike+ | Indoor Stationary Exercise Bike with 24\u201d HD, Anti-Reflective Rotating Touchscreen",
+        "color": "Black",
+        "material": "Alloy Steel, Polypropylene (PP)",
+        "weight": "140 Pounds"
     },
     {
         "asin": "B0D9SRBF5Z",
@@ -2908,24 +2812,12 @@
                 "value": "Calories Monitor, 16 Adjustable Resistance Level, Foldable, Easy to fold, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "816-Main"
-            },
-            {
                 "key": "Power Source",
                 "value": "Manpower Driver"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Constant-speed riding, Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "33 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -2942,10 +2834,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber"
-            },
-            {
-                "key": "Model Name",
-                "value": "USLB-816"
             },
             {
                 "key": "Maximum Height",
@@ -3073,7 +2961,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "USLB-816",
+        "color": "816-Main",
+        "material": "Alloy Steel",
+        "weight": "33 Pounds"
     },
     {
         "asin": "B00XMHI7LC",
@@ -3099,24 +2991,12 @@
                 "value": "Heavy Duty, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "92.2 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -3133,10 +3013,6 @@
             {
                 "key": "Handle Material",
                 "value": "[INF] Non-slip"
-            },
-            {
-                "key": "Model Name",
-                "value": "SF-B1423"
             },
             {
                 "key": "Maximum Height",
@@ -3320,7 +3196,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-B1423",
+        "color": "Gray",
+        "material": "Alloy Steel",
+        "weight": "92.2 Pounds"
     },
     {
         "asin": "B0DGT9S6T9",
@@ -3342,24 +3222,12 @@
                 "value": "Adjustable Resistance Level"
             },
             {
-                "key": "Color",
-                "value": "Standard Model with Monitor"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "13.2 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Metal"
             },
             {
                 "key": "Resistance Mechanism",
@@ -3376,10 +3244,6 @@
             {
                 "key": "Handle Material",
                 "value": "Plastic"
-            },
-            {
-                "key": "Model Name",
-                "value": "NS_LJSC"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -3479,7 +3343,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "NS_LJSC",
+        "color": "Standard Model with Monitor",
+        "material": "Metal",
+        "weight": "13.2 Pounds"
     },
     {
         "asin": "B07Q6X4H9N",
@@ -3502,24 +3370,12 @@
                 "value": "PRO Adjustable Friction Brake Pad"
             },
             {
-                "key": "Color",
-                "value": "Pro Friction Resistance-Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "60 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -3536,10 +3392,6 @@
             {
                 "key": "Handle Material",
                 "value": "Plastic"
-            },
-            {
-                "key": "Model Name",
-                "value": "D525"
             },
             {
                 "key": "Maximum Height",
@@ -3711,7 +3563,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "D525",
+        "color": "Pro Friction Resistance-Black",
+        "material": "Carbon Steel",
+        "weight": "60 Pounds"
     },
     {
         "asin": "B0CR1TCSWM",
@@ -3732,24 +3588,12 @@
                 "value": "Console Display, Heavy Duty, Water Bottle Holder, Adjustable Resistance Level"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "30 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -3766,10 +3610,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "SQUATZ"
             },
             {
                 "key": "Maximum Height",
@@ -3861,7 +3701,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SQUATZ",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "30 Pounds"
     },
     {
         "asin": "B01NAQ91DZ",
@@ -3882,24 +3726,12 @@
                 "value": "Portable"
             },
             {
-                "key": "Color",
-                "value": "Gray, White"
-            },
-            {
                 "key": "Power Source",
                 "value": "Hand Pedals"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "53 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -3916,10 +3748,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber-like material"
-            },
-            {
-                "key": "Model Name",
-                "value": "Stamina Recumbent Exercise Bike with Upper Body Exerciser"
             },
             {
                 "key": "Maximum Height",
@@ -4031,7 +3859,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Stamina Recumbent Exercise Bike with Upper Body Exerciser",
+        "color": "Gray, White",
+        "material": "Alloy Steel",
+        "weight": "53 Pounds"
     },
     {
         "asin": "B0D49MVMBN",
@@ -4566,24 +4398,12 @@
                 "value": "Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Corded Electric"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "135 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -4600,10 +4420,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber or Stainless Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "Original Peloton Bike | Indoor Stationary Exercise Bike with Immersive 22\" HD Touchscreen (Updated Seat Post)"
             },
             {
                 "key": "Maximum Height",
@@ -4731,7 +4547,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Original Peloton Bike | Indoor Stationary Exercise Bike with Immersive 22\" HD Touchscreen (Updated Seat Post)",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "135 Pounds"
     },
     {
         "asin": "B0D9SR7YDY",
@@ -4753,24 +4573,12 @@
                 "value": "Calories Monitor, Foldable, Easy to fold, Adjustable Resistance Level, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Orange"
-            },
-            {
                 "key": "Power Source",
                 "value": "Manpower Driver"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "33 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -4787,10 +4595,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "FBM-816-10"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -4870,7 +4674,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "FBM-816-10",
+        "color": "Orange",
+        "material": "Alloy Steel",
+        "weight": "33 Pounds"
     },
     {
         "asin": "B0BHX6LLB8",
@@ -4891,24 +4699,12 @@
                 "value": "Speed Monitor, Calories Monitor, Adjustable Footstrap, Adjustable Resistance Level, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Black-red"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "50 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -4925,10 +4721,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "290"
             },
             {
                 "key": "Maximum Height",
@@ -5020,7 +4812,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "290",
+        "color": "Black-red",
+        "material": "Alloy Steel",
+        "weight": "50 Pounds"
     },
     {
         "asin": "B083JN9VLP",
@@ -5041,24 +4837,12 @@
                 "value": "Adjustable"
             },
             {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "99.4 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -5071,10 +4855,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "265 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "Pro Series"
             },
             {
                 "key": "Drive System",
@@ -5278,7 +5058,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Pro Series",
+        "color": "Gray",
+        "material": "Alloy Steel",
+        "weight": "99.4 Pounds"
     },
     {
         "asin": "B09X23WFF5",
@@ -5300,20 +5084,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Corded Electric"
-            },
-            {
-                "key": "Item Weight",
-                "value": "113.1 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -5326,10 +5098,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "Recumbent Cross Trainer Exercise Bike"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -5493,7 +5261,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Recumbent Cross Trainer Exercise Bike",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "113.1 Pounds"
     },
     {
         "asin": "B0DL5FJB8M",
@@ -5654,20 +5426,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "Cross Trainer Magnetic Recumbent Bike"
-            },
-            {
-                "key": "Color",
-                "value": "Silver"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "26.5\"D x 60\"W x 46.5\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -5680,10 +5440,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "46.5 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "68.7 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -5783,7 +5539,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Cross Trainer Magnetic Recumbent Bike",
+        "color": "Silver",
+        "material": "Alloy Steel",
+        "weight": "68.7 Pounds"
     },
     {
         "asin": "B0BM922PCB",
@@ -5805,24 +5565,12 @@
                 "value": "Motorized Pedal Exerciser"
             },
             {
-                "key": "Color",
-                "value": "grey"
-            },
-            {
                 "key": "Power Source",
                 "value": "Corded Electric"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "6.8 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Plastic, Metal"
             },
             {
                 "key": "Resistance Mechanism",
@@ -5839,10 +5587,6 @@
             {
                 "key": "Handle Material",
                 "value": "Metal"
-            },
-            {
-                "key": "Model Name",
-                "value": "DQGM-2"
             },
             {
                 "key": "Maximum Height",
@@ -5974,7 +5718,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "DQGM-2",
+        "color": "grey",
+        "material": "Plastic, Metal",
+        "weight": "6.8 Kilograms"
     },
     {
         "asin": "B0CHRS291B",
@@ -6140,24 +5888,12 @@
                 "value": "FreeSync FTMS Bluetooth Connectivity & Interactive 3rd Party Fitness App Connectivity"
             },
             {
-                "key": "Color",
-                "value": "Black, Gray, Silver"
-            },
-            {
                 "key": "Power Source",
                 "value": "Corded Electric"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "115 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -6170,10 +5906,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "350 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "3G Cardio Elite Bike"
             },
             {
                 "key": "Maximum Height",
@@ -6293,7 +6025,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "3G Cardio Elite Bike",
+        "color": "Black, Gray, Silver",
+        "material": "Alloy Steel",
+        "weight": "115 Pounds"
     },
     {
         "asin": "B0D635GDYV",
@@ -6686,24 +6422,12 @@
                 "value": "Padded Seat, Personalized Training Program, App Connectivity, Adjustable Resistance Level, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Brown+Orange"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Cardio training, Rehab treatment, Stay active"
-            },
-            {
-                "key": "Item Weight",
-                "value": "89 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -6720,10 +6444,6 @@
             {
                 "key": "Handle Material",
                 "value": "Foam-covered"
-            },
-            {
-                "key": "Model Name",
-                "value": "RC88"
             },
             {
                 "key": "Maximum Height",
@@ -6815,7 +6535,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RC88",
+        "color": "Brown+Orange",
+        "material": "Alloy Steel",
+        "weight": "89 Pounds"
     },
     {
         "asin": "B0DHQFQK9T",
@@ -7013,24 +6737,12 @@
                 "value": "Bluetooth Connectivity Function, Adjustable Footstrap, Pulse Sensor, LCD Digital Monitor, Transport Wheels"
             },
             {
-                "key": "Color",
-                "value": "Black and Orange"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "55 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -7047,10 +6759,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "2308A"
             },
             {
                 "key": "Maximum Height",
@@ -7134,7 +6842,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "2308A",
+        "color": "Black and Orange",
+        "material": "Alloy Steel",
+        "weight": "55 Pounds"
     },
     {
         "asin": "B0CC8PV4KB",
@@ -7297,24 +7009,12 @@
                 "value": "Foldable,Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
                 "key": "Power Source",
                 "value": "Manual (human-powered)"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor,Home"
-            },
-            {
-                "key": "Item Weight",
-                "value": "40 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -7331,10 +7031,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "Exercise Bike"
             },
             {
                 "key": "Maximum Height",
@@ -7414,7 +7110,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Exercise Bike",
+        "color": "Grey",
+        "material": "Alloy Steel",
+        "weight": "40 Pounds"
     },
     {
         "asin": "B0DBZFV51W",
@@ -7436,24 +7136,12 @@
                 "value": "Foldable"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Man power"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "30.9 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -7466,10 +7154,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "270 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "Allviate"
             },
             {
                 "key": "Maximum Height",
@@ -7557,7 +7241,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Allviate",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "30.9 Pounds"
     },
     {
         "asin": "B0D21149RD",
@@ -7583,24 +7271,12 @@
                 "value": "Grip Pulse Sensor, App Connectivity"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "63.8 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -7613,10 +7289,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "SF-RB424006"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -7784,7 +7456,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-RB424006",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "63.8 Pounds"
     },
     {
         "asin": "B0CZPNKHX4",
@@ -7810,24 +7486,12 @@
                 "value": "Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Dark Grey"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "59 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -7840,10 +7504,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "Recumbent Bike"
             },
             {
                 "key": "Maximum Height",
@@ -8015,7 +7675,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Recumbent Bike",
+        "color": "Dark Grey",
+        "material": "Alloy Steel",
+        "weight": "59 Pounds"
     },
     {
         "asin": "B01LYY95VW",
@@ -8036,24 +7700,12 @@
                 "value": "Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Silver, Blue"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "42.3 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -8070,10 +7722,6 @@
             {
                 "key": "Handle Material",
                 "value": "Stainless Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "XTERRA FB350 Folding Exercise Bike"
             },
             {
                 "key": "Maximum Height",
@@ -8257,7 +7905,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "XTERRA FB350 Folding Exercise Bike",
+        "color": "Silver, Blue",
+        "material": "Alloy Steel",
+        "weight": "42.3 Pounds"
     },
     {
         "asin": "B07SKLR1N7",
@@ -8278,24 +7930,12 @@
                 "value": "Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "35.83 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Foam, Plastic"
             },
             {
                 "key": "Resistance Mechanism",
@@ -8312,10 +7952,6 @@
             {
                 "key": "Handle Material",
                 "value": "Foam, Plastic"
-            },
-            {
-                "key": "Model Name",
-                "value": "AMZ-594U"
             },
             {
                 "key": "Maximum Height",
@@ -8427,7 +8063,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AMZ-594U",
+        "color": "Black",
+        "material": "Foam, Plastic",
+        "weight": "35.83 Kilograms"
     },
     {
         "asin": "B0D9SRDQ3D",
@@ -8716,24 +8356,12 @@
                 "value": "Adjustable Pedal"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "28 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -8746,10 +8374,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "JEEKEE Recumbent Exercise Bike"
             },
             {
                 "key": "Maximum Height",
@@ -8845,7 +8469,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "JEEKEE Recumbent Exercise Bike",
+        "color": "Black",
+        "material": "Carbon Steel",
+        "weight": "28 Kilograms"
     },
     {
         "asin": "B0CQ2Z5CJD",
@@ -8867,24 +8495,12 @@
                 "value": "Adjustable Footstrap, Heavy Duty, Whisper Quiet Indoor Cycling Bike, Water Bottle Holder, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Black-orange - Friction Pro"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "61.3 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Resistance Mechanism",
@@ -8901,10 +8517,6 @@
             {
                 "key": "Handle Material",
                 "value": "Aluminum Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "Wenoker"
             },
             {
                 "key": "Maximum Height",
@@ -8980,7 +8592,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Wenoker",
+        "color": "Black-orange - Friction Pro",
+        "material": "Aluminum",
+        "weight": "61.3 Pounds"
     },
     {
         "asin": "B0BZ424NTJ",
@@ -9316,24 +8932,12 @@
                 "value": "Sports"
             },
             {
-                "key": "Color",
-                "value": "Upgraded Magnetic -Orange"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "59.5 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -9350,10 +8954,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber"
-            },
-            {
-                "key": "Model Name",
-                "value": "509A"
             },
             {
                 "key": "Maximum Height",
@@ -9433,7 +9033,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "509A",
+        "color": "Upgraded Magnetic -Orange",
+        "material": "Alloy Steel",
+        "weight": "59.5 Pounds"
     },
     {
         "asin": "B0C61SCWB5",
@@ -9591,24 +9195,12 @@
                 "value": "Equipped with backlit LCD display: scan, speed, time, distance, calories, Odo"
             },
             {
-                "key": "Color",
-                "value": "black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Corded Electric"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "interior"
-            },
-            {
-                "key": "Item Weight",
-                "value": "39.7 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -9625,10 +9217,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber"
-            },
-            {
-                "key": "Model Name",
-                "value": "DC-BK-01"
             },
             {
                 "key": "Maximum Height",
@@ -9716,7 +9304,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "DC-BK-01",
+        "color": "black",
+        "material": "Alloy Steel",
+        "weight": "39.7 Pounds"
     },
     {
         "asin": "B0DCVWVBJ7",
@@ -9739,24 +9331,12 @@
                 "value": "Calories Monitor, Adjustable Footstrap, Water Bottle Holder, Adjustable Resistance Level, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Black / Yellow"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "27 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -9773,10 +9353,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "YK10 Exercise Bike"
             },
             {
                 "key": "Minimum Height",
@@ -9920,7 +9496,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "YK10 Exercise Bike",
+        "color": "Black / Yellow",
+        "material": "Alloy Steel",
+        "weight": "27 Kilograms"
     },
     {
         "asin": "B0CCJ4YWDN",
@@ -9943,24 +9523,12 @@
                 "value": "Light Commercial, Magnetic, Smart with Bluetooth"
             },
             {
-                "key": "Color",
-                "value": "Pro Max Magnetic"
-            },
-            {
                 "key": "Power Source",
                 "value": "Pedal-powered (non-electric)"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "37.65 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -9977,10 +9545,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "L-007C"
             },
             {
                 "key": "Maximum Height",
@@ -10068,7 +9632,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "L-007C",
+        "color": "Pro Max Magnetic",
+        "material": "Alloy Steel",
+        "weight": "37.65 Kilograms"
     },
     {
         "asin": "B0BG1KK8PX",
@@ -10091,24 +9659,12 @@
                 "value": "Distance Travelled Monitor"
             },
             {
-                "key": "Color",
-                "value": "X2PRO (Support Bluetooth)"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "41.5 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Magnetic Exercise Bike (with 5 stronger magnets), Added 2 urgent leather brake pads for safety stop"
             },
             {
                 "key": "Resistance Mechanism",
@@ -10121,10 +9677,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "X2PRO"
             },
             {
                 "key": "Maximum Height",
@@ -10324,7 +9876,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "X2PRO",
+        "color": "X2PRO (Support Bluetooth)",
+        "material": "Magnetic Exercise Bike (with 5 stronger magnets), Added 2 urgent leather brake pads for safety stop",
+        "weight": "41.5 Kilograms"
     },
     {
         "asin": "B0DM5KNTBG",
@@ -10346,24 +9902,12 @@
                 "value": "Calories Monitor, Heavy Duty, Foldable, Adjustable Resistance Level, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "816-White"
-            },
-            {
                 "key": "Power Source",
                 "value": "Manpower Driver"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "27.7 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -10380,10 +9924,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber"
-            },
-            {
-                "key": "Model Name",
-                "value": "USLB-816-white"
             },
             {
                 "key": "Maximum Height",
@@ -10475,7 +10015,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "USLB-816-white",
+        "color": "816-White",
+        "material": "Alloy Steel",
+        "weight": "27.7 Pounds"
     },
     {
         "asin": "B0DBQXP9Q6",
@@ -10501,24 +10045,12 @@
                 "value": "APP Connectivity, Protect Joints, Qick Adjust Seat, Full-body Workout"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "64 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -10531,10 +10063,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "350 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "RC-MAX"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -10618,7 +10146,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RC-MAX",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "64 Pounds"
     },
     {
         "asin": "B0D3D4ZPTS",
@@ -10640,24 +10172,12 @@
                 "value": "Calories Monitor, Heavy Duty, Foldable, Adjustable Resistance Level, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "BLack 817"
-            },
-            {
                 "key": "Power Source",
                 "value": "Manpower Driver"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "39 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -10674,10 +10194,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber"
-            },
-            {
-                "key": "Model Name",
-                "value": "USLB-817"
             },
             {
                 "key": "Maximum Height",
@@ -10805,7 +10321,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "USLB-817",
+        "color": "BLack 817",
+        "material": "Alloy Steel",
+        "weight": "39 Pounds"
     },
     {
         "asin": "B0DBLCNSLZ",
@@ -10827,24 +10347,12 @@
                 "value": "Portable, Adjustable Footstrap, Lightweight, Adjustable Resistance Level, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "817-Main"
-            },
-            {
                 "key": "Power Source",
                 "value": "Manpower Driver"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "38 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -10861,10 +10369,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber"
-            },
-            {
-                "key": "Model Name",
-                "value": "USLIM-817"
             },
             {
                 "key": "Maximum Height",
@@ -11184,7 +10688,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "USLIM-817",
+        "color": "817-Main",
+        "material": "Alloy Steel",
+        "weight": "38 Pounds"
     },
     {
         "asin": "B0CP5DVXYH",
@@ -11206,24 +10714,12 @@
                 "value": "Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Black-Red"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "77 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -11240,10 +10736,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber or Stainless Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "Indoor Cycling Bike/Magnetic Stationary Bike, Stationary Bicycle - Fitness Stationary Bicycle Machine with Comfortable Seat Cushion & Digital Display with Pulse"
             },
             {
                 "key": "Maximum Height",
@@ -11339,7 +10831,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Indoor Cycling Bike/Magnetic Stationary Bike, Stationary Bicycle - Fitness Stationary Bicycle Machine with Comfortable Seat Cushion & Digital Display with Pulse",
+        "color": "Black-Red",
+        "material": "Carbon Steel",
+        "weight": "77 Pounds"
     },
     {
         "asin": "B09Z2MJB4X",
@@ -11359,10 +10855,6 @@
                 "value": "Heavy Duty"
             },
             {
-                "key": "Color",
-                "value": "grey"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
@@ -11371,24 +10863,12 @@
                 "value": "Indoor"
             },
             {
-                "key": "Item Weight",
-                "value": "35 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Magnetic"
             },
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "330 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "6108"
             },
             {
                 "key": "Maximum Height",
@@ -11472,7 +10952,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "6108",
+        "color": "grey",
+        "material": "Carbon Steel",
+        "weight": "35 Pounds"
     },
     {
         "asin": "B0DK31YRVS",
@@ -11815,24 +11299,12 @@
                 "value": "Lightweight"
             },
             {
-                "key": "Color",
-                "value": "G-Black&Red"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "40 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Polyurethane (PU), Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -11849,10 +11321,6 @@
             {
                 "key": "Handle Material",
                 "value": "Polyurethane (PU)"
-            },
-            {
-                "key": "Model Name",
-                "value": "XT"
             },
             {
                 "key": "Maximum Height",
@@ -11940,7 +11408,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "XT",
+        "color": "G-Black&Red",
+        "material": "Polyurethane (PU), Alloy Steel",
+        "weight": "40 Pounds"
     },
     {
         "asin": "B0CYZ3L6FK",
@@ -12108,24 +11580,12 @@
                 "value": "Calories Monitor, Speed Monitor, Adjustable Seat,Foldable, Distance Travelled Monitor, Adjustable Resistance Level"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "42.2 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -12142,10 +11602,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber or Aluminum"
-            },
-            {
-                "key": "Model Name",
-                "value": "XB-YK-101"
             },
             {
                 "key": "Maximum Height",
@@ -12225,7 +11681,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "XB-YK-101",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "42.2 Pounds"
     },
     {
         "asin": "B00F74RX40",
@@ -12246,24 +11706,12 @@
                 "value": "Pivot points to provide a smooth and durable feel, Unlimited resistance for upper and lower body extremities based on air resistance, Twenty sealed ball bearings throughout the frame"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "110 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum, Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -12280,10 +11728,6 @@
             {
                 "key": "Handle Material",
                 "value": "[GU] Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "AS-Assault Airbike"
             },
             {
                 "key": "Maximum Height",
@@ -12391,7 +11835,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AS-Assault Airbike",
+        "color": "Black",
+        "material": "Aluminum, Alloy Steel",
+        "weight": "110 Pounds"
     },
     {
         "asin": "B0D4QTYQ1S",
@@ -12414,24 +11862,12 @@
                 "value": "Grip Pulse Sensor, Speed Monitor, Adjustable Footstrap, Water Bottle Holder, Adjustable Resistance Level"
             },
             {
-                "key": "Color",
-                "value": "Orange-Classic"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "66 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Metal"
             },
             {
                 "key": "Resistance Mechanism",
@@ -12444,10 +11880,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "400 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "W239"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -12631,7 +12063,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "W239",
+        "color": "Orange-Classic",
+        "material": "Metal",
+        "weight": "66 Pounds"
     },
     {
         "asin": "B07H3SMRMT",
@@ -12652,24 +12088,12 @@
                 "value": "Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Black Pro Max"
-            },
-            {
                 "key": "Power Source",
                 "value": "Pedal-powered (non-electric)"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "75 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Plastic"
             },
             {
                 "key": "Resistance Mechanism",
@@ -12682,10 +12106,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "V9B"
             },
             {
                 "key": "Maximum Height",
@@ -13037,7 +12457,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "V9B",
+        "color": "Black Pro Max",
+        "material": "Plastic",
+        "weight": "75 Pounds"
     },
     {
         "asin": "B07MWV1JD7",
@@ -13057,20 +12481,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "SF-E3872"
-            },
-            {
-                "key": "Color",
-                "value": "Gray-Magnetic"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "25\"D x 20\"W x 12\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -13087,10 +12499,6 @@
             {
                 "key": "Screen Size",
                 "value": "7 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "25 Pounds"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -13366,7 +12774,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-E3872",
+        "color": "Gray-Magnetic",
+        "material": "Alloy Steel",
+        "weight": "25 Pounds"
     },
     {
         "asin": "B0CLBFJRW3",
@@ -13392,24 +12804,12 @@
                 "value": "Adjustable Footstrap, App Connectivity, Water Bottle Holder, Adjustable Resistance Level, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "100.4 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -13426,10 +12826,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber"
-            },
-            {
-                "key": "Model Name",
-                "value": "Pro Series"
             },
             {
                 "key": "Maximum Height",
@@ -13633,7 +13029,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Pro Series",
+        "color": "Gray",
+        "material": "Alloy Steel",
+        "weight": "100.4 Pounds"
     },
     {
         "asin": "B0D17L436M",
@@ -13655,24 +13055,12 @@
                 "value": "Adjustable Resistance Level"
             },
             {
-                "key": "Color",
-                "value": "CBE30"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Adults"
-            },
-            {
-                "key": "Item Weight",
-                "value": "55 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -13689,10 +13077,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "CBE30"
             },
             {
                 "key": "Maximum Height",
@@ -13820,7 +13204,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "CBE30",
+        "color": "CBE30",
+        "material": "Alloy Steel",
+        "weight": "55 Pounds"
     },
     {
         "asin": "B008JA2X5S",
@@ -13842,24 +13230,12 @@
                 "value": "Infinite wind resistance, Four levelers to ensure stability, Integrated water bottle holder, Large thickly padded seat for comfort"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "115 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Metal"
             },
             {
                 "key": "Resistance Mechanism",
@@ -13876,10 +13252,6 @@
             {
                 "key": "Handle Material",
                 "value": "Metal"
-            },
-            {
-                "key": "Model Name",
-                "value": "Schwinn AD6 Airdyne Exercise Bike"
             },
             {
                 "key": "Maximum Height",
@@ -14067,7 +13439,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Schwinn AD6 Airdyne Exercise Bike",
+        "color": "Black",
+        "material": "Metal",
+        "weight": "115 Pounds"
     },
     {
         "asin": "B0DKXDR4VF",
@@ -14091,24 +13467,12 @@
                 "value": "Padded Seat, Personalized Training Program, App Connectivity, Adjustable Resistance Level, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "HR-B8A without arm exerciser"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "75 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -14121,10 +13485,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "400 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "HR-B8A"
             },
             {
                 "key": "Maximum Height",
@@ -14208,7 +13568,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "HR-B8A",
+        "color": "HR-B8A without arm exerciser",
+        "material": "Alloy Steel",
+        "weight": "75 Pounds"
     },
     {
         "asin": "B0CR7JDT9G",
@@ -14234,24 +13598,12 @@
                 "value": "Free Exclusive MERACH APP, Car-Style Resistance Adjustment"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "44 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Metal"
             },
             {
                 "key": "Resistance Mechanism",
@@ -14268,10 +13620,6 @@
             {
                 "key": "Handle Material",
                 "value": "Dip Molded Handle"
-            },
-            {
-                "key": "Model Name",
-                "value": "S19"
             },
             {
                 "key": "Maximum Height",
@@ -14363,7 +13711,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "S19",
+        "color": "Black",
+        "material": "Metal",
+        "weight": "44 Kilograms"
     },
     {
         "asin": "B002KV1MJU",
@@ -14387,24 +13739,12 @@
                 "value": "adjustable handlebars"
             },
             {
-                "key": "Color",
-                "value": "Copper - Recumbent"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "53 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "['14-gauge steel tubing', 'Plastic', 'Foam']"
             },
             {
                 "key": "Resistance Mechanism",
@@ -14421,10 +13761,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber"
-            },
-            {
-                "key": "Model Name",
-                "value": "ME 709"
             },
             {
                 "key": "Maximum Height",
@@ -14536,7 +13872,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "ME 709",
+        "color": "Copper - Recumbent",
+        "material": "['14-gauge steel tubing', 'Plastic', 'Foam']",
+        "weight": "53 Pounds"
     },
     {
         "asin": "B0DL57329F",
@@ -14558,24 +13898,12 @@
                 "value": "Padded Seat, Personalized Training Program, App Connectivity, Adjustable Resistance Level, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "HR-B8RE with Bluetooth"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "75 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -14592,10 +13920,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "HR-B8RE"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -14675,7 +13999,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "HR-B8RE",
+        "color": "HR-B8RE with Bluetooth",
+        "material": "Alloy Steel",
+        "weight": "75 Pounds"
     },
     {
         "asin": "B0D3VN8BNX",
@@ -14699,24 +14027,12 @@
                 "value": "With Bluetooth, App Compatible, No Display, No Screen, Full Filled Solid Flywheel, Magnetic Resistance, 350LB Capacity, Ultra Quiet, Heavy Duty, Thickened Steel, Fashionable Appearance"
             },
             {
-                "key": "Color",
-                "value": "PRO MAX Magnetic + Bluetooth"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "29 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -14733,10 +14049,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "8732B"
             },
             {
                 "key": "Maximum Height",
@@ -14872,7 +14184,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "8732B",
+        "color": "PRO MAX Magnetic + Bluetooth",
+        "material": "Alloy Steel",
+        "weight": "29 Kilograms"
     },
     {
         "asin": "B07DYNH5R4",
@@ -15087,24 +14403,12 @@
                 "value": "Adjustable Resistance Level"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Corded Electric"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "108 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -15117,10 +14421,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "350 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "y4G3kTrKXrIloORJmz31DwSW0YvcP"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -15204,7 +14504,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "y4G3kTrKXrIloORJmz31DwSW0YvcP",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "108 Pounds"
     },
     {
         "asin": "B07JHL69VK",
@@ -15727,20 +15031,8 @@
         ],
         "attributes": [
             {
-                "key": "Model Name",
-                "value": "EM-02"
-            },
-            {
-                "key": "Color",
-                "value": "Green"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "16.93\"D x 13.39\"W x 9.85\"H"
-            },
-            {
-                "key": "Material",
-                "value": "ABS Plastic, Aluminum"
             },
             {
                 "key": "Resistance Mechanism",
@@ -15753,10 +15045,6 @@
             {
                 "key": "Maximum Stride Length",
                 "value": "11.8 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "7.5 Kilograms"
             },
             {
                 "key": "Manufacturer",
@@ -15832,7 +15120,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "EM-02",
+        "color": "Green",
+        "material": "ABS Plastic, Aluminum",
+        "weight": "7.5 Kilograms"
     },
     {
         "asin": "B07WG1ZP75",
@@ -16027,24 +15319,12 @@
                 "value": "Foldable"
             },
             {
-                "key": "Color",
-                "value": "Black/Grey"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "45.3 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Steel frame, padded seat, foam grips"
             },
             {
                 "key": "Resistance Mechanism",
@@ -16061,10 +15341,6 @@
             {
                 "key": "Handle Material",
                 "value": "Foam"
-            },
-            {
-                "key": "Model Name",
-                "value": "Model 2221"
             },
             {
                 "key": "Maximum Height",
@@ -16184,7 +15460,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Model 2221",
+        "color": "Black/Grey",
+        "material": "Steel frame, padded seat, foam grips",
+        "weight": "45.3 Pounds"
     },
     {
         "asin": "B00L4EYAX4",
@@ -16205,24 +15485,12 @@
                 "value": "Heavy Duty, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Black/Grey/Silver"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "42.7 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -16235,10 +15503,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "NS-1201U"
             },
             {
                 "key": "Maximum Height",
@@ -16394,7 +15658,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "NS-1201U",
+        "color": "Black/Grey/Silver",
+        "material": "Alloy Steel",
+        "weight": "42.7 Pounds"
     },
     {
         "asin": "B07L9TC976",
@@ -16415,24 +15683,12 @@
                 "value": "Calories Monitor, Adjustable Resistance Level, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Outdoor, Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "34 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -16449,10 +15705,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber"
-            },
-            {
-                "key": "Model Name",
-                "value": "ATIVAFIT Exercise Bike"
             },
             {
                 "key": "Maximum Height",
@@ -16592,7 +15844,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "ATIVAFIT Exercise Bike",
+        "color": "Grey",
+        "material": "Alloy Steel",
+        "weight": "34 Pounds"
     },
     {
         "asin": "B0D8DXFMRT",
@@ -16615,24 +15871,12 @@
                 "value": "App Connectivity, Heavy Duty, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Friction-Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "53 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Iron"
             },
             {
                 "key": "Resistance Mechanism",
@@ -16645,10 +15889,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "YS-BA1"
             },
             {
                 "key": "Maximum Height",
@@ -16736,7 +15976,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "YS-BA1",
+        "color": "Friction-Black",
+        "material": "Iron",
+        "weight": "53 Pounds"
     },
     {
         "asin": "B0DRP6YGMS",
@@ -16753,24 +15997,12 @@
                 "value": "1-32 adjustable resistance levels"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Corded Electric"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Body Shaping"
-            },
-            {
-                "key": "Item Weight",
-                "value": "41.9 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -16787,10 +16019,6 @@
             {
                 "key": "Handle Material",
                 "value": "Rubber"
-            },
-            {
-                "key": "Model Name",
-                "value": "Exercise Bike"
             },
             {
                 "key": "Maximum Height",
@@ -16862,7 +16090,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Exercise Bike",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "41.9 Pounds"
     },
     {
         "asin": "B0BPPJKNZF",
@@ -16883,20 +16115,8 @@
                 "value": "Adjustable Resistance Level"
             },
             {
-                "key": "Color",
-                "value": "red"
-            },
-            {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "13 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Metal"
             },
             {
                 "key": "Resistance Mechanism",
@@ -16913,10 +16133,6 @@
             {
                 "key": "Handle Material",
                 "value": "Plastic"
-            },
-            {
-                "key": "Model Name",
-                "value": "KFXLQ-US-20230112"
             },
             {
                 "key": "Maximum Height",
@@ -17004,7 +16220,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "KFXLQ-US-20230112",
+        "color": "red",
+        "material": "Metal",
+        "weight": "13 Pounds"
     },
     {
         "asin": "B0DJVP1GTS",
@@ -17153,24 +16373,12 @@
                 "value": "Console Display, Padded Seat, App Connectivity, Adjustable Resistance Level, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Silver"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Daily Workout, Body Shape, Physical Therapy, rehabilitation training, Lose Weight"
-            },
-            {
-                "key": "Item Weight",
-                "value": "53 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Plastic"
             },
             {
                 "key": "Resistance Mechanism",
@@ -17187,10 +16395,6 @@
             {
                 "key": "Handle Material",
                 "value": "Carbon Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "RB661"
             },
             {
                 "key": "Maximum Height",
@@ -17386,7 +16590,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RB661",
+        "color": "Silver",
+        "material": "Alloy Steel, Plastic",
+        "weight": "53 Pounds"
     },
     {
         "asin": "B0CXRT9JD8",
@@ -17406,24 +16614,12 @@
                 "value": "Adjustable Resistance Level"
             },
             {
-                "key": "Color",
-                "value": "White"
-            },
-            {
                 "key": "Power Source",
                 "value": "Rechargeable Battery"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "7.9 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "TPR, Plastic, Iron"
             },
             {
                 "key": "Resistance Mechanism",
@@ -17440,10 +16636,6 @@
             {
                 "key": "Handle Material",
                 "value": "TPR"
-            },
-            {
-                "key": "Model Name",
-                "value": "SITFIT Elliptical Manual Mini Exercise bike"
             },
             {
                 "key": "Maximum Height",
@@ -17535,7 +16727,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SITFIT Elliptical Manual Mini Exercise bike",
+        "color": "White",
+        "material": "TPR, Plastic, Iron",
+        "weight": "7.9 Pounds"
     },
     {
         "asin": "B091D8N7WP",
@@ -17759,24 +16955,12 @@
                 "value": "Padded Seat, Foldable, Adjustable Resistance Level, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Green"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "42 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -17793,10 +16977,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "Wonder Exercise Bike"
             },
             {
                 "key": "Maximum Height",
@@ -17908,7 +17088,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Wonder Exercise Bike",
+        "color": "Green",
+        "material": "Alloy Steel",
+        "weight": "42 Pounds"
     },
     {
         "asin": "B0BGMD2V6S",
@@ -17934,24 +17118,12 @@
                 "value": "App Connectivity"
             },
             {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "58.7 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -17964,10 +17136,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "265 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "SF-B122061_SF-B123033"
             },
             {
                 "key": "Maximum Height",
@@ -18119,7 +17287,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-B122061_SF-B123033",
+        "color": "Gray",
+        "material": "Alloy Steel",
+        "weight": "58.7 Pounds"
     },
     {
         "asin": "B0DRTFKX7Z",
@@ -18244,24 +17416,12 @@
                 "value": "Padded Seat, Personalized Training Program, App Connectivity, Adjustable Resistance Level, Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "HR-X3L Upright Bike without Resistance Bands-White"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "40 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -18278,10 +17438,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "HARISON Exercise Bike HR-X3LWhite"
             },
             {
                 "key": "Maximum Height",
@@ -18405,6 +17561,10 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "HARISON Exercise Bike HR-X3LWhite",
+        "color": "HR-X3L Upright Bike without Resistance Bands-White",
+        "material": "Alloy Steel",
+        "weight": "40 Pounds"
     }
 ]

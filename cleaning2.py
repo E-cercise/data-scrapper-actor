@@ -3,16 +3,6 @@ import re
 import json
 import random
 
-def remove_keys(attributes, keys_to_remove):
-    """
-    Removes specified keys from a list of attribute dictionaries.
-    
-    :param attributes: List of dictionaries with 'key' and 'value'.
-    :param keys_to_remove: List of keys to be removed.
-    :return: List of dictionaries excluding specified keys.
-    """
-    return [attr for attr in attributes if attr["key"] not in keys_to_remove]
-
 def parse_weight_string(weight_str):
     """
     Parse a string like '23.14 Pounds', '50 lbs', '10 kg', etc.
@@ -250,7 +240,7 @@ def process_variant_data(json_file):
                 product["equipment_options"].append(equipment_option)
 
 
-        del product["variantDetails"], product["variantAttributes"], product["thumbnailImage"], product["galleryThumbnails"]
+        del product["variantDetails"], product["variantAttributes"], product["thumbnailImage"], product["galleryThumbnails"], product["productOverview"]
         
         new_data.append(product)
 

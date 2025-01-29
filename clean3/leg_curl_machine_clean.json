@@ -14,18 +14,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "93 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Vinyl, Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Two-Piece Black/White"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "74\"D x 60\"W x 64\"H"
             },
@@ -64,10 +52,6 @@
             {
                 "key": "Brand Name",
                 "value": "MARCY"
-            },
-            {
-                "key": "Model Name",
-                "value": "Olympic weight bench"
             },
             {
                 "key": "Suggested Users",
@@ -275,7 +259,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Olympic weight bench",
+        "color": "Two-Piece Black/White",
+        "material": "Vinyl, Alloy Steel",
+        "weight": "93 Pounds"
     },
     {
         "asin": "B08DNLCJXV",
@@ -400,18 +388,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon, Neoprene"
-            },
-            {
-                "key": "Color",
-                "value": "blue - pair"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.1 Kilograms"
-            },
-            {
                 "key": "Style",
                 "value": "Modern"
             },
@@ -450,10 +426,6 @@
             {
                 "key": "Warranty Description",
                 "value": "No Warranty Applicable"
-            },
-            {
-                "key": "Model Name",
-                "value": "Ankle Strap for Cable Machine"
             },
             {
                 "key": "Suggested Users",
@@ -533,7 +505,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Ankle Strap for Cable Machine",
+        "color": "blue - pair",
+        "material": "Nylon, Neoprene",
+        "weight": "0.1 Kilograms"
     },
     {
         "asin": "B0CM72G7ZV",
@@ -846,18 +822,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "34.2 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Orange, Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "10\"D x 10\"W x 10\"H"
             },
@@ -900,10 +864,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "SQUATZ - Thick Puzzle Exercise Mat (SQFT-B50)"
             },
             {
                 "key": "Suggested Users",
@@ -1047,7 +1007,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SQUATZ - Thick Puzzle Exercise Mat (SQFT-B50)",
+        "color": "Orange, Black",
+        "material": "Alloy Steel",
+        "weight": "34.2 Pounds"
     },
     {
         "asin": "B0DJX2J6PD",
@@ -1166,18 +1130,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black-8300"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "26.5 Pounds"
-            },
-            {
                 "key": "Style",
                 "value": "Modern"
             },
@@ -1216,10 +1168,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "8300"
             },
             {
                 "key": "Suggested Users",
@@ -1319,7 +1267,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "8300",
+        "color": "Black-8300",
+        "material": "Alloy Steel",
+        "weight": "26.5 Pounds"
     },
     {
         "asin": "B0BC5JCKLQ",
@@ -1658,24 +1610,8 @@
                 "value": "0.48 Kilograms"
             },
             {
-                "key": "Item Weight",
-                "value": "0.88 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "nooncrazy"
-            },
-            {
-                "key": "Model Name",
-                "value": "Ankle Straps"
-            },
-            {
-                "key": "Color",
-                "value": "Pair-Black"
-            },
-            {
-                "key": "Material",
-                "value": "Neoprene"
             },
             {
                 "key": "Number of Items",
@@ -1979,7 +1915,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Ankle Straps",
+        "color": "Pair-Black",
+        "material": "Neoprene",
+        "weight": "0.88 Pounds"
     },
     {
         "asin": "B0CHL1ZHY4",
@@ -2123,18 +2063,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "14 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Multi"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "20\"D x 15.4\"W x 15.5\"H"
             },
@@ -2177,10 +2105,6 @@
             {
                 "key": "Warranty Description",
                 "value": "3-year frame. 2-year pad"
-            },
-            {
-                "key": "Model Name",
-                "value": "EX-1"
             },
             {
                 "key": "Suggested Users",
@@ -2252,7 +2176,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "EX-1",
+        "color": "Multi",
+        "material": "Alloy Steel",
+        "weight": "14 Pounds"
     },
     {
         "asin": "B0C33WT4VS",
@@ -2532,10 +2460,6 @@
                 "value": "Adjustable Resistance"
             },
             {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Resistance Bands"
             },
@@ -2552,24 +2476,12 @@
                 "value": "Calories, Scan, Time, Count."
             },
             {
-                "key": "Model Name",
-                "value": "NO. 077S"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "24.5 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "3"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -2813,7 +2725,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "NO. 077S",
+        "color": "Grey",
+        "material": "Alloy Steel",
+        "weight": "24.5 Pounds"
     },
     {
         "asin": "B00OJX90UU",
@@ -3109,28 +3025,12 @@
                 "value": "2.21 Kilograms"
             },
             {
-                "key": "Item Weight",
-                "value": "2.15 Kilograms"
-            },
-            {
                 "key": "Brand Name",
                 "value": "AmazeFan"
             },
             {
                 "key": "Warranty Description",
                 "value": "1"
-            },
-            {
-                "key": "Model Name",
-                "value": "1"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Suggested Users",
@@ -3198,7 +3098,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "1",
+        "color": "Black",
+        "material": "Aluminum",
+        "weight": "2.15 Kilograms"
     },
     {
         "asin": "B0BRN2KVBZ",
@@ -3454,18 +3358,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "12 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Faux Leather"
-            },
-            {
-                "key": "Color",
-                "value": "800LBS"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "15\"D x 34\"W x 10\"H"
             },
@@ -3500,10 +3392,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year"
-            },
-            {
-                "key": "Model Name",
-                "value": "A-002"
             },
             {
                 "key": "Part Number",
@@ -3559,7 +3447,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "A-002",
+        "color": "800LBS",
+        "material": "Faux Leather",
+        "weight": "12 Kilograms"
     },
     {
         "asin": "B08XM4TQF9",

@@ -144,28 +144,12 @@
                 "value": "5.97 Kilograms"
             },
             {
-                "key": "Item Weight",
-                "value": "5.97 Kilograms"
-            },
-            {
                 "key": "Brand Name",
                 "value": "MERACH"
             },
             {
                 "key": "Warranty Description",
                 "value": "No"
-            },
-            {
-                "key": "Model Name",
-                "value": "MR-2445"
-            },
-            {
-                "key": "Color",
-                "value": "Blue"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Manufacturer",
@@ -265,7 +249,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "MR-2445",
+        "color": "Blue",
+        "material": "Alloy Steel",
+        "weight": "5.97 Kilograms"
     },
     {
         "asin": "B08HN78WH7",
@@ -834,10 +822,6 @@
                 "value": "Adjustable Resistance"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Elastic Cord"
             },
@@ -854,24 +838,12 @@
                 "value": "Time, Count, Calories, Scan"
             },
             {
-                "key": "Model Name",
-                "value": "Upright Row-N-Ride\u00ae Plus Exerciser"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "37.9 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "Low, Medium, High"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -983,7 +955,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Upright Row-N-Ride\u00ae Plus Exerciser",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "37.9 Pounds"
     },
     {
         "asin": "B0D7MF38XN",
@@ -1125,10 +1101,6 @@
                 "value": "Adjustable Resistance"
             },
             {
-                "key": "Color",
-                "value": "5 - Full Motion Smart"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Resistance Bands"
             },
@@ -1145,19 +1117,7 @@
                 "value": "Time"
             },
             {
-                "key": "Model Name",
-                "value": "Row n Ride"
-            },
-            {
                 "key": "Frame Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "39.3 Pounds"
-            },
-            {
-                "key": "Material",
                 "value": "Alloy Steel"
             },
             {
@@ -1430,7 +1390,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Row n Ride",
+        "color": "5 - Full Motion Smart",
+        "material": "Alloy Steel",
+        "weight": "39.3 Pounds"
     },
     {
         "asin": "B0CRL5XWT8",
@@ -1680,20 +1644,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Metallic Gray"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "3E+2 Pounds"
             },
             {
                 "key": "Mounting Type",
                 "value": "Doorway Mount"
-            },
-            {
-                "key": "Material",
-                "value": "heavy steel tubing, premium hardware, ABS, high density foam padding"
             },
             {
                 "key": "Special Feature",
@@ -1706,10 +1662,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "10.2 Pounds"
             },
             {
                 "key": "UPC",
@@ -1738,10 +1690,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Day Satisfaction Guarantee, 10 Year Limited Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "XL Doorway Pull Up Bar with Elevated Bar and Adjustable Width"
             },
             {
                 "key": "Suggested Users",
@@ -1809,7 +1757,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "XL Doorway Pull Up Bar with Elevated Bar and Adjustable Width",
+        "color": "Metallic Gray",
+        "material": "heavy steel tubing, premium hardware, ABS, high density foam padding",
+        "weight": "10.2 Pounds"
     },
     {
         "asin": "B000ICHPIK",
@@ -1825,14 +1777,6 @@
             "DESIGNED IN THE USA: Ultimate Body Press is a North Carolina company committed to delivering better workouts every day. Includes Prime eligible shipping and USA customer service.SHOP WITH CONFIDENCE: The Dip Bar Fitness Station is backed by Ultimate Body Press against manufacturer's defects for 10 years"
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Metal"
-            },
-            {
-                "key": "Color",
-                "value": "White/Black"
-            },
             {
                 "key": "Product Dimensions",
                 "value": "24\"L x 36\"W x 36\"H"
@@ -1852,10 +1796,6 @@
             {
                 "key": "Warranty Type",
                 "value": "10 Manufacturers Defects"
-            },
-            {
-                "key": "Item Weight",
-                "value": "18.5 Pounds"
             },
             {
                 "key": "Manufacturer",
@@ -1888,10 +1828,6 @@
             {
                 "key": "Warranty Description",
                 "value": "10 year limited"
-            },
-            {
-                "key": "Model Name",
-                "value": "Dip Bar Fitness Station"
             },
             {
                 "key": "Suggested Users",
@@ -1955,7 +1891,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Dip Bar Fitness Station",
+        "color": "White/Black",
+        "material": "Metal",
+        "weight": "18.5 Pounds"
     },
     {
         "asin": "B0854NNBK5",
@@ -2162,18 +2102,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Purple"
-            },
-            {
-                "key": "Material",
-                "value": "Acrylonitrile Butadiene Styrene"
-            },
-            {
-                "key": "Item Weight",
-                "value": "10.5 Kilograms"
-            },
-            {
                 "key": "Style",
                 "value": "Foldable \uff06 Adjustable"
             },
@@ -2204,10 +2132,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1"
-            },
-            {
-                "key": "Model Name",
-                "value": "2.0 Ab machine"
             },
             {
                 "key": "Suggested Users",
@@ -2267,7 +2191,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "2.0 Ab machine",
+        "color": "Purple",
+        "material": "Acrylonitrile Butadiene Styrene",
+        "weight": "10.5 Kilograms"
     },
     {
         "asin": "B08FZYZV2R",
@@ -3073,18 +3001,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Cotton-Poly-Jersey"
-            },
-            {
-                "key": "Color",
-                "value": "Red"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.5 Kilograms"
-            },
-            {
                 "key": "Sport",
                 "value": "Exercise and Fitness"
             },
@@ -3103,10 +3019,6 @@
             {
                 "key": "Unit Count",
                 "value": "3.0 Count"
-            },
-            {
-                "key": "Model Name",
-                "value": "LLPURPLUS"
             },
             {
                 "key": "Product Dimensions",
@@ -3222,7 +3134,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "LLPURPLUS",
+        "color": "Red",
+        "material": "Cotton-Poly-Jersey",
+        "weight": "0.5 Kilograms"
     },
     {
         "asin": "B0BLJVSN41",
@@ -3243,18 +3159,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon, Natural Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "1-Orange"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.21 Kilograms"
-            },
-            {
                 "key": "Sport",
                 "value": "Weightlifting, pull up, Exercise and Fitness, Body Building, Strength Training"
             },
@@ -3269,10 +3173,6 @@
             {
                 "key": "Special Feature",
                 "value": "Stackable, Anti-Snap, Adjustable"
-            },
-            {
-                "key": "Model Name",
-                "value": "pull up assist band"
             },
             {
                 "key": "Style",
@@ -3552,7 +3452,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "pull up assist band",
+        "color": "1-Orange",
+        "material": "Nylon, Natural Rubber",
+        "weight": "1.21 Kilograms"
     },
     {
         "asin": "B07SM8VJ6P",
@@ -3807,18 +3711,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Matal, Nylon, Natural Rubber, iron"
-            },
-            {
-                "key": "Color",
-                "value": "Black and Yellow"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.97 Kilograms"
-            },
-            {
                 "key": "Sport",
                 "value": "Weightlifting, pull up, Exercise and Fitness, Body Building, Strength Training"
             },
@@ -3833,10 +3725,6 @@
             {
                 "key": "Special Feature",
                 "value": "Heavy Duly, Portable, Stackable, Anti-Snap, Adjustable"
-            },
-            {
-                "key": "Model Name",
-                "value": "Pull Up Assistance Set-yellow"
             },
             {
                 "key": "Style",
@@ -3928,7 +3816,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Pull Up Assistance Set-yellow",
+        "color": "Black and Yellow",
+        "material": "Matal, Nylon, Natural Rubber, iron",
+        "weight": "0.97 Kilograms"
     },
     {
         "asin": "B0D3DL33QM",
@@ -3949,10 +3841,6 @@
                 "value": "Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Manual Weight Plate"
             },
@@ -3969,24 +3857,12 @@
                 "value": "Stroke Count"
             },
             {
-                "key": "Model Name",
-                "value": "SR03"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "168 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "High"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -4066,7 +3942,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SR03",
+        "color": "black",
+        "material": "Alloy Steel",
+        "weight": "168 Pounds"
     },
     {
         "asin": "B0CJR3CLDR",
@@ -4207,18 +4087,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Natural Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.26 Pounds"
-            },
-            {
                 "key": "Sport",
                 "value": "Physiotherapy, Exercise and Fitness, Body Building, Strength Training"
             },
@@ -4233,10 +4101,6 @@
             {
                 "key": "Special Feature",
                 "value": "Anti-Break, Non-Slip, Stackable, Adjustable"
-            },
-            {
-                "key": "Model Name",
-                "value": "Pull Up Assistance Bands Blue"
             },
             {
                 "key": "Product Dimensions",
@@ -4544,7 +4408,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Pull Up Assistance Bands Blue",
+        "color": "Black",
+        "material": "Natural Rubber",
+        "weight": "2.26 Pounds"
     },
     {
         "asin": "B0DCK3KGCQ",
@@ -4671,20 +4539,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Rotating Pull Up Handles"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Kilograms"
             },
             {
                 "key": "Mounting Type",
                 "value": "Doorway Mount"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Special Feature",
@@ -4697,10 +4557,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.24 Kilograms"
             },
             {
                 "key": "UPC",
@@ -4729,10 +4585,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 DAYS RETURN & 1 YEAR WARRANTY"
-            },
-            {
-                "key": "Model Name",
-                "value": "1NHS"
             },
             {
                 "key": "Suggested Users",
@@ -4792,7 +4644,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "1NHS",
+        "color": "Rotating Pull Up Handles",
+        "material": "Alloy Steel",
+        "weight": "2.24 Kilograms"
     },
     {
         "asin": "B0818T77J3",
@@ -4808,18 +4664,6 @@
             "\u3010LCD Display\u3011The smart LCD training monitor circularly shows the calories burnt, workout time and repetitions."
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "23 Pounds"
-            },
             {
                 "key": "Style",
                 "value": "ab machine"
@@ -4855,10 +4699,6 @@
             {
                 "key": "Brand Name",
                 "value": "Fitlaya Fitness"
-            },
-            {
-                "key": "Model Name",
-                "value": "Fitcore 01"
             },
             {
                 "key": "Part Number",
@@ -4946,7 +4786,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Fitcore 01",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "23 Pounds"
     },
     {
         "asin": "B0D52ZXND5",
@@ -4964,18 +4808,6 @@
             "Suitable for most fitness machine:Pull up assist bands can be connected to a variety of fitness equipment, such as pull-up bars or,pull up bar for doorway, fitness equipment, pull-up machines\uff0chomemade fixtures, etc., so that your workout is not limited by location, through the rational use of pull-up bands, you can effectively enhance the ability to pull-up!"
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Nylon, Natural Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "Blue"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2 Pounds"
-            },
             {
                 "key": "Sport",
                 "value": "Physiotherapy, Exercise and Fitness, Body Building, Strength Training"
@@ -4995,10 +4827,6 @@
             {
                 "key": "Unit Count",
                 "value": "1.01 Count"
-            },
-            {
-                "key": "Model Name",
-                "value": "Pull Up Assistance Bands"
             },
             {
                 "key": "Style",
@@ -5186,7 +5014,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Pull Up Assistance Bands",
+        "color": "Blue",
+        "material": "Nylon, Natural Rubber",
+        "weight": "2 Pounds"
     },
     {
         "asin": "B0CJ4LG276",
@@ -5314,18 +5146,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon, Thermoplastic Rubber, Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.7 Pounds"
-            },
-            {
                 "key": "Style",
                 "value": "All-in-One"
             },
@@ -5372,10 +5192,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year limited warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "TRX ALL-IN-ONE"
             },
             {
                 "key": "Suggested Users",
@@ -5451,7 +5267,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "TRX ALL-IN-ONE",
+        "color": "Black",
+        "material": "Nylon, Thermoplastic Rubber, Steel",
+        "weight": "1.7 Pounds"
     },
     {
         "asin": "B0D382DMPW",
@@ -5467,18 +5287,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Natural Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "Green"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.85 Pounds"
-            },
-            {
                 "key": "Sport",
                 "value": "Exercise and Fitness"
             },
@@ -5493,10 +5301,6 @@
             {
                 "key": "Special Feature",
                 "value": "Anti-Snap"
-            },
-            {
-                "key": "Model Name",
-                "value": "FF-OR"
             },
             {
                 "key": "Product Dimensions",
@@ -5868,7 +5672,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "FF-OR",
+        "color": "Green",
+        "material": "Natural Rubber",
+        "weight": "0.85 Pounds"
     },
     {
         "asin": "B08SJ6HN24",
@@ -6047,20 +5855,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Pounds"
             },
             {
                 "key": "Mounting Type",
                 "value": "Doorway Mount"
-            },
-            {
-                "key": "Material",
-                "value": "Vinyl"
             },
             {
                 "key": "Special Feature",
@@ -6073,10 +5873,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "8.7 Pounds"
             },
             {
                 "key": "UPC",
@@ -6109,10 +5905,6 @@
             {
                 "key": "Warranty Description",
                 "value": "Limited Lifetime Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "Pull-Up Bars"
             },
             {
                 "key": "Suggested Users",
@@ -6328,7 +6120,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Pull-Up Bars",
+        "color": "Black",
+        "material": "Vinyl",
+        "weight": "8.7 Pounds"
     },
     {
         "asin": "B07TY735FS",
@@ -7121,20 +6917,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Steel"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "220 Pounds"
             },
             {
                 "key": "Mounting Type",
                 "value": "Doorway Mount"
-            },
-            {
-                "key": "Material",
-                "value": "Chrome"
             },
             {
                 "key": "Special Feature",
@@ -7147,10 +6935,6 @@
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "3 Pounds"
             },
             {
                 "key": "UPC",
@@ -7183,10 +6967,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year manufacturer Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "NO. 025"
             },
             {
                 "key": "Suggested Users",
@@ -7266,7 +7046,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "NO. 025",
+        "color": "Steel",
+        "material": "Chrome",
+        "weight": "3 Pounds"
     },
     {
         "asin": "B0BFWVXY32",
@@ -7681,18 +7465,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Original"
-            },
-            {
-                "key": "Material",
-                "value": "breathable mesh"
-            },
-            {
-                "key": "Item Weight",
-                "value": "7 Pounds"
-            },
-            {
                 "key": "Style",
                 "value": "Sit Up"
             },
@@ -7731,10 +7503,6 @@
             {
                 "key": "Brand Name",
                 "value": "Perfect Fitness"
-            },
-            {
-                "key": "Model Name",
-                "value": "Perfect Fitness 31125 Perfect Crunch"
             },
             {
                 "key": "Number of Items",
@@ -7798,7 +7566,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Perfect Fitness 31125 Perfect Crunch",
+        "color": "Original",
+        "material": "breathable mesh",
+        "weight": "7 Pounds"
     },
     {
         "asin": "B00GP4UODI",
@@ -7827,28 +7599,12 @@
                 "value": "46 x 57 x 60 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "77 Kilograms"
-            },
-            {
                 "key": "Brand Name",
                 "value": "MARCY"
             },
             {
                 "key": "Warranty Description",
                 "value": "2 Year Manufacture"
-            },
-            {
-                "key": "Model Name",
-                "value": "SM-3551"
-            },
-            {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Suggested Users",
@@ -7920,7 +7676,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SM-3551",
+        "color": "Gray",
+        "material": "Alloy Steel",
+        "weight": "77 Kilograms"
     },
     {
         "asin": "B0DMZPFCN1",

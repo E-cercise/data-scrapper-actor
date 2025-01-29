@@ -14,18 +14,6 @@
         ],
         "attributes": [
             {
-                "key": "Item Weight",
-                "value": "75 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Polyurethane"
-            },
-            {
-                "key": "Color",
-                "value": "Red"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "43.3\"D x 38.6\"W x 78.1\"H"
             },
@@ -60,10 +48,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year Warranty Against Manufacturer Defects"
-            },
-            {
-                "key": "Model Name",
-                "value": "Power Tower"
             },
             {
                 "key": "Suggested Users",
@@ -191,7 +175,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Power Tower",
+        "color": "Red",
+        "material": "Alloy Steel, Polyurethane",
+        "weight": "75 Pounds"
     },
     {
         "asin": "B071HT1DH1",

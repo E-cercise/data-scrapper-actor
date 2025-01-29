@@ -14,14 +14,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Stainless Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "11.2 Pounds"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Special Anti slip Rubber"
             },
@@ -68,14 +60,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year"
-            },
-            {
-                "key": "Model Name",
-                "value": "WZ-082"
-            },
-            {
-                "key": "Color",
-                "value": "Red and Black"
             },
             {
                 "key": "Suggested Users",
@@ -135,7 +119,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "WZ-082",
+        "color": "Red and Black",
+        "material": "Stainless Steel",
+        "weight": "11.2 Pounds"
     },
     {
         "asin": "B0CP9CQ4RK",
@@ -314,18 +302,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Slant Board"
-            },
-            {
-                "key": "Item Weight",
-                "value": "3.85 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Wood"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "16\"L x 12.5\"W x 6\"H"
             },
@@ -360,10 +336,6 @@
             {
                 "key": "Brand Name",
                 "value": "MUCITAGF"
-            },
-            {
-                "key": "Model Name",
-                "value": "Professional Wooden Slant Board"
             },
             {
                 "key": "Part Number",
@@ -411,7 +383,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Professional Wooden Slant Board",
+        "color": "Slant Board",
+        "material": "Wood",
+        "weight": "3.85 Kilograms"
     },
     {
         "asin": "B0CKQZ28R3",
@@ -427,18 +403,6 @@
             "Higher Quality: BAIYUAN's tibialis trainer is made of highly rigid steel and thick foam pads to assure durability and comfort, which will provide you with a highly effective workout. With a lifespan of decades. Use the tib bar even in bare feet for a comfortable workout"
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Black, Fits 2\" Olympic Plates"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "5.2 Pounds"
-            },
             {
                 "key": "Style",
                 "value": "Ankle & shin muscle strength training"
@@ -474,10 +438,6 @@
             {
                 "key": "Warranty Description",
                 "value": "Manufacturer warranty for 90 days from date of purchase."
-            },
-            {
-                "key": "Model Name",
-                "value": "B-171"
             },
             {
                 "key": "Suggested Users",
@@ -533,7 +493,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "B-171",
+        "color": "Black, Fits 2\" Olympic Plates",
+        "material": "Alloy Steel",
+        "weight": "5.2 Pounds"
     },
     {
         "asin": "B0BG682CTH",
@@ -549,18 +513,6 @@
             "PORTABLE AND STRONG: This set of two cork squat wedge blocks comes with a carrying bag for easy portability and storage. Each block measures 9 x 4.7 x 2.6 inches and weighs 1.6 lbs. Together the blocks can hold up to 1400 lbs"
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Brown"
-            },
-            {
-                "key": "Material",
-                "value": "Cork"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.6 Pounds"
-            },
             {
                 "key": "Product Dimensions",
                 "value": "2.6\"L x 4.7\"W x 9\"Th"
@@ -600,10 +552,6 @@
             {
                 "key": "Warranty Description",
                 "value": "90 days"
-            },
-            {
-                "key": "Model Name",
-                "value": "SWC-001"
             },
             {
                 "key": "Suggested Users",
@@ -667,7 +615,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SWC-001",
+        "color": "Brown",
+        "material": "Cork",
+        "weight": "1.6 Pounds"
     },
     {
         "asin": "B0CTFDK1P8",
@@ -683,18 +635,6 @@
             "IMPROVE YOUR ATHLETIC ABILITY: This tib bar is specifically designed to help strengthen the tibial muscles, which are crucial for stability and support around the ankle joint. The targeted strengthening of these muscles can enhance overall balance and coordination. Moreover, using this tib trainer can also help reduce post-exercise pain by promoting proper muscle activation and alignment."
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Iron"
-            },
-            {
-                "key": "Item Weight",
-                "value": "4.4 Pounds"
-            },
             {
                 "key": "Style",
                 "value": "Leg strengthening tib bar with 2 padded foams, one limit pin and clamp"
@@ -730,10 +670,6 @@
             {
                 "key": "Warranty Description",
                 "value": "China"
-            },
-            {
-                "key": "Model Name",
-                "value": "Tib bar"
             },
             {
                 "key": "Suggested Users",
@@ -789,7 +725,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Tib bar",
+        "color": "Black",
+        "material": "Iron",
+        "weight": "4.4 Pounds"
     },
     {
         "asin": "B0D1RFQSPV",
@@ -805,18 +745,6 @@
             "Dimensions and Weight: The bar is 2 inches in diameter, fitting Olympic weight plates, and the entire equipment weighs 3.9 pounds, making it portable and easy to store."
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Metal"
-            },
-            {
-                "key": "Item Weight",
-                "value": "3.9 Pounds"
-            },
             {
                 "key": "Style",
                 "value": "Modern"
@@ -844,10 +772,6 @@
             {
                 "key": "Warranty Description",
                 "value": "5years"
-            },
-            {
-                "key": "Model Name",
-                "value": "Modern"
             },
             {
                 "key": "Suggested Users",
@@ -903,7 +827,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Modern",
+        "color": "Black",
+        "material": "Metal",
+        "weight": "3.9 Pounds"
     },
     {
         "asin": "B0D5YQNW1H",
@@ -1190,18 +1118,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Steel Pipe, HDR foam"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.27 Kilograms"
-            },
-            {
                 "key": "Style",
                 "value": "Black"
             },
@@ -1236,10 +1152,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year"
-            },
-            {
-                "key": "Model Name",
-                "value": "Tib Bar"
             },
             {
                 "key": "Suggested Users",
@@ -1299,7 +1211,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Tib Bar",
+        "color": "Black",
+        "material": "Steel Pipe, HDR foam",
+        "weight": "2.27 Kilograms"
     },
     {
         "asin": "B0D7BJBM4S",
@@ -1328,28 +1244,12 @@
                 "value": "24.8 x 3.9 x 3.9 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "3.45 Kilograms"
-            },
-            {
                 "key": "Brand Name",
                 "value": "EVERYMATE"
             },
             {
                 "key": "Warranty Description",
                 "value": "1 years"
-            },
-            {
-                "key": "Model Name",
-                "value": "SMALL"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Suggested Users",
@@ -1405,7 +1305,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SMALL",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "3.45 Kilograms"
     },
     {
         "asin": "B0CDGCTBD4",
@@ -1421,18 +1325,6 @@
             "Gym Essential for Everyone : Catering to various fitness levels, our Squat Wedge serves as a squat platform, box squat tool, and yoga wedge. From beginners to seasoned athletes, this essential gym accessory is a must-have for a holistic workout regimen."
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "beige"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.1 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Cork"
-            },
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
@@ -1460,10 +1352,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30"
-            },
-            {
-                "key": "Model Name",
-                "value": "Squat Wedge"
             },
             {
                 "key": "Suggested Users",
@@ -1519,7 +1407,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Squat Wedge",
+        "color": "beige",
+        "material": "Cork",
+        "weight": "1.1 Kilograms"
     },
     {
         "asin": "B0BWJ49PQG",
@@ -1535,18 +1427,6 @@
             "\u3010Product Guarantee\u3011 The tib bar has a sturdy steel construction that is so durable that it will not bend or crack from heavy or prolonged use. We offer lifetime after-sales service, so you can contact us anytime with questions."
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Black, Fits 2\" Weight Plates"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.8 Kilograms"
-            },
             {
                 "key": "Style",
                 "value": "Fitness, simple and practical"
@@ -1574,10 +1454,6 @@
             {
                 "key": "Warranty Description",
                 "value": "No"
-            },
-            {
-                "key": "Model Name",
-                "value": "Black, Fits 2\" Weight Plates"
             },
             {
                 "key": "Suggested Users",
@@ -1673,7 +1549,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Black, Fits 2\" Weight Plates",
+        "color": "Black, Fits 2\" Weight Plates",
+        "material": "Alloy Steel",
+        "weight": "2.8 Kilograms"
     },
     {
         "asin": "B0DD3TWBGV",
@@ -1820,28 +1700,12 @@
                 "value": "24.8 x 5.5 x 3.3 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "4.89 Kilograms"
-            },
-            {
                 "key": "Brand Name",
                 "value": "EVERYMATE"
             },
             {
                 "key": "Warranty Description",
                 "value": "1 years"
-            },
-            {
-                "key": "Model Name",
-                "value": "LARGE"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Suggested Users",
@@ -1897,7 +1761,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "LARGE",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "4.89 Kilograms"
     },
     {
         "asin": "B0BM4F6J4Q",
@@ -1913,18 +1781,6 @@
             "Fits Olympic Diameter: It fits 2inches Olympic size weight plates, and the unit weighs approximately 5LBs overall."
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "black"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.3 Kilograms"
-            },
             {
                 "key": "Style",
                 "value": "All-season"
@@ -1952,10 +1808,6 @@
             {
                 "key": "Warranty Description",
                 "value": "manufacturer warranty for 90 days from date of purchase"
-            },
-            {
-                "key": "Model Name",
-                "value": "TIB01"
             },
             {
                 "key": "Suggested Users",
@@ -2051,7 +1903,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "TIB01",
+        "color": "black",
+        "material": "Alloy Steel",
+        "weight": "2.3 Kilograms"
     },
     {
         "asin": "B0CSZ9GWZN",
@@ -2067,14 +1923,6 @@
             "Comprehensive Set Including Straps and Accessories This set includes an attachment strap and additional foam pad, making it versatile for both sit-up training and tibialis raises. Whether you're using it with a bench, rack, or door, this assistant helps you optimize your workouts with exercises targeting the tibia, hamstring, and shin. Perfect for enhancing your ATG routine, the Tib Bar provides total lower body strength improvement."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Metal"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.79 Kilograms"
-            },
             {
                 "key": "Grip Type",
                 "value": "Knurled"
@@ -2106,14 +1954,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 years"
-            },
-            {
-                "key": "Model Name",
-                "value": "JGP-B01"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -2177,7 +2017,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "JGP-B01",
+        "color": "Black",
+        "material": "Metal",
+        "weight": "2.79 Kilograms"
     },
     {
         "asin": "B0B5FM6WT6",
@@ -2677,28 +2521,12 @@
                 "value": "6.28 x 12.25 x 3.48 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "1.9 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "HarderWill"
             },
             {
                 "key": "Warranty Description",
                 "value": "30-days"
-            },
-            {
-                "key": "Model Name",
-                "value": "Squat Block"
-            },
-            {
-                "key": "Color",
-                "value": "black"
-            },
-            {
-                "key": "Material",
-                "value": "Polypropylene (PP)"
             },
             {
                 "key": "Suggested Users",
@@ -2770,7 +2598,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Squat Block",
+        "color": "black",
+        "material": "Polypropylene (PP)",
+        "weight": "1.9 Pounds"
     },
     {
         "asin": "B0DK3B8WRK",
@@ -2799,28 +2631,12 @@
                 "value": "6.28 x 12.25 x 3.48 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "1.9 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "HarderWill"
             },
             {
                 "key": "Warranty Description",
                 "value": "30-days"
-            },
-            {
-                "key": "Model Name",
-                "value": "Squat Block"
-            },
-            {
-                "key": "Color",
-                "value": "black"
-            },
-            {
-                "key": "Material",
-                "value": "Polypropylene (PP)"
             },
             {
                 "key": "Suggested Users",
@@ -2892,7 +2708,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Squat Block",
+        "color": "black",
+        "material": "Polypropylene (PP)",
+        "weight": "1.9 Pounds"
     },
     {
         "asin": "B0BC8HCC6V",
@@ -2910,20 +2730,12 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel, Metal"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "12\"D x 6.5\"W x 6\"H"
             },
             {
                 "key": "Style",
                 "value": "heavy duty"
-            },
-            {
-                "key": "Item Weight",
-                "value": "3.5 Kilograms"
             },
             {
                 "key": "Number of Racks",
@@ -2956,14 +2768,6 @@
             {
                 "key": "Warranty Description",
                 "value": "60-day"
-            },
-            {
-                "key": "Model Name",
-                "value": "TKA-3986"
-            },
-            {
-                "key": "Color",
-                "value": "B: Black-Metal-5Heights"
             },
             {
                 "key": "Suggested Users",
@@ -3055,7 +2859,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "TKA-3986",
+        "color": "B: Black-Metal-5Heights",
+        "material": "Alloy Steel, Metal",
+        "weight": "3.5 Kilograms"
     },
     {
         "asin": "B0CSNSHGBG",
@@ -3071,14 +2879,6 @@
             "Comprehensive Lower Body Workout: Transform your lower body with our all-in-one leg trainer. Suitable for both home gyms and professional use, it amplifies exercises like tibialis raises, rivaling traditional leg raise machines and back extension equipment for an unparalleled workout experience."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "5.6 Pounds"
-            },
             {
                 "key": "Grip Type",
                 "value": "Padded"
@@ -3122,14 +2922,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 year"
-            },
-            {
-                "key": "Model Name",
-                "value": "JG03-B01"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -3229,7 +3021,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "JG03-B01",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "5.6 Pounds"
     },
     {
         "asin": "B0DMGFQKMP",
@@ -3349,18 +3145,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Metal"
-            },
-            {
-                "key": "Item Weight",
-                "value": "3.04 Kilograms"
-            },
-            {
                 "key": "Product Care Instructions",
                 "value": "Wipe with Dry Cloth"
             },
@@ -3387,10 +3171,6 @@
             {
                 "key": "Warranty Description",
                 "value": "3-year"
-            },
-            {
-                "key": "Model Name",
-                "value": "Squat Wedge 10 Degree"
             },
             {
                 "key": "Suggested Users",
@@ -3498,7 +3278,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Squat Wedge 10 Degree",
+        "color": "Black",
+        "material": "Metal",
+        "weight": "3.04 Kilograms"
     },
     {
         "asin": "B0CT61R1Z6",
@@ -3514,14 +3298,6 @@
             "omprehensive Lower Body Workout: Transform your lower body with our all-in-one leg trainer. Suitable for both home gyms and professional use, it amplifies exercises like tibialis raises, rivaling traditional leg raise machines and back extension equipment for an unparalleled workout experience."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "5.4 Pounds"
-            },
             {
                 "key": "Grip Type",
                 "value": "Padded"
@@ -3565,14 +3341,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 year"
-            },
-            {
-                "key": "Model Name",
-                "value": "JG03-C01"
-            },
-            {
-                "key": "Color",
-                "value": "Orange"
             },
             {
                 "key": "Suggested Users",
@@ -3640,7 +3408,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "JG03-C01",
+        "color": "Orange",
+        "material": "Alloy Steel",
+        "weight": "5.4 Pounds"
     },
     {
         "asin": "B0BM4DVS6S",
@@ -3656,18 +3428,6 @@
             "Strong and durable: Fitarc tib bar is made of high quality stainless steel, which is very durable. The diameter of the tibial trainer is 1 inches, which is suitable for Dumbbell Pieces"
         ],
         "attributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "4.8 Pounds"
-            },
             {
                 "key": "Style",
                 "value": "Black"
@@ -3699,10 +3459,6 @@
             {
                 "key": "Warranty Description",
                 "value": "No"
-            },
-            {
-                "key": "Model Name",
-                "value": "Fits 1\" Plates Black Tib Bar"
             },
             {
                 "key": "Suggested Users",
@@ -3886,7 +3642,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Fits 1\" Plates Black Tib Bar",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "4.8 Pounds"
     },
     {
         "asin": "B0B7MBSCJ5",

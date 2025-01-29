@@ -15,18 +15,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.9 Kilograms"
-            },
-            {
                 "key": "Sport",
                 "value": "Yoga"
             },
@@ -45,10 +33,6 @@
             {
                 "key": "Unit Count",
                 "value": "1.0 Count"
-            },
-            {
-                "key": "Model Name",
-                "value": "Rip Trainer Kit"
             },
             {
                 "key": "Product Dimensions",
@@ -176,7 +160,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Rip Trainer Kit",
+        "color": "Black",
+        "material": "Nylon",
+        "weight": "0.9 Kilograms"
     },
     {
         "asin": "B0C8JQ4QPX",
@@ -192,18 +180,6 @@
             "[Brand Service] If any problems with the home resistance training kit, you can contact us through the order information or e-mail. We will solve your problem within 24 hours."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Black,Yellow"
-            },
-            {
-                "key": "Item Weight",
-                "value": "3.28 Pounds"
-            },
             {
                 "key": "Style",
                 "value": "Pull Up"
@@ -243,10 +219,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "Home Resistance Training Kit"
             },
             {
                 "key": "Suggested Users",
@@ -306,7 +278,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Home Resistance Training Kit",
+        "color": "Black,Yellow",
+        "material": "Nylon",
+        "weight": "3.28 Pounds"
     },
     {
         "asin": "B08CT15CJB",
@@ -542,18 +518,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon, Foam Handles"
-            },
-            {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2 Pounds"
-            },
-            {
                 "key": "Style",
                 "value": "Go"
             },
@@ -596,10 +560,6 @@
             {
                 "key": "Warranty Description",
                 "value": "3 Year Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "Go Suspension Trainer"
             },
             {
                 "key": "Suggested Users",
@@ -675,7 +635,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Go Suspension Trainer",
+        "color": "Grey",
+        "material": "Nylon, Foam Handles",
+        "weight": "2 Pounds"
     },
     {
         "asin": "B0D1C2T6W9",
@@ -704,28 +668,12 @@
                 "value": "4.72 x 4.72 x 2.36 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "2 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Srrmod"
             },
             {
                 "key": "Warranty Description",
                 "value": "NO"
-            },
-            {
-                "key": "Model Name",
-                "value": "SR-DH-1206"
-            },
-            {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
-                "key": "Material",
-                "value": "Iron"
             },
             {
                 "key": "Suggested Users",
@@ -797,7 +745,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SR-DH-1206",
+        "color": "Grey",
+        "material": "Iron",
+        "weight": "2 Pounds"
     },
     {
         "asin": "B0DH1CVB45",
@@ -813,18 +765,6 @@
             "\u3010100% SATISFACTION GUARANTEE\u3011The resistance training kit comes with 5 Resistance Bands, 1 Door Anchor, 1 Extension Strap, 2 Telescopic Straps, 2 Handles, 1 Sports Training Guide, 1 Instruction Guide, and 1 Drawstring Travel Bag. If you have any problems with the FUICZSN body weight resistance training straps you can contact us through the order information or e-mail. We will solve your problem within 12 hours, we will ensure that you are 100% satisfied with the FUICZSN home suspension training kit!"
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Yellow"
-            },
-            {
-                "key": "Item Weight",
-                "value": "3 Pounds"
-            },
             {
                 "key": "Style",
                 "value": "5 Resistance Bands, 1 Door Anchor, 1 Extension Strap, 2 Telescopic Straps, 2 Handles, 1 Sports Training Guide, 1 Instruction Guide, and 1 Drawstring Travel Bag"
@@ -856,10 +796,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 Year Manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "Home Resistance Training Kit"
             },
             {
                 "key": "Suggested Users",
@@ -923,7 +859,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Home Resistance Training Kit",
+        "color": "Yellow",
+        "material": "Nylon",
+        "weight": "3 Pounds"
     },
     {
         "asin": "B007W4IGIK",
@@ -939,18 +879,6 @@
             "YOUR TRIAL TO THE TRX TRAINING CLUB APP: Experience unlimited access to 500+ on-demand workouts: weight training, cardio, cross-training, sport athleticism, resistance and mobility training, and prehab and rehab. Find 100s of workouts for every goal! All workouts are guided by world-class certified TRX trainers."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.27 Kilograms"
-            },
             {
                 "key": "Sport",
                 "value": "Yoga"
@@ -970,10 +898,6 @@
             {
                 "key": "Unit Count",
                 "value": "1.0 Count"
-            },
-            {
-                "key": "Model Name",
-                "value": "Rip Trainer Resistance Cord"
             },
             {
                 "key": "Style",
@@ -1273,7 +1197,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Rip Trainer Resistance Cord",
+        "color": "Black",
+        "material": "Nylon",
+        "weight": "0.27 Kilograms"
     },
     {
         "asin": "B0DLWMS42S",
@@ -1304,28 +1232,12 @@
                 "value": "29.9 x 13.4 x 14.7 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "19.8 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "HWOOUSA"
             },
             {
                 "key": "Warranty Description",
                 "value": "2 year"
-            },
-            {
-                "key": "Model Name",
-                "value": "HW-026"
-            },
-            {
-                "key": "Color",
-                "value": "Red+Black"
-            },
-            {
-                "key": "Material",
-                "value": "Nylon, Metal"
             },
             {
                 "key": "Suggested Users",
@@ -1389,7 +1301,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "HW-026",
+        "color": "Red+Black",
+        "material": "Nylon, Metal",
+        "weight": "19.8 Pounds"
     },
     {
         "asin": "B002YRB35I",
@@ -1406,18 +1322,6 @@
             "NOTE: You no longer need a Key To Free Card to access our TRX Training Club App. You can download the app and access your free trial."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Nylon, Thermoplastic Rubber, Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.7 Pounds"
-            },
             {
                 "key": "Style",
                 "value": "All-in-One"
@@ -1465,10 +1369,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year limited warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "TRX ALL-IN-ONE"
             },
             {
                 "key": "Suggested Users",
@@ -1544,7 +1444,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "TRX ALL-IN-ONE",
+        "color": "Black",
+        "material": "Nylon, Thermoplastic Rubber, Steel",
+        "weight": "1.7 Pounds"
     },
     {
         "asin": "B0CT8ZV43N",
@@ -1627,18 +1531,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Natural Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "natural"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.2 Kilograms"
-            },
-            {
                 "key": "Sport",
                 "value": "Exercise and Fitness"
             },
@@ -1657,10 +1549,6 @@
             {
                 "key": "Unit Count",
                 "value": "1.00 Count"
-            },
-            {
-                "key": "Model Name",
-                "value": "TRX EXERCISE BANDS"
             },
             {
                 "key": "Style",
@@ -1748,7 +1636,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "TRX EXERCISE BANDS",
+        "color": "natural",
+        "material": "Natural Rubber",
+        "weight": "0.2 Kilograms"
     },
     {
         "asin": "B085NSGFY3",
@@ -2201,18 +2093,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.1 Kilograms"
-            },
-            {
                 "key": "Style",
                 "value": "Door Anchor"
             },
@@ -2247,10 +2127,6 @@
             {
                 "key": "Brand Name",
                 "value": "TRX"
-            },
-            {
-                "key": "Model Name",
-                "value": "Door Anchor"
             },
             {
                 "key": "Suggested Users",
@@ -2322,7 +2198,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Door Anchor",
+        "color": "Black",
+        "material": "Nylon",
+        "weight": "0.1 Kilograms"
     },
     {
         "asin": "B09FHK1YKB",
@@ -2339,24 +2219,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "PVC"
-            },
-            {
                 "key": "Product Care Instructions",
                 "value": "Wipe Clean"
             },
             {
                 "key": "Product Dimensions",
                 "value": "72\"L x 24\"W x 0.19\"Th"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.94 Kilograms"
             },
             {
                 "key": "Manufacturer",
@@ -2389,10 +2257,6 @@
             {
                 "key": "Warranty Description",
                 "value": "6 Year Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "Yoga Mat"
             },
             {
                 "key": "Suggested Users",
@@ -2464,7 +2328,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Yoga Mat",
+        "color": "Black",
+        "material": "PVC",
+        "weight": "2.94 Kilograms"
     },
     {
         "asin": "B0D4QHZR1S",
@@ -2725,18 +2593,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Plastic"
-            },
-            {
-                "key": "Color",
-                "value": "black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.68 Pounds"
-            },
-            {
                 "key": "Sport",
                 "value": "Strength Training, Exercise and Fitness"
             },
@@ -2755,10 +2611,6 @@
             {
                 "key": "Unit Count",
                 "value": "1.0 Count"
-            },
-            {
-                "key": "Model Name",
-                "value": "Bandit"
             },
             {
                 "key": "Product Dimensions",
@@ -2854,7 +2706,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Bandit",
+        "color": "black",
+        "material": "Plastic",
+        "weight": "1.68 Pounds"
     },
     {
         "asin": "B0DP1GSXV7",
@@ -2871,18 +2727,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Natural Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "Red, Black, Green, Blue, Yellow"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1 Pounds"
-            },
-            {
                 "key": "Sport",
                 "value": "Exercise and Fitness"
             },
@@ -2897,10 +2741,6 @@
             {
                 "key": "Special Feature",
                 "value": "Lightweight, Stackable, Adjustable"
-            },
-            {
-                "key": "Model Name",
-                "value": "GDBD-11RB"
             },
             {
                 "key": "Style",
@@ -2984,7 +2824,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "GDBD-11RB",
+        "color": "Red, Black, Green, Blue, Yellow",
+        "material": "Natural Rubber",
+        "weight": "1 Pounds"
     },
     {
         "asin": "B07778BQRJ",
@@ -3660,18 +3504,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Yellow"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.77 Kilograms"
-            },
-            {
                 "key": "Style",
                 "value": "Modern"
             },
@@ -3710,10 +3542,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year"
-            },
-            {
-                "key": "Model Name",
-                "value": "WS-065"
             },
             {
                 "key": "Suggested Users",
@@ -3861,7 +3689,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "WS-065",
+        "color": "Yellow",
+        "material": "Nylon",
+        "weight": "1.77 Kilograms"
     },
     {
         "asin": "B071XVTY3Q",
@@ -4188,18 +4020,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Version 2.0 Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.68 Ounces"
-            },
-            {
                 "key": "Sport",
                 "value": "Body Building"
             },
@@ -4214,10 +4034,6 @@
             {
                 "key": "Special Feature",
                 "value": "Adjustable Assistance Levels, Multifunctional, Portable"
-            },
-            {
-                "key": "Model Name",
-                "value": "Version 2.0 Door anchor"
             },
             {
                 "key": "Style",
@@ -4297,7 +4113,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Version 2.0 Door anchor",
+        "color": "Version 2.0 Black",
+        "material": "Nylon",
+        "weight": "2.68 Ounces"
     },
     {
         "asin": "B0813ZZTWB",
@@ -5042,18 +4862,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Black, Yellow"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.9 Pounds"
-            },
-            {
                 "key": "Style",
                 "value": "Modern"
             },
@@ -5084,10 +4892,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "Home Resistance Training Kit."
             },
             {
                 "key": "Suggested Users",
@@ -5151,7 +4955,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Home Resistance Training Kit.",
+        "color": "Black, Yellow",
+        "material": "Nylon",
+        "weight": "2.9 Pounds"
     },
     {
         "asin": "B07NLK6323",
@@ -5167,18 +4975,6 @@
             "YOUR TRIAL TO THE TRX TRAINING CLUB APP: Experience unlimited access to 500+ on-demand workouts: weight training, cardio, cross-training, sport athleticism, resistance and mobility training, and prehab and rehab. Find 100s of workouts for every goal! All workouts are guided by world-class certified TRX trainers."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Nylon, Foam, Stainless Steel, Plastic"
-            },
-            {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.7 Pounds"
-            },
             {
                 "key": "Style",
                 "value": "Go Bundle"
@@ -5218,10 +5014,6 @@
             {
                 "key": "Warranty Description",
                 "value": "3 Year Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "Go Bundle"
             },
             {
                 "key": "Suggested Users",
@@ -5293,7 +5085,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Go Bundle",
+        "color": "Grey",
+        "material": "Nylon, Foam, Stainless Steel, Plastic",
+        "weight": "1.7 Pounds"
     },
     {
         "asin": "B01M6E155T",
@@ -5310,18 +5106,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "High quality strong webbing"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "100 Grams"
-            },
-            {
                 "key": "Sport",
                 "value": "Exercise and Fitness"
             },
@@ -5336,10 +5120,6 @@
             {
                 "key": "Special Feature",
                 "value": "Non-Slip"
-            },
-            {
-                "key": "Model Name",
-                "value": "Door Anchor for Resistance Bands"
             },
             {
                 "key": "Product Dimensions",
@@ -5439,7 +5219,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Door Anchor for Resistance Bands",
+        "color": "Black",
+        "material": "High quality strong webbing",
+        "weight": "100 Grams"
     },
     {
         "asin": "B0DJW9NLY8",
@@ -5743,18 +5527,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Yellow - 20 lbs"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.15 Kilograms"
-            },
-            {
                 "key": "Sport",
                 "value": "Exercise and Fitness, Workout, Strength Training"
             },
@@ -5769,10 +5541,6 @@
             {
                 "key": "Special Feature",
                 "value": "Non-Slip"
-            },
-            {
-                "key": "Model Name",
-                "value": "Hip & Core System"
             },
             {
                 "key": "Manufacturer",
@@ -5932,7 +5700,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Hip & Core System",
+        "color": "Yellow - 20 lbs",
+        "material": "Nylon",
+        "weight": "0.15 Kilograms"
     },
     {
         "asin": "B0DCYVZNV2",
@@ -5949,18 +5721,6 @@
             "Premium Support:If you experience any issues with our home resistance training kit, contact us via your order details or email. Our team will resolve your problem within 24 hours."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Blue"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.5 Kilograms"
-            },
             {
                 "key": "Style",
                 "value": "Modern"
@@ -5988,10 +5748,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1"
-            },
-            {
-                "key": "Model Name",
-                "value": "Home Resistance Training Kit"
             },
             {
                 "key": "Suggested Users",
@@ -6055,7 +5811,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Home Resistance Training Kit",
+        "color": "Blue",
+        "material": "Nylon",
+        "weight": "1.5 Kilograms"
     },
     {
         "asin": "B0067R0IS4",
@@ -6073,18 +5833,6 @@
             "NOTE: You no longer need a Key To Free Card to access our TRX Training Club App. You can download the app and access your free trial."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "Olive"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1 Kilograms"
-            },
             {
                 "key": "Style",
                 "value": "Suspension-Trainer Gym Kit Model 1"
@@ -6124,10 +5872,6 @@
             {
                 "key": "Country of Origin",
                 "value": "China"
-            },
-            {
-                "key": "Model Name",
-                "value": "Tactical"
             },
             {
                 "key": "Suggested Users",
@@ -6191,7 +5935,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Tactical",
+        "color": "Olive",
+        "material": "Rubber",
+        "weight": "1 Kilograms"
     },
     {
         "asin": "B09KTB5D7J",
@@ -6322,20 +6070,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black/Red"
-            },
-            {
-                "key": "Material",
-                "value": "nylon"
-            },
-            {
                 "key": "Style",
                 "value": "Modern"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.6 ounces"
             },
             {
                 "key": "Assembly Required",
@@ -6368,10 +6104,6 @@
             {
                 "key": "Brand Name",
                 "value": "Lifeline"
-            },
-            {
-                "key": "Model Name",
-                "value": "Door Anchor"
             },
             {
                 "key": "Suggested Users",
@@ -6443,7 +6175,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Door Anchor",
+        "color": "Black/Red",
+        "material": "nylon",
+        "weight": "1.6 ounces"
     },
     {
         "asin": "B0CPRZZ6M4",
@@ -6586,18 +6322,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Sunshine Yellow"
-            },
-            {
-                "key": "Item Weight",
-                "value": "3.3 Pounds"
-            },
-            {
                 "key": "Style",
                 "value": "Modern"
             },
@@ -6624,10 +6348,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year"
-            },
-            {
-                "key": "Model Name",
-                "value": "SG0129"
             },
             {
                 "key": "Suggested Users",
@@ -6759,7 +6479,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SG0129",
+        "color": "Sunshine Yellow",
+        "material": "Nylon",
+        "weight": "3.3 Pounds"
     },
     {
         "asin": "B0BN7JLJ85",
@@ -6922,18 +6646,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Yellow"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.49 Kilograms"
-            },
-            {
                 "key": "Style",
                 "value": "Modern"
             },
@@ -6964,10 +6676,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "1"
             },
             {
                 "key": "Suggested Users",
@@ -7027,7 +6735,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "1",
+        "color": "Yellow",
+        "material": "Nylon",
+        "weight": "1.49 Kilograms"
     },
     {
         "asin": "B08FG4727N",
@@ -7158,18 +6870,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "ED-20 VFX Training Straps"
-            },
-            {
-                "key": "Item Weight",
-                "value": "3 Pounds"
-            },
-            {
                 "key": "Style",
                 "value": "Suspension Trainers"
             },
@@ -7208,10 +6908,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year"
-            },
-            {
-                "key": "Model Name",
-                "value": "ED-20"
             },
             {
                 "key": "Suggested Users",
@@ -7271,7 +6967,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "ED-20",
+        "color": "ED-20 VFX Training Straps",
+        "material": "Nylon",
+        "weight": "3 Pounds"
     },
     {
         "asin": "B08BZWF1NS",
@@ -7384,18 +7084,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Yellow"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.5 Kilograms"
-            },
-            {
                 "key": "Style",
                 "value": "Pull Up"
             },
@@ -7422,10 +7110,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1"
-            },
-            {
-                "key": "Model Name",
-                "value": "HKTX"
             },
             {
                 "key": "Suggested Users",
@@ -7633,7 +7317,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "HKTX",
+        "color": "Yellow",
+        "material": "Nylon",
+        "weight": "1.5 Kilograms"
     },
     {
         "asin": "B0868TT343",
@@ -7649,18 +7337,6 @@
             "KETTLEBELL EXERCISES: Use them to tone different areas of the body. Our kettlebells are the accessory you need to perform anything from swings and thrusters to presses, squats, and snatches."
         ],
         "attributes": [
-            {
-                "key": "Item Weight",
-                "value": "44.1 Pounds"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Cast Iron"
-            },
             {
                 "key": "Product Dimensions",
                 "value": "9\"L x 9\"W x 14\"H"
@@ -7700,10 +7376,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "Rubber Coated Gravity Cast Kettle Bell 20kg"
             },
             {
                 "key": "Suggested Users",
@@ -7963,7 +7635,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Rubber Coated Gravity Cast Kettle Bell 20kg",
+        "color": "Black",
+        "material": "Cast Iron",
+        "weight": "44.1 Pounds"
     },
     {
         "asin": "B079KP21NJ",
@@ -8217,18 +7893,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon, Foam Handles"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.7 Pounds"
-            },
-            {
                 "key": "Sport",
                 "value": "Lacrosse, Exercise and Fitness, Pilates, Stretching, Strength Training"
             },
@@ -8247,10 +7911,6 @@
             {
                 "key": "Unit Count",
                 "value": "1.0 Count"
-            },
-            {
-                "key": "Model Name",
-                "value": "PRO3"
             },
             {
                 "key": "Product Dimensions",
@@ -8354,7 +8014,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "PRO3",
+        "color": "Black",
+        "material": "Nylon, Foam Handles",
+        "weight": "1.7 Pounds"
     },
     {
         "asin": "B07CVWPGV8",

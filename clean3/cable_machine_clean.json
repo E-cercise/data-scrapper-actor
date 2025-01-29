@@ -423,18 +423,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon\uff0cMetal"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.36 Kilograms"
-            },
-            {
                 "key": "Style",
                 "value": "Ankle Straps for Cable Machines Woman, Gym Ankle Strap for Cable Machine, Cable Machine Leg Attachments, Cable Kickback Ankle Strap, Female Ankle Straps for Exercise"
             },
@@ -469,10 +457,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year"
-            },
-            {
-                "key": "Model Name",
-                "value": "LMJJHK2PCS"
             },
             {
                 "key": "Suggested Users",
@@ -536,7 +520,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "LMJJHK2PCS",
+        "color": "Black",
+        "material": "Nylon\uff0cMetal",
+        "weight": "0.36 Kilograms"
     },
     {
         "asin": "B0BNQJ1G7X",
@@ -552,18 +540,6 @@
             "Professional & Satisfaction Service\uff1aHXD-ERGO focuses on providing professional fitness products and paying attention to user experience. Welcome to share your user experience with us. Let\u2019s become the best version of ourselves together."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "plastic"
-            },
-            {
-                "key": "Color",
-                "value": "Detachable Carabiner"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1 Pounds"
-            },
             {
                 "key": "Sport",
                 "value": "Exercise and Fitness"
@@ -583,10 +559,6 @@
             {
                 "key": "Unit Count",
                 "value": "1.0 Count"
-            },
-            {
-                "key": "Model Name",
-                "value": "Heavy duty exercise handle"
             },
             {
                 "key": "Product Dimensions",
@@ -718,7 +690,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Heavy duty exercise handle",
+        "color": "Detachable Carabiner",
+        "material": "plastic",
+        "weight": "1 Pounds"
     },
     {
         "asin": "B0BRN2KVBZ",
@@ -989,28 +965,12 @@
                 "value": "45 x 30 x 86 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "150 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Mikolo"
             },
             {
                 "key": "Warranty Description",
                 "value": "2 Year Manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "WR00"
-            },
-            {
-                "key": "Color",
-                "value": "Red"
-            },
-            {
-                "key": "Material",
-                "value": "steel"
             },
             {
                 "key": "Suggested Users",
@@ -1114,7 +1074,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "WR00",
+        "color": "Red",
+        "material": "steel",
+        "weight": "150 Pounds"
     },
     {
         "asin": "B0D1K6N974",
@@ -1130,18 +1094,6 @@
             "12 Months 100% Satisfaction Guaranted: your satisfaction more than anything else. we will provide you with a 1-year warranty and a 90-day refund service. If you have any problems during the use, not satisfied with our exercise handles or services, please contact us by email. We will answer your questions within 24 hours."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Nylon"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.25 Kilograms"
-            },
             {
                 "key": "Style",
                 "value": "Gym Handles for Cable Machine Attachment"
@@ -1177,10 +1129,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1"
-            },
-            {
-                "key": "Model Name",
-                "value": "COOBONS FITNESS"
             },
             {
                 "key": "Suggested Users",
@@ -1344,7 +1292,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "COOBONS FITNESS",
+        "color": "Black",
+        "material": "Nylon",
+        "weight": "0.25 Kilograms"
     },
     {
         "asin": "B073188FBP",
@@ -1512,28 +1464,12 @@
                 "value": "82 x 18 x 9 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "118 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Body-Solid"
             },
             {
                 "key": "Warranty Description",
                 "value": "10 years"
-            },
-            {
-                "key": "Model Name",
-                "value": "Crossover"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Suggested Users",
@@ -1609,7 +1545,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Crossover",
+        "color": "Black",
+        "material": "Aluminum",
+        "weight": "118 Pounds"
     },
     {
         "asin": "B0BZVLVDT6",
@@ -1626,18 +1566,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Plastic"
-            },
-            {
-                "key": "Color",
-                "value": "Multi"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.7 Kilograms"
-            },
-            {
                 "key": "Sport",
                 "value": "Body Building"
             },
@@ -1652,10 +1580,6 @@
             {
                 "key": "Special Feature",
                 "value": "Portable, Lightweight, Multifunctional, Reverse Charging, Eccentric and Concentric Resistance"
-            },
-            {
-                "key": "Model Name",
-                "value": "Unitree Pump Pro"
             },
             {
                 "key": "Product Dimensions",
@@ -1855,7 +1779,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Unitree Pump Pro",
+        "color": "Multi",
+        "material": "Plastic",
+        "weight": "0.7 Kilograms"
     },
     {
         "asin": "B09NPWT6R6",
@@ -1872,20 +1800,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Durable Elastic Material"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Style",
                 "value": "Pair"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.26 Kilograms"
             },
             {
                 "key": "Closure Type",
@@ -1922,10 +1838,6 @@
             {
                 "key": "Warranty Description",
                 "value": "12 Months Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "Ankle Strap"
             },
             {
                 "key": "Suggested Users",
@@ -2101,7 +2013,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Ankle Strap",
+        "color": "Black",
+        "material": "Durable Elastic Material",
+        "weight": "0.26 Kilograms"
     },
     {
         "asin": "B0063NCDLM",
@@ -2130,28 +2046,12 @@
                 "value": "55 x 84 x 61 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "330 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Body-Solid"
             },
             {
                 "key": "Warranty Description",
                 "value": "3 Year Frame"
-            },
-            {
-                "key": "Model Name",
-                "value": "Body-Solid BFFT10R Best Fitness Functional Trainer"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "steel"
             },
             {
                 "key": "Number of Items",
@@ -2223,7 +2123,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Body-Solid BFFT10R Best Fitness Functional Trainer",
+        "color": "Black",
+        "material": "steel",
+        "weight": "330 Pounds"
     },
     {
         "asin": "B088FX5TW3",
@@ -3016,28 +2920,12 @@
                 "value": "408 Pounds"
             },
             {
-                "key": "Item Weight",
-                "value": "400 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "FAGUS H"
             },
             {
                 "key": "Warranty Description",
                 "value": "1 Year Manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "HG4003-SUB2404-BLACK"
-            },
-            {
-                "key": "Color",
-                "value": "Black Home Gym Station with Weight Bench Combo"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Suggested Users",
@@ -3233,7 +3121,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "HG4003-SUB2404-BLACK",
+        "color": "Black Home Gym Station with Weight Bench Combo",
+        "material": "Alloy Steel",
+        "weight": "400 Pounds"
     },
     {
         "asin": "B00I9GJH9W",
@@ -3680,18 +3572,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon, Foam"
-            },
-            {
-                "key": "Color",
-                "value": "1-Red Handles"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.25 Kilograms"
-            },
-            {
                 "key": "Sport",
                 "value": "Strength Training, Exercise and Fitness"
             },
@@ -3706,10 +3586,6 @@
             {
                 "key": "Special Feature",
                 "value": "High Weight Capacity"
-            },
-            {
-                "key": "Model Name",
-                "value": "exercise band handles"
             },
             {
                 "key": "Product Dimensions",
@@ -4061,7 +3937,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "exercise band handles",
+        "color": "1-Red Handles",
+        "material": "Nylon, Foam",
+        "weight": "0.25 Kilograms"
     },
     {
         "asin": "B07MHQ4H9M",
@@ -4089,24 +3969,8 @@
                 "value": "10 x 4 x 0.5 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "0.9 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "FIGHTECH"
-            },
-            {
-                "key": "Model Name",
-                "value": "LiteMotion"
-            },
-            {
-                "key": "Color",
-                "value": "Lavender"
-            },
-            {
-                "key": "Material",
-                "value": "Nylon, Neoprene"
             },
             {
                 "key": "Suggested Users",
@@ -4350,7 +4214,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "LiteMotion",
+        "color": "Lavender",
+        "material": "Nylon, Neoprene",
+        "weight": "0.9 Pounds"
     },
     {
         "asin": "B09DSZF4ZL",

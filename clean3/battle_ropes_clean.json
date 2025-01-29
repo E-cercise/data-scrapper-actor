@@ -249,18 +249,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon, Thermoplastic Rubber, Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.7 Pounds"
-            },
-            {
                 "key": "Style",
                 "value": "All-in-One"
             },
@@ -307,10 +295,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year limited warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "TRX ALL-IN-ONE"
             },
             {
                 "key": "Suggested Users",
@@ -386,7 +370,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "TRX ALL-IN-ONE",
+        "color": "Black",
+        "material": "Nylon, Thermoplastic Rubber, Steel",
+        "weight": "1.7 Pounds"
     },
     {
         "asin": "B0BQ2PL94W",
@@ -415,28 +403,12 @@
                 "value": "2 x 1.9 x 3.2 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "0.27 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Yes4All"
             },
             {
                 "key": "Warranty Description",
                 "value": "30 DAYS RETURN & 1 YEAR WARRANTY"
-            },
-            {
-                "key": "Model Name",
-                "value": "Wall Mount Anchors"
-            },
-            {
-                "key": "Color",
-                "value": "B. Black Set Of 3 Hook"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Suggested Users",
@@ -512,7 +484,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Wall Mount Anchors",
+        "color": "B. Black Set Of 3 Hook",
+        "material": "Alloy Steel",
+        "weight": "0.27 Pounds"
     },
     {
         "asin": "B0DPKTZQFD",
@@ -528,18 +504,6 @@
             "Suitable for All Fitness Levels: Exercise ropes are easy to use and carry, and can be safely used by men and women of all levels. Whether you are a fitness novice or a professional fitness enthusiast, whether you like to exercise in the gym or exercise at home, this battle rope is your best choice!"
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Stainless Steel"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2 Pounds"
-            },
             {
                 "key": "Sport",
                 "value": "Exercise and Fitness"
@@ -559,10 +523,6 @@
             {
                 "key": "Unit Count",
                 "value": "1.0 Count"
-            },
-            {
-                "key": "Model Name",
-                "value": "1ar4zy1mg5vg1ns2bh3D01-lp"
             },
             {
                 "key": "Product Dimensions",
@@ -658,7 +618,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "1ar4zy1mg5vg1ns2bh3D01-lp",
+        "color": "Black",
+        "material": "Stainless Steel",
+        "weight": "2 Pounds"
     },
     {
         "asin": "B00HQK4QZW",
@@ -809,20 +773,8 @@
                 "value": "Slip Resistant"
             },
             {
-                "key": "Material",
-                "value": "Nylon, poly dacron"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Item Length",
                 "value": "360 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "16 Pounds"
             },
             {
                 "key": "Handle Diameter",
@@ -859,10 +811,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1-year warranty and 30-day return"
-            },
-            {
-                "key": "Model Name",
-                "value": "LDKA"
             },
             {
                 "key": "Suggested Users",
@@ -930,7 +878,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "LDKA",
+        "color": "Black",
+        "material": "Nylon, poly dacron",
+        "weight": "16 Pounds"
     },
     {
         "asin": "B0B2RJTDMB",
@@ -1971,28 +1923,12 @@
                 "value": "354 x 1.5 x 1.5 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "17 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "PROIRON"
             },
             {
                 "key": "Warranty Description",
                 "value": "2 Year Limited Manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "PROIRON Battle Rope 9m"
-            },
-            {
-                "key": "Color",
-                "value": "Multi"
-            },
-            {
-                "key": "Material",
-                "value": "Polyester, Polypropylene"
             },
             {
                 "key": "Suggested Users",
@@ -2104,7 +2040,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "PROIRON Battle Rope 9m",
+        "color": "Multi",
+        "material": "Polyester, Polypropylene",
+        "weight": "17 Pounds"
     },
     {
         "asin": "B0C3TB8423",
@@ -2365,24 +2305,12 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "Material",
-                "value": "Hemp"
-            },
-            {
                 "key": "Handle Material",
                 "value": "Rubber"
             },
             {
-                "key": "Color",
-                "value": "A.Climbing Rope 10ft"
-            },
-            {
                 "key": "Item Length",
                 "value": "120 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "5.5 Pounds"
             },
             {
                 "key": "Grip Material",
@@ -2419,10 +2347,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 DAYS RETURN & 1 YEAR WARRANTY"
-            },
-            {
-                "key": "Model Name",
-                "value": "NZ32"
             },
             {
                 "key": "Suggested Users",
@@ -2490,7 +2414,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "NZ32",
+        "color": "A.Climbing Rope 10ft",
+        "material": "Hemp",
+        "weight": "5.5 Pounds"
     },
     {
         "asin": "B0DKFBMQ9F",
@@ -3383,24 +3311,12 @@
                 "value": "Adult"
             },
             {
-                "key": "Material",
-                "value": "100-percent-poly-dacron"
-            },
-            {
                 "key": "Handle Material",
                 "value": "Acrylonitrile Butadiene Styrene (ABS)"
             },
             {
-                "key": "Color",
-                "value": "1.5*30''"
-            },
-            {
                 "key": "Item Length",
                 "value": "30 Feet"
-            },
-            {
-                "key": "Item Weight",
-                "value": "3 Pounds"
             },
             {
                 "key": "Grip Material",
@@ -3433,10 +3349,6 @@
             {
                 "key": "Brand Name",
                 "value": "SUPER DEAL"
-            },
-            {
-                "key": "Model Name",
-                "value": "FBA_LYSB019GWPO8U-SPRTSEQIP"
             },
             {
                 "key": "Part Number",
@@ -3500,7 +3412,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "FBA_LYSB019GWPO8U-SPRTSEQIP",
+        "color": "1.5*30''",
+        "material": "100-percent-poly-dacron",
+        "weight": "3 Pounds"
     },
     {
         "asin": "B09KTB5D7J",
@@ -3856,28 +3772,12 @@
                 "value": "11.4 x 1.9 x 4.25 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "3.1 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "HULKFIT"
             },
             {
                 "key": "Warranty Description",
                 "value": "2 year manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "HFElite-Rope"
-            },
-            {
-                "key": "Color",
-                "value": "Battle Rope Anchor - Black"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Suggested Users",
@@ -4045,7 +3945,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "HFElite-Rope",
+        "color": "Battle Rope Anchor - Black",
+        "material": "Aluminum",
+        "weight": "3.1 Pounds"
     },
     {
         "asin": "B07B4TLZ13",
@@ -5419,24 +5323,12 @@
                 "value": "Exercise and Fitness, Speed and Endurance, Boxing"
             },
             {
-                "key": "Material",
-                "value": "PVC"
-            },
-            {
                 "key": "Handle Material",
                 "value": "Plastic"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Item Length",
                 "value": "108 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.14 Kilograms"
             },
             {
                 "key": "Grip Material",
@@ -5465,10 +5357,6 @@
             {
                 "key": "Brand Name",
                 "value": "DEGOL"
-            },
-            {
-                "key": "Model Name",
-                "value": "19-022-jr"
             },
             {
                 "key": "Part Number",
@@ -5520,7 +5408,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "19-022-jr",
+        "color": "Black",
+        "material": "PVC",
+        "weight": "0.14 Kilograms"
     },
     {
         "asin": "B0085BCCO8",

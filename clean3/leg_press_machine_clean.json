@@ -280,18 +280,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Nylon, Natural Rubber"
-            },
-            {
-                "key": "Color",
-                "value": "1-Orange"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.9 Pounds"
-            },
-            {
                 "key": "Sport",
                 "value": "Yoga, Exercise and Fitness, Pilates, Strength Training, Body Building"
             },
@@ -306,10 +294,6 @@
             {
                 "key": "Special Feature",
                 "value": "Adjustable"
-            },
-            {
-                "key": "Model Name",
-                "value": "Ankle Strap"
             },
             {
                 "key": "Style",
@@ -561,7 +545,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Ankle Strap",
+        "color": "1-Orange",
+        "material": "Nylon, Natural Rubber",
+        "weight": "0.9 Pounds"
     },
     {
         "asin": "B07N4M53DC",
@@ -578,14 +566,6 @@
             "SPORT TYPE: Weightlifting, Exercise and Fitness"
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "28.2 Pounds"
-            },
             {
                 "key": "Grip Type",
                 "value": "Ergonomic"
@@ -645,14 +625,6 @@
             {
                 "key": "Warranty Description",
                 "value": "30 Days"
-            },
-            {
-                "key": "Model Name",
-                "value": "OB-93"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -836,7 +808,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "OB-93",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "28.2 Pounds"
     },
     {
         "asin": "B0C8342FMM",
@@ -862,10 +838,6 @@
                 "value": "Adjustable Foot Strap, Ergonomic, Compact"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Hydraulic"
             },
@@ -882,24 +854,12 @@
                 "value": "Calories, Count, Scan, Time"
             },
             {
-                "key": "Model Name",
-                "value": "SF-RW1205SMART"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "22.4 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "12 levels"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -1063,7 +1023,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-RW1205SMART",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "22.4 Pounds"
     },
     {
         "asin": "B0DPYZ3V9X",
@@ -1093,28 +1057,12 @@
                 "value": "61.22 x 27.05 x 89.25 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "110.2 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "HOMLANE"
             },
             {
                 "key": "Warranty Description",
                 "value": "We offer dedicated after-sales support to ensure your satisfaction with our fitness equipment."
-            },
-            {
-                "key": "Model Name",
-                "value": "Nng9vbEBih6s_-880BCBYg3Bcdy05"
-            },
-            {
-                "key": "Color",
-                "value": "BLACK"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
             },
             {
                 "key": "Suggested Users",
@@ -1182,7 +1130,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Nng9vbEBih6s_-880BCBYg3Bcdy05",
+        "color": "BLACK",
+        "material": "Carbon Steel",
+        "weight": "110.2 Pounds"
     },
     {
         "asin": "B09KRH994G",
@@ -1723,10 +1675,6 @@
                 "value": "Adjustable Resistance"
             },
             {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Resistance Bands"
             },
@@ -1743,24 +1691,12 @@
                 "value": "Calories, Scan, Time, Count."
             },
             {
-                "key": "Model Name",
-                "value": "NO. 077S"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Alloy Steel"
             },
             {
-                "key": "Item Weight",
-                "value": "24.5 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "3"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Power Source",
@@ -2004,7 +1940,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "NO. 077S",
+        "color": "Grey",
+        "material": "Alloy Steel",
+        "weight": "24.5 Pounds"
     },
     {
         "asin": "B07GYXF65S",
@@ -2424,24 +2364,12 @@
                 "value": "Adjustable Resistance"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "23.8 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -2458,10 +2386,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "FED-QMJ"
             },
             {
                 "key": "Number of Resistance Levels",
@@ -2557,7 +2481,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "FED-QMJ",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "23.8 Pounds"
     },
     {
         "asin": "B0CH1JGSL9",

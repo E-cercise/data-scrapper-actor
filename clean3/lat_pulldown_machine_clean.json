@@ -174,14 +174,6 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "heavy duty steel"
-            },
-            {
-                "key": "Item Weight",
-                "value": "12.98 Pounds"
-            },
-            {
                 "key": "Grip Type",
                 "value": "Ergonomic"
             },
@@ -220,14 +212,6 @@
             {
                 "key": "Warranty Description",
                 "value": "No Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "MUHYHY"
-            },
-            {
-                "key": "Color",
-                "value": "black"
             },
             {
                 "key": "Suggested Users",
@@ -291,7 +275,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "MUHYHY",
+        "color": "black",
+        "material": "heavy duty steel",
+        "weight": "12.98 Pounds"
     },
     {
         "asin": "B0DCW64VMJ",
@@ -316,24 +304,8 @@
                 "value": "10 Pounds"
             },
             {
-                "key": "Item Weight",
-                "value": "10 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "FVNBXG"
-            },
-            {
-                "key": "Model Name",
-                "value": "LAT Pulldown Machine"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Stainless Steel"
             },
             {
                 "key": "Suggested Users",
@@ -397,7 +369,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "LAT Pulldown Machine",
+        "color": "Black",
+        "material": "Stainless Steel",
+        "weight": "10 Pounds"
     },
     {
         "asin": "B0CSF7C9TF",
@@ -414,16 +390,8 @@
         ],
         "attributes": [
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Style",
                 "value": "Modern"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.72 Kilograms"
             },
             {
                 "key": "Number of Racks",
@@ -452,14 +420,6 @@
             {
                 "key": "Brand Name",
                 "value": "Whiidoom"
-            },
-            {
-                "key": "Model Name",
-                "value": "WH-6"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -515,7 +475,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "WH-6",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "2.72 Kilograms"
     },
     {
         "asin": "B07P9S4383",
@@ -531,14 +495,6 @@
             "Cable Machine Accessories: Our cable machine accessories are designed to have a secure fit, allowing for maximum control when using the machine. We offer a wide range of accessories, including cable curls, leg press attachments, and chest flies, giving your home gym an extra level of customization."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Aluminum"
-            },
-            {
-                "key": "Item Weight",
-                "value": "4.41 Pounds"
-            },
             {
                 "key": "Grip Type",
                 "value": "Knurled"
@@ -584,14 +540,6 @@
                 "value": "31 Day Return"
             },
             {
-                "key": "Model Name",
-                "value": "MB148A"
-            },
-            {
-                "key": "Color",
-                "value": "Silver"
-            },
-            {
                 "key": "Suggested Users",
                 "value": "unisex-adult"
             },
@@ -633,7 +581,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "MB148A",
+        "color": "Silver",
+        "material": "Aluminum",
+        "weight": "4.41 Pounds"
     },
     {
         "asin": "B001AYNBM4",
@@ -662,24 +614,8 @@
                 "value": "84 x 81 x 54 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "182 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Body-Solid"
-            },
-            {
-                "key": "Model Name",
-                "value": "Body-Solid LVLA Pcl Leverage Lat Pulldown"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Number of Items",
@@ -747,7 +683,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Body-Solid LVLA Pcl Leverage Lat Pulldown",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "182 Pounds"
     },
     {
         "asin": "B0063NCDLM",
@@ -776,28 +716,12 @@
                 "value": "55 x 84 x 61 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "330 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Body-Solid"
             },
             {
                 "key": "Warranty Description",
                 "value": "3 Year Frame"
-            },
-            {
-                "key": "Model Name",
-                "value": "Body-Solid BFFT10R Best Fitness Functional Trainer"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "steel"
             },
             {
                 "key": "Number of Items",
@@ -869,7 +793,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Body-Solid BFFT10R Best Fitness Functional Trainer",
+        "color": "Black",
+        "material": "steel",
+        "weight": "330 Pounds"
     },
     {
         "asin": "B0BSHW9FJC",
@@ -885,14 +813,6 @@
             "30 DAY DIGITAL WORKOUT PROGRAM: The product includes a 30-day workout program that will assist you to achieve your ideal body! Simply download SQUATZ app and click on your purchased product to launch the program, after which you can begin exercising"
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Iron"
-            },
-            {
-                "key": "Item Weight",
-                "value": "5.1 Pounds"
-            },
             {
                 "key": "Grip Type",
                 "value": "Ergonomic"
@@ -936,14 +856,6 @@
             {
                 "key": "Brand Name",
                 "value": "SQUATZ"
-            },
-            {
-                "key": "Model Name",
-                "value": "SQUATZ - Sports Water Bottle with Strainer (SQFIB-1O)"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Number of Items",
@@ -1003,7 +915,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SQUATZ - Sports Water Bottle with Strainer (SQFIB-1O)",
+        "color": "Black",
+        "material": "Iron",
+        "weight": "5.1 Pounds"
     },
     {
         "asin": "B08NS1Q6VH",
@@ -1486,18 +1402,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Acrylonitrile Butadiene Styrene (ABS)"
-            },
-            {
-                "key": "Item Weight",
-                "value": "15 Pounds"
-            },
-            {
                 "key": "Manufacturer",
                 "value": "SAMO"
             },
@@ -1524,10 +1428,6 @@
             {
                 "key": "Warranty Description",
                 "value": "TWO YEARS"
-            },
-            {
-                "key": "Model Name",
-                "value": "SAMOEB001"
             },
             {
                 "key": "Suggested Users",
@@ -1627,7 +1527,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SAMOEB001",
+        "color": "Black",
+        "material": "Acrylonitrile Butadiene Styrene (ABS)",
+        "weight": "15 Pounds"
     },
     {
         "asin": "B08F2LYZMJ",
@@ -1794,28 +1698,12 @@
                 "value": "32 x 12 x 5 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "40 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Rengue"
             },
             {
                 "key": "Warranty Description",
                 "value": "1 Year"
-            },
-            {
-                "key": "Model Name",
-                "value": "RG-CAF01"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Suggested Users",
@@ -1895,7 +1783,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RG-CAF01",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "40 Pounds"
     },
     {
         "asin": "B0DMNC16NT",
@@ -1924,28 +1816,12 @@
                 "value": "47 x 3 x 1 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "11.8 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "plzzree"
             },
             {
                 "key": "Warranty Description",
                 "value": "6M"
-            },
-            {
-                "key": "Model Name",
-                "value": "FSE"
-            },
-            {
-                "key": "Color",
-                "value": "Silver"
-            },
-            {
-                "key": "Material",
-                "value": "Stainless Steel"
             },
             {
                 "key": "Suggested Users",
@@ -2017,7 +1893,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "FSE",
+        "color": "Silver",
+        "material": "Stainless Steel",
+        "weight": "11.8 Pounds"
     },
     {
         "asin": "B07WNJSY2B",
@@ -2046,24 +1926,12 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "Material",
-                "value": "Rubber"
-            },
-            {
                 "key": "Handle Material",
                 "value": "Rubber"
             },
             {
-                "key": "Color",
-                "value": "Red&Black"
-            },
-            {
                 "key": "Item Length",
                 "value": "42 Inches"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.3 Kilograms"
             },
             {
                 "key": "Grip Material",
@@ -2092,10 +1960,6 @@
             {
                 "key": "Brand Name",
                 "value": "yuhqc"
-            },
-            {
-                "key": "Model Name",
-                "value": "TR002"
             },
             {
                 "key": "Part Number",
@@ -2279,7 +2143,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "TR002",
+        "color": "Red&Black",
+        "material": "Rubber",
+        "weight": "0.3 Kilograms"
     },
     {
         "asin": "B0D7NRG965",
@@ -2296,10 +2164,6 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "BLACK"
-            },
-            {
                 "key": "Maximum Weight Recommendation",
                 "value": "300 Pounds"
             },
@@ -2308,20 +2172,12 @@
                 "value": "Rack Mount"
             },
             {
-                "key": "Material",
-                "value": "Alloy Steel"
-            },
-            {
                 "key": "Special Feature",
                 "value": "Multiple Grip Position"
             },
             {
                 "key": "Age Range (Description)",
                 "value": "Adult"
-            },
-            {
-                "key": "Item Weight",
-                "value": "2.6 Pounds"
             },
             {
                 "key": "Item Package Dimensions L x W x H",
@@ -2338,10 +2194,6 @@
             {
                 "key": "Warranty Description",
                 "value": "2 year"
-            },
-            {
-                "key": "Model Name",
-                "value": "ZML102 BAR"
             },
             {
                 "key": "Suggested Users",
@@ -2401,7 +2253,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "ZML102 BAR",
+        "color": "BLACK",
+        "material": "Alloy Steel",
+        "weight": "2.6 Pounds"
     },
     {
         "asin": "B07ZQX5DXX",
@@ -2430,28 +2286,12 @@
                 "value": "51 x 47 x 80 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "36 Kilograms"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Body-Solid"
             },
             {
                 "key": "Warranty Description",
                 "value": "Lifetime Warranty"
-            },
-            {
-                "key": "Model Name",
-                "value": "GLA400"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Composite"
             },
             {
                 "key": "Suggested Users",
@@ -2519,7 +2359,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "GLA400",
+        "color": "Black",
+        "material": "Composite",
+        "weight": "36 Kilograms"
     },
     {
         "asin": "B0D5QRV87Y",
@@ -2548,28 +2392,12 @@
                 "value": "45 x 30 x 86 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "150 Pounds"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Mikolo"
             },
             {
                 "key": "Warranty Description",
                 "value": "2 Year Manufacturer"
-            },
-            {
-                "key": "Model Name",
-                "value": "WR00"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "steel"
             },
             {
                 "key": "Suggested Users",
@@ -2673,7 +2501,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "WR00",
+        "color": "Black",
+        "material": "steel",
+        "weight": "150 Pounds"
     },
     {
         "asin": "B088FX4QQT",
@@ -2876,24 +2708,8 @@
                 "value": "23.2 x 0.5 x 5.2 inches"
             },
             {
-                "key": "Item Weight",
-                "value": "2.3 Kilograms"
-            },
-            {
                 "key": "Brand Name",
                 "value": "Alien Gainz"
-            },
-            {
-                "key": "Model Name",
-                "value": "Lat Bar"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Suggested Users",
@@ -2953,7 +2769,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Lat Bar",
+        "color": "Black",
+        "material": "Aluminum",
+        "weight": "2.3 Kilograms"
     },
     {
         "asin": "B0D5LZMGWX",
@@ -2969,14 +2789,6 @@
             "Exercise training for arm strength and grip strength. Training for triceps, biceps, back, shoulders and ABS."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Rubber"
-            },
-            {
-                "key": "Item Weight",
-                "value": "500 Grams"
-            },
             {
                 "key": "Grip Type",
                 "value": "Knurled"
@@ -3020,14 +2832,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 Year"
-            },
-            {
-                "key": "Model Name",
-                "value": "Straight Bar Rotating"
-            },
-            {
-                "key": "Color",
-                "value": "Black"
             },
             {
                 "key": "Suggested Users",
@@ -3087,7 +2891,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Straight Bar Rotating",
+        "color": "Black",
+        "material": "Alloy Steel, Rubber",
+        "weight": "500 Grams"
     },
     {
         "asin": "B0D6YQ1CLM",
@@ -3103,14 +2911,6 @@
             "WIDE RANGE of APPLICATIONS: Our bar is designed to meet the training needs of people of different skill levels, from beginner to professional"
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Plastic"
-            },
-            {
-                "key": "Item Weight",
-                "value": "1.65 Kilograms"
-            },
             {
                 "key": "Grip Type",
                 "value": "Knurled"
@@ -3142,14 +2942,6 @@
             {
                 "key": "Warranty Description",
                 "value": "1 year"
-            },
-            {
-                "key": "Model Name",
-                "value": "m1"
-            },
-            {
-                "key": "Color",
-                "value": "black"
             },
             {
                 "key": "Suggested Users",
@@ -3209,7 +3001,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "m1",
+        "color": "black",
+        "material": "Plastic",
+        "weight": "1.65 Kilograms"
     },
     {
         "asin": "B07PD6GWQ9",
@@ -3225,14 +3021,6 @@
             "Premium Material: Our lat pull down bar provides additional strength and durability to your workout routine. Constructed with Aluminum, our lat bar is far more heavy-duty than plastic or wooden lat bars. It is designed to have a strong grip, allowing for maximum muscle activation during your lat pull down routine."
         ],
         "attributes": [
-            {
-                "key": "Material",
-                "value": "Aluminum"
-            },
-            {
-                "key": "Item Weight",
-                "value": "0.9 Kilograms"
-            },
             {
                 "key": "Grip Type",
                 "value": "Knurled"
@@ -3280,14 +3068,6 @@
             {
                 "key": "Warranty Description",
                 "value": "31 Day Return"
-            },
-            {
-                "key": "Model Name",
-                "value": "MB229A"
-            },
-            {
-                "key": "Color",
-                "value": "Silver"
             },
             {
                 "key": "Suggested Users",
@@ -3351,7 +3131,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "MB229A",
+        "color": "Silver",
+        "material": "Aluminum",
+        "weight": "0.9 Kilograms"
     },
     {
         "asin": "B088FX5TW3",

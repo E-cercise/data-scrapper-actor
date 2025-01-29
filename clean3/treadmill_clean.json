@@ -14,24 +14,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "walking pad treadmill"
             },
             {
                 "key": "Product Dimensions",
                 "value": "47.2\"D x 20\"W x 4\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "37.5 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -112,10 +100,6 @@
             {
                 "key": "UPC",
                 "value": "198168047699"
-            },
-            {
-                "key": "Model Name",
-                "value": "DK-38AB"
             },
             {
                 "key": "Manufacturer",
@@ -239,7 +223,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "DK-38AB",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "37.5 Pounds"
     },
     {
         "asin": "B0CGVRSY78",
@@ -259,20 +247,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black and Blue"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "53\"D x 24.4\"W x 43\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "51 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Plastic"
             },
             {
                 "key": "Maximum Speed",
@@ -349,10 +325,6 @@
             {
                 "key": "UPC",
                 "value": "850054379092"
-            },
-            {
-                "key": "Model Name",
-                "value": "SuperMax 2-in-1 Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -476,7 +448,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SuperMax 2-in-1 Treadmill",
+        "color": "Black and Blue",
+        "material": "Alloy Steel, Plastic",
+        "weight": "51 Pounds"
     },
     {
         "asin": "B08GMCK3RR",
@@ -493,20 +469,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black Medium"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "51\"D x 26\"W x 48\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "37 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -587,10 +551,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.6 Miles per Hour"
-            },
-            {
-                "key": "Model Name",
-                "value": "B08GMCK3RR-AEP1001"
             },
             {
                 "key": "Manufacturer",
@@ -830,7 +790,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "B08GMCK3RR-AEP1001",
+        "color": "Black Medium",
+        "material": "Carbon Steel",
+        "weight": "37 Kilograms"
     },
     {
         "asin": "B0C3QY37Y8",
@@ -847,24 +811,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Sliver"
-            },
-            {
                 "key": "Product Grade",
                 "value": "3.8 Miles per Hour"
             },
             {
                 "key": "Product Dimensions",
                 "value": "49\"D x 20.5\"W x 4.92\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "16.7 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -951,10 +903,6 @@
                 "value": "753775983374"
             },
             {
-                "key": "Model Name",
-                "value": "Treadmills"
-            },
-            {
                 "key": "Manufacturer",
                 "value": "Yagud"
             },
@@ -1028,7 +976,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Treadmills",
+        "color": "Sliver",
+        "material": "Alloy Steel",
+        "weight": "16.7 Kilograms"
     },
     {
         "asin": "B0CPJKBMP5",
@@ -1047,24 +999,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Top Foldable Treadmill"
             },
             {
                 "key": "Product Dimensions",
                 "value": "46.5\"D x 20.7\"W x 4.9\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "41 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -1157,10 +1097,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.6 Miles per Hour"
-            },
-            {
-                "key": "Model Name",
-                "value": "Walking Pad"
             },
             {
                 "key": "Manufacturer",
@@ -1288,7 +1224,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Walking Pad",
+        "color": "Grey",
+        "material": "Alloy Steel",
+        "weight": "41 Pounds"
     },
     {
         "asin": "B0CFR8GWYR",
@@ -1307,24 +1247,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Performance"
             },
             {
                 "key": "Product Dimensions",
                 "value": "68\"D x 33\"W x 62\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "250 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -1401,10 +1329,6 @@
             {
                 "key": "UPC",
                 "value": "810075991604"
-            },
-            {
-                "key": "Model Name",
-                "value": "Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -1484,7 +1408,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Treadmill",
+        "color": "Black",
+        "material": "Carbon Steel",
+        "weight": "250 Pounds"
     },
     {
         "asin": "B0CQ28DLFX",
@@ -1503,24 +1431,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "White"
-            },
-            {
                 "key": "Product Grade",
                 "value": "5"
             },
             {
                 "key": "Product Dimensions",
                 "value": "47.2\"D x 20\"W x 5.1\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "38 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -1605,10 +1521,6 @@
             {
                 "key": "UPC",
                 "value": "679065050550"
-            },
-            {
-                "key": "Model Name",
-                "value": "AX-C2"
             },
             {
                 "key": "Manufacturer",
@@ -1780,7 +1692,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AX-C2",
+        "color": "White",
+        "material": "Alloy Steel",
+        "weight": "38 Pounds"
     },
     {
         "asin": "B0D9VPS7CP",
@@ -1798,24 +1714,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "treadmill"
             },
             {
                 "key": "Product Dimensions",
                 "value": "56.3\"D x 24.3\"W x 43.7\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "75 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -1884,10 +1788,6 @@
             {
                 "key": "UPC",
                 "value": "767461133486"
-            },
-            {
-                "key": "Model Name",
-                "value": "V8"
             },
             {
                 "key": "Manufacturer",
@@ -1967,7 +1867,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "V8",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "75 Pounds"
     },
     {
         "asin": "B0DDSZSY24",
@@ -1984,20 +1888,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Yellow"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "46\"D x 22\"W x 4.2\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "22.52 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -2054,10 +1946,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.6 Miles per Hour"
-            },
-            {
-                "key": "Model Name",
-                "value": "Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -2305,7 +2193,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Treadmill",
+        "color": "Yellow",
+        "material": "Alloy Steel",
+        "weight": "22.52 Kilograms"
     },
     {
         "asin": "B0CJJ92JW7",
@@ -2323,20 +2215,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "C1 Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "47.6\"D x 21.6\"W x 40.5\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "24.95 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Acrylonitrile Butadiene Styrene (ABS)"
             },
             {
                 "key": "Maximum Speed",
@@ -2421,10 +2301,6 @@
             {
                 "key": "UPC",
                 "value": "198168849484"
-            },
-            {
-                "key": "Model Name",
-                "value": "C1"
             },
             {
                 "key": "Manufacturer",
@@ -2552,7 +2428,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "C1",
+        "color": "C1 Black",
+        "material": "Acrylonitrile Butadiene Styrene (ABS)",
+        "weight": "24.95 Kilograms"
     },
     {
         "asin": "B0DKS7LYTC",
@@ -2569,24 +2449,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "sliver"
-            },
-            {
                 "key": "Product Grade",
                 "value": "\u4ea7\u54c1"
             },
             {
                 "key": "Product Dimensions",
                 "value": "51.2\"D x 24\"W x 4.7\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "48.6 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -2671,10 +2539,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.5 Miles per Hour"
-            },
-            {
-                "key": "Model Name",
-                "value": "JK03F"
             },
             {
                 "key": "Manufacturer",
@@ -2878,7 +2742,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "JK03F",
+        "color": "sliver",
+        "material": "Alloy Steel",
+        "weight": "48.6 Pounds"
     },
     {
         "asin": "B0DSPFJHKV",
@@ -2895,24 +2763,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "White"
-            },
-            {
                 "key": "Product Grade",
                 "value": "walking treadmill"
             },
             {
                 "key": "Product Dimensions",
                 "value": "47\"D x 22\"W x 37\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "52 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Carbon Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -2981,10 +2837,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.6 Miles per Hour"
-            },
-            {
-                "key": "Model Name",
-                "value": "treadmills for home"
             },
             {
                 "key": "Manufacturer",
@@ -3064,7 +2916,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "treadmills for home",
+        "color": "White",
+        "material": "Carbon Steel",
+        "weight": "52 Pounds"
     },
     {
         "asin": "B0CNSNLKP6",
@@ -3083,20 +2939,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Hand Bar Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "48.2\"D x 25.2\"W x 4.5\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "49 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Acrylonitrile Butadiene Styrene (ABS)"
             },
             {
                 "key": "Maximum Speed",
@@ -3193,10 +3037,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.6 Miles per Hour"
-            },
-            {
-                "key": "Model Name",
-                "value": "STW42"
             },
             {
                 "key": "Manufacturer",
@@ -3380,7 +3220,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "STW42",
+        "color": "Hand Bar Black",
+        "material": "Acrylonitrile Butadiene Styrene (ABS)",
+        "weight": "49 Pounds"
     },
     {
         "asin": "B09R95JWZ9",
@@ -3402,24 +3246,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Performance"
             },
             {
                 "key": "Product Dimensions",
                 "value": "26.2\"D x 63\"W x 50.2\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "112 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -3516,10 +3348,6 @@
             {
                 "key": "Global Trade Identification Number",
                 "value": "00815749015730"
-            },
-            {
-                "key": "Model Name",
-                "value": "Foldable Incline Smart Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -3699,7 +3527,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Foldable Incline Smart Treadmill",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "112 Pounds"
     },
     {
         "asin": "B0C2XV7BLB",
@@ -3716,24 +3548,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black Red"
-            },
-            {
                 "key": "Product Grade",
                 "value": "treadmill"
             },
             {
                 "key": "Product Dimensions",
                 "value": "48.43\"D x 19.29\"W x 4.72\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "22 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -3802,10 +3622,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.6 Miles per Hour"
-            },
-            {
-                "key": "Model Name",
-                "value": "CS-WP6"
             },
             {
                 "key": "Manufacturer",
@@ -3953,7 +3769,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "CS-WP6",
+        "color": "Black Red",
+        "material": "Alloy Steel",
+        "weight": "22 Kilograms"
     },
     {
         "asin": "B0DT76S9TZ",
@@ -3970,24 +3790,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Consumer"
             },
             {
                 "key": "Product Dimensions",
                 "value": "45.28\"D x 4.92\"W x 22\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "38.6 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Maximum Speed",
@@ -4036,10 +3844,6 @@
             {
                 "key": "Frame Material",
                 "value": "Aluminum"
-            },
-            {
-                "key": "Model Name",
-                "value": "Under Desk Walking Treadmill Black"
             },
             {
                 "key": "Manufacturer",
@@ -4107,7 +3911,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Under Desk Walking Treadmill Black",
+        "color": "Black",
+        "material": "Aluminum",
+        "weight": "38.6 Pounds"
     },
     {
         "asin": "B0DRVDB39P",
@@ -4315,24 +4123,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "like new"
             },
             {
                 "key": "Product Dimensions",
                 "value": "74\"D x 35\"W x 59\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "249 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -4439,10 +4235,6 @@
                 "value": "043619438710"
             },
             {
-                "key": "Model Name",
-                "value": "Carbon TLX"
-            },
-            {
                 "key": "Manufacturer",
                 "value": "iFit"
             },
@@ -4528,7 +4320,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Carbon TLX",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "249 Pounds"
     },
     {
         "asin": "B08TG962LG",
@@ -4545,24 +4341,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Red"
-            },
-            {
                 "key": "Product Grade",
                 "value": "new"
             },
             {
                 "key": "Product Dimensions",
                 "value": "60.5\"D x 30.5\"W x 47.5\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "101.5 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Acrylonitrile Butadiene Styrene (ABS)"
             },
             {
                 "key": "Maximum Speed",
@@ -4659,10 +4443,6 @@
             {
                 "key": "UPC",
                 "value": "798470375741"
-            },
-            {
-                "key": "Model Name",
-                "value": "Goplus Folding Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -4890,7 +4670,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Goplus Folding Treadmill",
+        "color": "Red",
+        "material": "Alloy Steel, Acrylonitrile Butadiene Styrene (ABS)",
+        "weight": "101.5 Pounds"
     },
     {
         "asin": "B0B7B731WC",
@@ -4907,24 +4691,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "5"
             },
             {
                 "key": "Product Dimensions",
                 "value": "64\"D x 30\"W x 45\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "152 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -5023,10 +4795,6 @@
                 "value": "798470374386"
             },
             {
-                "key": "Model Name",
-                "value": "Treadmill"
-            },
-            {
                 "key": "Manufacturer",
                 "value": "Goplus"
             },
@@ -5096,7 +4864,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Treadmill",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "152 Pounds"
     },
     {
         "asin": "B08JQQHR7R",
@@ -5115,24 +4887,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Performance parts"
             },
             {
                 "key": "Product Dimensions",
                 "value": "76\"D x 37\"W x 63\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "318 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum, Plastic"
             },
             {
                 "key": "Maximum Speed",
@@ -5235,10 +4995,6 @@
                 "value": "00763165415767"
             },
             {
-                "key": "Model Name",
-                "value": "Horizon Fitness 7.4AT-02 Advanced Training Smart Treadmill"
-            },
-            {
                 "key": "Manufacturer",
                 "value": "Horizon Fitness -- IMPORT"
             },
@@ -5328,7 +5084,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Horizon Fitness 7.4AT-02 Advanced Training Smart Treadmill",
+        "color": "Black",
+        "material": "Aluminum, Plastic",
+        "weight": "318 Pounds"
     },
     {
         "asin": "B09N7RZGY3",
@@ -5344,20 +5104,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black Frame/Charcoal"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "70\"D x 33\"W x 64\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "280 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -5442,10 +5190,6 @@
             {
                 "key": "Global Trade Identification Number",
                 "value": "00894458001081"
-            },
-            {
-                "key": "Model Name",
-                "value": "AssaultRunner Pro"
             },
             {
                 "key": "Manufacturer",
@@ -5541,7 +5285,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AssaultRunner Pro",
+        "color": "Black Frame/Charcoal",
+        "material": "Alloy Steel",
+        "weight": "280 Pounds"
     },
     {
         "asin": "B0C4Q5V112",
@@ -5558,24 +5306,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "like new"
             },
             {
                 "key": "Product Dimensions",
                 "value": "55\"D x 23.5\"W x 6\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "61.5 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -5640,10 +5376,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.6 Miles per Hour"
-            },
-            {
-                "key": "Model Name",
-                "value": "W13625"
             },
             {
                 "key": "Manufacturer",
@@ -5715,7 +5447,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "W13625",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "61.5 Pounds"
     },
     {
         "asin": "B0DQ47BFT9",
@@ -5734,24 +5470,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Blue"
-            },
-            {
                 "key": "Product Grade",
                 "value": "TOP Decline/Incline Treadmill"
             },
             {
                 "key": "Product Dimensions",
                 "value": "43\"D x 19\"W x 5\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "39 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Acrylonitrile Butadiene Styrene (ABS)"
             },
             {
                 "key": "Maximum Speed",
@@ -5834,10 +5558,6 @@
                 "value": "0.6 Miles per Hour"
             },
             {
-                "key": "Model Name",
-                "value": "2 in 1 Under Desk Walking Pad Treadmill"
-            },
-            {
                 "key": "Manufacturer",
                 "value": "WELLFIT"
             },
@@ -5907,7 +5627,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "2 in 1 Under Desk Walking Pad Treadmill",
+        "color": "Blue",
+        "material": "Alloy Steel, Acrylonitrile Butadiene Styrene (ABS)",
+        "weight": "39 Pounds"
     },
     {
         "asin": "B01BCZBXMK",
@@ -6061,24 +5785,12 @@
                 "value": "Adjustable Seat"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Corded Electric"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Cycling, Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "140 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Polypropylene (PP)"
             },
             {
                 "key": "Resistance Mechanism",
@@ -6095,10 +5807,6 @@
             {
                 "key": "Handle Material",
                 "value": "Alloy Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "Peloton Bike+ | Indoor Stationary Exercise Bike with 24\u201d HD, Anti-Reflective Rotating Touchscreen"
             },
             {
                 "key": "Maximum Height",
@@ -6230,7 +5938,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Peloton Bike+ | Indoor Stationary Exercise Bike with 24\u201d HD, Anti-Reflective Rotating Touchscreen",
+        "color": "Black",
+        "material": "Alloy Steel, Polypropylene (PP)",
+        "weight": "140 Pounds"
     },
     {
         "asin": "B0D17L6QLY",
@@ -6249,24 +5961,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "First-Grade"
             },
             {
                 "key": "Product Dimensions",
                 "value": "9.5\"D x 26\"W x 56.3\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "80 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -6331,10 +6031,6 @@
             {
                 "key": "Input Power",
                 "value": "300 Watts"
-            },
-            {
-                "key": "Model Name",
-                "value": "U60"
             },
             {
                 "key": "Manufacturer",
@@ -6410,7 +6106,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "U60",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "80 Pounds"
     },
     {
         "asin": "B0DNJC4V95",
@@ -6427,24 +6127,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Walking pad"
             },
             {
                 "key": "Product Dimensions",
                 "value": "45.8\"D x 19.76\"W x 4.13\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "37.9 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -6473,10 +6161,6 @@
             {
                 "key": "UPC",
                 "value": "721545004154"
-            },
-            {
-                "key": "Model Name",
-                "value": "Walking pad"
             },
             {
                 "key": "Manufacturer",
@@ -6552,7 +6236,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Walking pad",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "37.9 Pounds"
     },
     {
         "asin": "B0D3KPFFK9",
@@ -6569,24 +6257,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black with Incline"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Treamill"
             },
             {
                 "key": "Product Dimensions",
                 "value": "45.6\"D x 24.6\"W x 44\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "59 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -6651,10 +6327,6 @@
             {
                 "key": "UPC",
                 "value": "767461133400"
-            },
-            {
-                "key": "Model Name",
-                "value": "M4138"
             },
             {
                 "key": "Manufacturer",
@@ -6778,7 +6450,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "M4138",
+        "color": "Black with Incline",
+        "material": "Alloy Steel",
+        "weight": "59 Pounds"
     },
     {
         "asin": "B0D92KZCHT",
@@ -6797,24 +6473,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "New Walking Pad with Incline"
             },
             {
                 "key": "Product Dimensions",
                 "value": "51.5\"D x 24\"W x 6\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "41 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -6903,10 +6567,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.5 Miles per Hour"
-            },
-            {
-                "key": "Model Name",
-                "value": "Walking Pad with Incline"
             },
             {
                 "key": "Manufacturer",
@@ -7074,7 +6734,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Walking Pad with Incline",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "41 Pounds"
     },
     {
         "asin": "B0DD74ZZV6",
@@ -7091,24 +6755,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "For running and walking"
             },
             {
                 "key": "Product Dimensions",
                 "value": "45.67\"D x 20.47\"W x 4.33\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "40 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Acrylonitrile Butadiene Styrene (ABS)"
             },
             {
                 "key": "Maximum Speed",
@@ -7181,10 +6833,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.6 Miles per Hour"
-            },
-            {
-                "key": "Model Name",
-                "value": "S8HF-WM02"
             },
             {
                 "key": "Manufacturer",
@@ -7344,7 +6992,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "S8HF-WM02",
+        "color": "black",
+        "material": "Acrylonitrile Butadiene Styrene (ABS)",
+        "weight": "40 Pounds"
     },
     {
         "asin": "B0D7H46VM8",
@@ -7362,24 +7014,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Morden Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "treadmill"
             },
             {
                 "key": "Product Dimensions",
                 "value": "47.2\"D x 4\"W x 20\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "37.5 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -7420,10 +7060,6 @@
             {
                 "key": "UPC",
                 "value": "198715613148"
-            },
-            {
-                "key": "Model Name",
-                "value": "UT-38AB IH"
             },
             {
                 "key": "Manufacturer",
@@ -7539,7 +7175,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "UT-38AB IH",
+        "color": "Morden Black",
+        "material": "Alloy Steel",
+        "weight": "37.5 Pounds"
     },
     {
         "asin": "B08JK88M1W",
@@ -7698,24 +7338,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Blue"
-            },
-            {
                 "key": "Product Grade",
                 "value": "fitness equipment"
             },
             {
                 "key": "Product Dimensions",
                 "value": "45.3\"D x 26.6\"W x 52\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "102 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -7814,10 +7442,6 @@
                 "value": "782003212412"
             },
             {
-                "key": "Model Name",
-                "value": "UPGRADE 1004"
-            },
-            {
                 "key": "Manufacturer",
                 "value": "BODIOO"
             },
@@ -7883,7 +7507,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "UPGRADE 1004",
+        "color": "Blue",
+        "material": "Alloy Steel",
+        "weight": "102 Pounds"
     },
     {
         "asin": "B0DJFJH6PG",
@@ -7902,24 +7530,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black Blue"
-            },
-            {
                 "key": "Product Grade",
                 "value": "5"
             },
             {
                 "key": "Product Dimensions",
                 "value": "51.4\"D x 23.8\"W x 6.1\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "55.8 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Stainless Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -7988,10 +7604,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.6 rph"
-            },
-            {
-                "key": "Model Name",
-                "value": "W5"
             },
             {
                 "key": "Manufacturer",
@@ -8147,7 +7759,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "W5",
+        "color": "Black Blue",
+        "material": "Stainless Steel",
+        "weight": "55.8 Pounds"
     },
     {
         "asin": "B0D5MHQH9P",
@@ -8164,24 +7780,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Pink"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Foldable Walking Pad with Handle Bar"
             },
             {
                 "key": "Product Dimensions",
                 "value": "48.4\"D x 21.5\"W x 4.5\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "45 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -8250,10 +7854,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.6 Miles per Hour"
-            },
-            {
-                "key": "Model Name",
-                "value": "S1"
             },
             {
                 "key": "Manufacturer",
@@ -8573,7 +8173,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "S1",
+        "color": "Pink",
+        "material": "Alloy Steel",
+        "weight": "45 Pounds"
     },
     {
         "asin": "B0CHVVCQ6Z",
@@ -8590,24 +8194,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Yellow"
-            },
-            {
                 "key": "Product Grade",
                 "value": "treadmill"
             },
             {
                 "key": "Product Dimensions",
                 "value": "47.6\"D x 18.9\"W x 4.4\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "42.3 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -8688,10 +8280,6 @@
             {
                 "key": "UPC",
                 "value": "198168721735"
-            },
-            {
-                "key": "Model Name",
-                "value": "URTM026"
             },
             {
                 "key": "Manufacturer",
@@ -8963,7 +8551,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "URTM026",
+        "color": "Yellow",
+        "material": "Alloy Steel",
+        "weight": "42.3 Pounds"
     },
     {
         "asin": "B00139YBQQ",
@@ -8982,24 +8574,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Tread Mill"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Good"
             },
             {
                 "key": "Product Dimensions",
                 "value": "37.38\"D x 36.62\"W x 41\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "29 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -9068,10 +8648,6 @@
             {
                 "key": "Global Trade Identification Number",
                 "value": "00027061210407"
-            },
-            {
-                "key": "Model Name",
-                "value": "Fun and Fitness for kids - Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -9279,7 +8855,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Fun and Fitness for kids - Treadmill",
+        "color": "Tread Mill",
+        "material": "Alloy Steel",
+        "weight": "29 Pounds"
     },
     {
         "asin": "B0854HSZ9D",
@@ -9779,20 +9359,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "43\"D x 23\"W x 42\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "51 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Metal, Engineering Plastic, ABS, PC, PVC, Rubber"
             },
             {
                 "key": "Maximum Speed",
@@ -9845,10 +9413,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.6 Miles per Hour"
-            },
-            {
-                "key": "Model Name",
-                "value": "Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -9920,7 +9484,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Treadmill",
+        "color": "Black",
+        "material": "Metal, Engineering Plastic, ABS, PC, PVC, Rubber",
+        "weight": "51 Pounds"
     },
     {
         "asin": "B00P6VDRXU",
@@ -9937,24 +9505,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Silver"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Residential"
             },
             {
                 "key": "Product Dimensions",
                 "value": "74\"D x 35\"W x 58.8\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "216 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Metal"
             },
             {
                 "key": "Maximum Speed",
@@ -10043,10 +9599,6 @@
             {
                 "key": "UPC",
                 "value": "862470000108"
-            },
-            {
-                "key": "Model Name",
-                "value": "Pro Runner"
             },
             {
                 "key": "Manufacturer",
@@ -10142,7 +9694,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Pro Runner",
+        "color": "Silver",
+        "material": "Metal",
+        "weight": "216 Pounds"
     },
     {
         "asin": "B0DK1KHB23",
@@ -10159,24 +9715,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Under Desk Treadmill"
             },
             {
                 "key": "Product Dimensions",
                 "value": "48.03\"D x 5.1\"W x 23.62\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "48.5 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -10221,10 +9765,6 @@
             {
                 "key": "Deck Width",
                 "value": "15.74 Inches"
-            },
-            {
-                "key": "Model Name",
-                "value": "140B"
             },
             {
                 "key": "Manufacturer",
@@ -10340,7 +9880,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "140B",
+        "color": "black",
+        "material": "Alloy Steel",
+        "weight": "48.5 Pounds"
     },
     {
         "asin": "B0DN1SSF81",
@@ -10357,24 +9901,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Red"
-            },
-            {
                 "key": "Product Grade",
                 "value": "5"
             },
             {
                 "key": "Product Dimensions",
                 "value": "42.5\"D x 23\"W x 39.5\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "45 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "PC, Polyvinyl Chloride (PVC), Metal, Acrylonitrile Butadiene Styrene (ABS)"
             },
             {
                 "key": "Maximum Speed",
@@ -10443,10 +9975,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.6 Miles per Hour"
-            },
-            {
-                "key": "Model Name",
-                "value": "3 in 1 Under Desk Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -10574,7 +10102,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "3 in 1 Under Desk Treadmill",
+        "color": "Red",
+        "material": "PC, Polyvinyl Chloride (PVC), Metal, Acrylonitrile Butadiene Styrene (ABS)",
+        "weight": "45 Pounds"
     },
     {
         "asin": "B0DB5KCBX9",
@@ -10594,20 +10126,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Smart"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "55\"D x 27.8\"W x 48.4\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "94 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -10698,10 +10218,6 @@
                 "value": "0.6 Miles per Hour"
             },
             {
-                "key": "Model Name",
-                "value": "7206"
-            },
-            {
                 "key": "Manufacturer",
                 "value": "OMA"
             },
@@ -10775,7 +10291,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "7206",
+        "color": "Smart",
+        "material": "Alloy Steel",
+        "weight": "94 Pounds"
     },
     {
         "asin": "B0CFGDH6QT",
@@ -10795,10 +10315,6 @@
                 "value": "Built-In Handle and Transport Wheels, Stands Upright for Storage, Folding Console for Compact Storage, Dual Stage Chain and Belt Drive System, 3-Fan Infinite Resistance"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Resistance Mechanism",
                 "value": "Air"
             },
@@ -10815,24 +10331,12 @@
                 "value": "Speed, Heart Rate, Calories Burned, Distance"
             },
             {
-                "key": "Model Name",
-                "value": "AssaultRower Pro"
-            },
-            {
                 "key": "Frame Material",
                 "value": "Aluminum"
             },
             {
-                "key": "Item Weight",
-                "value": "109 Pounds"
-            },
-            {
                 "key": "Tension Level",
                 "value": "High"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Aluminum"
             },
             {
                 "key": "Power Source",
@@ -10932,7 +10436,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AssaultRower Pro",
+        "color": "Black",
+        "material": "Alloy Steel, Aluminum",
+        "weight": "109 Pounds"
     },
     {
         "asin": "B0D4RJJ1TN",
@@ -10949,20 +10457,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Blue, Red, and Yellow"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Home"
             },
             {
                 "key": "Product Dimensions",
                 "value": "20.25\"D x 27\"W x 20.5\"H"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Plastic"
             },
             {
                 "key": "Special Feature",
@@ -11025,16 +10525,8 @@
                 "value": "00196593995547"
             },
             {
-                "key": "Model Name",
-                "value": "Play Treadmill"
-            },
-            {
                 "key": "Manufacturer",
                 "value": "Trademark Global"
-            },
-            {
-                "key": "Item Weight",
-                "value": "28.4 pounds"
             },
             {
                 "key": "Country of Origin",
@@ -11214,7 +10706,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Play Treadmill",
+        "color": "Blue, Red, and Yellow",
+        "material": "Alloy Steel, Plastic",
+        "weight": "28.4 pounds"
     },
     {
         "asin": "B0DSPPB3LC",
@@ -11231,20 +10727,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Red+Black"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "88.78\"D x 37.6\"W x 21.26\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "315.7 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -11269,10 +10753,6 @@
             {
                 "key": "UPC",
                 "value": "199108419026"
-            },
-            {
-                "key": "Model Name",
-                "value": "C3hyYakn_eSmrQVe1KZRRwWdz6e"
             },
             {
                 "key": "Manufacturer",
@@ -11352,7 +10832,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "C3hyYakn_eSmrQVe1KZRRwWdz6e",
+        "color": "Red+Black",
+        "material": "Alloy Steel",
+        "weight": "315.7 Pounds"
     },
     {
         "asin": "B0DFC7MPWS",
@@ -11369,24 +10853,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Red+Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "5"
             },
             {
                 "key": "Product Dimensions",
                 "value": "88.78\"D x 37.6\"W x 21.26\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "315.7 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -11459,10 +10931,6 @@
             {
                 "key": "UPC",
                 "value": "198723631240"
-            },
-            {
-                "key": "Model Name",
-                "value": "20 Incline"
             },
             {
                 "key": "Manufacturer",
@@ -11546,7 +11014,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "20 Incline",
+        "color": "Red+Black",
+        "material": "Alloy Steel",
+        "weight": "315.7 Pounds"
     },
     {
         "asin": "B08Z7PN81N",
@@ -11916,24 +11388,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Foldable walking pad"
             },
             {
                 "key": "Product Dimensions",
                 "value": "50\"D x 20.8\"W x 40\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "50 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -11990,10 +11450,6 @@
             {
                 "key": "Input Power",
                 "value": "2.5 Horsepower"
-            },
-            {
-                "key": "Model Name",
-                "value": "Sperax-07"
             },
             {
                 "key": "Manufacturer",
@@ -12073,7 +11529,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Sperax-07",
+        "color": "black",
+        "material": "Alloy Steel",
+        "weight": "50 Pounds"
     },
     {
         "asin": "B08TGCC85B",
@@ -12090,20 +11550,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Navy"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "60.5\"D x 30.5\"W x 47.5\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "101.5 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, Acrylonitrile Butadiene Styrene (ABS)"
             },
             {
                 "key": "Maximum Speed",
@@ -12196,10 +11644,6 @@
             {
                 "key": "UPC",
                 "value": "608564997165"
-            },
-            {
-                "key": "Model Name",
-                "value": "3HP Electric Folding Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -12427,7 +11871,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "3HP Electric Folding Treadmill",
+        "color": "Navy",
+        "material": "Alloy Steel, Acrylonitrile Butadiene Styrene (ABS)",
+        "weight": "101.5 Pounds"
     },
     {
         "asin": "B0CJBS915B",
@@ -12445,24 +11893,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Silver"
-            },
-            {
                 "key": "Product Grade",
                 "value": "5"
             },
             {
                 "key": "Product Dimensions",
                 "value": "48.03\"D x 19.76\"W x 4.96\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "40.8 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -12547,10 +11983,6 @@
             {
                 "key": "UPC",
                 "value": "840325620138"
-            },
-            {
-                "key": "Model Name",
-                "value": "THERUN Walking Pad"
             },
             {
                 "key": "Manufacturer",
@@ -12798,7 +12230,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "THERUN Walking Pad",
+        "color": "Silver",
+        "material": "Alloy Steel",
+        "weight": "40.8 Pounds"
     },
     {
         "asin": "B0DPJQH4CL",
@@ -12816,24 +12252,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Product Grade",
                 "value": "New"
             },
             {
                 "key": "Product Dimensions",
                 "value": "56.3\"D x 24.3\"W x 43.7\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "68 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -12906,10 +12330,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.6 Miles per Hour"
-            },
-            {
-                "key": "Model Name",
-                "value": "U50"
             },
             {
                 "key": "Manufacturer",
@@ -12989,7 +12409,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "U50",
+        "color": "Gray",
+        "material": "Alloy Steel",
+        "weight": "68 Pounds"
     },
     {
         "asin": "B09CYWRRR1",
@@ -13006,24 +12430,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "folding treadmill"
             },
             {
                 "key": "Product Dimensions",
                 "value": "48\"D x 23.6\"W x 40.6\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "22.5 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -13124,10 +12536,6 @@
             {
                 "key": "UPC",
                 "value": "198168182017"
-            },
-            {
-                "key": "Model Name",
-                "value": "URTM006"
             },
             {
                 "key": "Manufacturer",
@@ -13311,7 +12719,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "URTM006",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "22.5 Kilograms"
     },
     {
         "asin": "B0C7CNHT1Q",
@@ -13329,24 +12741,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black, Grey"
-            },
-            {
                 "key": "Product Grade",
                 "value": "like new"
             },
             {
                 "key": "Product Dimensions",
                 "value": "57\"D x 22.5\"W x 39.5\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "38 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -13437,10 +12837,6 @@
                 "value": "0.6 Miles per Hour"
             },
             {
-                "key": "Model Name",
-                "value": "F5"
-            },
-            {
                 "key": "Manufacturer",
                 "value": "Li ang Health Technology (Beijing) Co. Ltd"
             },
@@ -13518,7 +12914,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "F5",
+        "color": "Black, Grey",
+        "material": "Alloy Steel",
+        "weight": "38 Kilograms"
     },
     {
         "asin": "B0B452TSBK",
@@ -13540,24 +12940,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Performance"
             },
             {
                 "key": "Product Dimensions",
                 "value": "58.5\"D x 30.7\"W x 53.9\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "110.2 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -13646,10 +13034,6 @@
             {
                 "key": "Global Trade Identification Number",
                 "value": "00815749016140"
-            },
-            {
-                "key": "Model Name",
-                "value": "Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -13785,7 +13169,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Treadmill",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "110.2 Pounds"
     },
     {
         "asin": "B09359YFWL",
@@ -13802,24 +13190,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Like New"
             },
             {
                 "key": "Product Dimensions",
                 "value": "76.5\"D x 40\"W x 73\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "462 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -13908,10 +13284,6 @@
             {
                 "key": "UPC",
                 "value": "043619460568"
-            },
-            {
-                "key": "Model Name",
-                "value": "NordicTrack Commercial X32i Incline Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -14063,7 +13435,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "NordicTrack Commercial X32i Incline Treadmill",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "462 Pounds"
     },
     {
         "asin": "B00QIM5CMK",
@@ -14085,24 +13461,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Classic"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Performance"
             },
             {
                 "key": "Product Dimensions",
                 "value": "49\"D x 23\"W x 50\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "22.23 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -14183,10 +13547,6 @@
             {
                 "key": "Global Trade Identification Number",
                 "value": "00815749010643, 07731211711098"
-            },
-            {
-                "key": "Model Name",
-                "value": "Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -14362,7 +13722,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Treadmill",
+        "color": "Classic",
+        "material": "Alloy Steel",
+        "weight": "22.23 Kilograms"
     },
     {
         "asin": "B0DG52526L",
@@ -14381,24 +13745,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Manual Inclne"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Performance"
             },
             {
                 "key": "Product Dimensions",
                 "value": "53.22\"D x 24.8\"W x 45.94\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "77 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Stainless Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -14467,10 +13819,6 @@
             {
                 "key": "Minimum Speed",
                 "value": "0.5 Miles per Hour"
-            },
-            {
-                "key": "Model Name",
-                "value": "AT5416 Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -14546,7 +13894,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AT5416 Treadmill",
+        "color": "Manual Inclne",
+        "material": "Stainless Steel",
+        "weight": "77 Pounds"
     },
     {
         "asin": "B0CTH2XX5B",
@@ -14563,20 +13915,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "BlackRed"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "49\"D x 24.4\"W x 44\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "52 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -14649,10 +13989,6 @@
             {
                 "key": "UPC",
                 "value": "792105659954"
-            },
-            {
-                "key": "Model Name",
-                "value": "RF-C5"
             },
             {
                 "key": "Manufacturer",
@@ -14788,7 +14124,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "RF-C5",
+        "color": "BlackRed",
+        "material": "Alloy Steel",
+        "weight": "52 Pounds"
     },
     {
         "asin": "B0CKQW2HTT",
@@ -14805,24 +14145,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "home and office use"
             },
             {
                 "key": "Product Dimensions",
                 "value": "46.2\"D x 20.3\"W x 4.3\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "40 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Iron"
             },
             {
                 "key": "Maximum Speed",
@@ -14915,10 +14243,6 @@
             {
                 "key": "UPC",
                 "value": "751767946789"
-            },
-            {
-                "key": "Model Name",
-                "value": "TM008BK"
             },
             {
                 "key": "Manufacturer",
@@ -15074,7 +14398,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "TM008BK",
+        "color": "Black",
+        "material": "Iron",
+        "weight": "40 Pounds"
     },
     {
         "asin": "B0DJ2W38GW",
@@ -15094,24 +14422,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Manual Incline Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "repalacement part"
             },
             {
                 "key": "Product Dimensions",
                 "value": "42.9\"D x 19.7\"W x 3.85\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "33.5 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Metal"
             },
             {
                 "key": "Maximum Speed",
@@ -15132,10 +14448,6 @@
             {
                 "key": "Maximum Weight Recommendation",
                 "value": "330 Pounds"
-            },
-            {
-                "key": "Model Name",
-                "value": "480-520"
             },
             {
                 "key": "Manufacturer",
@@ -15295,7 +14607,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "480-520",
+        "color": "Manual Incline Black",
+        "material": "Metal",
+        "weight": "33.5 Pounds"
     },
     {
         "asin": "B00OS9R9VW",
@@ -15317,24 +14633,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Gray"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Performance"
             },
             {
                 "key": "Product Dimensions",
                 "value": "25.5\"D x 60\"W x 50\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "103 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -15431,10 +14735,6 @@
             {
                 "key": "Global Trade Identification Number",
                 "value": "00815749010674"
-            },
-            {
-                "key": "Model Name",
-                "value": "SF-T4400"
             },
             {
                 "key": "Manufacturer",
@@ -15626,7 +14926,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "SF-T4400",
+        "color": "Gray",
+        "material": "Alloy Steel",
+        "weight": "103 Pounds"
     },
     {
         "asin": "B0D2L1FDTV",
@@ -15643,24 +14947,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "3.8 Miles per Hour"
             },
             {
                 "key": "Product Dimensions",
                 "value": "45.6\"D x 19.3\"W x 4.45\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "37.5 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel, High Carbon Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -15755,10 +15047,6 @@
                 "value": "06975423321206"
             },
             {
-                "key": "Model Name",
-                "value": "Model"
-            },
-            {
                 "key": "Manufacturer",
                 "value": "UPREIGN"
             },
@@ -15848,7 +15136,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Model",
+        "color": "Black",
+        "material": "Alloy Steel, High Carbon Steel",
+        "weight": "37.5 Pounds"
     },
     {
         "asin": "B00F74RX40",
@@ -15869,24 +15161,12 @@
                 "value": "Pivot points to provide a smooth and durable feel, Unlimited resistance for upper and lower body extremities based on air resistance, Twenty sealed ball bearings throughout the frame"
             },
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Power Source",
                 "value": "Battery Powered"
             },
             {
                 "key": "Recommended Uses For Product",
                 "value": "Indoor"
-            },
-            {
-                "key": "Item Weight",
-                "value": "110 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum, Alloy Steel"
             },
             {
                 "key": "Resistance Mechanism",
@@ -15903,10 +15183,6 @@
             {
                 "key": "Handle Material",
                 "value": "[GU] Steel"
-            },
-            {
-                "key": "Model Name",
-                "value": "AS-Assault Airbike"
             },
             {
                 "key": "Maximum Height",
@@ -16014,7 +15290,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "AS-Assault Airbike",
+        "color": "Black",
+        "material": "Aluminum, Alloy Steel",
+        "weight": "110 Pounds"
     },
     {
         "asin": "B08FCHQPZS",
@@ -16031,20 +15311,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Champagne"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "52.5\"D x 29\"W x 44.5\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "69.5 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Steel, ABS"
             },
             {
                 "key": "Maximum Speed",
@@ -16141,10 +15409,6 @@
             {
                 "key": "UPC",
                 "value": "798470130555"
-            },
-            {
-                "key": "Model Name",
-                "value": "Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -16524,7 +15788,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Treadmill",
+        "color": "Champagne",
+        "material": "Steel, ABS",
+        "weight": "69.5 Pounds"
     },
     {
         "asin": "B0DP4GPVMJ",
@@ -16542,20 +15810,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Balck Red"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "46.23\"D x 18.9\"W x 4.53\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "37 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -16624,10 +15880,6 @@
             {
                 "key": "Input Power",
                 "value": "2.5 Horsepower"
-            },
-            {
-                "key": "Model Name",
-                "value": "HTM-120-ANEW-1"
             },
             {
                 "key": "Manufacturer",
@@ -16855,7 +16107,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "HTM-120-ANEW-1",
+        "color": "Balck Red",
+        "material": "Alloy Steel",
+        "weight": "37 Pounds"
     },
     {
         "asin": "B004510DF2",
@@ -16872,24 +16128,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "gray;black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "5"
             },
             {
                 "key": "Product Dimensions",
                 "value": "47\"D x 22\"W x 45\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "50 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Steel frame, textured non-slip walking/jogging surface"
             },
             {
                 "key": "Maximum Speed",
@@ -16978,10 +16222,6 @@
             {
                 "key": "Global Trade Identification Number",
                 "value": "00022643409002"
-            },
-            {
-                "key": "Model Name",
-                "value": "InMotion\u00ae T900 Manual Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -17073,7 +16313,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "InMotion\u00ae T900 Manual Treadmill",
+        "color": "gray;black",
+        "material": "Steel frame, textured non-slip walking/jogging surface",
+        "weight": "50 Pounds"
     },
     {
         "asin": "B0B8F62YMR",
@@ -17095,24 +16339,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Black"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Performance"
             },
             {
                 "key": "Product Dimensions",
                 "value": "67.9\"D x 33.9\"W x 56.5\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "167.6 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -17189,10 +16421,6 @@
             {
                 "key": "Global Trade Identification Number",
                 "value": "00815749016324"
-            },
-            {
-                "key": "Model Name",
-                "value": "Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -17328,7 +16556,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Treadmill",
+        "color": "Black",
+        "material": "Alloy Steel",
+        "weight": "167.6 Pounds"
     },
     {
         "asin": "B0CNCSQC9J",
@@ -17346,24 +16578,12 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Grey"
-            },
-            {
                 "key": "Product Grade",
                 "value": "Performance"
             },
             {
                 "key": "Product Dimensions",
                 "value": "52.99\"D x 26.2\"W x 45.1\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "47 Kilograms"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -17450,10 +16670,6 @@
                 "value": "0.5 Miles per Hour"
             },
             {
-                "key": "Model Name",
-                "value": "BT103"
-            },
-            {
                 "key": "Manufacturer",
                 "value": "BORGUSI"
             },
@@ -17511,7 +16727,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "BT103",
+        "color": "Grey",
+        "material": "Alloy Steel",
+        "weight": "47 Kilograms"
     },
     {
         "asin": "B0DL2LM8F9",
@@ -17529,20 +16749,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "Silver"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "44.5\"D x 19.3\"W x 4.3\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "37 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Alloy Steel"
             },
             {
                 "key": "Maximum Speed",
@@ -17611,10 +16819,6 @@
             {
                 "key": "Input Power",
                 "value": "1865 Watts"
-            },
-            {
-                "key": "Model Name",
-                "value": "walking pad"
             },
             {
                 "key": "Manufacturer",
@@ -17726,7 +16930,11 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "walking pad",
+        "color": "Silver",
+        "material": "Alloy Steel",
+        "weight": "37 Pounds"
     },
     {
         "asin": "B07QG46B5J",
@@ -17743,20 +16951,8 @@
         ],
         "attributes": [
             {
-                "key": "Color",
-                "value": "BLACK"
-            },
-            {
                 "key": "Product Dimensions",
                 "value": "50.79\"D x 24.02\"W x 49.22\"H"
-            },
-            {
-                "key": "Item Weight",
-                "value": "66.5 Pounds"
-            },
-            {
-                "key": "Material",
-                "value": "Aluminum"
             },
             {
                 "key": "Maximum Speed",
@@ -17837,10 +17033,6 @@
             {
                 "key": "Global Trade Identification Number",
                 "value": "00842893117430"
-            },
-            {
-                "key": "Model Name",
-                "value": "Folding Treadmill"
             },
             {
                 "key": "Manufacturer",
@@ -18100,6 +17292,10 @@
                     }
                 ]
             }
-        ]
+        ],
+        "model_name": "Folding Treadmill",
+        "color": "BLACK",
+        "material": "Aluminum",
+        "weight": "66.5 Pounds"
     }
 ]
