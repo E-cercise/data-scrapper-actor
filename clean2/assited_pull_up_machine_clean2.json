@@ -115,12 +115,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "51 Pounds",
-            "price": 124.99,
-            "remaining_products": 92,
-            "color": "black"
-        }
+        "equipment_options": [
+            {
+                "weight": "51 Pounds",
+                "price": 124.99,
+                "remaining_products": 37,
+                "color": "black"
+            }
+        ]
     },
     {
         "asin": "B0DM8WB93V",
@@ -269,15 +271,15 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 5.97,
                 "price": 99.99,
-                "remaining_products": 76,
+                "remaining_products": 17,
                 "color": "Red"
             },
             {
-                "weight": 0.0,
+                "weight": 5.97,
                 "price": 99.99,
-                "remaining_products": 36,
+                "remaining_products": 12,
                 "color": "Blue"
             }
         ]
@@ -596,16 +598,16 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 11.793392,
                 "price": 99.99,
-                "remaining_products": 11,
-                "color": null
+                "remaining_products": 39,
+                "color": "Black"
             },
             {
-                "weight": 0.0,
+                "weight": 11.793392,
                 "price": 79.99,
-                "remaining_products": 19,
-                "color": null
+                "remaining_products": 54,
+                "color": "Black"
             }
         ]
     },
@@ -871,16 +873,16 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 24.94756,
                 "price": 129.99,
-                "remaining_products": 69,
-                "color": null
+                "remaining_products": 20,
+                "color": "Power Tower"
             },
             {
-                "weight": 0.0,
+                "weight": 24.94756,
                 "price": 129.99,
-                "remaining_products": 81,
-                "color": null
+                "remaining_products": 72,
+                "color": "Power Tower"
             }
         ]
     },
@@ -990,12 +992,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "15.5 Kilograms",
-            "price": 369.99,
-            "remaining_products": 81,
-            "color": "black 3"
-        }
+        "equipment_options": [
+            {
+                "weight": "15.5 Kilograms",
+                "price": 369.99,
+                "remaining_products": 43,
+                "color": "black 3"
+            }
+        ]
     },
     {
         "asin": "B0D3KDL8ZQ",
@@ -1106,12 +1110,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "42 Pounds",
-            "price": 129.99,
-            "remaining_products": 20,
-            "color": "Black-Classic"
-        }
+        "equipment_options": [
+            {
+                "weight": "42 Pounds",
+                "price": 129.99,
+                "remaining_products": 89,
+                "color": "Black-Classic"
+            }
+        ]
     },
     {
         "asin": "B0CXGYG7C8",
@@ -1557,12 +1563,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "37.9 Pounds",
-            "price": 199.99,
-            "remaining_products": 33,
-            "color": "Black"
-        }
+        "equipment_options": [
+            {
+                "weight": "37.9 Pounds",
+                "price": 199.99,
+                "remaining_products": 79,
+                "color": "Black"
+            }
+        ]
     },
     {
         "asin": "B0D7MF38XN",
@@ -1674,12 +1682,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "28 Pounds",
-            "price": 89.99,
-            "remaining_products": 46,
-            "color": "Red"
-        }
+        "equipment_options": [
+            {
+                "weight": "28 Pounds",
+                "price": 89.99,
+                "remaining_products": 13,
+                "color": "Red"
+            }
+        ]
     },
     {
         "asin": "B0BZQJLVBH",
@@ -1955,28 +1965,28 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 17.8261656,
                 "price": 199.99,
-                "remaining_products": 7,
-                "color": null
+                "remaining_products": 5,
+                "color": "5 - Full Motion Smart"
             },
             {
-                "weight": 0.0,
+                "weight": 17.8261656,
                 "price": 116.2,
-                "remaining_products": 74,
-                "color": null
+                "remaining_products": 33,
+                "color": "5 - Full Motion Smart"
             },
             {
-                "weight": 0.0,
+                "weight": 17.8261656,
                 "price": 227.49,
-                "remaining_products": 45,
-                "color": null
+                "remaining_products": 83,
+                "color": "5 - Full Motion Smart"
             },
             {
-                "weight": 0.0,
+                "weight": 17.8261656,
                 "price": 565.24,
-                "remaining_products": 20,
-                "color": null
+                "remaining_products": 0,
+                "color": "5 - Full Motion Smart"
             }
         ]
     },
@@ -2088,12 +2098,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "54 Pounds",
-            "price": 139.99,
-            "remaining_products": 72,
-            "color": "advanced"
-        }
+        "equipment_options": [
+            {
+                "weight": "54 Pounds",
+                "price": 139.99,
+                "remaining_products": 34,
+                "color": "advanced"
+            }
+        ]
     },
     {
         "asin": "B0CHRNWR4K",
@@ -2408,12 +2420,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "30 Pounds",
-            "price": 79.99,
-            "remaining_products": 67,
-            "color": "Black"
-        }
+        "equipment_options": [
+            {
+                "weight": "30 Pounds",
+                "price": 79.99,
+                "remaining_products": 65,
+                "color": "Black"
+            }
+        ]
     },
     {
         "asin": "B0D7VSR556",
@@ -3274,12 +3288,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "10.2 Pounds",
-            "price": 69.95,
-            "remaining_products": 80,
-            "color": "Metallic Gray"
-        }
+        "equipment_options": [
+            {
+                "weight": "10.2 Pounds",
+                "price": 69.95,
+                "remaining_products": 61,
+                "color": "Metallic Gray"
+            }
+        ]
     },
     {
         "asin": "B0DGGDFSPQ",
@@ -3672,12 +3688,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "18.5 Pounds",
-            "price": 89.95,
-            "remaining_products": 68,
-            "color": "White/Black"
-        }
+        "equipment_options": [
+            {
+                "weight": "18.5 Pounds",
+                "price": 89.95,
+                "remaining_products": 67,
+                "color": "White/Black"
+            }
+        ]
     },
     {
         "asin": "B0854NNBK5",
@@ -3845,15 +3863,15 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 1.6,
                 "price": 219,
-                "remaining_products": 72,
+                "remaining_products": 95,
                 "color": "Brown"
             },
             {
-                "weight": 0.0,
+                "weight": 1.6,
                 "price": 109,
-                "remaining_products": 98,
+                "remaining_products": 25,
                 "color": "Black"
             }
         ]
@@ -3986,12 +4004,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "10.5 Kilograms",
-            "price": 139.99,
-            "remaining_products": 81,
-            "color": "Purple"
-        }
+        "equipment_options": [
+            {
+                "weight": "10.5 Kilograms",
+                "price": 139.99,
+                "remaining_products": 56,
+                "color": "Purple"
+            }
+        ]
     },
     {
         "asin": "B0CBD4FC2N",
@@ -4653,22 +4673,22 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 13.5,
                 "price": 124.99,
-                "remaining_products": 35,
-                "color": null
+                "remaining_products": 38,
+                "color": "K"
             },
             {
-                "weight": 0.0,
+                "weight": 13.5,
                 "price": 139.99,
-                "remaining_products": 71,
-                "color": null
+                "remaining_products": 26,
+                "color": "K"
             },
             {
-                "weight": 0.0,
+                "weight": 13.5,
                 "price": 129.99,
-                "remaining_products": 101,
-                "color": null
+                "remaining_products": 29,
+                "color": "K"
             }
         ]
     },
@@ -4882,33 +4902,33 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 12.60078576,
                 "price": 89.99,
-                "remaining_products": 59,
+                "remaining_products": 5,
                 "color": "Orange"
             },
             {
-                "weight": 0.0,
+                "weight": 12.60078576,
                 "price": 89.99,
-                "remaining_products": 38,
+                "remaining_products": 9,
                 "color": "Green"
             },
             {
-                "weight": 0.0,
+                "weight": 12.60078576,
                 "price": 89.99,
-                "remaining_products": 95,
+                "remaining_products": 48,
                 "color": "Red"
             },
             {
-                "weight": 0.0,
+                "weight": 12.60078576,
                 "price": 89.99,
-                "remaining_products": 41,
+                "remaining_products": 63,
                 "color": "Yellow"
             },
             {
-                "weight": 0.0,
+                "weight": 12.60078576,
                 "price": 89.99,
-                "remaining_products": 52,
+                "remaining_products": 20,
                 "color": "Black"
             }
         ]
@@ -5030,12 +5050,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "2.43 Pounds",
-            "price": 29.89,
-            "remaining_products": 90,
-            "color": "yellow"
-        }
+        "equipment_options": [
+            {
+                "weight": "2.43 Pounds",
+                "price": 29.89,
+                "remaining_products": 10,
+                "color": "yellow"
+            }
+        ]
     },
     {
         "asin": "B0BC7VCZ7V",
@@ -5291,12 +5313,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "236 Pounds",
-            "price": 1253.99,
-            "remaining_products": 9,
-            "color": "Black"
-        }
+        "equipment_options": [
+            {
+                "weight": "236 Pounds",
+                "price": 1253.99,
+                "remaining_products": 97,
+                "color": "Black"
+            }
+        ]
     },
     {
         "asin": "B003KNC1MO",
@@ -5461,12 +5485,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "0.5 Kilograms",
-            "price": 28.75,
-            "remaining_products": 77,
-            "color": "Red"
-        }
+        "equipment_options": [
+            {
+                "weight": "0.5 Kilograms",
+                "price": 28.75,
+                "remaining_products": 68,
+                "color": "Red"
+            }
+        ]
     },
     {
         "asin": "B0BJGM96MR",
@@ -5964,34 +5990,34 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 66,
+                "remaining_products": 70,
                 "color": "Black"
             },
             {
-                "weight": 0.0,
+                "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 22,
+                "remaining_products": 25,
                 "color": "Green"
             },
             {
-                "weight": 0.0,
+                "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 11,
+                "remaining_products": 33,
                 "color": "Yellow"
             },
             {
-                "weight": 0.0,
+                "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 41,
+                "remaining_products": 60,
                 "color": "Orange"
             },
             {
-                "weight": 0.0,
+                "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 43,
-                "color": "Red"
+                "remaining_products": 39,
+                "color": "Red, Rose"
             }
         ]
     },
@@ -6179,21 +6205,21 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 28.49918536,
                 "price": 179.99,
-                "remaining_products": 77,
+                "remaining_products": 54,
                 "color": "Black"
             },
             {
-                "weight": 0.0,
+                "weight": 28.49918536,
                 "price": 179.99,
-                "remaining_products": 86,
-                "color": null
+                "remaining_products": 35,
+                "color": "Black-01"
             },
             {
-                "weight": 0.0,
+                "weight": 28.49918536,
                 "price": 179.99,
-                "remaining_products": 72,
+                "remaining_products": 54,
                 "color": "Black"
             }
         ]
@@ -6332,12 +6358,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "0.97 Kilograms",
-            "price": 17.99,
-            "remaining_products": 98,
-            "color": "Black and Yellow"
-        }
+        "equipment_options": [
+            {
+                "weight": "0.97 Kilograms",
+                "price": 17.99,
+                "remaining_products": 54,
+                "color": "Black and Yellow"
+            }
+        ]
     },
     {
         "asin": "B0D3DL33QM",
@@ -6491,12 +6519,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "168 Pounds",
-            "price": 399.99,
-            "remaining_products": 37,
-            "color": "black"
-        }
+        "equipment_options": [
+            {
+                "weight": "168 Pounds",
+                "price": 399.99,
+                "remaining_products": 79,
+                "color": "black"
+            }
+        ]
     },
     {
         "asin": "B0CJR3CLDR",
@@ -6611,12 +6641,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "260 Pounds",
-            "price": 118,
-            "remaining_products": 69,
-            "color": "Red"
-        }
+        "equipment_options": [
+            {
+                "weight": "260 Pounds",
+                "price": 118,
+                "remaining_products": 81,
+                "color": "Red"
+            }
+        ]
     },
     {
         "asin": "B0DP2FQM8F",
@@ -6968,39 +7000,39 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 72,
+                "remaining_products": 30,
                 "color": "Blue"
             },
             {
-                "weight": 0.0,
+                "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 61,
+                "remaining_products": 22,
                 "color": "Orange"
             },
             {
-                "weight": 0.0,
+                "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 88,
+                "remaining_products": 47,
                 "color": "Black"
             },
             {
-                "weight": 0.0,
+                "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 100,
-                "color": "Red"
+                "remaining_products": 20,
+                "color": "Red, Rose"
             },
             {
-                "weight": 0.0,
+                "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 70,
+                "remaining_products": 64,
                 "color": "Green"
             },
             {
-                "weight": 0.0,
+                "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 38,
+                "remaining_products": 30,
                 "color": "Yellow"
             }
         ]
@@ -7106,12 +7138,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "20000 Grams",
-            "price": 359.35,
-            "remaining_products": 29,
-            "color": "One Color"
-        }
+        "equipment_options": [
+            {
+                "weight": "20000 Grams",
+                "price": 359.35,
+                "remaining_products": 55,
+                "color": "One Color"
+            }
+        ]
     },
     {
         "asin": "B0CV8Z288Y",
@@ -7582,12 +7616,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "2.24 Kilograms",
-            "price": 19.99,
-            "remaining_products": 14,
-            "color": "Rotating Pull Up Handles"
-        }
+        "equipment_options": [
+            {
+                "weight": "2.24 Kilograms",
+                "price": 19.99,
+                "remaining_products": 69,
+                "color": "Rotating Pull Up Handles"
+            }
+        ]
     },
     {
         "asin": "B0818T77J3",
@@ -7759,16 +7795,16 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 10.432616,
                 "price": 117.99,
-                "remaining_products": 11,
+                "remaining_products": 9,
                 "color": "Tan"
             },
             {
-                "weight": 0.0,
+                "weight": 10.432616,
                 "price": 105.99,
-                "remaining_products": 24,
-                "color": null
+                "remaining_products": 46,
+                "color": "Black"
             }
         ]
     },
@@ -8211,21 +8247,21 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 0.907184,
                 "price": 35.89,
-                "remaining_products": 72,
+                "remaining_products": 73,
                 "color": "Blue"
             },
             {
-                "weight": 0.0,
+                "weight": 0.907184,
                 "price": 35.89,
-                "remaining_products": 7,
+                "remaining_products": 34,
                 "color": "Black"
             },
             {
-                "weight": 0.0,
+                "weight": 0.907184,
                 "price": 35.99,
-                "remaining_products": 52,
+                "remaining_products": 51,
                 "color": "Orange"
             }
         ]
@@ -8852,12 +8888,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "1.66 Pounds",
-            "price": 17.99,
-            "remaining_products": 61,
-            "color": "Yellow"
-        }
+        "equipment_options": [
+            {
+                "weight": "1.66 Pounds",
+                "price": 17.99,
+                "remaining_products": 8,
+                "color": "Yellow"
+            }
+        ]
     },
     {
         "asin": "B002YRB35I",
@@ -9008,12 +9046,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "1.7 Pounds",
-            "price": 179.95,
-            "remaining_products": 25,
-            "color": "Black"
-        }
+        "equipment_options": [
+            {
+                "weight": "1.7 Pounds",
+                "price": 179.95,
+                "remaining_products": 81,
+                "color": "Black"
+            }
+        ]
     },
     {
         "asin": "B0D382DMPW",
@@ -9282,43 +9322,43 @@
             {
                 "weight": 6.8038799999999995,
                 "price": 20.95,
-                "remaining_products": 28,
+                "remaining_products": 93,
                 "color": "Blue"
             },
             {
                 "weight": 22.6796,
                 "price": 20.95,
-                "remaining_products": 15,
+                "remaining_products": 41,
                 "color": "Black"
             },
             {
                 "weight": 6.8038799999999995,
                 "price": 20.95,
-                "remaining_products": 65,
+                "remaining_products": 36,
                 "color": "Gray"
             },
             {
                 "weight": 6.8038799999999995,
                 "price": 20.95,
-                "remaining_products": 77,
-                "color": "Purple"
+                "remaining_products": 19,
+                "color": "Purple, Pink"
             },
             {
                 "weight": 6.8038799999999995,
                 "price": 20.95,
-                "remaining_products": 19,
+                "remaining_products": 35,
                 "color": "Green"
             },
             {
                 "weight": 15.87572,
                 "price": 20.95,
-                "remaining_products": 1,
+                "remaining_products": 95,
                 "color": "Red"
             },
             {
                 "weight": 6.8038799999999995,
                 "price": 20.95,
-                "remaining_products": 0,
+                "remaining_products": 54,
                 "color": "Orange"
             }
         ]
@@ -9473,15 +9513,15 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 12.6,
                 "price": 127.88,
-                "remaining_products": 84,
+                "remaining_products": 59,
                 "color": "Black"
             },
             {
-                "weight": 0.0,
+                "weight": 12.6,
                 "price": 127.88,
-                "remaining_products": 21,
+                "remaining_products": 70,
                 "color": "Red"
             }
         ]
@@ -9715,34 +9755,34 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 3.9462504,
                 "price": 34.99,
-                "remaining_products": 58,
-                "color": null
+                "remaining_products": 96,
+                "color": "Black"
             },
             {
-                "weight": 0.0,
+                "weight": 3.9462504,
                 "price": 34.99,
-                "remaining_products": 65,
-                "color": null
+                "remaining_products": 49,
+                "color": "Black"
             },
             {
-                "weight": 0.0,
+                "weight": 3.9462504,
                 "price": 34.99,
-                "remaining_products": 34,
-                "color": null
+                "remaining_products": 15,
+                "color": "Black"
             },
             {
-                "weight": 0.0,
-                "price": 34.99,
-                "remaining_products": 21,
-                "color": null
-            },
-            {
-                "weight": 0.0,
+                "weight": 3.9462504,
                 "price": 34.99,
                 "remaining_products": 86,
-                "color": null
+                "color": "Black"
+            },
+            {
+                "weight": 3.9462504,
+                "price": 34.99,
+                "remaining_products": 2,
+                "color": "Black"
             }
         ]
     },
@@ -10055,12 +10095,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "10.2 Pounds",
-            "price": 77.96,
-            "remaining_products": 7,
-            "color": "BLACK"
-        }
+        "equipment_options": [
+            {
+                "weight": "10.2 Pounds",
+                "price": 77.96,
+                "remaining_products": 98,
+                "color": "BLACK"
+            }
+        ]
     },
     {
         "asin": "B07H25C9XR",
@@ -10180,12 +10222,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "24.25 Pounds",
-            "price": 345.5,
-            "remaining_products": 98,
-            "color": "Black 2"
-        }
+        "equipment_options": [
+            {
+                "weight": "24.25 Pounds",
+                "price": 345.5,
+                "remaining_products": 57,
+                "color": "Black 2"
+            }
+        ]
     },
     {
         "asin": "B0CQP4CTXM",
@@ -10545,15 +10589,15 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 27.215519999999998,
                 "price": 149.99,
-                "remaining_products": 6,
+                "remaining_products": 54,
                 "color": "Black"
             },
             {
-                "weight": 0.0,
+                "weight": 27.215519999999998,
                 "price": 149.99,
-                "remaining_products": 40,
+                "remaining_products": 45,
                 "color": "Silver"
             }
         ]
@@ -10791,12 +10835,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "1.1 Pounds",
-            "price": 16.88,
-            "remaining_products": 33,
-            "color": "blue, white, black,blue,white"
-        }
+        "equipment_options": [
+            {
+                "weight": "1.1 Pounds",
+                "price": 16.88,
+                "remaining_products": 41,
+                "color": "blue, white, black,blue,white"
+            }
+        ]
     },
     {
         "asin": "B0725QJ979",
@@ -10921,12 +10967,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "99 Pounds",
-            "price": 419.99,
-            "remaining_products": 55,
-            "color": "black"
-        }
+        "equipment_options": [
+            {
+                "weight": "99 Pounds",
+                "price": 419.99,
+                "remaining_products": 36,
+                "color": "black"
+            }
+        ]
     },
     {
         "asin": "B0012M6VBW",
@@ -11053,12 +11101,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "0.01 Ounces",
-            "price": 55,
-            "remaining_products": 47,
-            "color": "Black"
-        }
+        "equipment_options": [
+            {
+                "weight": "0.01 Ounces",
+                "price": 55,
+                "remaining_products": 66,
+                "color": "Black"
+            }
+        ]
     },
     {
         "asin": "B0D1THJKC8",
@@ -11489,12 +11539,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "3 Pounds",
-            "price": 34.08,
-            "remaining_products": 48,
-            "color": "Steel"
-        }
+        "equipment_options": [
+            {
+                "weight": "3 Pounds",
+                "price": 34.08,
+                "remaining_products": 0,
+                "color": "Steel"
+            }
+        ]
     },
     {
         "asin": "B0C1SL1MFC",
@@ -11859,21 +11911,21 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 39.0,
                 "price": 369.99,
-                "remaining_products": 72,
+                "remaining_products": 17,
                 "color": "Black"
             },
             {
-                "weight": 0.0,
+                "weight": 39.0,
                 "price": 369.99,
-                "remaining_products": 47,
-                "color": null
+                "remaining_products": 21,
+                "color": "Multi"
             },
             {
-                "weight": 0.0,
+                "weight": 39.0,
                 "price": 369.99,
-                "remaining_products": 71,
+                "remaining_products": 81,
                 "color": "Black"
             }
         ]
@@ -12040,16 +12092,16 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 15.87572,
                 "price": 59.99,
-                "remaining_products": 63,
-                "color": null
+                "remaining_products": 59,
+                "color": "Non Foldable"
             },
             {
-                "weight": 0.0,
+                "weight": 15.87572,
                 "price": 59.99,
-                "remaining_products": 52,
-                "color": null
+                "remaining_products": 43,
+                "color": "Non Foldable"
             }
         ]
     },
@@ -12579,12 +12631,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "7 Pounds",
-            "price": 30.77,
-            "remaining_products": 53,
-            "color": "Original"
-        }
+        "equipment_options": [
+            {
+                "weight": "7 Pounds",
+                "price": 30.77,
+                "remaining_products": 7,
+                "color": "Original"
+            }
+        ]
     },
     {
         "asin": "B0D8B9GJ27",
@@ -12791,12 +12845,14 @@
         "productOverview": [],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "77 Kilograms",
-            "price": 399.99,
-            "remaining_products": 38,
-            "color": "Gray"
-        }
+        "equipment_options": [
+            {
+                "weight": "77 Kilograms",
+                "price": 399.99,
+                "remaining_products": 98,
+                "color": "Gray"
+            }
+        ]
     },
     {
         "asin": "B0D632P2SW",
@@ -13290,12 +13346,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "7 Kilograms",
-            "price": 97.99,
-            "remaining_products": 32,
-            "color": "Black"
-        }
+        "equipment_options": [
+            {
+                "weight": "7 Kilograms",
+                "price": 97.99,
+                "remaining_products": 70,
+                "color": "Black"
+            }
+        ]
     },
     {
         "asin": "B0DJSYBQWS",
@@ -13413,12 +13471,14 @@
         ],
         "variantDetails": [],
         "variantAttributes": [],
-        "equipment_options": {
-            "weight": "44 Pounds",
-            "price": 149.99,
-            "remaining_products": 15,
-            "color": "black"
-        }
+        "equipment_options": [
+            {
+                "weight": "44 Pounds",
+                "price": 149.99,
+                "remaining_products": 50,
+                "color": "black"
+            }
+        ]
     },
     {
         "asin": "B0D4QG675S",
@@ -13709,22 +13769,22 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 15.195332,
                 "price": 84.99,
-                "remaining_products": 13,
+                "remaining_products": 63,
                 "color": "Orange"
             },
             {
-                "weight": 0.0,
+                "weight": 15.195332,
                 "price": 89.99,
-                "remaining_products": 29,
+                "remaining_products": 22,
                 "color": "Black"
             },
             {
-                "weight": 0.0,
+                "weight": 15.195332,
                 "price": 99.99,
-                "remaining_products": 56,
-                "color": null
+                "remaining_products": 69,
+                "color": "orange"
             }
         ]
     },
@@ -14085,45 +14145,45 @@
         ],
         "equipment_options": [
             {
-                "weight": 0.0,
+                "weight": 13.9252744,
                 "price": 89.99,
-                "remaining_products": 36,
+                "remaining_products": 94,
                 "color": "Orange"
             },
             {
-                "weight": 0.0,
+                "weight": 13.9252744,
                 "price": 89.99,
-                "remaining_products": 54,
+                "remaining_products": 22,
                 "color": "Yellow"
             },
             {
-                "weight": 0.0,
+                "weight": 13.9252744,
                 "price": 89.99,
-                "remaining_products": 89,
+                "remaining_products": 62,
                 "color": "Black"
             },
             {
-                "weight": 0.0,
+                "weight": 13.9252744,
                 "price": 89.99,
-                "remaining_products": 3,
+                "remaining_products": 24,
                 "color": "Blue"
             },
             {
-                "weight": 0.0,
+                "weight": 13.9252744,
                 "price": 89.99,
-                "remaining_products": 1,
+                "remaining_products": 86,
                 "color": "Green"
             },
             {
-                "weight": 0.0,
+                "weight": 13.9252744,
                 "price": 89.99,
-                "remaining_products": 4,
+                "remaining_products": 64,
                 "color": "Red"
             },
             {
-                "weight": 0.0,
+                "weight": 13.9252744,
                 "price": 89.99,
-                "remaining_products": 73,
+                "remaining_products": 9,
                 "color": "Pink"
             }
         ]
@@ -14431,13 +14491,13 @@
             {
                 "weight": 199.58048,
                 "price": 39.99,
-                "remaining_products": 64,
+                "remaining_products": 68,
                 "color": "Tan"
             },
             {
                 "weight": 99.79024,
                 "price": 39.99,
-                "remaining_products": 32,
+                "remaining_products": 73,
                 "color": "Tan"
             }
         ]
