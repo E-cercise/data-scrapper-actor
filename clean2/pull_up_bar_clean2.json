@@ -265,15 +265,6 @@
         "title": "KT TOES DON'T TOUCH GROUND Foldable Free Standing Pull Up Bar Stand Sturdy Power Tower Workout Station For Home Gym Strength Training Adjustable Pullup Fitness Equipment Multifunctional Exercise Rack",
         "price": 345.5,
         "brand": "KT KHANH TRINH",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61Pw8F6xMYL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41LjFV90j5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51i9YyCOv9L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Yu0XP0IWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/413HbKKJjTL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41FhdI1dITL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51bXxQIzYjS._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Workout Comfort: Designed by Mr. Khanh Trinh, who has over 15 years of experience in Fitness & Calisthenics, the KT Pull Up Bar provides comfort and quality for pull-ups and chin-ups. The height can be adjusted across multiple levels from 46.45'' to 101.57'' (118 to 258cm) without needing a spanner, allowing for full-body stretches and swings. Suitable for users up to 6.56 ft (200cm) and 485 lbs (200kg), it supports various workouts, including kipping pull-ups, muscle-ups, and more.",
@@ -376,14 +367,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "24.3 Pounds",
                 "price": 345.5,
-                "remaining_products": 91,
-                "color": "Black 2"
+                "remaining_products": 1,
+                "color": "Black 2",
+                "img": null
             }
         ]
     },
@@ -392,15 +382,6 @@
         "title": "DlandHome Pull Up Bar, Power Tower Dip Bar, Pull Up Bar Free Standing with 10 Levels Adjustable Height for Home Gym Workout Equipment, Strength Training Fitness",
         "price": 89.99,
         "brand": "DlandHome",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/612KPYlJrxL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41zqApha0ML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41zbSlnHrrL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41XJWUjLpoL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5123rHHNKhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41QLMs2soEL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/61bo0q6q5OL._AC_US.jpg"
-        ],
         "description": "DlandHome Pull Up Bar",
         "features": [
             "\ud83d\udcaaHIGH QUALITY: Our Power Tower Dip Station is built to last, featuring a robust and durable steel frame that ensures stability and long-term use. Multi gear regulation, could adjust the height as your need,with outer octagonal base is equipped with a rubber foot cover.",
@@ -501,123 +482,41 @@
                 "value": "Fixed"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Blue",
-                "thumbnail": "https://m.media-amazon.com/images/I/41Ly5mz0ANL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71VI0g9AjpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71jzTObgenL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/715UDu14wxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71zzd3abQPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/915qZzxlg8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81DU3pF98KL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81cjio40saL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61XRzwL64OL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CGM5V1XW",
-                "price": null
-            },
-            {
-                "name": "Green",
-                "thumbnail": "https://m.media-amazon.com/images/I/41dUk1LVe9L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71YTW5ivEZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711RsH1XxwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71f2ev6k1uL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71iEKETXnwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91I+98rYB9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81z6aFtzWML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81zMecQY4cL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61JyLnpxJML._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CL6L1Y4K",
-                "price": null
-            },
-            {
-                "name": "Orange",
-                "thumbnail": "https://m.media-amazon.com/images/I/413WU27uZQL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71Q29MZuyRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71JDg8tVciL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71g9OOt5KrL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71azlA+WQJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91KTk98WhmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/8190fsscd8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81IRDtm7V1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61JNQuPcFtL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CGLZQVP9",
-                "price": null
-            },
-            {
-                "name": "Pink",
-                "thumbnail": "https://m.media-amazon.com/images/I/41lHJlr32sL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71fcBCNtRnL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71An2heObSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/7134RjT-cFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Y4FbRQ6kL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/919NQmseHhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/813WypC6e4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81YzX9SETaL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CJM7J5NW",
-                "price": null
-            },
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41zqApha0ML._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/612KPYlJrxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711SNN8Rh1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81tzG+BzZNL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71TQPywLYaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71tJw2DtjfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91cRQjqFj2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81wkOdJp1eL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51SEkqP6vLL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0851947FW",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 13.607759999999999,
                 "price": 89.99,
+                "remaining_products": 91,
+                "color": "Blue",
+                "img": null
+            },
+            {
+                "weight": 13.607759999999999,
+                "price": 89.99,
+                "remaining_products": 75,
+                "color": "Green",
+                "img": null
+            },
+            {
+                "weight": 13.607759999999999,
+                "price": 89.99,
                 "remaining_products": 36,
-                "color": "Blue"
+                "color": "Orange",
+                "img": null
             },
             {
                 "weight": 13.607759999999999,
                 "price": 89.99,
-                "remaining_products": 61,
-                "color": "Green"
+                "remaining_products": 49,
+                "color": "Pink",
+                "img": null
             },
             {
                 "weight": 13.607759999999999,
                 "price": 89.99,
-                "remaining_products": 15,
-                "color": "Orange"
-            },
-            {
-                "weight": 13.607759999999999,
-                "price": 89.99,
-                "remaining_products": 100,
-                "color": "Pink"
-            },
-            {
-                "weight": 13.607759999999999,
-                "price": 89.99,
-                "remaining_products": 77,
-                "color": "Black"
+                "remaining_products": 73,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -626,15 +525,6 @@
         "title": "Pull Up Bar Wall Mounted-Heavy Duty Joist Mounted Pull Up Bar-Premium Strength Training Pull-Up Bars-Fast and Easy Installation for Home and Garage Use,Supports up to 600 Lbs",
         "price": 89.99,
         "brand": "HWOOUSA",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71tp4rIagTL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41j0n-nF-NL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41nT1a5AMLL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Onx+x6RFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51jzmfet7-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51PpAoz2wdL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Kjp6RJQGL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "ROBUST AND DURABLE:Crafted from 5mm thick alloy steel and welded fully, With black electrophoretic coatings, our wall mount pull up bar is offers excellent corrosion resistance,our pull-up bar guarantees high durability and strength, supporting up to 600 lbs for a safe workout experien",
@@ -728,14 +618,13 @@
                 "value": "Iron, Metal"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "6.6 Pounds",
                 "price": 89.99,
-                "remaining_products": 17,
-                "color": "Black"
+                "remaining_products": 19,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -1331,15 +1220,6 @@
         "title": "HOTWAVE Push Up Board Fitness, Portable Foldable 20 in 1 Push Up Bar at Home Gym, Pushup Handles for Floor. Professional Strength Training Equipment For Man and Women,Patent Pending",
         "price": 29.99,
         "brand": "HOTWAVE",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71UKoSRSfZL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/513ZD5w+JQL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51v1IDL6wYL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51LvPaFAt0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51g4CIo92qL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51hnkaGBK5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ZZ4dgkhxL._AC_US.jpg"
-        ],
         "description": "A standard pushup workout stimulates muscle groups more precisely for maximum effect,Build strong muscles quickly. Keep fit anytime, anywhere.The perfect addition to the gym for anyone working out.",
         "features": [
             "\u3010Powerful Push up Board\u3011Upgraded Pushups bar specifically designed to target different muscle groups (chest, shoulder, abs, biceps, back) , HOTWAVE Provide multiple combination positions to mix and match various color postures to get more push-up angles and detailed instructions is provided with professional training guidance for maximizing your full body work out,make muscle training more professional and effective.",
@@ -1440,92 +1320,34 @@
                 "value": "comfortable"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/513ZD5w+JQL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71UKoSRSfZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/719Ap0VyrAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81PQZuNMWzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71GvCJMKIzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ZsEaNfKvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71KXKuduDKL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0B73XM8ZB",
-                "price": null
-            },
-            {
-                "name": "Black Kit",
-                "thumbnail": "https://m.media-amazon.com/images/I/51IAdFURfZL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/710zy2aqDEL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71uwawwiTSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71OlGl-39rL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71xNlyu1VlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ugaJVktVL._AC_SL1500_.jpg"
-                ],
-                "asin": "B09LTZJJ5L",
-                "price": null
-            },
-            {
-                "name": "Black Bar Kit",
-                "thumbnail": "https://m.media-amazon.com/images/I/51Gv7kBERrL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71U-AcDqoqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71eB2swX4aL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71UGafWOcZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ItPEyvqTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WYmDni7RL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0C781MLGR",
-                "price": null
-            },
-            {
-                "name": "Black Ultimate kit",
-                "thumbnail": "https://m.media-amazon.com/images/I/51YoO6+GoAL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71Ev3mVjHyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ACVP0q6FL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71UGafWOcZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71VNhCvohyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71QHKyjljuL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/7189UoNeYKL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CFJJFLFY",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 1.5422128,
                 "price": 29.99,
-                "remaining_products": 101,
-                "color": "Black"
+                "remaining_products": 33,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 1.5422128,
                 "price": 29.99,
-                "remaining_products": 64,
-                "color": "Black"
+                "remaining_products": 84,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 1.5422128,
                 "price": 29.99,
-                "remaining_products": 75,
-                "color": "Black"
+                "remaining_products": 96,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 1.5422128,
                 "price": 29.99,
-                "remaining_products": 98,
-                "color": "Black"
+                "remaining_products": 93,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -1534,15 +1356,6 @@
         "title": "Outdoor Fitness Multi-Use Strength Training Power Tower",
         "price": 299.99,
         "brand": "Stamina",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61pLDZQL+jL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31nnFEY8C9L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51tUFE-fVYL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/410tRPrHixL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51c6F+tlVCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51sb8MLn5SL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411Sm1sGumL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Versatile Full-Body Workout: Perform a variety of upper body exercises like pull-ups, push-ups, tricep dips, sit-ups, and vertical knee raises to target arms, shoulders, back, chest, and abs.",
@@ -1671,46 +1484,20 @@
                 "value": "Fixed"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "W/ Plyo Box",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B084Q9FPH2",
-                "price": {
-                    "value": 469.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Green",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B00CQHGJ2I",
-                "price": {
-                    "value": 299.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Green"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 39.916095999999996,
                 "price": 469.99,
-                "remaining_products": 61,
-                "color": "Green"
+                "remaining_products": 94,
+                "color": "Green",
+                "img": null
             },
             {
                 "weight": 39.916095999999996,
                 "price": 299.99,
-                "remaining_products": 23,
-                "color": "Green"
+                "remaining_products": 39,
+                "color": "Green",
+                "img": null
             }
         ]
     },
@@ -1719,16 +1506,6 @@
         "title": "Pull Up Bar for Doorway,2024 Upgrade Multi-Grip Hanging Bar for Home Gym, Max Capacity 440 lbs Multifunctional Portable Chin Up Bar - USA Original Patent, Designed, Shipped, Warranty",
         "price": 29.99,
         "brand": "KAKICLAY",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61W24k1MwRL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41w35fs4WuL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41RqmQfKgML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41DK45kzwCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41lRnACU+HL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41EmOvwpGqL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51O8T3DkdgL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41H30bKEnVL._AC_US.jpg"
-        ],
         "description": "Product Description TOTAL UPPER BOOY WORKOUT BAR Turn your doorway into a home gym. The KAKICLAY pull up bar is a multi-function exercise bar you can use to do pull-ups, chin-ups, push-ups, sit-ups, dips, arm and shoulder exercises- every exercise you need to build a powerful upper body! The KAKICLAY gym uses your body's own resistance to deliver powerful results fast. It strengthens and tones your biceps, triceps, chest, back, shoulders and abs. It instantly attaches to or removes from your door frame with no drilling or tools required, and the heavy duty steel construction supports up to 440 ibs! Now it's easy to get the strong, lean body you always wanted, right at home.  FEATURES:  (1)Latest Unique Design & Multiple Strength Training  (2)No Drillings & No tools & No fasteners (3)Heavy Duty Steel Construction & Stability (4)Attaches & Removes from Door Frame in Seconds Important Tips Before Ordering (1)Maximum weight that the doorframe can support. (2)Slip-in design fits standard doorways. (3)Can holds up to 440LBS man for long term use.  (4)Aluminum alloy doors and glass doors cannot be installed.",
         "features": [
             "\u3010Multifunctional Home Gym\u3011The latest pull-up bar supports push-ups, sit-ups, pull-ups, pull-ups, arm curls, arm and shoulder exercises, and other exercises. You can easily switch between multiple exercises without other fitness door bars to help you build strong upper body and core muscles.",
@@ -1833,56 +1610,20 @@
                 "value": "Carbon Steel"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Foldable Pull Up Bar",
-                "thumbnail": "https://m.media-amazon.com/images/I/41tR9Q8hQVL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61nRpMRmapL._AC_SL1200_.jpg",
-                    "https://m.media-amazon.com/images/I/61fALTrmbUL._AC_SL1200_.jpg",
-                    "https://m.media-amazon.com/images/I/61D9oIOl6EL._AC_SL1200_.jpg",
-                    "https://m.media-amazon.com/images/I/61J+zFgcMDL._AC_SL1200_.jpg",
-                    "https://m.media-amazon.com/images/I/61tZlPk6BdL._AC_SL1200_.jpg",
-                    "https://m.media-amazon.com/images/I/61ABkhuED4L._AC_SL1200_.jpg",
-                    "https://m.media-amazon.com/images/I/61o1IaG7XNL._AC_SL1200_.jpg"
-                ],
-                "asin": "B0C4YKG3V6",
-                "price": null
-            },
-            {
-                "name": "Multi Grip Light",
-                "thumbnail": "https://m.media-amazon.com/images/I/41w35fs4WuL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61W24k1MwRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/611RehKou0L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61Co8JzWfdL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71lGcyeazJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71pp39jBKAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71SoYU0-qZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71cekYqsVGL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0C4YQNQ1T",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "Multi Grip Light"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 1.95,
                 "price": 29.99,
-                "remaining_products": 15,
-                "color": "Black"
+                "remaining_products": 18,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 1.95,
                 "price": 29.99,
-                "remaining_products": 100,
-                "color": "Black"
+                "remaining_products": 7,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -1891,16 +1632,6 @@
         "title": "Pull Up Bar for doorway With Resistance Bands & Wrist Wraps, Chin Up Bar for Upper Body Workout & Exercise, 29.9\" - 37.5\" Adjustable Width Locking Mechanism, No Screw Installation, 880 lbs",
         "price": 51.99,
         "brand": "CORE FRENZY",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71nuVBVMMfL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51aJAR2J+jL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41d9iQp8vgL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51DaB48xFfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51jMtDZARBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Wg82lIxSL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51JLcY07CSL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Z4WyNa75L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u2705EFFORTLESS INSTALLATION: With the Core Frenzy pull up bar for doorway, setting up your home gym is a breeze. No drilling or screws required; simply install the bar in your preferred location. Great for door pull up workouts or as a chin up bar doorway no damage solution.",
@@ -1997,14 +1728,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "3.45 Kilograms",
                 "price": 51.99,
-                "remaining_products": 69,
-                "color": "Black"
+                "remaining_products": 98,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -2013,15 +1743,6 @@
         "title": "ProsourceFit Wall-Mounted Pull-Up / Chin-Up Bar, Heavy Duty 300 lb. Capacity, Black",
         "price": 24.99,
         "brand": "ProsourceFit",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61JFaTVxesL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/21QkMW9-RKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41y8dfjCRoL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ACpgNEgPL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41wTIOxzSeL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51iKLR06pCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51P0tgVcO7L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "DOORWAY MOUNT - Heavy-duty pull-up bar mounts in most standard doorframes; in-cludes end cap brackets and screws",
@@ -2154,113 +1875,41 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Multi Grip Light",
-                "thumbnail": "https://m.media-amazon.com/images/I/21lpoEAf6fL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51zRTboulBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81yfc5Cu27L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71zsrNmPMiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81mTtwF34qL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/819mmY0TLcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81e67WisHoL._AC_SL1500_.jpg"
-                ],
-                "asin": "B01H7OW5KY",
-                "price": null
-            },
-            {
-                "name": "Doorway",
-                "thumbnail": "https://m.media-amazon.com/images/I/21QkMW9-RKL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61JFaTVxesL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81o7gIBtTML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WRFlou2uL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81tPuQQe88L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81VDUwyCdPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Iuysf0ARL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0062YVB4W",
-                "price": null
-            },
-            {
-                "name": "Multi Grip",
-                "thumbnail": "https://m.media-amazon.com/images/I/31r-X+tK93L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61RsWBkQ8VL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81rTzxYIamL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71fon68fEVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81nC+YYL9VL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81qqqwzV+mL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81pdVeSMEIL._AC_SL1500_.jpg"
-                ],
-                "asin": "B002YQUP7Q",
-                "price": null
-            },
-            {
-                "name": "Wall Mount",
-                "thumbnail": "https://m.media-amazon.com/images/I/318PXJtMlOL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61Ezi+AkbaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71AeHI7qVZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ha8hvBJtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81H0DpbacQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/916vP0byE7L._AC_SL1500_.jpg"
-                ],
-                "asin": "B00KI567OA",
-                "price": null
-            },
-            {
-                "name": "Foldable",
-                "thumbnail": "https://m.media-amazon.com/images/I/31BYnoMsZgL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61arAgUr5AL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81GQhiNpQiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71bazlbtD9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/811epgX8pFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71wF9xfZ9fL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81-0QRsOs1L._AC_SL1500_.jpg"
-                ],
-                "asin": "B08B1DXWH7",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "Doorway"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 1.2473779999999999,
                 "price": 24.99,
-                "remaining_products": 98,
-                "color": "Black"
+                "remaining_products": 30,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 1.2473779999999999,
                 "price": 24.99,
-                "remaining_products": 38,
-                "color": "Black"
+                "remaining_products": 18,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 1.2473779999999999,
                 "price": 24.99,
-                "remaining_products": 17,
-                "color": "Black"
+                "remaining_products": 67,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 1.2473779999999999,
                 "price": 24.99,
                 "remaining_products": 82,
-                "color": "Black"
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 1.2473779999999999,
                 "price": 24.99,
-                "remaining_products": 19,
-                "color": "Black"
+                "remaining_products": 57,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -2269,15 +1918,6 @@
         "title": "Wall Mounted Pull Up Bar - Heavy Duty Chin Up Bar, Strength Training, Outdoor Pull-Up Bar for Garage, Joist, Wall Mount - Multifunctional Fitness Bar,Supports up to 600 Lbs",
         "price": 119.99,
         "brand": "HWOOUSA",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71laEahheHL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41XaZbRMlLL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/512autsB+eL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ubuHMKNqL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Pf6xiPGrL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51NC3pzxT+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51q00zTxHmL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "HEAVY DUTY AND STABLE:This heavy duty pull up bar is fully welded,Made of durable steel tubing,reinforced with 2 steel plates below , our rogue pull up bar can support up to 600 lbs and withstand years of use. The 6-hole design ensures more stability and safety than other wall mounted bars",
@@ -2371,14 +2011,13 @@
                 "value": "Iron, Metal"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "9.9 Pounds",
                 "price": 119.99,
-                "remaining_products": 71,
-                "color": "Black"
+                "remaining_products": 40,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -2751,15 +2390,6 @@
         "title": "Sportneer Pull Up Bar: Adjustable Width Locking Mechanism Chin up Bar without Screws - Strength Training Pull-up Bar for Doorway with Non-slip Comfort for Home Gym Upper Body Workout",
         "price": 39.99,
         "brand": "Sportneer",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61+33eTl8EL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41xLnl2LzIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51hMFmT+EyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ZUk6J0glL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51yd1QzDmvL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41EscNcDKiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51K9p1oBA2L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Before purchasing, ensure your door frame width is between 30-37.4 inches (76 to 95 cm). This chin up bar is not suitable for frames outside this range. The door frame must be wider than the anti-slip pads at both ends of the bar",
@@ -2858,14 +2488,13 @@
                 "value": "Polyvinyl Chloride"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "3.04 Kilograms",
                 "price": 39.99,
-                "remaining_products": 89,
-                "color": "Black or Silver"
+                "remaining_products": 27,
+                "color": "Black or Silver",
+                "img": null
             }
         ]
     },
@@ -2874,16 +2503,6 @@
         "title": "SogesHome Power Tower Pull Up Bar and Dip Station Adjustable Height Dip Stand Multi-Functional Strength Training Fitness Workout Station",
         "price": 89.99,
         "brand": "SogesHome",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/41DGr64w6DL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41DGr64w6DL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Zu0Ky879L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41xDyPfLghL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51HhdXuy62L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41wpVYTa4mL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51z0250H60L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Sj8UOf7jL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010Sturdy Construction\u3011The power tower is made of high quality steel construction, with main support widened and splayed anti roll-over base. Safety and strong stability. Weight capacity: 330LBS.",
@@ -2980,182 +2599,55 @@
                 "value": "Fixed"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Orange",
-                "thumbnail": "https://m.media-amazon.com/images/I/31uE40hzNHL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/515IZ3J9FgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/614lu5VEejL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51ClVydWynL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/71Kk8BeaIgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/714ijkMBGxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61vDksf6feL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51ciRdo6BfL._AC_SL1000_.jpg"
-                ],
-                "asin": "B0CGJ6JPHR",
-                "price": {
-                    "value": 89.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Yellow",
-                "thumbnail": "https://m.media-amazon.com/images/I/31tP2twhx3L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/617JpkJNbGL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51RSeWsxpdL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/618wV4bRhZL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/51t18yuZfPL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/71BgKNuwm3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61qRrk-Uk3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51rFyO4B40L._AC_.jpg"
-                ],
-                "asin": "B0C8TBLWQT",
-                "price": {
-                    "value": 89.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41DGr64w6DL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/41DGr64w6DL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/81A3WXwZFDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71+Shzw5A3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81d6yBMbgUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71GkDIo8F3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/818Tm3gGffL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61PIVcSc+gL._AC_SL1500_.jpg"
-                ],
-                "asin": "B086YWGGYW",
-                "price": {
-                    "value": 89.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Blue",
-                "thumbnail": "https://m.media-amazon.com/images/I/31G0asQ8a-L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51EbQovafNL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/614S4JdSsmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/5167IKSTS3L._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/71NMLKt-GML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71uvnlykrFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61UmD+aK4cL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51MY0vLRbTL._AC_SL1000_.jpg"
-                ],
-                "asin": "B0CGJ72R9R",
-                "price": {
-                    "value": 89.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Green",
-                "thumbnail": "https://m.media-amazon.com/images/I/31hsr4QYXEL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51eybl45pxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61gjjCGdMWL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51o4YzHrwUL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/71-wKJ9c45L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71T7H7deU7L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61cQRR3rxTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51+KzHouWlL._AC_SL1000_.jpg"
-                ],
-                "asin": "B0CGHZJSVT",
-                "price": {
-                    "value": 89.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Red",
-                "thumbnail": "https://m.media-amazon.com/images/I/41F4dHuPrrL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61fy8wgKtpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51lLTk1VK4L._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/61Gx4LhZddL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/51vfAkb7IRL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/71hSufgq1-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61j0F9oFZQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51Tv+i853rL._AC_.jpg"
-                ],
-                "asin": "B0C8TB4L5G",
-                "price": {
-                    "value": 89.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Pink",
-                "thumbnail": "https://m.media-amazon.com/images/I/312CNZtJRKL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51aKQBU-0yL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61toljuq3lL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/615nmhZuspL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61uOhBP21fL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711STPBkaJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61cF0foibdL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61V-Yl5XuwL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CJM5LKRR",
-                "price": {
-                    "value": 89.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 13.9252744,
                 "price": 89.99,
-                "remaining_products": 32,
-                "color": "Orange"
+                "remaining_products": 1,
+                "color": "Orange",
+                "img": null
             },
             {
                 "weight": 13.9252744,
                 "price": 89.99,
-                "remaining_products": 80,
-                "color": "Yellow"
+                "remaining_products": 68,
+                "color": "Yellow",
+                "img": null
             },
             {
                 "weight": 13.9252744,
                 "price": 89.99,
-                "remaining_products": 45,
-                "color": "Black"
+                "remaining_products": 27,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 13.9252744,
                 "price": 89.99,
-                "remaining_products": 37,
-                "color": "Blue"
+                "remaining_products": 99,
+                "color": "Blue",
+                "img": null
             },
             {
                 "weight": 13.9252744,
                 "price": 89.99,
-                "remaining_products": 33,
-                "color": "Green"
+                "remaining_products": 94,
+                "color": "Green",
+                "img": null
             },
             {
                 "weight": 13.9252744,
                 "price": 89.99,
-                "remaining_products": 45,
-                "color": "Red"
+                "remaining_products": 78,
+                "color": "Red",
+                "img": null
             },
             {
                 "weight": 13.9252744,
                 "price": 89.99,
-                "remaining_products": 70,
-                "color": "Pink"
+                "remaining_products": 54,
+                "color": "Pink",
+                "img": null
             }
         ]
     },
@@ -3276,16 +2768,6 @@
         "title": "Luckyone Multifunctional Wall Mounted Pull Up Bar/Chin Up bar,Dip Station for Indoor Workout Supports to 440 Lbs",
         "price": 79.95,
         "brand": "Luckyone",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51emCvfplJL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41Sj9PaseqL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/511KKbEANCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41DPqw79QuL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41SxhwSR8HL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41xMjAPBFbL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41F+gwccFSL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51bR71xzZwL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Heavy Duty Steel Construction\uff1a4 strong steel hooks and heavy duty steel with high density non-slip grips, this unit is built to last which offers great stability and rigidity,supports up to 440 pounds.",
@@ -3381,14 +2863,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "10.54 Kilograms",
                 "price": 79.95,
-                "remaining_products": 86,
-                "color": "Black"
+                "remaining_products": 43,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -3778,15 +3259,6 @@
         "title": "Pull Up Assistance Bands, Heavy Duty Resistance Band for Pull Up Bar, Adjustable Weight/Size with Fabric Feet/Knee Rest, Bands for Pull Up Assist for Strength Training, Patented Pull Up Assist Band",
         "price": 28.76,
         "brand": "HPYGN",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/811uumsY57L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51xx9g0cOEL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41PioksX6cL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51CtviBhGTL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51xTy2hlg4L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5196cnyMNZL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51dvP7X+S2L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Nylon",
@@ -3899,127 +3371,41 @@
                 "value": "Weightlifting, pull up, Exercise and Fitness, Body Building, Strength Training"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/51MV+zhUNbL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71ORqeOKIqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71lXDHF-m6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Y-l05-1YL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71lRK69ISqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81wnb+cEInL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71KU8uj5VRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71v-vXsFVML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61DkftFc9mL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71fWsNar-QL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0C52ML3FS",
-                "price": null
-            },
-            {
-                "name": "Army Green",
-                "thumbnail": "https://m.media-amazon.com/images/I/51SYEPVAjSL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71PZDc4LoCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71HOtzlUANL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71lmgD2LfsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71tc+tG+-JL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81o6gpKcZ6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71pTXpwx0HL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71hT1Ygrg5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61DkftFc9mL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Y49Cd3qrL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D2VS6HF1",
-                "price": null
-            },
-            {
-                "name": "Yellow",
-                "thumbnail": "https://m.media-amazon.com/images/I/51mxjcfPp7L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81wEmOtFaBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ZW0T41rNL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71fRAjRPjAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/8109vlEYd7L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/715Y030BHaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71DI5TsHrWL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61DkftFc9mL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WfrIkCWLL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CG69CHVM",
-                "price": null
-            },
-            {
-                "name": "1-Orange",
-                "thumbnail": "https://m.media-amazon.com/images/I/51xx9g0cOEL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/811uumsY57L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/714hJb5cJWL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71OHz3UHJKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/819QNQyW1dL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71HtH1Jn-gL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71F3Rco-DqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81rKOGGuAPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81-SmhDh0OL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81YMVNEYf+L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BLJVSN41",
-                "price": null
-            },
-            {
-                "name": "Rose Red",
-                "thumbnail": "https://m.media-amazon.com/images/I/512Yqj0ggeL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/815GuQsjsRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71nAehNbFwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ETR4xBuML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81XB5R+gBvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81fVse8Y0tL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/818i074-ARL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71y72JqDKrL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71EnfA0VB6L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D2VVCKRY",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "1-Orange"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 61,
-                "color": "Black"
+                "remaining_products": 15,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 76,
-                "color": "Green"
+                "remaining_products": 56,
+                "color": "Green",
+                "img": null
             },
             {
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 23,
-                "color": "Yellow"
+                "remaining_products": 52,
+                "color": "Yellow",
+                "img": null
             },
             {
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 33,
-                "color": "Orange"
+                "remaining_products": 42,
+                "color": "Orange",
+                "img": null
             },
             {
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 84,
-                "color": "Red, Rose"
+                "remaining_products": 78,
+                "color": "Red, Rose",
+                "img": null
             }
         ]
     },
@@ -4028,15 +3414,6 @@
         "title": "Joist Mount Pull Up Bar by Ultimate Body Press",
         "price": 72.99,
         "brand": "Ultimate Body Press",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61OPTToQ6JL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/415iV4zjJAL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51LW+882s0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/515bvZjzMrL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31EltQNkNFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41-Uy8xoAEL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51tXS0EMFKL._AC_US.jpg"
-        ],
         "description": "Joist Mount Pull Up Bar with 21 inch Parallel Grip SpacingThe Joist Mount Pull Up Bar from Ultimate Body Press is the bar to own if you have exposed ceiling beams in your home.The Rigid Mount BarThrough-bolted to the structure of your home, the Joist Mount Pull Up Bar is the final word in stability and makes pull ups be the challenge you can pursue without limits. Overhead mounting gives you full range of motion and preserves the flexibility of your floor space. Do wide-grip pullups, chin-ups, neutral-grip pullups, hanging knees raises and more.Designed for your WorkoutsMultiple grip positions isolate specific muscle groups. High density foam grips support endurance. The parallel grips are spaced 21\" apart to target the upper lats and are a great fit for a broad range of shoulder widths.Designed in the USAUltimate Body Press is a North Carolina company committed to delivering better workouts every day. Includes Prime eligible shipping and USA customer serviceShop with ConfidenceThe Joist Mount Pull Up Bar is backed by Ultimate Body Press against manufacturer's defects for 10 years",
         "features": [
             "NEW IMPROVEMENTS: Target more muscles with four fully padded grip positions - Parallel | Narrow | Standard | Wide. Exclusive lowered parallel grips improve range of motion so you can focus on form and repetition",
@@ -4159,14 +3536,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "4.88 Kilograms",
                 "price": 72.99,
-                "remaining_products": 10,
-                "color": "Black"
+                "remaining_products": 89,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -4175,15 +3551,6 @@
         "title": "600 LBS Weight Limit - I-Beam Pull Up Bar - Long Bar with Bent Ends - Durable Rubber Grips - Red Label - Made in the USA!",
         "price": 189.99,
         "brand": "Firstlaw Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51-SI24dT9L.__AC_SY300_SX300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41tVfUNyU1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Q21CIa1qL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5159oqICEfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/517zpMeesGL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51SFVGsMowL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41oHwaxBOCL._AC_US.jpg"
-        ],
         "description": "The Firstlaw Fitness I-Beam Pull Up Bar is the only one that uses 1-1/4\" diameter steel tubing. This makes it the strongest one on the market. Don't be fooled by other I-Beam Pull Up Bars that claim to use 1-1/4\" steel tubing but ship 1.0\" steel tubing. We are proud to supply the United States Navy with our I-Beam Pull Up Bars (see product images). The United States Military has strict guidelines for strength and durability, which our product had no trouble meeting. The I-Beam Pull Up Bar is easy to install in 15 minutes or less, no drilling required. The unique design uses (6) bolts to clamp to the bottom flange of the I-Beam. Once installed it feels like the Pull Up Bar is welded to the I-Beam. It comes with foam rubber grips that give you 3 different pull up variations (wide, close, and pistol grip). These different variations isolate different muscles giving you a more complete workout. The Firstlaw Fitness I-Beam Pull Up Bar is engineered to last. It comes with a LIFETIME WARRANTY and is 100% made in the USA. If you have access to a steel I-beam you have to try the Firstlaw Fitness I-Beam Pull Up Bar. If you are not 100% satisfied with this product return it for a full refund, no questions asked. Please contact Firstlaw Fitness with any questions through Amazon or direct from our website.",
         "features": [
             "FIRSTLAW FITNESS MAKES THE ONLY I-BEAM PULL UP BAR THAT USES 1-1/4\" STEEL TUBE - THE STRONGEST I-BEAM PULL UP BAR ON THE MARKET!",
@@ -4280,14 +3647,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "23 Pounds",
                 "price": 189.99,
-                "remaining_products": 70,
-                "color": "Red"
+                "remaining_products": 79,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -4521,15 +3887,6 @@
         "title": "Wall mounted pull-up bar, suspension rod,cloud ladder, indoor fitness training, climbing cloud ladder,wall mounted horizontal bar pull-up bar,",
         "price": 52.99,
         "brand": "Lizipai",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/41SdFPrhPxL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31CodHGcv1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31nvK80Tg1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41lhvTxgNiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51XZXdwuDQL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/414iFiRpZyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/21a10psuv-L._AC_US.jpg"
-        ],
         "description": "Wall mounted pull-up bar, suspension rod,cloud ladder, indoor fitness training, climbing cloud ladder,wall mounted horizontal bar pull-up bar,",
         "features": [
             "Product size and color: Based on the product size diagram.",
@@ -4634,54 +3991,20 @@
                 "value": "Iron"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "white 19.68in",
-                "thumbnail": "https://m.media-amazon.com/images/I/31CodHGcv1L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/41SdFPrhPxL._AC_SL1001_.jpg",
-                    "https://m.media-amazon.com/images/I/41ElIT6F8hL._AC_SL1001_.jpg",
-                    "https://m.media-amazon.com/images/I/51bqQ861fVL._AC_SL1001_.jpg",
-                    "https://m.media-amazon.com/images/I/61fLxaVtQ0L._AC_SL1001_.jpg",
-                    "https://m.media-amazon.com/images/I/519cDJH7zjL._AC_SL1001_.jpg",
-                    "https://m.media-amazon.com/images/I/31mvFphEiBL._AC_SL1001_.jpg"
-                ],
-                "asin": "B0D8Y416T7",
-                "price": null
-            },
-            {
-                "name": "black 19.68in",
-                "thumbnail": "https://m.media-amazon.com/images/I/31txtQQV6YL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/41OYCcrnP9L._AC_SL1001_.jpg",
-                    "https://m.media-amazon.com/images/I/41K1dqJfMkL._AC_SL1001_.jpg",
-                    "https://m.media-amazon.com/images/I/61BMCH4wiFL._AC_SL1001_.jpg",
-                    "https://m.media-amazon.com/images/I/618r5lQBwsL._AC_SL1001_.jpg",
-                    "https://m.media-amazon.com/images/I/61xkZrw8rqL._AC_SL1001_.jpg",
-                    "https://m.media-amazon.com/images/I/51g2Zd09fNL._AC_SL1001_.jpg"
-                ],
-                "asin": "B0D8Y6J76C",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "white"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 3.99,
                 "price": 52.99,
-                "remaining_products": 78,
-                "color": "White"
+                "remaining_products": 71,
+                "color": "White",
+                "img": null
             },
             {
                 "weight": 3.99,
                 "price": 52.99,
-                "remaining_products": 98,
-                "color": "Black"
+                "remaining_products": 83,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -4860,13 +4183,6 @@
         "title": "Titan Fitness Adjustable Depth 52\" Wall Mounted Pull Up Bar, 14\" or 22\" from Wall, Rated 400 LB, Home or Garage Gym Chin Up Workout Training Station, Upper Body Workout",
         "price": 79.99,
         "brand": "Titan Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/41rTm8hAY0L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31qlNMb15LL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41hXQlju1CL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31Bcqn7MS0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31iRme4vYfL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Installs to wood stud or concrete walls | Mounting hardware included.",
@@ -4967,14 +4283,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "23 Pounds",
                 "price": 79.99,
-                "remaining_products": 16,
-                "color": "black"
+                "remaining_products": 47,
+                "color": "black",
+                "img": null
             }
         ]
     },
@@ -5126,15 +4441,6 @@
         "title": "Yes4All Rotating Pull Up Handles for Pull Up Bar/Pull Up Grips/Barbell handles with Non-Slip & Foam Pad Grips - Twist Motion for Strength Training Workout",
         "price": 19.99,
         "brand": "Yes4All",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/41ez4KgKmaL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31pifGN755L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41M+7J65qGL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5119bf71ZXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51dxqoc+UXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51uO1Av3n2L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41-sOrg3yiL._AC_US.jpg"
-        ],
         "description": "UPGRADE YOUR PULL UP ROUTINE WITH YES4ALL ROTATING PULL UP HANDLES! Constructed of heavy-gauge steel, Yes4All Rotating Pull up Handles can withstand heavy weight without being out of shape, broken or damaged, max support up to 300lbs. The special design comes with 360\u00b0 rotation to help you rotate your wrists to complete more challenging pull-up variations. Feature with foam padded handles, our Pull-up Bar Handle/ pull ups / neutral grip handles ensure a secure, comfortable grip & prevent sliding or interruption. Plus, the rubber pad provides good vibration absorptions & prevents the pull up handles from sliding when training. COMPACT & PORTABLE FOR ON-THE-WAY WORKOUT Take seconds to assemble Yes4All Rotating Pull up Handles / Pull up hand grips into your door gym, power tower, or any stable pull-up bar with 1. 5\u201d diameter or less with the locking pin. You can space the handles to your preferred width or quickly change between narrow & wide grip pull-ups. GAIN MORE STRENGTH & BIGGER MUSCLES Our affordable fitness gear is designed for effective bodybuilding & upper body muscle development. With Yes4All Rotating Pull up Handles, you can pump up your arms, tone your shoulders & engage more muscle mass compared to practicing with an ordinary pull-up bar. PRODUCT SPECIFICATIONS Sold in set of TWO Rotating Pull up Handles Material: Solid steelMax weight capacity: 300lbsHandle\u2019s dimensions: 5. 5\u201d x 1. 5\u201d (LxDia)Compatible with any door gym, power tower, or stable pull-up bar with 1. 5\u201d diameter or less Rubber interior helps stabilize the handles & prevent slipping Smooth 360\u00b0 rotation for maximizing strength & efficiency Revolving grip trains major muscles & stabilizes muscles in arms, shoulders, back & chest Foam padded handles provide a firm & comfortable grip Ideal for chin-ups, pull-ups, triceps dips, and more 1-year war and 60-day return",
         "features": [
             "SET OF 2 STEEL ROTATING PULL UP HANDLES",
@@ -5251,14 +4557,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "2.24 Kilograms",
                 "price": 19.99,
-                "remaining_products": 60,
-                "color": "Rotating Pull Up Handles"
+                "remaining_products": 52,
+                "color": "Rotating Pull Up Handles",
+                "img": null
             }
         ]
     },
@@ -5267,15 +4572,6 @@
         "title": "Ally Peaks Pull Up Bar for Doorway,Multiple Levels Width Adjustable Pull Up Bar Accurately Match Wide and Narrow doorframe,Indoor Chin-Up Bar Workout Bar,USA Original Patent",
         "price": 33.99,
         "brand": "Ally Peaks",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/5171NBAcSYL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31F4xciWK2L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51317m5I6fL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51lrRmXMzTL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/514GOst7O6L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/514FzrKVjjL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51qBNmX6PQL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "UPGRATED WIDETH ADJUSTABLE DOORWAY PULL UP BAR: Real adjustable width design can match your doorway more accurately, even doors in the corner. This door frame pull-up bar has a width of 5 gears and can be precisely mounted on any standard 21.65 \"- 39.37\" wide doorways,depth of 4.7\"-8.27\",Acceptable trim height up to 3.75\"\uff0ceasy to install and remove.",
@@ -5376,14 +4672,13 @@
                 "value": "Heavy duty (1.7mm) chrome steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "2.82 Kilograms",
                 "price": 33.99,
-                "remaining_products": 48,
-                "color": "silver"
+                "remaining_products": 90,
+                "color": "silver",
+                "img": null
             }
         ]
     },
@@ -5497,15 +4792,6 @@
         "title": "Pull Up Bar for Doorway, No Screws Required Chin Up Bar Adjustable Dip Bars for Home Gym Exercise Fitness Up to 440 LBS",
         "price": 29.99,
         "brand": "HANDSONIC",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61dK-VcS8VL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41k1sU-xsXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5188CA+ZnsL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51OA3xRJSwL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51jDu5Kco8L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51vzt9pRk8L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51RREYG3QIL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u273f\u3010NO Screws & NO Drilling\u3011Setting up our pull-up bar takes only minutes to place on the door frame. The HANDSONIC pull-up bar is designed with two anti-skid devices on both sides. Simply rotate the pole and press it against the door frame. The doorway pull-up bar firmly sticks on the wall. The harder you pull on the chin-up bar, the more stability the bar will possess. The maximum weight capacity of the pull-up bar is 440 lbs. The pull up bar fits door frames between 28.7\"-36.2\".",
@@ -5602,14 +4888,13 @@
                 "value": "Iron"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "1.86 Kilograms",
                 "price": 29.99,
-                "remaining_products": 27,
-                "color": "Black"
+                "remaining_products": 87,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -5740,14 +5025,6 @@
         "title": "TAVIEW Ab Slings Straps Portable for Pull Up Bar Hanging Leg Raiser Fitness",
         "price": 11.49,
         "brand": "TAVIEW",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/816wm4dYXCL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31vvuImp8UL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41aORIHMIiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51uzCGSwCnL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41xFRPp8g-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51JvzkDK3jL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Innovative Design: Unlike traditional options, our product features a high-quality Velcro fixation design. It's lightweight, compact, and easy to carry, enabling convenient workouts anytime, anywhere.",
@@ -5820,80 +5097,27 @@
                 "value": "TAVIEW"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Red",
-                "thumbnail": "https://m.media-amazon.com/images/I/31vvuImp8UL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/816wm4dYXCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61sYSzjMFUL._AC_SL1100_.jpg",
-                    "https://m.media-amazon.com/images/I/71UakGd0eXL._AC_SL1100_.jpg",
-                    "https://m.media-amazon.com/images/I/61JHQ99Y1JL._AC_SL1100_.jpg",
-                    "https://m.media-amazon.com/images/I/71Mp0sKB0ZL._AC_SL1353_.jpg"
-                ],
-                "asin": "B0DGKM3PGS",
-                "price": {
-                    "value": 11.49,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black 1 Pair",
-                "thumbnail": "https://m.media-amazon.com/images/I/313SFm91JIL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51E6tWyJsgL._AC_SL1010_.jpg",
-                    "https://m.media-amazon.com/images/I/61BOxw5n-yL._AC_SL1010_.jpg",
-                    "https://m.media-amazon.com/images/I/71lXiPV3QcL._AC_SL1015_.jpg",
-                    "https://m.media-amazon.com/images/I/61JmTG1JkwL._AC_SL1001_.jpg",
-                    "https://m.media-amazon.com/images/I/71Mp0sKB0ZL._AC_SL1353_.jpg"
-                ],
-                "asin": "B0CGZNQYWM",
-                "price": {
-                    "value": 15.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Green",
-                "thumbnail": "https://m.media-amazon.com/images/I/31mrhtWSslL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71jK+808bpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/613izQuBHkL._AC_SL1100_.jpg",
-                    "https://m.media-amazon.com/images/I/71Hs7Q9eV1L._AC_SL1200_.jpg",
-                    "https://m.media-amazon.com/images/I/6139iYdKkCL._AC_SL1100_.jpg",
-                    "https://m.media-amazon.com/images/I/71Mp0sKB0ZL._AC_SL1353_.jpg"
-                ],
-                "asin": "B0DGK6HRJP",
-                "price": {
-                    "value": 15.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Red"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.21,
                 "price": 11.49,
-                "remaining_products": 37,
-                "color": "Red"
+                "remaining_products": 22,
+                "color": "Red",
+                "img": null
             },
             {
                 "weight": 0.21,
                 "price": 15.99,
-                "remaining_products": 4,
-                "color": "Black"
+                "remaining_products": 88,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 0.21,
                 "price": 15.99,
-                "remaining_products": 34,
-                "color": "Green"
+                "remaining_products": 12,
+                "color": "Green",
+                "img": null
             }
         ]
     },
@@ -5902,15 +5126,6 @@
         "title": "AmazeFan Pull Up Bar Doorway with Ergonomic Grip - Fitness Chin-Up Frame for Home Gym Exercise - Multi-Angle Grip - 2024 Upgrade Smart Hook (Fits Almost All Doors)",
         "price": 49.98,
         "brand": "AmazeFan",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71RE8expAlL.__AC_SY300_SX300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41uMridlmoL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ogAbz51BL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41xarx2Kh8L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51AQFhgfoML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41u9HimL2cL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41IGNUz2hKL._AC_US.jpg"
-        ],
         "description": "Pull Up Bar Doorway with Ergonomic Grip - Fitness Chin-Up Frame for Home Gym Exercise - Multi-Angle Grip - 2024 Upgrade Smart Hook (Fits Almost All Doors)",
         "features": [
             "\ud83d\udcaa\u3010ERGONOMIC PULL UP BAR\u3011 The Ergonomic Multi Angled Grips Pull Up Bar, ideal for exercising and increasing the width of the latissimus dorsi. Inclined ends help protect wrists - Enhanced and widened grip, no pain after frequent training.Soft Foams - Optimum grip and no slipping, especially for sweaty hands.",
@@ -6011,60 +5226,20 @@
                 "value": "Metal"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Black/Orange",
-                "thumbnail": "https://m.media-amazon.com/images/I/41DxmrFWb+L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/713b1njKHSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71AhXYUssIL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71fu1+XelHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71P-4Eyj40L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Kp4a1K5HL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/710ADoBeR9L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D21T7HMH",
-                "price": {
-                    "value": 59.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black/Red",
-                "thumbnail": "https://m.media-amazon.com/images/I/41uMridlmoL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71RE8expAlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61PX9wAIHSL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61vY9OU-EuL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/51AQFhgfoML._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/61ewD+JvTPL._AC_SL1477_.jpg",
-                    "https://m.media-amazon.com/images/I/61O1XuTjwZL._AC_SL1000_.jpg"
-                ],
-                "asin": "B07KCS7G8G",
-                "price": {
-                    "value": 49.98,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black/Red"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 3.855532,
                 "price": 59.99,
-                "remaining_products": 63,
-                "color": "Orange, Black"
+                "remaining_products": 18,
+                "color": "Orange, Black",
+                "img": null
             },
             {
                 "weight": 3.855532,
                 "price": 49.98,
-                "remaining_products": 25,
-                "color": "Red, Black"
+                "remaining_products": 16,
+                "color": "Red, Black",
+                "img": null
             }
         ]
     },
@@ -6073,15 +5248,6 @@
         "title": "JFIT Deluxe Multi Exercise Doorway Pull-Up Bar with Comfort Grips, 40-Inch",
         "price": 21.29,
         "brand": "JFIT",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61Gkqog2WlS.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31Xx5aG7mYS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/413R6RsuXKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41NAMF5Ug9L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41zsMtN+bxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41hxFnJDkML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/512LU0hIIyL._AC_US.jpg"
-        ],
         "description": "LONGEST LENGTH BAR AVAILABLE Made in Taiwan with high grade materials, this Pull-Up bar fits doorway openings up to 40\u201d long. With a minimum length measuring 25.25\u201d this bar can hold up to 300lbs. Only a screwdriver or drill needed for installing, this premium pull-up bar comes with the mounting bracket, screws, and sit-up plugs needed for safety. For safety and stability, screws are provided and required for mounting. Quality adjustable hand grips made with neoprene material and Velcro allowing these removable hand grips to be placed where they are comfortable for you. Not just for Chin-Ups and Pull-Ups, mount to the bottom of a doorway to maximize your sit-ups, crunches and even triceps dips, making it easy to move locations with extra door mounts available. For safety purposes, the bar extrudes from one telescopic point, as tighter threads and toggle ends make sure that bar is safely tight and secure. End caps for ultimate safety and rubber stoppers for metal doors.",
         "features": [
             "LONGEST LENGTH BAR AVAILABLE: Made in Taiwan with high grade materials, this Pull-Up bar fits doorway openings up to 40\u201d long (with included hardware), minimum length measuring 25.25\u201d, holding up to 300lbs",
@@ -6214,14 +5380,13 @@
                 "value": "Metal"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "3.7 Pounds",
                 "price": 21.29,
-                "remaining_products": 42,
-                "color": "Chrome/Black"
+                "remaining_products": 94,
+                "color": "Chrome/Black",
+                "img": null
             }
         ]
     },
@@ -6230,15 +5395,6 @@
         "title": "R2 Wall Mounted Pull Up Bar, (500 lbs) Weight Capacity, Heavy Duty Steel Chin up Bar/ Pull up Bar for Home or Commercial Gym Workout, Upper Body Workout Bar with One Year Warranty",
         "price": 74.87,
         "brand": "Rage Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71HmY+LVGHL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41DTR3XXafL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41O0IvhHewL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41mUMM1PHBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/510BInXixFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51HFeJ10TPL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51zBvTOeQqL._AC_US.jpg"
-        ],
         "description": "This Pull-Up bar is a must have for any gym or home set up. The bar is easy to install into standard studs. Constructed with 11 gauge steel this bar is built tough and very economical. hardware for mounting not included.",
         "features": [
             "\u3010 HEAVY-DUTY WEIGHT CAPACITY \u3011: With an impressive weight capacity of up to 500 lbs, this pull-up bar can handle the most intense workouts. It provides stability and confidence, supporting users of various sizes and fitness levels",
@@ -6359,14 +5515,13 @@
                 "value": "Metal"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "25 Pounds",
                 "price": 74.87,
-                "remaining_products": 98,
-                "color": "Black"
+                "remaining_products": 47,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -6375,15 +5530,6 @@
         "title": "SELEWARE Heavy Duty Welded Pull Up Bar, Versatile Doorway Wall Mount, Joist Mounted, and Ceiling Mounted Chin Up Bars, Thick Metal Sturdy Construction for Full Body Workouts Support 500 lbs",
         "price": 48.99,
         "brand": "SELEWARE",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/616AfUDyFcL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41Sw3HizOrL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41NVaRozlmL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51226adHXmL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/410kN4jDcjL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/412Y6VIF4kL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31weHK+62RL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Robust and reliable pull-up bar crafted from 4mm thick alloy steel, featuring a powder-coated finish for enduring use and rust resistance, with a 500 lbs support capacity.",
@@ -6439,189 +5585,55 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [
-            {
-                "name": "A: 36\" Wall Mount Pull Up Bar",
-                "thumbnail": "https://m.media-amazon.com/images/I/41Sw3HizOrL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/616AfUDyFcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61JG0xIQdTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/916cXC+IkeL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71nOuHZZKtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61KEzAtzCvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61mfBHfq56L._AC_SL1500_.jpg"
-                ],
-                "asin": "B09PRD5GRS",
-                "price": {
-                    "value": 48.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Ceiling Mounted Pull Up Bar With 2 Rings",
-                "thumbnail": "https://m.media-amazon.com/images/I/41Mzac81dKL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71e8XkBCiAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71RfXMH0hzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81X1VuyPPNL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81f4PEJycLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61tfzy6JovL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61PA7gOXPYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61OciIVoaLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61nOM3GC+jL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/516Bb2aeTjL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D5QZ2LGK",
-                "price": {
-                    "value": 76.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Ceiling Mounted Pull Up Bar With 2 Rings & Balls",
-                "thumbnail": "https://m.media-amazon.com/images/I/41eYSFiiqeL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71P+IvtOHVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71JAvIVl2EL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/819BoNcGmJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61+ekokf6iL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61CEo30DnCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61D-d6iHXML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71dmub-wHpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81RPIcr1FmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/6121UrGWHsL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D5QNDNDT",
-                "price": {
-                    "value": 79.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Joist Mounted Pull Up Bar With 2 Rings",
-                "thumbnail": "https://m.media-amazon.com/images/I/41QFXVErztL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71eZHTWRcCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Zk0W9TeYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/715rUeHtWPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61A2Q1bSa2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61dBGvNTlqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/719kjbco2oL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61MlA9Yi0YL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51hJgkdOW5L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D5QSRC5G",
-                "price": {
-                    "value": 76.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Joist Mounted Pull Up Bar With 2 Rings & Balls",
-                "thumbnail": "https://m.media-amazon.com/images/I/41Xdsr5QffL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71rvL6hDlSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/710esWHhUxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71t2C9x6icL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61-Hs9tg3QL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71HTNCZefYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/619gdESYtzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61YOQOxGxoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/6121UrGWHsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51JIuyLv4fL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D5QPQ2L5",
-                "price": {
-                    "value": 79.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "A: 36\" Wall Mount Pull Up Bar + 2 Grip Balls",
-                "thumbnail": "https://m.media-amazon.com/images/I/41BmyR9lEaL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71LbZEYHPTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/718WXaAdTUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61wY0YlMhvL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61I1ghBeVRL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61JDdqb3h5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51tsPVFzrkL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/71bnq-uYbxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51UPI4tWB5L._AC_SL1000_.jpg"
-                ],
-                "asin": "B0DKMVC2J8",
-                "price": {
-                    "value": 59.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "B: 36\" Wall Mount Pull Up Bar",
-                "thumbnail": "https://m.media-amazon.com/images/I/41wa2XwMbVL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61Gt6BpUtpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71MsJy0sVbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61OxTF48pXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61nsrf8WepL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61Z2VZj4eRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81q-r7E2rHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61rLZTfvffL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DK4ZDR76",
-                "price": {
-                    "value": 48.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "A: 36\" Wall Mount Pull Up Bar"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 3.1297848,
                 "price": 48.99,
-                "remaining_products": 83,
-                "color": "A: 36\" Wall Mount Pull Up Bar"
+                "remaining_products": 26,
+                "color": "A: 36\" Wall Mount Pull Up Bar",
+                "img": null
             },
             {
                 "weight": 3.1297848,
                 "price": 76.99,
-                "remaining_products": 17,
-                "color": "A: 36\" Wall Mount Pull Up Bar"
+                "remaining_products": 41,
+                "color": "A: 36\" Wall Mount Pull Up Bar",
+                "img": null
             },
             {
                 "weight": 3.1297848,
                 "price": 79.99,
-                "remaining_products": 0,
-                "color": "A: 36\" Wall Mount Pull Up Bar"
+                "remaining_products": 73,
+                "color": "A: 36\" Wall Mount Pull Up Bar",
+                "img": null
             },
             {
                 "weight": 3.1297848,
                 "price": 76.99,
-                "remaining_products": 87,
-                "color": "A: 36\" Wall Mount Pull Up Bar"
+                "remaining_products": 81,
+                "color": "A: 36\" Wall Mount Pull Up Bar",
+                "img": null
             },
             {
                 "weight": 3.1297848,
                 "price": 79.99,
-                "remaining_products": 46,
-                "color": "A: 36\" Wall Mount Pull Up Bar"
+                "remaining_products": 96,
+                "color": "A: 36\" Wall Mount Pull Up Bar",
+                "img": null
             },
             {
                 "weight": 3.1297848,
                 "price": 59.99,
-                "remaining_products": 40,
-                "color": "A: 36\" Wall Mount Pull Up Bar"
+                "remaining_products": 13,
+                "color": "A: 36\" Wall Mount Pull Up Bar",
+                "img": null
             },
             {
                 "weight": 3.1297848,
                 "price": 48.99,
-                "remaining_products": 81,
-                "color": "A: 36\" Wall Mount Pull Up Bar"
+                "remaining_products": 86,
+                "color": "A: 36\" Wall Mount Pull Up Bar",
+                "img": null
             }
         ]
     },
@@ -6630,15 +5642,6 @@
         "title": "DMoose Fitness Weight Lifting Hooks for Men & Women (Pair) - 8 mm Thick Wrist Padding - Weight Lifting Grips for Powerlifting, Shrugs, Rows & Deadlift Support - Gym Lifting Straps with Pull Up Hooks",
         "price": 29.99,
         "brand": "DMoose Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/91RV3w+9W4L._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51IwxdoJueL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51qv05VX-vL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51K7eqPWBhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41zFmVH9cML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41sU2EjKvSL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51-Y5A3TJDL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\ud835\udc14\ud835\udc0d\ud835\udc0b\ud835\udc04\ud835\udc00\ud835\udc12\ud835\udc07 \ud835\udc18\ud835\udc0e\ud835\udc14\ud835\udc11 \ud835\udc13\ud835\udc11\ud835\udc14\ud835\udc04 \ud835\udc0b\ud835\udc08\ud835\udc05\ud835\udc13\ud835\udc08\ud835\udc0d\ud835\udc06 \ud835\udc0f\ud835\udc0e\ud835\udc13\ud835\udc04\ud835\udc0d\ud835\udc13\ud835\udc08\ud835\udc00\ud835\udc0b: Overcome grip fatigue and lift heavier with DMoose Wrist Hooks for Weightlifting. Designed for serious strength athletes, our Gym Grips provide unparalleled support, allowing you to focus on perfect form and maximize your lifts. Made with premium materials for durability, these gym straps or deadlift straps with hooks ensure a secure hold on the bar & reducing strain on your wrists and enhancing your overall lifting performance.",
@@ -6783,152 +5786,48 @@
                 "value": "1"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Blue (Flat Hook)",
-                "thumbnail": "https://m.media-amazon.com/images/I/51Bck7bEhtL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/91I1clcXhWL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81GXJaG-P0L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Rs5cR48qL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Ne-7mGmEL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81KTw7HrYVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81qI97J425L._AC_SL1500_.jpg"
-                ],
-                "asin": "B01N7NWM93",
-                "price": {
-                    "value": 29.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Pink (Flat Hook)",
-                "thumbnail": "https://m.media-amazon.com/images/I/51UoZAAXxUL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/91GQbtoAlZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81KYsOPWlCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81sCQKls7UL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/811+tepMCLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/815YZ5JbVRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81qI97J425L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BGQK5FRB",
-                "price": {
-                    "value": 29.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black (Flat Hook)",
-                "thumbnail": "https://m.media-amazon.com/images/I/51IwxdoJueL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/91RV3w+9W4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81gg8swpOTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81RvmG-T0QL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/815M+oxCdgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81oCwBBxDVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81qI97J425L._AC_SL1500_.jpg"
-                ],
-                "asin": "B01N5L5I0H",
-                "price": {
-                    "value": 29.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Grey (Flat Hook)",
-                "thumbnail": "https://m.media-amazon.com/images/I/51XVvRed4FL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/91VUk41SEkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81epG9v-9EL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81hnqpqPNcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81eIw-G8ePL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/813XwgKgV1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81qI97J425L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CHFY64RC",
-                "price": {
-                    "value": 29.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Red (Flat Hook)",
-                "thumbnail": "https://m.media-amazon.com/images/I/51OouB-wJdL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/912zaokU8XL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81zaIX55C6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81PAkdXapbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81jMe84rrrL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81d0S8g1FfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81qI97J425L._AC_SL1500_.jpg"
-                ],
-                "asin": "B01MR1PRLB",
-                "price": {
-                    "value": 30,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Green (Flat Hook)",
-                "thumbnail": "https://m.media-amazon.com/images/I/51y0G-cpO-L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/91LquSbVwFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81+mgIv-ozL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81CLP9dBgXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81zChFkcqgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81bm3F3WsUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81qI97J425L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CHFW2TY6",
-                "price": {
-                    "value": 29.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black (Flat Hook)"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.51,
                 "price": 29.99,
-                "remaining_products": 11,
-                "color": "Blue"
+                "remaining_products": 36,
+                "color": "Blue",
+                "img": null
             },
             {
                 "weight": 0.51,
                 "price": 29.99,
-                "remaining_products": 67,
-                "color": "Pink"
+                "remaining_products": 59,
+                "color": "Pink",
+                "img": null
             },
             {
                 "weight": 0.51,
                 "price": 29.99,
-                "remaining_products": 95,
-                "color": "Black"
+                "remaining_products": 90,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 0.51,
                 "price": 29.99,
-                "remaining_products": 98,
-                "color": "Black (Flat Hook)"
+                "remaining_products": 87,
+                "color": "Black (Flat Hook)",
+                "img": null
             },
             {
                 "weight": 0.51,
                 "price": 30,
-                "remaining_products": 93,
-                "color": "Red"
+                "remaining_products": 88,
+                "color": "Red",
+                "img": null
             },
             {
                 "weight": 0.51,
                 "price": 29.99,
-                "remaining_products": 100,
-                "color": "Green"
+                "remaining_products": 91,
+                "color": "Green",
+                "img": null
             }
         ]
     },
@@ -6937,15 +5836,6 @@
         "title": "leikefitness Pull-Up Bar For Door Frame Chin Up Bar Upper Body Workout Adjustable Portable Training Pull-Up Bars Bars without Screw - Adjustable Width Locking Mechanism",
         "price": 36.99,
         "brand": "leikefitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51KUh6bT9zL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/21ujJKuLLxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31elbZ-uYwL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41w2mVedrZL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41W40PIcYDL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31WxXHNs8dL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41XU-SFmjrL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Easy Installation:No screws and No drilling,easy install any doorway and become your home workout gym.It instantly attaches to Or removes from your door frame.",
@@ -7042,14 +5932,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "3.6 Pounds",
                 "price": 36.99,
-                "remaining_products": 39,
-                "color": "BLACK"
+                "remaining_products": 87,
+                "color": "BLACK",
+                "img": null
             }
         ]
     },
@@ -7173,14 +6062,6 @@
         "title": "Premium Ab Slings Straps - Rip-Resistant Heavy Duty Pair for Pull Up Bar Hanging Leg Raiser Fitness - Ab Exercise Equipment, Superb Arm Padding for Abdominal Training Workout Equipment",
         "price": 58.95,
         "brand": "ARMAGEDDON SPORTS",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71d-6n7MWKL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41ArAxEjZrL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/611GDNHozPL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51yxMRKfBtL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51qKky0PFPL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51tPuA4svpL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u2714\ufe0f BUILD MORE STRENGTH IN CORE MUSCLES! Finally! A heavy duty ab slings straps with great design and to last forever, no more compromising quality or comfort! The hanging exercise straps are going to make your workout unforgettable! You just have to focus on your core abs muscle group and lift your legs or knees easily! They will fit and will be useful in every training session and help you get the V-shape body. Be an innovator and show it to the others. The perfect ab equipment!",
@@ -7273,14 +6154,13 @@
                 "value": "ARMAGEDDON SPORTS"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "2.3 Pounds",
                 "price": 58.95,
-                "remaining_products": 101,
-                "color": "Black"
+                "remaining_products": 80,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -7390,15 +6270,6 @@
         "title": "Pull Up Station, Bongkim Power Tower Portable Pullup Bar Station, Pull Up Bar for Home Gym, Pull Up Tower Station 330LBS",
         "price": 189.99,
         "brand": "Bongkim",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51k79q-MqvL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31mBpTsNWvL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41jLl0fOf0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41+t5hV6b+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41snCidCdyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41-4qxpiJxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ppv1gg4gL._AC_US.jpg"
-        ],
         "description": "Pull Up Station, Bongkim Power Tower Portable Pullup Bar Station, Pull Up Bar for Home Gym, Pull Up Tower Station 330LBS",
         "features": [
             "\u3010SPECIFICATION PARAMETERS\u3011Assembled dimensions\uff1a38.58 inches\uff08L\uff09x 43.5 inches\uff08W\uff09x 87.4 inches\uff08H\uff09; Weight: 51.8 lb",
@@ -7487,114 +6358,41 @@
                 "value": "330 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Black-Rings",
-                "thumbnail": "https://m.media-amazon.com/images/I/31mAzIATD8L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61zQ4n1BTNL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71nHC+ssJmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71wJcGT8qeL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Qt6DGnJAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61tm4AFprmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61qkXSeH+IL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D9QJ4SMM",
-                "price": null
-            },
-            {
-                "name": "Yellow",
-                "thumbnail": "https://m.media-amazon.com/images/I/31+rii3temL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51anRWv1WwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61t3iRIn3UL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/717rFtNbqaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61qkXSeH+IL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ErYvrUttL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71xxsC1DrPL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BGPM6NNW",
-                "price": null
-            },
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/31aB+E5TovL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51FIs57-oCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61tm4AFprmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71693YSXcJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61qkXSeH+IL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71rH+PZhLQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71BKd6K1alL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CDC11HZ9",
-                "price": null
-            },
-            {
-                "name": "Orange",
-                "thumbnail": "https://m.media-amazon.com/images/I/31hN8B8yBGL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51lMNXWz4qL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61BiWGpyc+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/7136zXW9yVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61qkXSeH+IL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71opJFBl78L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Bpf-cr7+L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CDC2DVR4",
-                "price": null
-            },
-            {
-                "name": "Red",
-                "thumbnail": "https://m.media-amazon.com/images/I/31mBpTsNWvL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51k79q-MqvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61W1CA3FY4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71VjJ1zv0NL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61b9X-yZEhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71iS-xOsPhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71pFvpjTrEL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CDC2JBSZ",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Red"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 23.496065599999998,
                 "price": 189.99,
-                "remaining_products": 94,
-                "color": "Black"
+                "remaining_products": 24,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 23.496065599999998,
                 "price": 189.99,
-                "remaining_products": 61,
-                "color": "Yellow"
+                "remaining_products": 19,
+                "color": "Yellow",
+                "img": null
             },
             {
                 "weight": 23.496065599999998,
                 "price": 189.99,
-                "remaining_products": 11,
-                "color": "Black"
+                "remaining_products": 5,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 23.496065599999998,
                 "price": 189.99,
-                "remaining_products": 60,
-                "color": "Orange"
+                "remaining_products": 43,
+                "color": "Orange",
+                "img": null
             },
             {
                 "weight": 23.496065599999998,
                 "price": 189.99,
-                "remaining_products": 41,
-                "color": "Red"
+                "remaining_products": 56,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -7603,16 +6401,6 @@
         "title": "Stamina X Boulder Doorway Trainer - Pull Up Bar for Doorway - Grip Strength for Doorway with Smart Workout App - Fitness Trainer Boulder Fit Door Gym - Up to 250 lbs Weight Capacity",
         "price": 59.99,
         "brand": "Stamina",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61wFy4CFGkL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31VDzCq0yhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41BB8i7xXbL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41e3S3fqUNL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51dA+kV0JtL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ha5YnRlEL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Oxo-p4LQL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41NsuOoMWfL._AC_US.jpg"
-        ],
         "description": "Prepare to ConquerThe Boulder Fit Doorway Trainer is the ultimate training tool to strengthen and develop your shoulders, back, chest and arms. Unique rock climbing hand holds provide an advanced grip to challenge you during your workout and will ultimately build grip and forearm strength for all your outdoor adventures. Traditional pull-up and chin-ups can also be performed on the doorway trainer, and with multiple grip positions, you can target different muscles.Go from the Ground UpLaying the Boulder Fit Doorway Trainer on the ground allows you to perform sit-ups, push-ups and tricep dips. In fact, the simple assembly, portability and removability of the trainer makes it ideal for anyone with space constraints because you don't have to have any hardware to remove it from the doorframe. As long as you have a standard doorframe, you can harness the power of the Stamina|X Boulder Fit Doorway Trainer.FEATURES:Multiple grip positions to build and tone upper body musclesSturdy steel construction Thick foam padding for comfortable grips Unique rock climbing hand holds build grip and forearm strengthSimple assembly, portable, and attaches and removes easily from the doorframe Fits standard doorways",
         "features": [
             "Steel",
@@ -7743,14 +6531,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "12 Pounds",
                 "price": 59.99,
-                "remaining_products": 50,
-                "color": "Red"
+                "remaining_products": 33,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -7759,16 +6546,6 @@
         "title": "Pull Up Bar for Doorway: Sportneer Strength Training Pull-up Bars without Screw - Adjustable Width Locking Mechanism Chin Up Bar, Thickened Steel Max Limit 440 lbs Upper Body Fitness Pullup Bars for Home (Black-Red)",
         "price": 39.99,
         "brand": "Sportneer",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61B8o0gLldL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41dUydzXvxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/514zsk6G4mL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ocT+ZGWkL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/519+RsUQy5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51P1sV0t3JL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51L88a-dsnL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41FVdto8pzL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Before purchasing, please make sure that the size of your door frame is 29.5 in-37 in (75 cm-94 cm). This Chin up Bar is not suitable for door frame widths outside this range; The width of the door frame must be wider than the width of the anti-slip pads at both ends of the pull up bar",
@@ -7883,14 +6660,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "4.4 Pounds",
                 "price": 39.99,
-                "remaining_products": 100,
-                "color": "Black-Red"
+                "remaining_products": 33,
+                "color": "Black-Red",
+                "img": null
             }
         ]
     },
@@ -7899,16 +6675,6 @@
         "title": "Sunny Health & Fitness Doorway Chin Up Pull Up Bar",
         "price": 13.79,
         "brand": "Sunny Health & Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51ZS34nEMKL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/215vaAKl+YL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Rla0AWDYL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41dqn8SLvsL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31Xpph91TxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41JcW42-9zL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31i0-bCRZyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31IqMUbnDNL._AC_US.jpg"
-        ],
         "description": "Maximize your workout with the Sunny Health & Fitness Doorway Chin-Up Bar. Sturdy, chrome plated steel bar, with a max weight capacity of 220 lb. , and non-slip, soft padded hand grips ensure maximum stability and grip. The simplicity of the Sunny Health & Fitness Doorway Chin Up Bar is its strongest asset as it allows you to have full control of your workout. Adjustable length (24. 5 to 36 inches) provides a customizable workout area and fits into any standard door frame. It is the ultimate multi-tool workout bar as it is ideal for pull-ups, chin-ups, leg lifts, or you can use it as a foot anchor for sit-ups and crunches. Includes weight bearing brackets for maximum stability during your chin-ups and non-weight bearing brackets for sit-ups; the brackets ensure you are adequately supported during your exercise.",
         "features": [
             "STURDY CHROME PLATED STEEL BAR: Train like a pro with the tough and secure exercise trainer supporting tough workouts. When mounted properly, the fitness bar holds up to 220 pounds giving you full support for pull-up and chin ups.",
@@ -8046,14 +6812,13 @@
                 "value": "Chrome"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "3 Pounds",
                 "price": 13.79,
-                "remaining_products": 52,
-                "color": "Steel"
+                "remaining_products": 35,
+                "color": "Steel",
+                "img": null
             }
         ]
     },
@@ -8233,14 +6998,6 @@
         "title": "Navaris Pull Up Bar - Wall Mounted Chin Up Bar for Home Gym Exercise 36.6x19.8x7.1 inches - Fitness Station for Pullups and Chinups Training with Foam Grips",
         "price": 36.99,
         "brand": "Navaris",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61BD-HnZK8L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31WrO47rXVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/617XkI3hLVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41m7nhSNFnL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41uRrOpiq2L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/310YdLdj9eL._AC_US.jpg"
-        ],
         "description": "Train up your muscles from the convenience of your own home with this wall-mounted pull-ups bar. It provides a great way to exercise without extortionate gym fees and sweaty changing rooms.STRENGTH AND COMFORTThe pull-ups bar is durable and hardwearing, and also comes with 6 padded grips. These are located at different angles to allow a range of exercise options.The pull-ups bar is durable and hardwearing, and also comes with 6 padded grips. These are located at different angles to allow a range of exercise options.WALL MOUNTEDThis item comes without dowels supplied, in order to allow you to to select and purchase the correct dowels for your type of wall. Please use dowels that are suitable for the type of wall you wish to install the pull-ups bar on.This item comes without dowels supplied, in order to allow you to to select and purchase the correct dowels for your type of wall. Please use dowels that are suitable for the type of wall you wish to install the pull-ups bar on.DURABLE DESIGNThis pull-ups bar is designed with durability in mind, and is made from hardwearing stainless steel. This means that it will stay in perfect shape while you use it to get in perfect shape, workout after workout.This pull-ups bar is designed with durability in mind, and is made from hardwearing stainless steel. This means that it will stay in perfect shape while you use it to get in perfect shape, workout after workout.SPECIFICATIONSMeasurements: 36.61\" x 19.88\" x 7.09\" (93 cm x 50.5 cm x 18 cm)Measurements: 36.61\" x 19.88\" x 7.09\" (93 cm x 50.5 cm x 18 cm)Weight: 6.97 lbs (3.16 kg)Weight: 6.97 lbs (3.16 kg)Materials: Stainless steel, foam Materials: Stainless steel, foam Maximum load capacity: 150 kgMaximum load capacity: 150 kgDowels not includedDowels not includedSCOPE OF DELIVERY1 x Pull up bar1 x Pull up bar",
         "features": [
             "PULL-UP BAR: Train your pull-ups and chin-ups technique at home with this wall-mounted exercise station. Cut out the hassle of going to the gym and get straight to strength training whenever it suits you best.",
@@ -8337,14 +7094,13 @@
                 "value": "Stainless Steel, Foam"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "3550 Grams",
                 "price": 36.99,
-                "remaining_products": 39,
-                "color": "Black"
+                "remaining_products": 101,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -8494,15 +7250,6 @@
         "title": "Power Tower Pull Up Bar,Pull-Up Rack Dip Station,Height Adjustable Multi-functional Home Strength Training Gym Equipment, Save Space,People Below 6 feet",
         "price": 89.99,
         "brand": "Trlakepreble",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61dF2n4TD7L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41SyZBxsvLL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51gVb0W9JaL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41oBAn1aXWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41JnWK-CfhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ZZtGD96SL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51BcwH7H0iL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010Sturdy and Durable\u3011: Trlakepreble is constructed from high-quality steel to guarantee its sturdiness and durability. The well-designed structure ensures the stability of the steel frame, while the suction cups on the bottom prevent slipping and protect the floor from damage. It is capable of supporting up to 330 pounds of weight.",
@@ -8597,14 +7344,13 @@
                 "value": "Fixed"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "28 Pounds",
                 "price": 89.99,
-                "remaining_products": 4,
-                "color": "Red"
+                "remaining_products": 11,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -8613,15 +7359,6 @@
         "title": "Multifunctional Wall Mounted Pull Up Bar Chin Up bar,Dip Station for Home Gym,Indoor Workout,Support to 440Lbs",
         "price": 89.98,
         "brand": "syzythoy",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51scrnIZLlS.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41f4gObNr6S._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51YkS88jypS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51y6tp3sCdL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41J0Q0836oS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51xx70T5feS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51-xsNR2oUS._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Wall Mounted Requirements: Concrete brick/solid cement wall/solid red brick wall /solid tile wall are a great surface for mounting this pull up bar wall mounted. Don't install on hollow brick wall/honeycomb brick wall/drywall/sandwich panel",
@@ -8722,14 +7459,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "10.43 Kilograms",
                 "price": 89.98,
-                "remaining_products": 75,
-                "color": "Red"
+                "remaining_products": 73,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -8738,15 +7474,6 @@
         "title": "FitBeast Pull Up Bar for Doorway, Strength Training Pullup Bar with No Screws, Chin Up Bar with Adjustable Width Locking Mechanism, Doorway Pull Up Bar Max Load 600lbs for Home Gym Upper Body Workout",
         "price": 43.99,
         "brand": "FitBeast",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61OXqx8vl2L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/417-8ImkZtL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41WCa4l2ijL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41AS0mtBVFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41IWhlrrToL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51p+ydj4xyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Xnh3Fq5YL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\ud835\udddb\ud835\udddc\ud835\uddda\ud835\udddb \ud835\udddf\ud835\udde2\ud835\uddd4\ud835\uddd7 \ud835\uddd5\ud835\uddd8\ud835\uddd4\ud835\udde5\ud835\udddc\ud835\udde1\ud835\uddda \ud835\uddd6\ud835\uddd4\ud835\udde3\ud835\uddd4\ud835\uddd6\ud835\udddc\ud835\udde7\ud835\uddec \u2014 Constructed with high-quality steel tube, the core of the bar is 1.5mm in thickness which allows it to bear a weight capacity of 800lbs. The supporting feet's bow-shaped form enables them to sustain higher weight with greater friction. A PVC cushion with a thickness of 1300mm has been added to the support surface to boost stability and increase resistance, preventing the pullup bar from coming off during training and protecting the door frame.",
@@ -8843,14 +7570,13 @@
                 "value": "Alloy Steel, Plastic, Metal"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "2.13 Kilograms",
                 "price": 43.99,
-                "remaining_products": 85,
-                "color": "Black & Red"
+                "remaining_products": 69,
+                "color": "Black & Red",
+                "img": null
             }
         ]
     },
@@ -9392,15 +8118,6 @@
         "title": "KHANH TRINH Foldable Pull Up Bar Stable Gymnastics Equipment Portable Aerial Yoga Stand Durable Frame For Hammock Chair, Therapy Sensory Swing. Adjustable Back Stretcher For Lower Back Pain Relief",
         "price": 339.99,
         "brand": "KT KHANH TRINH",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71uqP7L9QhL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41BvpD8XoyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51s8w56b4LL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41q4BHoq9LL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41mEfYZs-DL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51LkuvnppwL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41mLeASyBSL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "All-in-One Exercise Solution: Engineered for versatility, the KT folding free standing pull up bar KT1.1518 is ideal for a variety of workouts, including pull-ups, aerial yoga, calisthenics, street workouts, and gymnastics training. Designed to accommodate both children and adults, it is perfect for promoting height growth in kids and teens, while enhancing overall physical health and fitness levels for users of all ages at home, in schools, offices, and beyond",
@@ -9521,14 +8238,13 @@
                 "value": "high-strength alloy steel, Powder coating"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "39.7 Pounds",
                 "price": 339.99,
-                "remaining_products": 90,
-                "color": "Black"
+                "remaining_products": 73,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -9537,15 +8253,6 @@
         "title": "Ultimate Body Press XL Doorway Pull Up Bar with Elevated Bar & Adjustable Width",
         "price": 69.95,
         "brand": "Ultimate Body Press",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51g8b56tQyS.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31zpt3GW1dS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51dnjzJyD7S._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51fJkpFnBVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51HdKAKXvlL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41i5UbHom5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/217V3wSDYqL._AC_US.jpg"
-        ],
         "description": "Elevated Bar & Adjustable Width Get better workouts every day with the Elevated Doorway Bar by Ultimate Body Press. Three grip positions target muscle groups across the chest, arms, back and core. The elevated bar gets you up and out of the doorway for total elbow and shoulder clearance. Expandable bar ends make the Elevated Bar a universal fit for residential doorways 24\u201336\u201d wide without drilling. Hardware and tools are included.  The Results you Want The Elevated Doorway Pull Up Bar extends your range of motion and brings home the performance you expect from a mounted bar. The Elevated Doorway Bar uses the thickest steel, quality hardware and our exclusive ABS couplers that lock each crossbar at 90\u00b0 to the uprights. A rigid bar puts your focus on form and repetition for the results you want in less time. Designed in the USA Ultimate Body Press is a North Carolina company committed to delivering better workouts every day. Includes Prime eligible shipping and USA customer service. Shop with Confidence The Ceiling Mount Pull Up Bar is backed by Ultimate Body Press against manufacturer's defects for 10 years.",
         "features": [
             "INCREASE STRENGTH & MOBILITY: Doorway pull-up bar creates better workouts on the wall and floor",
@@ -9670,14 +8377,13 @@
                 "value": "heavy steel tubing, premium hardware, ABS, high density foam padding"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "10.2 Pounds",
                 "price": 69.95,
-                "remaining_products": 76,
-                "color": "Metallic Gray"
+                "remaining_products": 42,
+                "color": "Metallic Gray",
+                "img": null
             }
         ]
     },
@@ -9686,16 +8392,6 @@
         "title": "Pull Up Bar Door Frame Mount - Non-Slip Handle Pullup Bar | Adjustable Pull Up Bar | Upper Body Fitness Workout Bar | Effective Fitness Trainer for Strength Training | Hangable Bar for Home Gym",
         "price": 16.99,
         "brand": "Generic",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51G+GwrYClL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31fdKaXqCpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/519qOpVIuDL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41osN4zcwgL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51JNQGpLnVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41HlKLIo2yL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51r83i7A-vL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41iSARtQJLL._AC_US.jpg"
-        ],
         "description": "Get a comprehensive workout of multiple muscles with our chin up bar for door frames.Specification:Material: pipePack List:Pullup bar doorway*1",
         "features": [
             "Wide Applications: Target various muscles in the shoulders, back, arms, and abdomen for comprehensive upper body strengthening and toning. An effective tool for achieving complete muscle activation and development",
@@ -9804,14 +8500,13 @@
                 "value": "steel pipe"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "12.64 ounces",
                 "price": 16.99,
-                "remaining_products": 89,
-                "color": "single attribute"
+                "remaining_products": 90,
+                "color": "single attribute",
+                "img": null
             }
         ]
     },
@@ -9930,15 +8625,6 @@
         "title": "MOMODA Chin Up Bar Doorway Pull Up Exercise Bar Upper Body Workout Exercise Bar",
         "price": 25.99,
         "brand": "MOMODA",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61BBDucGg8L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31GnG2zuRoL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51teuIpHSUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31cbMqRvGdL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51WiXBduFsL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5101za8F6+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51h0M71MiAL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Doorway Pullup Bar : Plan your home workout regime with MOMODA Pull up bars, use the door as your personal gym , small bar offer big lean body you always wanted, right at home. It instantly attaches to or removes from your door frame and the heavy-duty steel construction supports up to 440 pounds",
@@ -10031,57 +8717,20 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "300LB",
-                "thumbnail": "https://m.media-amazon.com/images/I/31GnG2zuRoL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61BBDucGg8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ShGOG98yL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51l3PBzFjgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71cGMoDI6jL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71y4XSdFxuL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Snmh4kqbL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0B3Y6R2KG",
-                "price": null
-            },
-            {
-                "name": "pro",
-                "thumbnail": "https://m.media-amazon.com/images/I/41hfQjGktmL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71wsqpBiQML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Olvw6uvDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ZoZC5MW-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71MwbW+rG5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61cGr9RX7ZL._AC_SL1402_.jpg",
-                    "https://m.media-amazon.com/images/I/719i5RJHTeL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81OKHR33hpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Ydr6rQBgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81x490a8LDL._AC_SL1500_.jpg"
-                ],
-                "asin": "B07X3NTG93",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "300LB"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 136.0776,
                 "price": 25.99,
-                "remaining_products": 31,
-                "color": "300LB"
+                "remaining_products": 90,
+                "color": "300LB",
+                "img": null
             },
             {
                 "weight": 2.0,
                 "price": 25.99,
-                "remaining_products": 32,
-                "color": "300LB"
+                "remaining_products": 8,
+                "color": "300LB",
+                "img": null
             }
         ]
     },
@@ -10090,16 +8739,6 @@
         "title": "Doorway Pull up Bar Heavy Duty Wall Mount Chin Up Bars for Doorway Over Door Pull Up Bar Support Beam or Joist Mount",
         "price": 35.95,
         "brand": "Cometofit",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/518VzPv+g+L._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/311yJ0uNoQL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41OKQQmW9EL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41-LPMimnJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Cgde+jepL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41rga+xwsVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51A9TjRTr3L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41HwncErThL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Heavy-Duty Steel: Built-in 1.5mm thick steel pipe and 6mm thicken mounting plate, which can withstand 600 pounds of weight, is durable and does not shake.",
@@ -10195,14 +8834,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "8.8 Pounds",
                 "price": 35.95,
-                "remaining_products": 98,
-                "color": "Black"
+                "remaining_products": 67,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -10511,16 +9149,6 @@
         "title": "Heavy Duty Doorway Pull up Bar Wall Mount Chin Up Bars Over Door Support Beam or Joist Mount",
         "price": 27.95,
         "brand": "Cometofit",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51bJSBwPeVL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31gJVpl8etL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41CrzqRbNVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51dyNiM9dYL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51NgaNVVpXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51NwHBQlkML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/314VxmG6otL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31xjpxU2HTL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Heavy-Duty Steel : Built-in 1.5mm thick steel pipe and 5mm thicken mounting plate, which can withstand 500 pounds of weight, is durable and does not shake.",
@@ -10617,14 +9245,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "6.1 Pounds",
                 "price": 27.95,
-                "remaining_products": 17,
-                "color": "Black"
+                "remaining_products": 2,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -10633,15 +9260,6 @@
         "title": "XMARK Commercial Wall Mounted Multi Grip Pull Up Bar Ranked Number One Men\u2019s Health",
         "price": 191,
         "brand": "XMark",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71u2OnviGPL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41WOTGilrhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41II53GnrCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Eo0h5MWaL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41hdOM3Ga-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51niFoh9AHL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51n26mRvf7L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "2024 Men\u2019s Health favorite Multi Grip Pull Up Bar",
@@ -10752,14 +9370,13 @@
                 "value": "Multiple Grip Position"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "48 Pounds",
                 "price": 191,
-                "remaining_products": 29,
-                "color": "Black"
+                "remaining_products": 46,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -10993,16 +9610,6 @@
         "title": "Pull Up Bar for Doorway with Resistance Bands & Wrist Wraps, Adjustable Chin Up Bar for Upper Body Workouts, 29.9\" - 37.5\" Locking Mechanism, No Screw Installation, Supports 880 lbs",
         "price": 49.99,
         "brand": "CRAVEFITT",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71EoQfA8FzL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51Sp5QvF-wL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Vdb93bO-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41SPVLu2cjL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41M5BYot0LL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51bS7AuFYgL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51vmOGUdOKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51brhHX6heL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u2705EFFORTLESS INSTALLATION: Setting up your home gym is a breeze with the Cravefitt pull up bar for doorway. No drilling or screws required; simply install our pull up bar in your preferred location. Ideal for doorway pull up workouts or as a chin up bar with no wall damage solution.",
@@ -11099,14 +9706,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "3.43 Kilograms",
                 "price": 49.99,
-                "remaining_products": 10,
-                "color": "Black"
+                "remaining_products": 52,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -11214,15 +9820,6 @@
         "title": "Stamina Power Tower - Dip Bar Pull Up Bar Station with Smart Workout App - Dip Bars for Home Workout - Up to 250 lbs Weight Capacity",
         "price": 98.39,
         "brand": "Stamina",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61x87RUG1lL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31ZiQgwXmhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41NeBhe10bL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41VORRtDL+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51VIVPHyQiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51oqkNNWqBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51S08lFkaTL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "STAMINA POWER TOWER - Our Power Tower provides a total body workout, suitable for body strengthening, build and tone muscles, and to lose weight. This pull up bar station improves your figure, posture, mobility, balance, and overall fitness health.",
@@ -11355,66 +9952,34 @@
                 "value": "Fixed"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Grey",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B002Y2SUU4",
-                "price": null
-            },
-            {
-                "name": "Red",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B009NO30LA",
-                "price": null
-            },
-            {
-                "name": "Red/Black",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B08SR9V1X3",
-                "price": null
-            },
-            {
-                "name": "Fortress Red",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B00IYFNXXY",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Grey"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 24.493968,
                 "price": 98.39,
-                "remaining_products": 12,
-                "color": "Grey"
+                "remaining_products": 18,
+                "color": "Grey",
+                "img": null
             },
             {
                 "weight": 24.493968,
                 "price": 98.39,
-                "remaining_products": 57,
-                "color": "Red"
+                "remaining_products": 2,
+                "color": "Red",
+                "img": null
             },
             {
                 "weight": 24.493968,
                 "price": 98.39,
-                "remaining_products": 87,
-                "color": "Red, Black"
+                "remaining_products": 69,
+                "color": "Red, Black",
+                "img": null
             },
             {
                 "weight": 24.493968,
                 "price": 98.39,
-                "remaining_products": 29,
-                "color": "Red"
+                "remaining_products": 14,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -11423,15 +9988,6 @@
         "title": "Ultimate Body Press Ceiling Mount Pull Up Bar for 8 Foot Ceilings, Steel Through-Bolted 48\u201d Straight Bar with 14\u201d Risers, Fits 16\u201dand 24\u201d Joist Spacing, Max 450lbs, USA Designed and Backed",
         "price": 99.99,
         "brand": "Ultimate Body Press",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/41qWjwoUXkL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/213Q2nv+sOL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51UGbx1vKfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51oJBABJJCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41WbcqcMOpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411WvUT55EL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41MQgTCCZtL._AC_US.jpg"
-        ],
         "description": "The Performance Engineered Pull Up Bar The Ceiling Mount Pull Up Bar for 8' Ceilings is the mounted pull up bar that brings real performance to every workout. The pull up bar is designed specifically for 8 foot ceilings or any space where 14 inch risers suit your needs. Overhead mounting gives you full range of motion while preserving the flexibility of your floor space. Installation is easy with 48 inch on-center mounting plates for a universal fit to all 16 or 24 inch joists. Value and Versatility The Ceiling Mount Bar is tough enough for commercial duty and compliments the look of your home with a white powdercoat finish and contrasting black bar. 1.25\" diameter straight bar is comfortable in your hand and an easy fit for everyone in your family. Mounted in your gym and always ready to go, the Ceiling Mount Pull Up Bar inspires frequent workouts and delivers results.   Easy Universal Fit MountingMounting could not be easier, 48\" on-center wall brackets work perfectly for homes with either 16\" or 24\" ceiling joists. Complete assembly instructions and mounting hardware are included and all Ultimate Body Press gear comes with USA tech support and the our 100% satisfaction guarantee.   Shop with ConfidenceAt Ultimate Body Press we are proud to serve your gym needs and want to exceed your expectations for customer service. Customer service has complete resources to assist you and is available by phone or email. Your satisfaction is 100% guaranteed, order your Ceiling Mount Pull Up Bar today.",
         "features": [
             "IDEAL FOR 8' CEILINGS: Add gym-grade workouts to any room with 8 foot ceilings or any space where 14\u201d risers suit your needs. Straight 48 inch bar offers ample room to build arms, chest, shoulders, back and core with full range of motion workouts",
@@ -11557,14 +10113,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "5.26 Kilograms",
                 "price": 99.99,
-                "remaining_products": 52,
-                "color": "white and black"
+                "remaining_products": 25,
+                "color": "white and black",
+                "img": null
             }
         ]
     },
@@ -11756,16 +10311,6 @@
         "title": "Wall Mounted Doorway Pull Up Bar, Heavy Duty Strength Training Pull-Up Bars for Doorframe, Support Beam or Joist Mount Thick Metal Sturdy Construction Support 500 lbs",
         "price": 49.99,
         "brand": "Purife",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61qJO37fIGL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41WLILgytCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41l0LuOmdBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41P+HqJ6emL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41qdZdcu+9L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Us7XvzjfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51qlR0TRS2L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51agZwO0LmL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Robust With Nice Finish\uff1aHeavy Duty Metal and Thick Steel Pipe reliable to hold the weight, finish with matte black powder-coated for rust&corrosion resistance, also non-slip and comfortable for hand hold, withstand 500 lbs support capacity with correct installation.",
@@ -11862,14 +10407,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "2 Pounds",
                 "price": 49.99,
-                "remaining_products": 28,
-                "color": "Black"
+                "remaining_products": 33,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -11878,16 +10422,6 @@
         "title": "Sportsroyals Pull up Bar, Multi-Function Power Tower Dip Station with Upgraded Adjustable Foot Cover Equipment for Home Gym,400LBS",
         "price": 149.99,
         "brand": "Sportsroyals",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61SI94CmeuL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31KWvhlnm5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51EPlRoPgdL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51GkbLeWThL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Ip6kgR93L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51-lzD372iL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41tgL9RuGeL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411q+f2CtYL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010Super Strong. Super Durable.\u3011Sportsroyals power tower is a pull up bar with excellent performance and an amazing 400 lbs load capacity. The thickened commercial steel gives the power tower extraordinary rigidity and toughness, the \"\u03a0\"-shaped base design maximizes the support area, and the adjustable foot cover is suitable for different ground surfaces and enhances stability. It is the first choice for those who pursue professional fitness quality.",
@@ -11987,14 +10521,13 @@
                 "value": "bars"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "44 Pounds",
                 "price": 149.99,
-                "remaining_products": 21,
-                "color": "black"
+                "remaining_products": 60,
+                "color": "black",
+                "img": null
             }
         ]
     },
@@ -12003,15 +10536,6 @@
         "title": "TOPOKO Upgrade Pull Up Bar for Doorway, Max Capacity 440 lbs Chin Up Bar, Portable Upper Body Workout Bar, Strength Training Door Frame Pull-up Bars, Hanging Bar for Exercise, Pullup Bars for Home",
         "price": 23.99,
         "brand": "TOPOKO",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61gRqLFMiLL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41Y9cIcBJOL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41t3-przZqL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/516RX01pr9L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/519ZM3Pt2UL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51SAw2H6f+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Tkb4TeL3L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "MULTIFUNCTIONAL EXERCISE BAR - This barra de bar can do various exercises. In addition to providing pull-ups, this product also provides wide-grip push-ups, sit-ups, push-ups, arm and shoulder exercises to achieve a variety of exercises that help build a strong upper body",
@@ -12112,77 +10636,27 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Pull Up Bar Set",
-                "thumbnail": "https://m.media-amazon.com/images/I/41gDsKf1V1L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71eAXh7d8BL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71x18f9EdLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71u45mEZK4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71MC26SSiQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71MWBIxQeTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/713tFffSTNL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DGQ7J191",
-                "price": null
-            },
-            {
-                "name": "Upgrade Pull Up Bar",
-                "thumbnail": "https://m.media-amazon.com/images/I/41Y9cIcBJOL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61gRqLFMiLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61Z4RGcxEUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71a9Fr8Iq-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71zwKwK984L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71sy7w1CP3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/714tqnwg7oL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/715FBMQGDbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61Eg8EEniSL._AC_SL1500_.jpg"
-                ],
-                "asin": "B08DXK45T5",
-                "price": null
-            },
-            {
-                "name": "Multi Grip",
-                "thumbnail": "https://m.media-amazon.com/images/I/41k4+Mx-9wL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61XF617pYmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/717cDNCsYcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71AWiLXrAWL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71n9yobYF8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71uSd4KzllL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/717ac7p8ORL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71LFgrOqTgL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CW8KZSVL",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "Upgrade Pull Up Bar"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 2.2226008,
                 "price": 23.99,
-                "remaining_products": 59,
-                "color": "silver, black"
+                "remaining_products": 32,
+                "color": "silver, black",
+                "img": null
             },
             {
                 "weight": 2.2226008,
                 "price": 23.99,
-                "remaining_products": 93,
-                "color": "silver, black"
+                "remaining_products": 45,
+                "color": "silver, black",
+                "img": null
             },
             {
                 "weight": 2.2226008,
                 "price": 23.99,
-                "remaining_products": 24,
-                "color": "silver, black"
+                "remaining_products": 79,
+                "color": "silver, black",
+                "img": null
             }
         ]
     },
@@ -12363,15 +10837,6 @@
         "title": "Pull Up Bar/Chin up bar Upper Body Workout Bar, Super load-bearing: Dual Security Locking, Two-way Support Fitness Strength Training Equipment",
         "price": 39.99,
         "brand": "E-Jet",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81meHT5O4YL.__AC_SY300_SX300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/512Rq56HrGL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51OX+o+pl-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41XM-T3fJHL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51qKwocFWNL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/515wHGwAkVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51eeCm3v9GL._AC_US.jpg"
-        ],
         "description": "Introducing the E-Jet Sport Two-Way Safety Support Horizontal Bar \u2013 the perfect addition to your home gym equipment collection. This innovative product is designed to provide you with a safe, secure, and firm workout experience that will take your fitness journey to the next level.At E-Jet Sport, we never compromise on safety. Our two-way safety support horizontal bar is engineered to provide maximum support and stability during your workout routine. With its unique support extension bar, the stronger the pressure, the more stable it gets, bringing your safety to the next level. You can trust us to keep you secure, so you can focus on achieving your fitness goals.Unlike other pull-up bars on the market that only have two support points, our product has four secure support points, ensuring that it won't fall off during your workout. Our firm locking mechanism is designed to keep you safe and secure, so you can concentrate on your workout without worrying about the bar coming loose.Not only is our horizontal bar safe and secure, but it is also versatile. It can be used for a variety of exercises, including pull-ups, stretching ligaments, push-ups, and sit-ups. With our product, you can achieve a full-body workout in the comfort of your own home.We take pride in the features of our two-way safety support horizontal bar. The sturdy three-level gear lock ensures that the bar stays securely in place during your workout. The non-slip PVC mat at the back of both ends of the horizontal bar allows for a tight grip to the door without the need for screws or drilling. This unique feature makes it easy to install and remove, and it won't leave any damage to your door or walls.Our product can withstand an impressive maximum weight of 880 lbs, making it suitable for a wide range of fitness enthusiasts. The tear-resistant, sweat-absorbing, and thickened non-slip hand grips provide added comfort during your workout and ensure that your grip remains firm and secure.We understand that fitness enthusiasts come in all shapes and sizes, which is why we have designed our product to be adjustable. With a product size of 30.7-38.6 inches, our horizontal bar can fit most door frames, solid wood doors, anti-theft doors, corridors, and even cement walls. With its innovative design, superior features, and versatile use, it is the ultimate addition to any home gym.What is included:1x E-Jet Sport Pull-Up Bar (Size: 30.7-38.6 inches)2x Safety Support End",
         "features": [
             "Safety is everything \u2013 with our support extension bar, you can feel safe, secure, and firm as you work out. The stronger the pressure, the more stable it gets, bringing your safety to the next level.",
@@ -12468,14 +10933,13 @@
                 "value": "Aluminum"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "3.15 Kilograms",
                 "price": 39.99,
-                "remaining_products": 84,
-                "color": "Black"
+                "remaining_products": 46,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -12599,15 +11063,6 @@
         "title": "IRONWALLS Pull Up Bar Wall Mounted Home Gym, 500lbs Capacity Heavy Duty Iron Chin Up Bar Upper Body Workout Bar for Strength Training Equipment, Fitness Exercise Frame for Indoor Outdoor Use",
         "price": 73.59,
         "brand": "IRONWALLS",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51M-rDD2BFL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31xqSD5ObiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/515YH8x5fCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51gGxCdSPWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41mKZkjAepL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41zWY5EBMWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51sqvaOhS1L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u301043.3\u201d/110cm Pullup Bar\u3011Length of IRONWALLS strength training pull-up bar is 43.3\u201d/110cm, wall clearance is 31.4\u201d/80cm, bracket height is 16\u201d/40cm, providing enough space for a variety of exercises and also making sure to accommodate taller athletes.",
@@ -12700,14 +11155,13 @@
                 "value": "Wood, Alloy Steel, Iron"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "6.9 Kilograms",
                 "price": 73.59,
-                "remaining_products": 34,
-                "color": "Black"
+                "remaining_products": 47,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -12820,15 +11274,6 @@
         "title": "leikefitness Pull-Up Bar For Door Frame Adjustable Portable Upper Body Fitness Workout For Home Gyms (AB7000)",
         "price": 34.99,
         "brand": "leikefitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61DgnnK0Q3L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31bEP-Bk6JL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31mRNedjefL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41WEM2k9j9L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41y621izUML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41hsUa03U5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31P8tfAfJLL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Pull Up Bar For Doorway: Easy install any doorway and become your home workout gym.It instantly attaches to Or removes from your door frame.",
@@ -12937,14 +11382,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "4.8 Pounds",
                 "price": 34.99,
-                "remaining_products": 72,
-                "color": "Grey"
+                "remaining_products": 3,
+                "color": "Grey",
+                "img": null
             }
         ]
     },
@@ -12953,16 +11397,6 @@
         "title": "LADER Pull Up Bar for Doorway, Chin Up Bar with No Screw, Strength Training Pull-Up Bars with Suppprt Frame,Level Mete, Max Load Bearing 1100LBS",
         "price": 32.99,
         "brand": "LADER",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61IFL9TBneL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31VZv6dJyKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/517+nYtGp1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41K-EZ4oNvL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41SwBQWK1BL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ozR6JYfzL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41lcYaooq6L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31AS3QAskYL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010Support Frame Design!\u3011This is an amazing new design, which greatly strengthens the load-bearing capacity of the pull up bar, so that you can be more involved and more at ease when exercising! When mounted properly, this fitness bar can hold up to 1100lbs(500kg), giving you full support for pull ups and chin ups.",
@@ -13051,14 +11485,13 @@
                 "value": "Iron"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "2.99 Kilograms",
                 "price": 32.99,
-                "remaining_products": 83,
-                "color": "Red, with Suppprt Frame"
+                "remaining_products": 42,
+                "color": "Red, with Suppprt Frame",
+                "img": null
             }
         ]
     },
@@ -13067,16 +11500,6 @@
         "title": "Pull Up Assistance Bands Resistance Band for Pull Up Bar Adjustable Weight/Size with Fabric Feet/Knee Rest, Bands for Pull Up Assist for Strength Training",
         "price": 33.99,
         "brand": "Bntyok",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71HaQ233MyL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41RV2glP5BL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51SdtMd09EL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51CkR48BCpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51k7aZuHbgL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/517ob7KbL2L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/518ADUHDN3L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41wgiNkBNZL._AC_US.jpg"
-        ],
         "description": "Product Description Bntyok 1-piece set of 210 pound pull-up assist straps, tailored for fitness professionals and beginners. Don't let lack of strength hinder you from achieving your fitness goals. Our pull-up assist straps provide you with the help you need, allowing you to independently, completely, and correctly perform pull-up exercises, gradually increasing your strength, enhancing the strength of multiple muscle groups, and enjoying better exercise results for a complete upper body workout. detailed description: Product Name: 210 Pound Pull Up Auxiliary Belt Set Material: Nylon, Rubber, Steel Color: Orange, Black Package content: You will receive 1 set of 210 pound pull-up auxiliary straps Including: 3 elastic resistance bands, 1 adjustable auxiliary band, and 1 knee support foot band.",
         "features": [
             "This is a powerful fitness aid tool; Very suitable for fitness professionals and beginners. If you are a beginner and find it difficult to perform pull ups, it allows you to independently, completely, and correctly perform pull ups without any assistance. It can help you better perform pull-up strength training, gradually increasing your strength and enjoying better exercise results.",
@@ -13178,14 +11601,13 @@
                 "value": "Exercise and Fitness"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "0.8 Pounds",
                 "price": 33.99,
-                "remaining_products": 30,
-                "color": "Orange"
+                "remaining_products": 56,
+                "color": "Orange",
+                "img": null
             }
         ]
     },
@@ -13586,16 +12008,6 @@
         "title": "Wall Mounted Pull Up Bar, Thicken Steel Max Load 300 lbs\uff0cPunch Bag and TRX Training Hook for Home Gym Upper Body Workout Chin up Bar for Garage",
         "price": 44,
         "brand": "ULTRA FUEGO",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/618xCwdrd3L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41aS7Ra1yRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41iSfcdiOnL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51hx20IksKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51oAwX3K2KL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51VDwKY6yrL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ammOukgaL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51P9XCw5m5L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "SOLID & STABLE ENGINEERING: Made of thicken steel pipe with high density foam grips and upgrade screw, strengthened beams and triangular support structure, providing you with extra safety and comfort.Safe to use up to 300lb.",
@@ -13696,14 +12108,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "7.6 Kilograms",
                 "price": 44,
-                "remaining_products": 40,
-                "color": "Black"
+                "remaining_products": 35,
+                "color": "Black",
+                "img": null
             }
         ]
     }

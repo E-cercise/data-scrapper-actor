@@ -503,15 +503,6 @@
         "title": "ER KANG Stationary Upright Bench, Seated Stationary Bench for Shoulder Press, Bicep Curls and Tricep Extension, Strength Training Bench Home Gym(New)",
         "price": 179.99,
         "brand": "ER KANG",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/513xl6NXUoL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31G57pbUamL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41UFdH-ZGLL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41HkgtbGV0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51bLcIIMutL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41rNOLP5QsL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41TTExs3OJL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Multifunctional Stationary Upright Bench: ER KANG seated stationary bench is a perfect unit to perform several exercises, such as seated shoulder presses (both dumbbell or barbell), bicep curls, tricep extensions and more. Just feel free to enjoy your strength training with this upright weight bench.",
@@ -599,14 +590,13 @@
                 "value": "ER KANG"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "39 Pounds",
                 "price": 179.99,
-                "remaining_products": 45,
-                "color": "Black"
+                "remaining_products": 78,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -1249,15 +1239,6 @@
         "title": "GMWD Chest Press Machine, 1050LBS Bench Press Machine with Independent Converging Arms, Adjustable Flat Incline Bench for Chest, AB Workouts, Shoulder Home Gym Equipment with 100LBS Cast Iron Weights",
         "price": 429.99,
         "brand": "GMWD",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71e4w3kkwcL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41AgGRw8WzL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51BELywaHUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51mCtpO0l0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/513x7dqI+HL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51HbiLvot9L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51H3MvtZrBL._AC_US.jpg"
-        ],
         "description": "GMWD Chest Press Machine",
         "features": [
             "You will get one bench press machine with 25lbx weights x1, 35lbs weights x1, 45lbs weights x1.",
@@ -1350,62 +1331,20 @@
                 "value": "GMWD"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Red with Cast Iron Weights Set",
-                "thumbnail": "https://m.media-amazon.com/images/I/41AgGRw8WzL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71e4w3kkwcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Vt-4ED-3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Ytt7zJ8IL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71HOKw5VfsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/8198yL6c3vL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91T5dZfwn2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81kj3u5-xPL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CG39VRSK",
-                "price": {
-                    "value": 429.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black with Cast Iron Weights Set",
-                "thumbnail": "https://m.media-amazon.com/images/I/41mAhWu1qwL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71Hh6b1Ak2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-A2nSYW+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71P5MuCB9nL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71gRhKRLKML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/8198yL6c3vL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91T5dZfwn2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81kj3u5-xPL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CGD86MF6",
-                "price": {
-                    "value": 419.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Red with Cast Iron Weights Set"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 49.89512,
                 "price": 429.99,
-                "remaining_products": 0,
-                "color": "Red"
+                "remaining_products": 62,
+                "color": "Red",
+                "img": null
             },
             {
                 "weight": 49.89512,
                 "price": 419.99,
-                "remaining_products": 38,
-                "color": "Black"
+                "remaining_products": 29,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -1414,16 +1353,6 @@
         "title": "Cold Press Juicer Machines, 300W Slow Masticating Juicer Machines with 3.5inch (89mm) Large Feed Chute, Slow Cold Press Juicer Machines Vegetable and Fruit, Reverse Function Easy to Clean with Brush",
         "price": 79.99,
         "brand": "CFBF",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71lNQmw6cJL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/416Z6pvFmxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51jhEz57OdL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51OjwLAYoJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51CXOt5tI5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51SsrLjnKaL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51sEjbsJWjL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/91oIOsWcH7L.SS125_PKplay-button-mb-image-grid-small_.png"
-        ],
         "description": null,
         "features": [
             "\ud83c\udf79\u301089mm DUAL FEED CHUTE\u3011The smaller inlet for strip ingredients, and the large inlet can handle a wide variety of fruits and vegetables, easily accepting large pieces of fruits and vegetables, helping you save a lot of preparation time and greatly improving the efficiency of the juicing process. Equipped with a booster that allows ingredients to pass through more smoothly, which greatly improves the efficiency of juicing",
@@ -1516,14 +1445,13 @@
                 "value": "Non Stick"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "11.14 pounds",
                 "price": 79.99,
-                "remaining_products": 19,
-                "color": "Black"
+                "remaining_products": 57,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -1532,15 +1460,6 @@
         "title": "CAP Barbell Olympic Trap Bar, Hex Bar, Shrug Bar, Deadlift Bar",
         "price": 58,
         "brand": "Cap Barbell",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71FgTZzEZxL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31f7IFc7EwL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31FEAJ88a4L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31pEd3DdbIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41hOJcoe+ML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31-CmYHTtnL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41DIl8CxYVL._AC_US.jpg"
-        ],
         "description": "Build strength and fuel your muscle growth by engaging large muscle groups with the CAP Barbell Olympic Trap, Shrug, and Deadlift Bar. This bar features neutral placed grips for comfort and elevated sleeves for less strain on the back muscles. The incorporate feet protect floors from getting scratched and scuffed up by weight plates and help balance the bar while loading and unloading weights. The compact design of this basic trap, shrug, and deadlift bar will take up a minimal amount of space in your home gym. CAP\u2019s Basic Trap, Hex, Shrug, Deadlift bars are a serious addition to any home gym. Designed to handle heavy weight safely and securely with coatings applied that last through the most grueling workout.",
         "features": [
             "SPECS: Dimensions are 50\u201d L x 29\u201d W x 14\u201d H; Loadable sleeve length is 9.5 inches; Total assembled weight is 28lb; Suggested Max Weight Capacity 500 pounds",
@@ -1710,93 +1629,34 @@
                 "value": "9.5 Inches"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "White",
-                "thumbnail": "https://m.media-amazon.com/images/I/31slTqXHOSL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71b95B2C-TL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71vpAjm0GFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71w43DTT55L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71T3qxPzw4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71wgTa9bftL._AC_SL1500_.jpg"
-                ],
-                "asin": "B083R519HJ",
-                "price": null
-            },
-            {
-                "name": "Green",
-                "thumbnail": "https://m.media-amazon.com/images/I/41zQadzkcmL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71WrJvRV3qL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ppjDBtA6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71QMKYcf1eL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71VjWmsMZJL._AC_SL1500_.jpg"
-                ],
-                "asin": "B083R4NYC4",
-                "price": null
-            },
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/31f7IFc7EwL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71FgTZzEZxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71x9grpaoRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71B1jxtwWhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/810JRe3ANpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71IUviq-V5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81jqwFpV1aL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91u-gwL-NSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Uhn88nM5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81+8q4NId4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71QEODd601L._AC_SL1500_.jpg"
-                ],
-                "asin": "B07N4M53DC",
-                "price": null
-            },
-            {
-                "name": "Blue",
-                "thumbnail": "https://m.media-amazon.com/images/I/410jNSjt7wL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/715CggBNeoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71j3g7rq5lL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ibveuLcTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ErpjKgUWL._AC_SL1500_.jpg"
-                ],
-                "asin": "B083R4XT3L",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 92,
-                "color": "White"
+                "remaining_products": 91,
+                "color": "White",
+                "img": null
             },
             {
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 22,
-                "color": "Green"
+                "remaining_products": 37,
+                "color": "Green",
+                "img": null
             },
             {
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 62,
-                "color": "Black"
+                "remaining_products": 34,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 18,
-                "color": "Blue"
+                "remaining_products": 13,
+                "color": "Blue",
+                "img": null
             }
         ]
     },
@@ -1805,14 +1665,6 @@
         "title": "Yes4All T Bar Row Platform, Landmine Attachment for Barbell fits 1\u201d Standard Bar & 2\u201d Olympic Bar, Landmine Handle T Row",
         "price": 26.99,
         "brand": "Yes4All",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71crzWc9mrL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41u9drUt8ML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51m2+n+337L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41dqib+UBFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41uosdZXiYL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ru2hX7vEL._AC_US.jpg"
-        ],
         "description": "Would you like to build up a strong back, solid shoulders and toned arms? Achieve your strength and power with Yes4All T-bar Row Platform, T-bar Lat Blaster Handle, Double Grip Row, Eyelet Attachment, and Double D Landmine Handle. WHAT MAKES YES4ALL PRODUCTS DIFFERENT? 360\u00b0 swivel T-bar Row Platform: Great for multi-direction workout performance. It can be attached to any 1\" standard & 2\" Olympic bars. You can bolt the platform to the floor or attach it to a 2\" or 2.5\u201d frame tubing to keep it steady. T-bar Lat Blaster Handle: Your bar can be safely locked in place at the desired setting with a removable pin in the center of the handle. Steel handle can support up to 300lbs and work well with both standard and Olympic bars. Double Grip Row: Made of top-quality steel to support up to 880lbs (400 kg). Fit all 1\" standard & 2\" Olympic bars. Great for seated row exercises to develop your back, shoulders, forearms, triceps, and biceps. Double D design allows you to exercise both arms at once. Eyelet Attachment: Measuring 4.5 inches in length and 2.05 inches in diameter, Yes4All Eyelet Attachment is portable and compact, easy to store away when not in use. 11. 5-inch steel chain with carabineer clips allows universal compatibility with existing gym equipment accessories. Double D Landmine Attachment with Knurled / Rubber Handle: The Landmine Double D Row Handle is compatible with 2-inch Olympic barbells. The slide-in design allows users to slide a barbell into the sleeve easily and then tighten the screw for a secured workout. Built to handle a maximum weight capacity of 250lbs. WARRANTY 1-year warranty and 30-day return (contact seller for more details)",
         "features": [
             "PACKAGE INCLUDES: A double grip row 7.5\"x6.5\"x5.5\" & a T-bar row platform 9.3\u201d x 4.8\u201d x 6\u201d",
@@ -1973,174 +1825,62 @@
                 "value": "Yes4All"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "C. Orange",
-                "thumbnail": "https://m.media-amazon.com/images/I/41mQmWtthDL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61Du1Q67PqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61AcdsBjXaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61dBCyE5SPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/710o1DLNt+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81QC0TvQWpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/713Fr+DwoWL._AC_SL1500_.jpg"
-                ],
-                "asin": "B082NWG2T9",
-                "price": null
-            },
-            {
-                "name": "B. American Pride",
-                "thumbnail": "https://m.media-amazon.com/images/I/41WzjaVHf7L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/717NmHA6RyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ym9dKDulL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81kBZup3g9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81nHT9j9Z6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81fPW6-fwEL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/719qxVFFT6L._AC_SL1500_.jpg"
-                ],
-                "asin": "B08PVGBPSB",
-                "price": null
-            },
-            {
-                "name": "D. Black - T-Bar Row Platform + Lock Jaw 1inch & 2inch",
-                "thumbnail": "https://m.media-amazon.com/images/I/41qdbdVD3XL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61PlWBbjCUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71W4il0c-DL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71rVet2dN2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81KMYMZWOCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81HPtewRfaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ClpCgu0nL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0871T5YTF",
-                "price": null
-            },
-            {
-                "name": "A. Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/413kMqNXWsL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71CsWmjQrwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71PivyBhL2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81MrgSBjzJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81DpmrZiyrL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81-N89r28yL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61oziV-mOPL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/81zrs7bKGOL._AC_SL1500_.jpg"
-                ],
-                "asin": "B01077P1W2",
-                "price": null
-            },
-            {
-                "name": "H. Combo T bar Row + Double Grip Row",
-                "thumbnail": "https://m.media-amazon.com/images/I/41u9drUt8ML._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71crzWc9mrL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71OKvhoRK6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Abn7YBDuL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/614N78Nmu5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71MKNoF+nXL._AC_SL1500_.jpg"
-                ],
-                "asin": "B01HM4Z8AI",
-                "price": null
-            },
-            {
-                "name": "F. Premium T Bar Row Multifunction",
-                "thumbnail": "https://m.media-amazon.com/images/I/319nYXpfPoL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61EZl2pGbPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ld73JJodL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71jmfWSnrtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716FXLFuoKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71dYWVdcB9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71w99iRzFjL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71appxmr-XL._AC_SL1500_.jpg"
-                ],
-                "asin": "B09P59RDDX",
-                "price": null
-            },
-            {
-                "name": "M. Rubber Handle for 2inch",
-                "thumbnail": "https://m.media-amazon.com/images/I/41DFsm3LHIL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61nfWmFvbBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/612tINKQtJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71De-YcK2rL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81HXsHl0VxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81iv9ESbc4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71mRmyZHG1L._AC_SL1500_.jpg"
-                ],
-                "asin": "B086YMVRZ5",
-                "price": null
-            },
-            {
-                "name": "L. T-Bar Lat Blaster Handle",
-                "thumbnail": "https://m.media-amazon.com/images/I/31bm3CYiFYL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/416aFl6UlXL._AC_SL1464_.jpg",
-                    "https://m.media-amazon.com/images/I/61A66SYTg1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Xm4FKaDxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/713lzIra6sL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81bcFfxwtCL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0722RZD23",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "H. Combo T bar Row + Double Grip Row"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 17,
-                "color": "Orange"
+                "remaining_products": 10,
+                "color": "Orange",
+                "img": null
+            },
+            {
+                "weight": 2.26796,
+                "price": 26.99,
+                "remaining_products": 50,
+                "color": "H. Combo T bar Row + Double Grip Row",
+                "img": null
+            },
+            {
+                "weight": 2.26796,
+                "price": 26.99,
+                "remaining_products": 15,
+                "color": "Black",
+                "img": null
+            },
+            {
+                "weight": 2.26796,
+                "price": 26.99,
+                "remaining_products": 80,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 2.26796,
                 "price": 26.99,
                 "remaining_products": 76,
-                "color": "H. Combo T bar Row + Double Grip Row"
+                "color": "H. Combo T bar Row + Double Grip Row",
+                "img": null
             },
             {
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 66,
-                "color": "Black"
+                "remaining_products": 37,
+                "color": "H. Combo T bar Row + Double Grip Row",
+                "img": null
             },
             {
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 46,
-                "color": "Black"
+                "remaining_products": 20,
+                "color": "H. Combo T bar Row + Double Grip Row",
+                "img": null
             },
             {
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 43,
-                "color": "H. Combo T bar Row + Double Grip Row"
-            },
-            {
-                "weight": 2.26796,
-                "price": 26.99,
-                "remaining_products": 66,
-                "color": "H. Combo T bar Row + Double Grip Row"
-            },
-            {
-                "weight": 2.26796,
-                "price": 26.99,
-                "remaining_products": 4,
-                "color": "H. Combo T bar Row + Double Grip Row"
-            },
-            {
-                "weight": 2.26796,
-                "price": 26.99,
-                "remaining_products": 89,
-                "color": "H. Combo T bar Row + Double Grip Row"
+                "remaining_products": 42,
+                "color": "H. Combo T bar Row + Double Grip Row",
+                "img": null
             }
         ]
     },
@@ -2821,14 +2561,6 @@
         "title": "Body-Solid MB100A Aluminum Double Swivel Bar for Dual-Stack Functional Trainers, Knurled Grip 220lbs Weight Capacity, Perfect For Shoulder Presses, Biceps & Triceps Exercises, 42 in long",
         "price": 58.09,
         "brand": "Body solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61a35zBCxBL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41i4OIGuqmL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/4124q1UflDL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41JjFqUaF0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41cWClIFLFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41H5GiBq5TL._AC_US.jpg"
-        ],
         "description": "The Body-Solid Tools MB100A Aluminum Double Swivel attaches to dual-cable functional trainers connecting to both weight stacks for smooth, unilateral movements. Constructed from high-strength, rust-proof and light-weight 1-3/8\" aluminum, the MB100A is built to last a lifetime. Knurled grips ensure consistent handling during intense workouts. The maximum weight rating for the Double Swivel Bar is 220-lbs. The MB100A is ideal for use in shoulder presses, biceps and triceps exercises, lat pulldowns, bench/incline/decline press as well as squats.",
         "features": [
             "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
@@ -2912,14 +2644,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "5 Pounds",
                 "price": 58.09,
-                "remaining_products": 101,
-                "color": "Silver"
+                "remaining_products": 75,
+                "color": "Silver",
+                "img": null
             }
         ]
     },
@@ -3170,16 +2901,6 @@
         "title": "Chest Press Bench for Home Gym, Bench Press Machine with Independent Converging Arms, 1050 LBS Load Capacity Adjustable Flat Incline Bench for Arm, Chest, AB Workout",
         "price": 289.99,
         "brand": "OutdoorVibe",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71UTM2x3zPL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31jSR1vpfSL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41jxJPKVYqL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41040dlzB1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Cbu67w5+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41NA5Hg+JdL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41BACpuyh0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/412551MI4SL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Versatile Press Bench: Achieve a comprehensive upper body workout with this bench press machine, equipped with independent converging arms that effectively target chest, forearm, bicep, and tricep muscles, making it ideal for your home gym",
@@ -3288,14 +3009,13 @@
                 "value": "198723754550"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "90 Pounds",
                 "price": 289.99,
-                "remaining_products": 42,
-                "color": "Red and black"
+                "remaining_products": 44,
+                "color": "Red and black",
+                "img": null
             }
         ]
     },
@@ -3702,15 +3422,6 @@
         "title": "LAT Pull Down Bar, Strength Training Deluxe Single Double D Handle Tricep Rope, V-Shaped Rotating Straight Press Down Bar for Weight Workout, Cable Machine Accessories",
         "price": 20.98,
         "brand": "yuhqc",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51SeSMyczYL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31hbmcudtjL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41cKkPaQgSL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31RFetv88uL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41qu1dnHXxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51BvauEJSKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31-V4DOw9hL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Fitness: Our exercise machine attachments are perfect for developing your back, shoulders, forearms, triceps, and biceps.",
@@ -3811,96 +3522,34 @@
                 "value": "Adjustable, Multiple Grip Position"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Black Rotate",
-                "thumbnail": "https://m.media-amazon.com/images/I/31hbmcudtjL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51SeSMyczYL._AC_SL1077_.jpg",
-                    "https://m.media-amazon.com/images/I/51Gos50h37L._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/510AvQlGBSL._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/51HveNbstkL._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/51BvauEJSKL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/41XUuaYq3jL._AC_SL1024_.jpg"
-                ],
-                "asin": "B0BD5G3CVN",
-                "price": null
-            },
-            {
-                "name": "Rotate Rubber",
-                "thumbnail": "https://m.media-amazon.com/images/I/41z-H8a7ozL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71BdkVsrNaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61Cd+hOZ6iL._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/61+16Wzh-1L._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/51PCsGdTvXL._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/61VIrzdsktL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/51C-xPE6j4L._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/61HD38ZjSSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51nYZdY5MGL._AC_SL1024_.jpg"
-                ],
-                "asin": "B07GTMFGSQ",
-                "price": null
-            },
-            {
-                "name": "Rubber",
-                "thumbnail": "https://m.media-amazon.com/images/I/41a7C5+oPEL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61K+5q4nPsL._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/51OXZqkIpJL._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/51VTkWCxTaL._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/61KOIXpatVL._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/61vXIiqdAIL._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/51fiyHxYHvL._AC_SL1024_.jpg"
-                ],
-                "asin": "B07BJ5GFRW",
-                "price": null
-            },
-            {
-                "name": "Black Chrome",
-                "thumbnail": "https://m.media-amazon.com/images/I/31vT9Qin6zS._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61EmWmBuOYS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61f8lfUQd3S._AC_SL1210_.jpg",
-                    "https://m.media-amazon.com/images/I/61eLvaQfoSS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/612sDz5GvrS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61yczhPyKNS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71oXLD--qmS._AC_SL1500_.jpg"
-                ],
-                "asin": "B086ZHCD59",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black Rotate"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.3,
                 "price": 20.98,
-                "remaining_products": 55,
-                "color": "Black"
+                "remaining_products": 64,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 0.3,
                 "price": 20.98,
-                "remaining_products": 0,
-                "color": "Black Rotate"
+                "remaining_products": 93,
+                "color": "Black Rotate",
+                "img": null
             },
             {
                 "weight": 0.3,
                 "price": 20.98,
-                "remaining_products": 87,
-                "color": "Black Rotate"
+                "remaining_products": 1,
+                "color": "Black Rotate",
+                "img": null
             },
             {
                 "weight": 0.3,
                 "price": 20.98,
-                "remaining_products": 51,
-                "color": "Black, Chrome"
+                "remaining_products": 48,
+                "color": "Black, Chrome",
+                "img": null
             }
         ]
     },
@@ -3909,16 +3558,6 @@
         "title": "Push Up Bars Strength Training - Workout Stands With Ergonomic Push-up Bracket Board with Non-Slip Sturdy Structure Portable for Home Fitness Training, Push Up Stands Handle for Floor Workouts",
         "price": 11.99,
         "brand": "Redipo",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/618LkMj-Y9L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41grl1A526L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41AeAp9xjhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/413mq6g9irL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41SaxSb050L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41gEz8+Ge8L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41g086194YL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31rw0Vb58XL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Powerful Upper Body -- They are ideal for upper body muscle training, especially the chest muscles, triceps, abdominal muscles and back muscles. These can be easily used at home and in the gyms. Push up bars are perfect for both men and women. By training with the push up bars, your range of motion will be increased, and you will be able to target muscles more effectively.",
@@ -4019,14 +3658,13 @@
                 "value": "Fixed"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "1.16 Pounds",
                 "price": 11.99,
-                "remaining_products": 90,
-                "color": "Black"
+                "remaining_products": 52,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -4035,15 +3673,6 @@
         "title": "Finer Form Multi-Functional FID Weight Bench for Full All-in-One Body Workout \u2013 Hyper Back Extension, Roman Chair, Adjustable Ab Sit up Bench, Incline Decline Bench, Flat Bench",
         "price": 209.99,
         "brand": "FF Finer Form",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71mrIjf7-1L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31aP3XooC2L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/519GSdtlahL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51MEqm4BwCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51HvhiXajqL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51+MdXoTiiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41FY-PdptRL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "1 Workout Bench, 100+ Exercises - Perform a wide variety of exercises with this home gym equipment as your back extension machine, roman chair, sit up bench, incline bench, decline bench, preacher curl bench, or flat bench workouts using weight set.",
@@ -4149,14 +3778,13 @@
                 "value": "860006568603"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "49.14 Pounds",
                 "price": 209.99,
-                "remaining_products": 74,
-                "color": "Black, Red"
+                "remaining_products": 4,
+                "color": "Black, Red",
+                "img": null
             }
         ]
     },
@@ -4221,15 +3849,6 @@
         "title": "Kipika Viking Press Landmine Handle Attachment - 3 Grip Positions, Ergonomic and Comfortable, Compatible with 2-Inch Olympic Barbells, Heavy-Duty and Durable, Ideal for Home Gym Deadlift Squat Row",
         "price": 42.99,
         "brand": "Kipika",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61c8bDyMpnL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31ESWE9oUAL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41EJkEIGYlL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41uDYkiIQCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/510iKnzsiVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41lXRGRoigL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41xCNAiNqML._AC_US.jpg"
-        ],
         "description": null,
         "features": [],
         "attributes": [
@@ -4332,14 +3951,13 @@
                 "value": "Kipika"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "5.44 Kilograms",
                 "price": 42.99,
-                "remaining_products": 47,
-                "color": "Viking Press Landmine Handle"
+                "remaining_products": 72,
+                "color": "Viking Press Landmine Handle",
+                "img": null
             }
         ]
     },
@@ -4348,15 +3966,6 @@
         "title": "Sunny Health & Fitness Row-N-Ride\u00ae Plus, Heavy Duty Assisted Squat Machine with 300 LB Max Weight Capacity, Adjustable Resistance and Thick Padded Seat - NO. 077PLUS",
         "price": 199.99,
         "brand": "Sunny Health & Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/717hdghWvYL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41fzDdXOdQL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51aD0ldkdZL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41jLnsk8YBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41RhhH7FzvL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41vUS-cMjcL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41xo8UlJ6XL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010FULL BODY SQUAT MACHINE\u3011Squat with proper form, focus on toning your glutes, engage your arms, sculpt your abs, and embrace strength training. This all-in-one squat machine delivers a comprehensive and varied workout experience.",
@@ -4530,14 +4139,13 @@
                 "value": "37.9 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "37.9 Pounds",
                 "price": 199.99,
-                "remaining_products": 2,
-                "color": "Black"
+                "remaining_products": 48,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -4546,16 +4154,6 @@
         "title": "Titan Fitness Seated Dip Machine, Plate Loaded Dip Machine Rated 200 LB, Seated Triceps Dip Machine, Adjustable Padded Seat Backrest, Doubles as Bicep Curl Station",
         "price": 319.99,
         "brand": "Titan Distributors Inc.",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/510EE22ixsL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31wn4tEQx7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41xaeHyzzCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41RG8oo0FLL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41SKn98tPyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41EpEiP0S-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41E4YZO0qcL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/412n-SpsHKL._AC_US.jpg"
-        ],
         "description": "This plate-loaded seated dip machine has a seated design to stabilize your body and shoulders and better isolate your triceps. This results in bigger gains in less time compared to traditional full-body dips. The adjustable seat and backrest make it easy to customize your position for comfort and proper form. Add up to 200 LB of Olympic weight plates to the dual 11\u00e2\u20ac weight sleeves to increase resistance and achieve progressive muscle growth. This seated tricep dip machine is built with durable steel and features comfortable hand grips to guide your movements and ensure proper form for more efficient workouts and less shoulder strain. Plus, this model doubles as a bicep curl station with an eyelet for attaching a curl bar and comes with a chain, carabiners, and curl bar included.FEATURES:- Plate-loaded design- Two Olympic weight sleeves- Rated at 200 LB- Adjustable seat height- Chain, carabiners, and curl bar included- Rubber feet with bolt down optionSPECIFICATIONS:- Overall Height: 51-in.- Overall Width: 27-in.- Overall Depth: 30-in.- Adjustable Seat Height: 16.75-in. \u00e2\u20ac\u201c 22-in.- Seat Back Dimensions: 33-in. x 9.5-in.- Seat Bench Dimensions: 10.25-in. x 11-in.- Handle Length: 16.75-in.- Handle Diameter: 38mm- Weight Sleeve Length: 11-in.- Weight Sleeve Diameter: 49mm- Finish: Powder-Coated Black- Material: 11-Ga Steel- User Weight Capacity: 300 lb.- Loadable Weight Capacity: 200 lb.- Product Weight: 67 lb.",
         "features": [
             "SEATED DIP MACHINE: This seated design stabilizes your body and shoulders to better isolate your triceps, resulting in bigger gains in less time compared to traditional full-body dips.",
@@ -4659,14 +4257,13 @@
                 "value": "Titan Distributors Inc."
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "67 Pounds",
                 "price": 319.99,
-                "remaining_products": 77,
-                "color": "Black"
+                "remaining_products": 87,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -4728,15 +4325,6 @@
         "title": "Titan Fitness Linebacker Squat Landmine Attachment, 650 LB Capacity, Shoulder Press, Chest, Abs, Back, Thigh Workout",
         "price": 208.99,
         "brand": "Titan Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61Y00+b00SL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/312AnjV6jkL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ww0irrMRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41voEhLTb0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41+93D4vlPL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41qCPqGG32L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41CPltGgkKL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "IMPROVED VERSION 2: Our redesigned version 2 of the Linebacker Squat features narrowed shoulder pads to maximize comfort and effectiveness and minimize unnecessary strain during high-intensity exercises. The upgraded version also boasts two weight posts to increase total capacity to 650 LB.",
@@ -4848,14 +4436,13 @@
                 "value": "840009202209"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "35 Pounds",
                 "price": 208.99,
-                "remaining_products": 52,
-                "color": "Black"
+                "remaining_products": 82,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -5177,15 +4764,6 @@
         "title": "Ultimate Body Press Dip Bar Fitness Station - Adjustable Folding Dip Stand,White/Black",
         "price": 89.95,
         "brand": "Ultimate Body Press",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61b54HgW+ML._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/3146qB8sfzL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41fBaWU9XqL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51PXFk0MHxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51sdwSSFKkL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Qm0GN+7mL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/516kbBTyDAL._AC_US.jpg"
-        ],
         "description": "The Dip Bar Fitness Station The patented Dip Bar Fitness Station by Ultimate Body Press is the only width adjustable Dip Station to fit you and your family. At 19 inches, Position I sets the handles much narrower than other dip stations and is a correct fit for most users, even younger athletes. Position II at 24 inches, accommodates builds from 190 - 350 lbs. Proper fit and form engages the correct muscles and reduces strain on the shoulders, elbows and wrists so you can focus on repetition to get the results you want in less time.  Ultimate Results \u2022 Dips get the look and performance you want - fast \u2022 Angled grips support proper form for tricep dips and chest dips \u2022 Bodyweight rows balance chest and shoulder development \u2022 Knee raises and L-sits strengthen core and lower back \u2022 Stable construction is always ready for your most strenuous workouts.  Ultimate Versatility \u2022 Two width positions provide a correct fit for everyone in your family \u2022 Assisted exercise variations let you complete full sets every time \u2022 Stores easily, folds and locks for closet and under-bed storage \u2022 Upgrade to full body workouts with Ultimate Body Press Bodyweight Resistance Trainers and Weighted Dip Belt and Agility Trainer. (accessories sold separately) \u2022 Compact design preserves floor space and is perfect for small spaces.  Ultimate Value \u2022 Adjustable leveling feet are stable on any surface \u2022 Multiple exercises, one piece of gear \u2022 Fun and rewarding exercises deliver quick results \u2022 Exceptional engineering enhances the look of your space \u2022 Supported with our workout guides and 100+ online workouts, all free!  Shop with Confidence At Ultimate Body Press we are proud to serve your gym needs and want to exceed your expectations for customer service. Customer service has complete resources to assist you and is available by phone or email. Order your Dip Bar Fitness Station today.",
         "features": [
             "THE PATENTED DIP STATION: The patented adjustable Dip Station with 2 width positions that correctly fits you and every member of your family. Dip Station stands 3' tall to fit users up to 6. 5' in height and builds up to 350 lbs",
@@ -5310,14 +4888,13 @@
                 "value": "Angled, High Density Foam"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "18.5 Pounds",
                 "price": 89.95,
-                "remaining_products": 21,
-                "color": "White/Black"
+                "remaining_products": 61,
+                "color": "White/Black",
+                "img": null
             }
         ]
     },
@@ -5928,15 +5505,6 @@
         "title": "Sunny Health & Fitness Full Body Inversion Traction & Stretch Decompression Machine for Lumbar Stretching, Lower Back Pain Relief, Improved Posture Correction, Rehab, Spinal Compression, Flexibility",
         "price": 239.98,
         "brand": "Sunny Health & Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/617j5ykXBaL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/317plYi4kTL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41qNxqyUC1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41jt7LkaLFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41tL5rZ0ILL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41NBwu46HfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41vunlq2PsL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "FOAM ROLLERS: Kick your feet up, decompress, and stretch using the padded foam rollers.",
@@ -6075,63 +5643,20 @@
                 "value": "815749014917"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Inversion Table",
-                "thumbnail": "https://m.media-amazon.com/images/I/31ZVPFTR7HL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61x3OfZYx0L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61WNpWk-9dL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61MQNUe52mL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WRJrpP0rL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/712dBuiDRiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91c83I945LL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CR5HLZPP",
-                "price": {
-                    "value": 224.98,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Stretch Machine",
-                "thumbnail": "https://m.media-amazon.com/images/I/317plYi4kTL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/617j5ykXBaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/618aeBbihXL._AC_SL1200_.jpg",
-                    "https://m.media-amazon.com/images/I/71ECsQd+WxL._AC_SL1201_.jpg",
-                    "https://m.media-amazon.com/images/I/71pE7a5TgDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71kUAHLCqdL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716MfrIdugL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71cm521v30L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71kx1yofKeL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81CF1MsdRaL._AC_SL1500_.jpg"
-                ],
-                "asin": "B09MSYJYCV",
-                "price": {
-                    "value": 239.98,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style Name",
-                "value": "Stretch Machine"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 13.6,
                 "price": 224.98,
-                "remaining_products": 78,
-                "color": "Black"
+                "remaining_products": 58,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 13.6,
                 "price": 239.98,
-                "remaining_products": 88,
-                "color": "Black"
+                "remaining_products": 19,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -6413,15 +5938,6 @@
         "title": "The ultimate arm trainer. Adjustable chest expander, arm exerciser. Shoulder muscle training fitness equipment, upper body strength training machine. Portable spring resistance home fitness equipment.",
         "price": 38.99,
         "brand": "OSCILLATING SLIM",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71d50wRRl5L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51aodJVZhcL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/510elSQjJUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51-bPkNOw8L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51i47u7gm8L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51GCF3mB-3L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Rmh12x6uL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010UNIQUE FULL UPPER BODY FITNESS EQUIPMENT\u3011 U spring bars as your personal workout trainer and helping you get a killer chest workout,Through the training guide chart. Strength bar work multiple muscle groups with precision, including chest, arms, biceps, abs, shoulders and back, and thigh muscles.",
@@ -6542,46 +6058,20 @@
                 "value": "OSCILLATING SLIM"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "30-90lbs",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0CQ4KWJ5R",
-                "price": {
-                    "value": 38.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "65-110lbs",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0CQ4LTTT8",
-                "price": {
-                    "value": 39.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Tension Level",
-                "value": "30-90lbs"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 40.82328,
                 "price": 38.99,
-                "remaining_products": 80,
-                "color": "black\u3001blue"
+                "remaining_products": 28,
+                "color": "black\u3001blue",
+                "img": null
             },
             {
                 "weight": 49.89512,
                 "price": 39.99,
-                "remaining_products": 27,
-                "color": "black\u3001blue"
+                "remaining_products": 43,
+                "color": "black\u3001blue",
+                "img": null
             }
         ]
     },
@@ -6590,15 +6080,6 @@
         "title": "Yes4All Viking Press Attachment/Landmine Attachment for Barbell \u2013 Great Landmine Exercise Equipment for 2-Inch Olympic Barbell, Orange",
         "price": 44.99,
         "brand": "Yes4All",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71BZvFxXLvL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41aq24xqDOL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51uwLG9nglS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/515OTpSclbS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51DVNrlgdQS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51FjY6AnQSS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51TuH8IxaGS._AC_US.jpg"
-        ],
         "description": "Upgrade your workout regimen with our shoulder press, a robust and versatile tool designed for serious strength training. With a high load capacity of 660 pounds, this landmine rack attachment is ideal for various exercises including deadlifts, squats, shoulder presses, shoulder shrugs, and leg presses. Our barbell landmine attachments meet all your strength-building needs without warping or cracking. Featuring a soft, non-slip rubber handle, our landmine attachments ensure a secure grip during exercises, preventing slippage and keeping you focused on your fitness goals. The high-strength sponge and durable leather shoulder pads provide lasting comfort. The smart design includes a secure distance of 8.27 inches between pads, fitting various 2-inch barbells and easily adjustable with the provided knob. This landmine exercise equipment ensures a comfortable and customized workout experience every time. Built from high-quality materials, our landmine press is designed to withstand intense workouts, making it a reliable addition to your home gym. Its versatile design reduces the need for multiple pieces of equipment, allowing you to perform a wide range of exercises with ease. The landmine barbell attachment is your ultimate fitness companion, offering stability, support, and enhanced performance for all your strength training goals",
         "features": [
             "BUILT TO LAST: Made of heavy-duty steel with a black paint coating finish, our Viking Press Landmine Handle Attachment is designed to withstand even the toughest workouts without breaking or corroding.",
@@ -6747,14 +6228,13 @@
                 "value": "Yes4All"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "11.02 Pounds",
                 "price": 44.99,
-                "remaining_products": 25,
-                "color": "B. (Yellow) Viking Press Handle"
+                "remaining_products": 2,
+                "color": "B. (Yellow) Viking Press Handle",
+                "img": null
             }
         ]
     },
@@ -7207,15 +6687,6 @@
         "title": "Kinglotus Lat Pull down Bar Cable Machine Attachment,Curl Bar Tricep Press Down Bar.",
         "price": 20.98,
         "brand": "Kinglotus",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51p3fiBT3cL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31iXwJGm0TL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51AhqnM4o7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51kn6h2ZSyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51UEXExM0XL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41s-KJyakJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41UYxK6BJBL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010High Quality Pull Down Bar Attachment\u3011:The Lat Attachment Pull Down Bar attaches to cable machines, seated rowing machines, and DIY pulley systems for forward pull downs and backhand pull downs. Exercises the lower side of the latissimus dorsi, arm and low back muscles",
@@ -7316,14 +6787,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "2.6 Pounds",
                 "price": 20.98,
-                "remaining_products": 11,
-                "color": "BLACK"
+                "remaining_products": 50,
+                "color": "BLACK",
+                "img": null
             }
         ]
     },
@@ -7426,16 +6896,6 @@
         "title": "GLOWSOL Chest Press Machine, Bench Press Machine with Independent Converging Arms, Adjustable Weight Bench for Chest, Ab Workouts, Shoulder Home Gym Equipment",
         "price": 199.9,
         "brand": "GlowSol",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61vcTI3ay7L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41wzYPmxEtL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41dYEnK2dWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51TjWPDj+dL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41+DK9VgpjL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41VRBu-UjhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41FL7RfxOvL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41gLwNbdvZL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010Perfect for Upper Body Workout\u3011: The chest press machine features a durable construction made from 50 x 50 mm, 11-gauge steel tubing. Its four larger anti-slip foot bases provide enhanced stability, supporting up to 450 lbs, with a limit of 200 lbs per arm and each weight holder. The detachable sleeve accommodates both 1'' and 2'' weight plates, allowing you to customize your workout effortlessly.",
@@ -7544,14 +7004,13 @@
                 "value": "198723921846"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "92.99 Pounds",
                 "price": 199.9,
-                "remaining_products": 100,
-                "color": "Red and black"
+                "remaining_products": 2,
+                "color": "Red and black",
+                "img": null
             }
         ]
     },
@@ -8101,15 +7560,6 @@
         "title": "Titan Fitness Leverage Squat Machine, Calf Raise Machine, Hack Squat Machine & Leg Press Machine for Lower Body Training, Rated 1,000 LB, for Glutes, Hamstrings, Quadriceps, Calves & Thighs",
         "price": 657.97,
         "brand": "Titan Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/41yldKPFCgL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31gUr-kMBBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41oB3tXlhrL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ALYGF7KGL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41+AFO5xpoL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ZfI-+z3qL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31vQrhZ8TyL._AC_US.jpg"
-        ],
         "description": null,
         "features": [],
         "attributes": [
@@ -8155,14 +7605,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "180 Pounds",
                 "price": 657.97,
-                "remaining_products": 37,
-                "color": "black"
+                "remaining_products": 46,
+                "color": "black",
+                "img": null
             }
         ]
     },
@@ -8171,15 +7620,6 @@
         "title": "Valor Fitness DG-1 Stationary Upright Weight Bench-Tripod Base- Max Weight 750 lb- Heavy Duty Weightlifting Equipment-Shoulders Arms Bicep Triceps Workout- Commercial or Home Gym Use",
         "price": 159.98,
         "brand": "Valor Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81s5uRXVP-L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/415XT2pDCfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/413NjLCpxYL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41I5SqRrfkL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31pNJ1VxiDL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/418UcmTSWiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51C-I0HCcUL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "HEAVY DUTY- Solid Steel frame measuring 2. 75 in. X 2 in. with a Tripod Base for stability throughout the frame. Measures 42 in. high.",
@@ -8328,14 +7768,13 @@
                 "value": "844192000758"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "35 Pounds",
                 "price": 159.98,
-                "remaining_products": 17,
-                "color": "Silver"
+                "remaining_products": 43,
+                "color": "Silver",
+                "img": null
             }
         ]
     },
@@ -8517,15 +7956,6 @@
         "title": "Viking Press Landmine Handle Attachment,for 2 inch Olympic Barbell, Heavy Iron Made Home Gym Equipment for Deadlift Squat Row Press Workout",
         "price": 29.99,
         "brand": "BRTGYM",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61sJfr6UDZL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31Zgaz0DPyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Wwrz6QmXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41OmAGFQn8L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41dK3n2T8bL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51dlwRVhSXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5104DscLKRL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Compatible with 2\" barbell: The ID of our viking press landmine attachment is 2\", which means it works well with any standard 2-inch Olympic bar. Hold down your barbell onto the handle and tighten the knob for a safe workout.",
@@ -8654,14 +8084,13 @@
                 "value": "BRTGYM"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "5 Pounds",
                 "price": 29.99,
-                "remaining_products": 48,
-                "color": "Black"
+                "remaining_products": 43,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -9434,15 +8863,6 @@
         "title": "Soozier Chest Fly Machine and Chest Press Station, Delt Machine Home Gym Equipment for Chest, Back, Pectoral, Rear Deltoid and Shoulder Training",
         "price": 249.99,
         "brand": "Soozier",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61L0XNdiwYL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31DB0qJNJ8L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5151zlfOT1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51uQjfiN-oL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51kTkcVG74L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41r7PqNaUTL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/511fw1tF6FL._AC_US.jpg"
-        ],
         "description": "Description:Transform your workout routine with the Soozier chest fly machine! This versatile chest press machine features an adjustable 4-level seat and resistance up to 132 lbs, which is great for any home gym. Crafted for stability and various upper body exercises, it's a must-have for those serious about strength training. Step up your fitness game with this essential home workout equipment.Features:\u25cf Chest press and butterfly machine target upper body muscles\u25cf Seat adjusts to four levels, enhancing comfort during workouts\u25cf Adjustable resistance fits 1\" opening weight plates up to 132 lbs (weight is not included)\u25cf 2\" x 2\" steel tube construction for enhanced durability\u25cf Anti-slip foot bases ensure stability and safety while exercisingSpecifications:\u25cf Color: Red\u25cf Materials: Steel, PU\u25cf Overall Dimensions: 38.6\" L x 43.3\" W x 78.1\" H\u25cf Seat Size: 11.8\" L x 11\" W x 20.9\" -23.8\" H\u25cf Back Size: 25.2\" L x 11\" W\u25cf Butterfly Arm Spacing: 28.7\" W\u25cf Max Counterweight: 66 lbs. for a side, 132 lbs. in total\u25cf Weight Capacity: 265 lbs.\u25cf Item Label: A91-366V00RDPackage Includes:- 1 x Chest Workout Station- 1 x Manual",
         "features": [
             "Comprehensive Upper Body Training: This chest machine combines a chest press and butterfly arm features, allowing for a versatile upper body workout in your home gym",
@@ -9567,66 +8987,20 @@
                 "value": "196393142219"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Yellow",
-                "thumbnail": "https://m.media-amazon.com/images/I/31DB0qJNJ8L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61L0XNdiwYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81+3-N+AqtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81B2NME1uaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81pO0RY7uSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/713UVYEEPRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ZTbm153AL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Xe0pnn4kL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81GPvOlueRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81TqQWW+wmL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DQSRXK2N",
-                "price": {
-                    "value": 249.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Red",
-                "thumbnail": "https://m.media-amazon.com/images/I/31Ttg9ruWtL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61ADPM4SXZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81eGdH5H1AL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81icfWf6SiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81RMJpWHqdL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71fstXQOhQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Z57MXlZpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81qZRvOTLCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81MvXJmtr4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71RbD16YKXL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DQSLP7RF",
-                "price": {
-                    "value": 249.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Yellow"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 74,
-                "color": "Yellow"
+                "remaining_products": 97,
+                "color": "Yellow",
+                "img": null
             },
             {
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 85,
-                "color": "Red"
+                "remaining_products": 68,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -9693,15 +9067,6 @@
         "title": "ER KANG Power Rack Lateral Raise Attachment, Standing Lateral Raise Machine, Upper Body Strength Training Machine, Home Gym Equipment",
         "price": 149.99,
         "brand": "ER KANG",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/510M0+Fy8LL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31LtB6wju1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41OqyKTwnhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51V3tYxMqkL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Av3uuf6KL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/61+BFnx+-TL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/61Ih7QXg4QL._AC_US.jpg"
-        ],
         "description": "lateral raise power cage rack attachment",
         "features": [
             "Isolation of Lateral Deltoids: The machine provides targeted isolation of the lateral deltoid muscles, which can be beneficial if you're looking to specifically develop this area of your shoulders. Machines generally provide a more controlled movement compared to free weights, reducing the risk of using improper form or cheating during the exercise.",
@@ -9767,14 +9132,13 @@
                 "value": "Fixed Handle"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "15.69 Kilograms",
                 "price": 149.99,
-                "remaining_products": 38,
-                "color": "Red"
+                "remaining_products": 55,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -9783,15 +9147,6 @@
         "title": "Valor Fitness DG-2 Stationary Upright Bench for Seated Shoulder Presses, Bicep Curls, and Tricep Extensions in a Home or Garage Gym",
         "price": 128.98,
         "brand": "Valor Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81uz2GmQEwL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41sjtnmjmML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41CQQIywhIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41hbKCFI5JL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51GU-nF2ITL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ugjqxoQ1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31LtkUH9ChL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "HEAVY DUTY- Solid steel frame measuring 2.75\u201d x 2\u201d with a tripod frame and a rear U-shaped base for stability throughout the frame. Rubber end caps encase each foot for added stability and prevent damage to gym flooring.",
@@ -9932,14 +9287,13 @@
                 "value": "844192001373"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "0.01 Ounces",
                 "price": 128.98,
-                "remaining_products": 55,
-                "color": "Grey"
+                "remaining_products": 77,
+                "color": "Grey",
+                "img": null
             }
         ]
     },
@@ -10111,15 +9465,6 @@
         "title": "Bench Press Machine Multifunctional Chest Press Rack, Adjustable Height Chest Press Machine Space Saving Weight Bench for Chest and AB Workouts",
         "price": 299.99,
         "brand": "GYHPD",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61gHhJ1kN2L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41nj+ebiGYL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51OZ1t01cfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51o-jIgaBPL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51S57arsB-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51uhgnq-q0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51+mzgmW3pL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "[EFFECTIVE TRAINING]: The hardest part of unassisted strength training is maintaining your trajectory, our professional chest presses allow you to train on the trajectory that best stimulates the pectoral muscles, allowing you to work out without borrowing power from other muscles. Great for beginners and experts",
@@ -10220,14 +9565,13 @@
                 "value": "GYHPD"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "81 Pounds",
                 "price": 299.99,
-                "remaining_products": 63,
-                "color": "Black"
+                "remaining_products": 82,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -10519,15 +9863,6 @@
         "title": "Verse Agile Rack - Portable Multipurpose Squat Rack Bench Press Barbell Rack - Heavy Duty Holds Up To 700lbs - 2 Min Set Up - Folds for Easy Storage - Perfect for Home Gyms & Training Studios",
         "price": 449,
         "brand": "Verse",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51RhLHtyelL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51RhLHtyelL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51wtjVinoFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51jDptt97RL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51LjU9rrquL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41DIdVg83JL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/510WFzQqK6L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "THE MOST COMPACT & PORTABLE FULL STRENGTH LIFTING RACK: The Verse Agile Rack is foldable and portable for compact, out-of-site storage when not in use. At only 46.5\" x 9\" x 8\" when folded down, the rack is designed to easily fit in a car, under a bed, or in a closet. It extends to 50 x 41 x 65 inches when deployed & in use.",
@@ -10632,14 +9967,13 @@
                 "value": "67.5 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "67.5 Pounds",
                 "price": 449,
-                "remaining_products": 90,
-                "color": "Black"
+                "remaining_products": 19,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -10768,15 +10102,6 @@
         "title": "GMWD Chest Press Machine, 1050LBS Bench Press Machine with Independent Converging Arms, Adjustable Flat Incline Bench for Chest, AB Workouts, Shoulder Home Gym Equipment, V1",
         "price": 199.99,
         "brand": "GMWD",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61XiyCFNgzL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41Y5J59FV3L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51BELywaHUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41MOHvHxcIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51mCtpO0l0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51K8ZnBXwcL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51t8tpCtxVL._AC_US.jpg"
-        ],
         "description": "GMWD Chest Press Machine",
         "features": [
             "\u3010Great Upper Body Workout\u3011: Chest press machine constructed with 50 x 50(mm), 11 gauge steel tube. 4 larger Anti-slipper foot bases create better stability, and solid enough to load 450lbs, 200lbs per arm, 200lbs capacity of each weight holder. Note: The Detachable Sleeve can fit both 1'' & 2'' plates. Feel free to put weights on it!",
@@ -10870,59 +10195,20 @@
                 "value": "GMWD"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Black-V1",
-                "thumbnail": "https://m.media-amazon.com/images/I/41fYG+L4grL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61Y-p5RNXbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-A2nSYW+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71TNEScddvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71P5MuCB9nL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ImEBLLzlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71gRhKRLKML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711KZI1feqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71bWyrXfgvL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0C4L4CN2Y",
-                "price": null
-            },
-            {
-                "name": "Red-V1",
-                "thumbnail": "https://m.media-amazon.com/images/I/41Y5J59FV3L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61XiyCFNgzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Vt-4ED-3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71a0xthghhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Ytt7zJ8IL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71B3dfS5GoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71G3ZMKghFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71HOKw5VfsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71svN8ltrtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61ELRCMAO5L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CP9CQ4RK",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Red-V1"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 40.369688,
                 "price": 199.99,
-                "remaining_products": 28,
-                "color": "Black"
+                "remaining_products": 38,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 40.369688,
                 "price": 199.99,
-                "remaining_products": 41,
-                "color": "Red"
+                "remaining_products": 23,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -11030,15 +10316,6 @@
         "title": "Landmine Attachment for Barbell, Barbell Bomb for Press, Row, Spin, Split Squats, Natural Rubber Barbell Landmine Attachments, T Bar Row Attachment Fits 2 Inch Olympic Bars",
         "price": 31.99,
         "brand": "HXD-ERGO",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61Li64fJq2L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31P4ean3guL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51yt9X-JmlL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51EuYjUmdzL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51SvGFUUB7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51IoN+PhUeL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51kKqA-BQXL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010Honeycomb Anti-slip Design\u3011 The honeycomb texture design on the surface of the landmine enhances the friction with the ground. The inner wall anti-compression design of the landmine so that the barbell can fit the mine more stable and prevent it to slip off.Can be adapted to any site: wooden floors, tiles, lawns, rubber floors, carpets, concrete floors",
@@ -11163,79 +10440,41 @@
                 "value": "Landmine\u3001Storage bag"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Blue",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0CCY7GQJQ",
-                "price": null
-            },
-            {
-                "name": "Red",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0CCY66Q78",
-                "price": null
-            },
-            {
-                "name": "Black",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0BPRXHTRC",
-                "price": null
-            },
-            {
-                "name": "Green",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0CCY6KRKC",
-                "price": null
-            },
-            {
-                "name": "Gray",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0BZYHX2TL",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.3628736,
                 "price": 31.99,
-                "remaining_products": 30,
-                "color": "Blue"
+                "remaining_products": 51,
+                "color": "Blue",
+                "img": null
             },
             {
                 "weight": 0.3628736,
                 "price": 31.99,
-                "remaining_products": 59,
-                "color": "Red"
+                "remaining_products": 97,
+                "color": "Red",
+                "img": null
             },
             {
                 "weight": 0.3628736,
                 "price": 31.99,
-                "remaining_products": 25,
-                "color": "Black"
+                "remaining_products": 88,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 0.3628736,
                 "price": 31.99,
-                "remaining_products": 53,
-                "color": "Green"
+                "remaining_products": 88,
+                "color": "Green",
+                "img": null
             },
             {
                 "weight": 0.3628736,
                 "price": 31.99,
-                "remaining_products": 37,
-                "color": "Gray"
+                "remaining_products": 18,
+                "color": "Gray",
+                "img": null
             }
         ]
     },
@@ -11336,15 +10575,6 @@
         "title": "Leg Press Machine Pad - Fitness Exercise Attachment for Gym Machines - Body Building Accessory & Equipment - Compact Portable Wedge for Lower Back & Knee - Squat Replacement Hip Workout",
         "price": 44.99,
         "brand": "Motion Molds",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61x9wnty9wL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31gHdEwvJ6L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51KTjMJznbL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51PePhkV9aL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/511hkZNuoJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51brYF8UP0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/511aBPkSuPL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\ud83c\udf31 DECREASE BACK PRESSURE: Experience a safer lift with our leg press attachment that minimizes lower back rounding and maintains your spine's natural curve. This essential piece of workout equipment is designed to seamlessly integrate with standard gym equipment ensuring safety and efficiency. Elevate your training with this gym machine equipment. Our leg press attachment for smith machine ensures compatibility with various gym equipment, making it a sought piece of rehabilitation equipment.",
@@ -11392,14 +10622,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "0.9 Pounds",
                 "price": 44.99,
-                "remaining_products": 70,
-                "color": "Black"
+                "remaining_products": 65,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -11408,15 +10637,6 @@
         "title": "Chest Press Machine for Home Gym, 450LBS Max Weight Bench Press Machine with Independent Converging Arms, Adjustable 30\u00b0 Flat Incline Bench for Chest, Ab Workouts Upper Chest Equipment",
         "price": 189.99,
         "brand": "HOMLANE",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61Z63pl1K+L._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41e4DyxX70L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51MyE7K+7ML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Raibpy6DL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41cVy0QWF-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41+cX82AgjL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51XbxPvwTXL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "PERFECT UPPER BODY CALCIFIER: The chest press machine is made of high-quality steel, which is sturdy and stable, adding to the stability of the machine. In addition to working your arms and chest, you can also perform sit-ups in decline mode. This fitness equipment provides a well-rounded workout experience targeting multiple muscle groups, making it the perfect chest trainer for the home, gym and basement.",
@@ -11517,14 +10737,13 @@
                 "value": "HOMLANE"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "92.99 Pounds",
                 "price": 189.99,
-                "remaining_products": 96,
-                "color": "Red and black"
+                "remaining_products": 64,
+                "color": "Red and black",
+                "img": null
             }
         ]
     },
@@ -12041,15 +11260,6 @@
         "title": "Valor Fitness Chest Press Machine \u2013 Independent Converging Arms - 9 Adjustable Positions - Flat Incline - 250 Pound Max - Home Gym Equipment BF-47",
         "price": 348.98,
         "brand": "Valor Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81HoEs-gryL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41530DqFZzL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41eYt2AHjWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41r5Y4s7xkL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51R3qP91DiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51+lwEsMcJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51IdwV+KOBL._AC_US.jpg"
-        ],
         "description": "The Valor Fitness Adjustable Flat or Incline Chest Bench Press offers an innovative solution for training workouts, providing a safe and efficient way to build strength. Designed with independent converging arms that come together, it allows for varied weight levels on each arm, catering to individual strength needs or focused single arm training. Perfect for home gym and light-commercial gym settings, this bench press's adjustable features and independent arms offer a tailored workout experience. The additional storage pegs help maintain a clean workout space, making it a valuable addition to any fitness enthusiast's equipment collection.",
         "features": [
             "HEAVY DUTY- Constructed with 2\u201d x 2\u201d steel frame with high-density, dual-layered pad measuring 44\u201d x 9. 5\u201d x 2\u201d. U-shaped base ensures strength and durability throughout frame while ankle pads provide safety to user during ab crunch function.",
@@ -12194,14 +11404,13 @@
                 "value": "844192001403"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "83 Pounds",
                 "price": 348.98,
-                "remaining_products": 52,
-                "color": "Metallic Grey and Black"
+                "remaining_products": 88,
+                "color": "Metallic Grey and Black",
+                "img": null
             }
         ]
     },
@@ -12442,16 +11651,6 @@
         "title": "Incline Chest Press Machine,Fitness Chest Press Bench, Adjustable Flat Incline Bench Press With Independent Converging Arms,Bench Press Machine,2000 Lb",
         "price": 473.36,
         "brand": "Hipicute",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61m0UrXfUeL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/413K2JSwKeL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/415cLyWfMnL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41-M2v6IDtL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41v5faDiBrL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41idxS0V56L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31VdEsEC0GL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41KsEKrXkTL._AC_US.jpg"
-        ],
         "description": "Product Name: Weight Chest Press Bench - Weight Bench Press Machine 11 Adjustable Positions Flat Incline for Chest & Arm Ab Workout, Home Gym Equipment Combined Max 2000 LBMain Material:Metal Product Dimensions Assembled Length (in.):60.00 Assembled Width (in.):57.50 Assembled Height (in.):53.60 Weight (lbs.):77.00Product Features This chest press bench is designed fully adjustable function to help you find the best angle for your workout. You can scientifically exercise your chest muscles, forearm muscles, biceps, and triceps with its powerful load capacity. The integrated weight arms can carry loads of up to 550 pounds each, ready for users to hit their new weightlifting records. The flat bench allows users up to 330 pounds to lie on their backs. For the neatness of your home gym, we've also included store racks for your spare weight plates on the legs of the machine, each holding 287 lbs. The ultra-high load of the whole system can fully meet your home fitness needs. Weight Plate NOT Included- We deeply know that scientific exercise methods and angles are critical to protecting our bodies and impacting higher levels of exercise. The key loading arm of this fitness bench can be adjusted at 11 different heights in 1-inch increments, allowing the users to adjust in time according to their physical condition and exercise level. It is fully personalized fitness equipment. The basic size of the bench peg is 1\" in diameter, and we also include 2 replaceable sleeves for the 2\" standard weight plates, which are compatible with the 1\" or 2\", standard or Olympic weight plates in the user's home. - This elegantly designed bench press ideal for the home gym is foldable and the flat bench can be easily folded horizontally or vertically for storage. Overall Dimensions: 60x57.5 inches [Weight Plate NOT Included]",
         "features": [
             "\u2714 BENCH PRESS MACHINE:This wide body bench provides a great upper body workout. Max. weight load 550 lb per arm, 330 lb bench weight limit, and 287 lb capacity of each plate storage peg. Quality in construction, this bench is manufactured with a heavy-duty frame reinforced by the U-shaped base,stability.",
@@ -12551,14 +11750,13 @@
                 "value": "Hipicute"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "77 Pounds",
                 "price": 473.36,
-                "remaining_products": 64,
-                "color": "BLACK & RED"
+                "remaining_products": 69,
+                "color": "BLACK & RED",
+                "img": null
             }
         ]
     },

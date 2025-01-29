@@ -3,6 +3,15 @@ import re
 import json
 import random
 
+def remove_keys(attributes, keys_to_remove):
+    """
+    Removes specified keys from a list of attribute dictionaries.
+    
+    :param attributes: List of dictionaries with 'key' and 'value'.
+    :param keys_to_remove: List of keys to be removed.
+    :return: List of dictionaries excluding specified keys.
+    """
+    return [attr for attr in attributes if attr["key"] not in keys_to_remove]
 
 def parse_weight_string(weight_str):
     """
@@ -198,6 +207,7 @@ def process_variant_data(json_file):
                     "price": base_price,
                     "remaining_products": random.randint(0, 101),
                     "color": item_color,
+                    "img": [{"link": product["thumbnailImage"], "is_primary": True}].append([{"link": img_link, "is_primary": False} for img_link in product["galleryThumbnails"]])
                 }
             )
         else:
@@ -229,8 +239,12 @@ def process_variant_data(json_file):
                     "price": variant_price,
                     "remaining_products": random.randint(0, 101),
                     "color": final_color,
+                    "img": [{"link": variant["thumbnail"], "is_primary": True}].append([{"link": img_link, "is_primary": False} for img_link in variant["images"]])
                 }
                 product["equipment_options"].append(equipment_option)
+
+
+        del product["variantDetails"], product["variantAttributes"], product["thumbnailImage"], product["galleryThumbnails"]
 
     return data
 

@@ -214,16 +214,6 @@
         "title": "Hydrow Pro Rowing Machine with Immersive 22\" HD Rotating Screen - Stows Upright | Live and On-Demand at-Home Workouts, Membership Required",
         "price": 1794.99,
         "brand": "Hydrow",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61BysoMfflL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31Ub1u7CAtL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41j3j+GmSaL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31hGjDNu+aL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5115ebedlJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41oPRqscUzL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51JgzrBpYKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51MI-sPHfYL._AC_US.jpg"
-        ],
         "description": "Working out at home is a whole lot more exciting when you\u2019re transported to, say, a Scandinavian fjord. Hydrow\u2019s immersive experience takes you all around the world for full-body workouts \u2013 over 5,000, to be exact \u2013 led by world-class Athletes in stunning destinations. With a proprietary computer-controlled electromagnetic drag mechanism designed to mimic the feel of rowing on water, getting onto the Hydrow Pro feels about as close as it gets to really getting out there.",
         "features": [
             "WORK MORE MUSCLES IN LESS TIME. Build with low-impact workouts that engage more than 86% of your muscles in under 20 (yes, 20!) minutes.",
@@ -380,14 +370,13 @@
                 "value": "145 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "145 Pounds",
                 "price": 1794.99,
-                "remaining_products": 101,
-                "color": "Black/ Silver"
+                "remaining_products": 58,
+                "color": "Black/ Silver",
+                "img": null
             }
         ]
     },
@@ -396,13 +385,6 @@
         "title": "Finer Form Multi-Functional Weight Bench for Full All-in-One Body Workout \u2013 Versatile Adjustable Workout Bench for Home Gym. Fitness equipment perfect for Back HyperExtension, Bench Press, Roman Chair Exercise, Sit up. Adjusts to Decline or Flat Bench.",
         "price": 149.99,
         "brand": "FF Finer Form",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61nLeVE+-uL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/411VhSaOhmL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411CPLdvUKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51+9G0ewXlL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51yE-wbdJtL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Full-body Adjustable Weight Bench - Work Your Arms, Back, Chest, Glutes, Hamstrings and Core. Use for Bench Press, As a Back Extension Machine Or for Hundreds of Other Weight Training Exercises.",
@@ -525,14 +507,13 @@
                 "value": "680193710605"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "17.2 Kilograms",
                 "price": 149.99,
-                "remaining_products": 29,
-                "color": "Black, Red"
+                "remaining_products": 69,
+                "color": "Black, Red",
+                "img": null
             }
         ]
     },
@@ -541,15 +522,6 @@
         "title": "Body-Solid Best Fitness (BFFT10B) Functional Trainer Cable Machine, Full Body Workout Weight Stacks, Chest and Shoulder Exercise Home Gym LAT Pulldown Machines with 190lb Weights Stack, Black",
         "price": 647.99,
         "brand": "Body solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51rSkdgHiVL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/417BYk3WbUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/91lMrr17QPL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/91jBiL7zLhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/91DP5Ep3ijL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/91aJ0ngrQDL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/414Os6qfE7L._AC_US.jpg"
-        ],
         "description": "The BFFT10R brings affordable, functional training to customers of all exercise levels. The BFFT10R features adjustable pulleys, which swivel 180 degrees providing a wide variety of starting positions. The 190lb weight stack is challenging for most users. The no cable change design allows you to go from exercise to exercise quickly. Two adjustable nylon cable handles included with the unit. Body-Solid sets the standard for quality gym equipment.",
         "features": [
             "Premium Material - The Body-Solid BFFT10B 190lb Stack Home Gym is constructed to last with a heavy duty steel frame, ensuring maximum stability and durability of your workout equipment. The 190-lb selectorized weight stack makes this gym a highly reliable and efficient exercise machine for your home.",
@@ -629,14 +601,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "330 Pounds",
                 "price": 647.99,
-                "remaining_products": 33,
-                "color": "Black"
+                "remaining_products": 65,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -1312,16 +1283,6 @@
         "title": "CREWORKS Electric Wire Stripper Machine, 0.06\"-1\" Automatic Wire Stripping Machine, Wire Stripping Tool for 1.5-25 mm Scrap Wire, 5 Channel Copper Wire Stripper Power Tool for Leftover Cable Recycling",
         "price": 175.5,
         "brand": "CREWORKS",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71cj8wIOoJL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/517xNwLSJSL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51hqYvRtJ+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41RJdqhOoKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51gLnBeHWkL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51CxrqLXFvL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51HZO+eFvHL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/91Kkf0lv2qL.SS125_PKplay-button-mb-image-grid-small_.png"
-        ],
         "description": null,
         "features": [
             "Wire Stripping Made Easy: The Creworks electric wire stripper removes insulation from old electrical wiring with speeds up to 98 ft./min. (30 m/min.), powering its durable steel blade with an efficient 180W motor",
@@ -1442,64 +1403,20 @@
                 "value": "Plastic"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "WSMS025B2",
-                "thumbnail": "https://m.media-amazon.com/images/I/517xNwLSJSL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71cj8wIOoJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/714vQwjzqLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/612Zk7mMlSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/715y2TdcNwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71FJexywhnL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71TRCFFnmnL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71pyXWZ3ZkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71og71ySfLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711aAj1DtGL._AC_SL1500_.jpg"
-                ],
-                "asin": "B078HRLFHX",
-                "price": {
-                    "value": 175.5,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "For 11/0-18 Gauge Wires",
-                "thumbnail": "https://m.media-amazon.com/images/I/41c6O7rbjML._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71J9NJ9bzTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81eKXv3sblL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/710wn+WH2NL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81x0lbF70FL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71R39kN3P5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71hsM7smZbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61zVq1AQM5L._AC_SL1500_.jpg"
-                ],
-                "asin": "B09R6JR63F",
-                "price": {
-                    "value": 269.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Model",
-                "value": "WSMS025B2"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 12.7912944,
                 "price": 175.5,
-                "remaining_products": 61,
-                "color": "Blue, Yellow, Black"
+                "remaining_products": 79,
+                "color": "Blue, Yellow, Black",
+                "img": null
             },
             {
                 "weight": 12.7912944,
                 "price": 269.99,
-                "remaining_products": 22,
-                "color": "Blue, Yellow, Black"
+                "remaining_products": 42,
+                "color": "Blue, Yellow, Black",
+                "img": null
             }
         ]
     },
@@ -1807,15 +1724,6 @@
         "title": "Marcy Olympic Multi-Purpose Strength Training Cage with Pull Up Bars/Adjustable Bar Catchers and Pulley SM-3551",
         "price": 399.99,
         "brand": "MARCY",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61hil6do9RL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31LVRvkafUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41e22AYV8dL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41TAh4ATdSL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51G+3DYgPEL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51eEo3A19dL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/4153+YnQsHL._AC_US.jpg"
-        ],
         "description": "Allow yourself to exercise in the comfort of your own home with the Olympic Strength Cage from Marcy!Tone your upper and lower body parts with this exceptional cage system. It is designed with an adjustable, commercial-style bar catcher to suit various users, letting you move from bench press to squat confidently with ease. Additionally, these commercial-style bar catches allow easy and hassle-free barbell replacements.Build up your chest, shoulders, back, biceps, triceps, and abdomen using the cable pulleys to target all muscles. The high and low pulleys are made for intense upper and lower body exercises to help you build a strong, confident, and healthy physique.If you\u2019re not up for weightlifting, this workout machine also includes a pull-up station with multiple hand grip positions that allow a multitude of pull-up exercises. It offers you four possible hand grip positions to shift your exercises so you can use the wider grip for toning your back muscles and the narrower grip for strengthening your bicep muscles. It also includes foam-padded dip bars that are specially made for high-intensity triceps and chest development.To keep everything in place, this cage features weight plate shelves on the bottom left, allowing you to pile dumbbells, kettle weights, and other gym accessories for easy access and storage. This weight store trolley holds 150 pounds.Burn calories and increase your lean muscle mass with the Marcy Olympic Strength Cage!",
         "features": [
             "ADJUSTABLE STYLE BAR CATCHES \u2013 This strength cage is designed with an adjustable, commercial-style bar catch so that you can move from bench press to squats easily. This workout machine also has a multi-handle pull up station with wide and narrow grips.",
@@ -1895,14 +1803,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "77 Kilograms",
                 "price": 399.99,
-                "remaining_products": 33,
-                "color": "Gray"
+                "remaining_products": 47,
+                "color": "Gray",
+                "img": null
             }
         ]
     },
@@ -2041,16 +1948,6 @@
         "title": "Lat Bar Cable Machine Attachment, Curl Pulldown Bar with Full Rotation and Rubber Handle for Gym, Strength Workout, Body Training, Muscle Building, 30 Inch",
         "price": 33.89,
         "brand": "CRGHS",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/41cv44thP+L._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31skoASZY0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/311oRyTLiKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41P58ZaJEUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ogPkY2qKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31V5ALm6ISL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41vktMvIvNL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411Gz8g7tXL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "THE CRGHS LAT BAR\uff1aAttach to any pulley or cable weight machine and is ideal for several lat and upper body focused exercises like lat pulldowns, straight arm pulldowns and more.",
@@ -2183,14 +2080,13 @@
                 "value": "CRGHS"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "3 Kilograms",
                 "price": 33.89,
-                "remaining_products": 11,
-                "color": "Silver"
+                "remaining_products": 18,
+                "color": "Silver",
+                "img": null
             }
         ]
     },
@@ -2532,16 +2428,6 @@
         "title": "LAT Pull Down Bars Cable Machine Attachments, Rowing T-bar V-bar Set, Ergonomic Back Strength Training Handle Grips, for Cable Machine Rowing Machine Home Gym Equipment (Heavy Duty Pack of 5)",
         "price": 106.47,
         "brand": "vopit",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71wQPTzuAjL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/410tSYTUF4L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51n2i+B-vzS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/415T5pZMEXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ShF58XWiS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41bSmNAf6VL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41mmoqzQmZS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41P3EsrXNPS._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Multiple Purpose: Easily attach to your home or gym fitness equipments like LAT machine, cable machine, rowing machine, smith machine, power cage. With the aid of above equipments, you can fully train back muscle group, this is meaningful upgrade for your back work out equipment.",
@@ -2676,14 +2562,13 @@
                 "value": "vopit"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "31.44 Pounds",
                 "price": 106.47,
-                "remaining_products": 99,
-                "color": "Black"
+                "remaining_products": 69,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -2692,16 +2577,6 @@
         "title": "VEVOR Electric Wire Stripping Machine, 0.06''-0.98'' Automatic Wire Stripper Machine, 60 W, Wire Stripper with Visible Stripping Depth Reference, 6 Round & 1 Flat Channels Electric Wire Stripper",
         "price": 229.9,
         "brand": "VEVOR",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61fxqwh064L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/4135WPi5yVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51323e0IILL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51yuGc5Z3eL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51-lTXqTYIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51c054TjLfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51J2zIFwRBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/911m3Ana0RL.SS125_PKplay-button-mb-image-grid-small_.png"
-        ],
         "description": null,
         "features": [
             "High Efficient Stripping: The VEVOR wire stripping machine adopts a 60 W gear motor, which is powerful as the strong 180 W motor but compact. The gearbox leads to fast stripping speed, plus the hands-free design increases security and convenience. Widely used in cable/wire manufacturers, recycling plants, and copper products factories.",
@@ -2810,71 +2685,20 @@
                 "value": "Metal"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "7 Channels",
-                "thumbnail": "https://m.media-amazon.com/images/I/4135WPi5yVL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61fxqwh064L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71VPeIMyHxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71x7Ci2b4oL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71aFfIOgQNL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71CghD8Da1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71mFdKJY8XL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71rpo0htu5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71yXvrjflQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/617uylNpJAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ZkB3BvzKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61DNAIjaIBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61yS0JDBLZL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0C26ZVQBN",
-                "price": {
-                    "value": 229.9,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Manual Sliding Design",
-                "thumbnail": "https://m.media-amazon.com/images/I/31KVKvv8O7L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51UnZy0g+KL._AC_SL1200_.jpg",
-                    "https://m.media-amazon.com/images/I/71Z1rZuIe+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/615oAnWfA1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61ZO1JNpyxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61bwqfY28mL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61uW3XbypJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61kKQWS095L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71sH5QRCD3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/614+8vCyucL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61i+CbjwyfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61eX0VmIpRL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CN8J655G",
-                "price": {
-                    "value": 69.8,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Size",
-                "value": "7 Channels"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 14.968536,
                 "price": 229.9,
-                "remaining_products": 52,
-                "color": "Orange"
+                "remaining_products": 85,
+                "color": "Orange",
+                "img": null
             },
             {
                 "weight": 14.968536,
                 "price": 69.8,
-                "remaining_products": 83,
-                "color": "Orange"
+                "remaining_products": 62,
+                "color": "Orange",
+                "img": null
             }
         ]
     },
@@ -2981,15 +2805,6 @@
         "title": "Mikolo 2\" x 2\" Folding Wall Mounted Squat Rack, 1000 Pounds Capacity Power Rack with Pull Up Bar, J Hooks and Other Attachments, Space-Saving Home Gym",
         "price": 239.99,
         "brand": "Mikolo",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61EgN561cOL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/417kgmp0jnL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51K2iq1ZFzL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Spk8sG7FL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51MoM55m05L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/510N-cj1obL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51YZoeyHwzL._AC_US.jpg"
-        ],
         "description": "Mikolo 2\" x 2\" Folding Wall Mounted Squat Rack, 1000 Pounds Capacity Power Rack with Pull Up Bar, J Hooks and Other Attachments, Space-Saving Home Gym Package",
         "features": [
             "Maximize Your Space - Transform any empty wall into a world-class power rack with Mikolo Folding Squat Rack. Foldable and space-saving, it only takes 15 seconds to switch between storage and use. Folded Size: 47''\u00d72''\u00d785.8''. Open Size: 47''\u00d719.7''\u00d785.8''. Get ready to pump some heavy iron without sacrificing your storage space.",
@@ -3073,62 +2888,20 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [
-            {
-                "name": "WHITE",
-                "thumbnail": "https://m.media-amazon.com/images/I/31Ndrn4wm+L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61Iis4byBqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71JDTD8QcdL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71SnUSEalBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61+qevcTqDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71NBJNrPRLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/713asEauzkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61w6lPtO3BL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0B975ZSP9",
-                "price": {
-                    "value": 229.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "RED",
-                "thumbnail": "https://m.media-amazon.com/images/I/417kgmp0jnL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61EgN561cOL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716paYIJYgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61jne8knNgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ePul69lWL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71eUKAXlfJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71zX7jkrwuL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71TTd0TzNiL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BXPH61H5",
-                "price": {
-                    "value": 239.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "RED"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 36.28736,
                 "price": 229.99,
-                "remaining_products": 95,
-                "color": "White"
+                "remaining_products": 24,
+                "color": "White",
+                "img": null
             },
             {
                 "weight": 36.28736,
                 "price": 239.99,
-                "remaining_products": 82,
-                "color": "Red"
+                "remaining_products": 93,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -4039,16 +3812,6 @@
         "title": "Automatic Wire Stripper Machine, 180W Electric Wire Stripping Machine for Copper Wires, 0.06\"-1\" 60 ft/min with Visible Stripping Depth Reference Recycling Scrap Motorized Wire Stripper Tool",
         "price": 159.99,
         "brand": "Frstem",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71k3TGXAUDL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41kyTWF2MzL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41a5U391mwL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/413ZgklDuxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51DmhNTmgJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41s-ZAIfeWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41P75pjRiwL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51tQklkWoFL.SS125_PKplay-button-mb-image-grid-small_.jpg"
-        ],
         "description": null,
         "features": [
             "\u2705[\ud835\udc07\ud835\udc22\ud835\udc20\ud835\udc21 \ud835\udc12\ud835\udc2d\ud835\udc2b\ud835\udc22\ud835\udc29\ud835\udc29\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc04\ud835\udc1f\ud835\udc1f\ud835\udc22\ud835\udc1c\ud835\udc22\ud835\udc1e\ud835\udc27\ud835\udc1c\ud835\udc32] With a 180W 1/4 HP single phase induction motor and fast stripping speed of 60 feet per minute, this wire stripper saves you time, effort, and money. Plus, its laborsaving design increases security and convenience.",
@@ -4165,14 +3928,13 @@
                 "value": "Aluminum"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "25.41 Pounds",
                 "price": 159.99,
-                "remaining_products": 7,
-                "color": "Blue"
+                "remaining_products": 61,
+                "color": "Blue",
+                "img": null
             }
         ]
     },
@@ -5458,15 +5220,6 @@
         "title": "Ankle Straps for Cable Machine Woman, Balency Padded Ankle Strap for Cable Machine Kickback, Cable Ankle Attachment for Gym, Ankle Cuff, Kickback Ankle Strap for Glute Workout, Leg Extensions",
         "price": 14.99,
         "brand": "Balency",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81PSpPY50pL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41HJqx5eMQL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51jFtU3Ul-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51CDLO9PPOL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51mFmII5HlL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51cyMTNSUPL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51zm3KVgx-L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010More D-ring More Exercises\u3011- Equipped with 4 D-rings, ankle straps for cable machines woman achieve various exercise movements such as glute kick, hip abductors, inner thigh kick, leg curl, exercises for your thighs, glutes, hips, hamstrings and calves. Build shapely legs and firmer booty",
@@ -5576,14 +5329,13 @@
                 "value": ""
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "0.36 Kilograms",
                 "price": 14.99,
-                "remaining_products": 73,
-                "color": "Black"
+                "remaining_products": 22,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -6141,16 +5893,6 @@
         "title": "Automatic Electric Scrap Wire Stripper Machine, Cable Stripping Machine 6 Channels & 5 Carbide Blade, Stripping Wire Tool from 300MCM to 15 AWG, Efficient recycling of Copper Wire (Automatic)",
         "price": 119.99,
         "brand": "Tanfix",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71oXnGpjhfL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41wpHnFGPLL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51DA4f3152L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/515PxLoDgRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51V14i8S6NL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Yb8R0DfHL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51WU6R1nwUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/818TAxQVaWL.SS125_PKplay-button-mb-image-grid-small_.jpg"
-        ],
         "description": null,
         "features": [
             "Superior Quality & FCC Certified: Made from durable solid aluminum alloy, the Tanfix wire stripper is FCC certified (RLT2305009-01). Built to endure harsh environments and heavy use, it meets strict regulatory standards",
@@ -6264,86 +6006,27 @@
                 "value": "Metal"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Automatic",
-                "thumbnail": "https://m.media-amazon.com/images/I/41wpHnFGPLL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71oXnGpjhfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Z6Wk+2-gL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81liG9Fb9WL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71I+heULGVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/810JkE2RR3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71zT89h5QyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/818Y7zyDAcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71PT+4pV7jL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0C4SMM1H7",
-                "price": {
-                    "value": 119.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Drill Stand Jig",
-                "thumbnail": "https://m.media-amazon.com/images/I/516ols1ed6L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71KXP9LGsHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/613GO3eg7wL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71srruZX8KL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81npQzq+-zL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71dg7jWbsXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711JWvyfGAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ng66BeSzL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CG35ZDFT",
-                "price": {
-                    "value": 19.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Drill-Powered Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/51WrmaVSKFL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81Lg7-i+okL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81qM4xtHxgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81bjBcsleqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81JZvAawjfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/718TM5B2MQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81MdkaNuoVL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BXKJ3T7F",
-                "price": {
-                    "value": 62.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Item Shape",
-                "value": "Automatic"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 4.100471679999999,
                 "price": 119.99,
-                "remaining_products": 68,
-                "color": "Automatic"
+                "remaining_products": 43,
+                "color": "Automatic",
+                "img": null
             },
             {
                 "weight": 4.100471679999999,
                 "price": 19.99,
-                "remaining_products": 41,
-                "color": "Tan"
+                "remaining_products": 9,
+                "color": "Tan",
+                "img": null
             },
             {
                 "weight": 4.100471679999999,
                 "price": 62.99,
-                "remaining_products": 13,
-                "color": "Red, Black"
+                "remaining_products": 42,
+                "color": "Red, Black",
+                "img": null
             }
         ]
     },
@@ -7138,15 +6821,6 @@
         "title": "RENRANRING Gym Exercise Handles, Replacement Handle Attachments for Cable Machine Pulleys, Resistance Band and Strength Trainer, Pull Down Workout Accessories, Home Gym Add On Equipment",
         "price": 9.98,
         "brand": "RENRANRING",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71jUnATJkYL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51DkSTNiigL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5196jAMXVVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51eGX00Bd1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51V8bI+9GpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51AV4WQRvRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51AdrTLsBmL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Quality Strength Trainng Equiment: Ultra durable heavy duty resistance band handles for bodybuilders and gym enthusiasts. That thick woven nylon webbing and ABS core grips which proves more durable, max hold up to 560 lbs allowing your to engage in more intense exercise.",
@@ -7230,194 +6904,55 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [
-            {
-                "name": "Pink",
-                "thumbnail": "https://m.media-amazon.com/images/I/51PS5jXtv7L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81ODpmATcKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711-Unf8bvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71hU88sq2aL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71wPITINMvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81pUAew8eiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71B5F8hy4HL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81od+1wiAYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71I9QsyA5CL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71UTiLtYcoL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CLY8FF71",
-                "price": {
-                    "value": 14.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "1 Black-Orange",
-                "thumbnail": "https://m.media-amazon.com/images/I/51DkSTNiigL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71jUnATJkYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71yo1xG89RL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/714OQu6XxXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WWWUam7mL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81bh9tb31kL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71DI7i6p0GL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ZTSkO0ayL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81wTyMZwiPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81VfjELuYiL._AC_SL1500_.jpg"
-                ],
-                "asin": "B088NSW1RV",
-                "price": {
-                    "value": 9.98,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black, Blue",
-                "thumbnail": "https://m.media-amazon.com/images/I/51iA8w5-WxL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81zQqX+Hv9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81RJnJZNVDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71PbuvDmZ9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81QBjcLwZdL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81IBdn7SjKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81x18gPWzgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81NlPvC+EoL._AC_SL1500_.jpg"
-                ],
-                "asin": "B08DR5YD55",
-                "price": {
-                    "value": 9.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Blue",
-                "thumbnail": "https://m.media-amazon.com/images/I/51buFelllWL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81burr7FhsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71oiLC-+F7L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71hIFHNa7+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71CdGb3nLNL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81iEFCbwVmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81hxf2Kb5JL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71DwgOvjloL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/812UYxfBBbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81WXYn0kDjL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BLCC3HZN",
-                "price": {
-                    "value": 9.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black, Pink",
-                "thumbnail": "https://m.media-amazon.com/images/I/51EdO0ewpzL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/812CMhu9tmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71GOjx7Pp+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71icSAIECsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71c5mr+aBoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71zEL5dwsFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71yfC3ImGjL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81+gbtiSqpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71NOhBztfRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81BMxpUoTmL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CM126H16",
-                "price": {
-                    "value": 9.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/51BpNzAHJmL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81arymL11ZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71kjysZGRVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716-PM6A2uL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71i0gERKnmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ady8Hi++L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71JORsghrkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71wDJClM8-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81qm73F+VxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81WSYrRxZ5L._AC_SL1500_.jpg"
-                ],
-                "asin": "B08NYJ7XFS",
-                "price": {
-                    "value": 13.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black,Red",
-                "thumbnail": "https://m.media-amazon.com/images/I/51hDWfbjl9L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81Q13-UzWhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/713Fh5VXkzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Rd28o3EzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/719mIvZMLEL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71yfhikNO+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81fFmocXWSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71hXQaMYIqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81c7BB+9HsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81UPsBbc0+L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CTQCZ2TZ",
-                "price": {
-                    "value": 11.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "1 Black-Orange"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.0453592,
                 "price": 14.99,
-                "remaining_products": 80,
-                "color": "Pink"
+                "remaining_products": 7,
+                "color": "Pink",
+                "img": null
             },
             {
                 "weight": 0.0453592,
                 "price": 9.98,
-                "remaining_products": 4,
-                "color": "Orange, Black"
+                "remaining_products": 50,
+                "color": "Orange, Black",
+                "img": null
             },
             {
                 "weight": 0.0453592,
                 "price": 9.99,
-                "remaining_products": 25,
-                "color": "Blue, Black"
+                "remaining_products": 19,
+                "color": "Blue, Black",
+                "img": null
             },
             {
                 "weight": 0.0453592,
                 "price": 9.99,
-                "remaining_products": 83,
-                "color": "Blue"
+                "remaining_products": 62,
+                "color": "Blue",
+                "img": null
             },
             {
                 "weight": 0.0453592,
                 "price": 9.99,
-                "remaining_products": 36,
-                "color": "Black, Pink"
+                "remaining_products": 51,
+                "color": "Black, Pink",
+                "img": null
             },
             {
                 "weight": 0.0453592,
                 "price": 13.99,
-                "remaining_products": 80,
-                "color": "Black"
+                "remaining_products": 14,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 0.0453592,
                 "price": 11.99,
-                "remaining_products": 24,
-                "color": "Red, Black"
+                "remaining_products": 71,
+                "color": "Red, Black",
+                "img": null
             }
         ]
     },
@@ -7426,16 +6961,6 @@
         "title": "VEVOR Electric Wire Stripping Machine, 370W 0.06\" - 1.5\" Automatic Motorized Cable Stripper w/ 75 Feet/Minute Speed, 11 Channels 10 Blades Strip Machinery, Scrap Handling Tool for Recycling Copper",
         "price": 346.99,
         "brand": "VEVOR",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/7129LG9+dhL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51v+94wTh+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51sVJGVNAiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51GA6uQZt3L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51hnGT+kjUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51SKCmrd24L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51r3YRLpc3L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51XzI6gqp7L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Automatically Strip Scrap Wire: This electric wire stripping machine can automatically strip wires, saving you time, labor and costs.",
@@ -7556,63 +7081,20 @@
                 "value": "Aluminum"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "0.06\"-1.5\"",
-                "thumbnail": "https://m.media-amazon.com/images/I/51v+94wTh+L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/7129LG9+dhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81iA9oWzDFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71XigYuw09L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81TZ-ZjdVNL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71R4NGHvfUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71eGlw4kq1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71piunI-07L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71xClI58dyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71rQLDmso1L._AC_SL1500_.jpg"
-                ],
-                "asin": "B09TVJSXLB",
-                "price": null
-            },
-            {
-                "name": "0.06\"-1.18\"",
-                "thumbnail": "https://m.media-amazon.com/images/I/51A8-1uaeLL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71IFnhRwfOL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71BQMkfS0mL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WeTDoZDCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71a3myH0R7L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71IoaXeyPhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71PknusVIVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71fXciDwbCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71l0rnqmQaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71hjcr8SrNL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71hM2eEVnsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-hq5Yss2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61G6YrX7Y3L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CMZCNQNF",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Size",
-                "value": "0.06\"-1.5\""
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 23.586784,
                 "price": 346.99,
-                "remaining_products": 60,
-                "color": "Blue"
+                "remaining_products": 66,
+                "color": "Blue",
+                "img": null
             },
             {
                 "weight": 23.586784,
                 "price": 346.99,
-                "remaining_products": 9,
-                "color": "Blue"
+                "remaining_products": 55,
+                "color": "Blue",
+                "img": null
             }
         ]
     },
@@ -8688,15 +8170,6 @@
         "title": "Body-Solid Powerline Cable Crossover Machine - High and Low Pulleys Gym Equipment for Home, Functional Trainer, Total Body Exercise, Cable Fly and Crossover Workouts",
         "price": 459,
         "brand": "Body solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51-3HKm3x1L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31U0fKgqAJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/91+jWWIpLrL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/91ScGKyp0NL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Kkw6eqvBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/413EG5cjM1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41gCIzp5fUL._AC_US.jpg"
-        ],
         "description": "Product DescriptionAchieve total body conditioning with the free motion Powerline by Body-Solid Cable Crossover Machine. An extra-wide and tall mainframe offers easy access to a virtually endless array of high and low pulley exercises, letting you exercise almost every major muscle group in your body. The fully functional professional carriage system utilizes four high resin pulleys on each side with patented nylon bushing technology and eight sealed ball bearings for smooth, continuous movement during your cable workout. The top and bottom pulleys swivel smoothly with more than 180-degrees of motion for frictionless training in all directions. This cable cross machine accepts both Olympic and standard plates (each sold separately) and comes with two cable handles and one ankle strap. When assembled, the Powerline Cable Crossover Machine measures 112 by 39 by 82 inches (L x W x H) and weighs 133 pounds. It is backed by the Powerline 10-Year In-Home , which covers the frame for 10 years and all other parts for one year. Add the Lat Pull-Up/Chin-Up Station (GCA2) to add even more versatility (sold separately).Amazon.comThe Cable Crossover Machine from Powerline offers smooth and friction-free 180-degree motion that allows you to exercise virtually every major muscle group in your body. The system features a wide and tall mainframe with a sturdy build, that provides access to a variety of high and low pulley exercises. The professional carriage system utilizes patented nylon bushing technology and eight sealed ball bearing with large-diameter high resin pulleys to guarantee smooth operation. The top and bottom pulleys swivel with over 180 degrees of movement for frictionless guidance in all directions. The system includes the mainframe as well as two cable handles and one ankle strap. Chin-up handles, standard and Olympic weight plates, and collars can be used with this system but are sold separately.Features and Specifications:Professional carriage system Professional carriage system Patented nylon bushing technology Patented nylon bushing technology Eight sealed ball bearing Eight sealed ball bearing High resin pulleys High resin pulleys Top and bottom pulleys offer over 180 degrees of movement Top and bottom pulleys offer over 180 degrees of movement Accepts both Olympic and standard plates Accepts both Olympic and standard plates Chin-up handles, weight plates, and collars optional (sold separately) Chin-up handles, weight plates, and collars optional (sold separately) Assembled dimensions: 82 by 112 by 39 inches (H x L x W) Assembled dimensions: 82 by 112 by 39 inches (H x L x W)",
         "features": [
             "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
@@ -8780,14 +8253,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "118 Pounds",
                 "price": 459,
-                "remaining_products": 70,
-                "color": "Black"
+                "remaining_products": 24,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -9084,15 +8556,6 @@
         "title": "Hydrow Wave Rowing Machine with 16\" HD Touchscreen & Speakers - Foldable | Live Home Workouts, Subscription Required",
         "price": 1494.99,
         "brand": "Hydrow",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61b6sd8OxgL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31k6C7EJ++L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51o9WO5PDuL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31BHEko7pOL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5115ebedlJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41F2V0eiKpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51k+AcP6FOL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "WORK MORE MUSCLES IN LESS TIME. Build with low-impact workouts that engage more than 86% of your muscles in under 20 (yes, 20!) minutes.",
@@ -9241,126 +8704,41 @@
                 "value": "102 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Forest",
-                "thumbnail": "https://m.media-amazon.com/images/I/31zeKwOrYcL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51-kpk-H6JL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51HdgH-J9TL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71u-wr3T17L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71n9ga3Z3tL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71pMTFshNcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ZLNNTWEPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61wqpjTQJwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71bUi8NYIdL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CMR44PFF",
-                "price": null
-            },
-            {
-                "name": "Sunset",
-                "thumbnail": "https://m.media-amazon.com/images/I/31dgf4QjOIL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61coIjC0kwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51hdLTsGbeL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71u-wr3T17L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71n9ga3Z3tL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71pMTFshNcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ZLNNTWEPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61wqpjTQJwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71bUi8NYIdL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CMR3FM5M",
-                "price": null
-            },
-            {
-                "name": "Pirate Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/31k6C7EJ++L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61b6sd8OxgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81MpYCf7QHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/611En3+dA4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81KdfRlumTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/712Y0D9MdAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/815RFzucgzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/914Mw4MrcAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71yFdxncLpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71dsf2OfXrL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71RvZf0GeKL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BHLXDZ2N",
-                "price": null
-            },
-            {
-                "name": "Sunrise",
-                "thumbnail": "https://m.media-amazon.com/images/I/3172CLnlaLL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61VsNit7ROL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51osm7MzKJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71u-wr3T17L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71n9ga3Z3tL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71pMTFshNcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ZLNNTWEPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61wqpjTQJwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71bUi8NYIdL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CMR4LC9P",
-                "price": null
-            },
-            {
-                "name": "River",
-                "thumbnail": "https://m.media-amazon.com/images/I/31kQPkKSW1L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61vGDI1T6-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51dOe-m8Q-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71u-wr3T17L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71n9ga3Z3tL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71pMTFshNcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ZLNNTWEPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61wqpjTQJwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71bUi8NYIdL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CMR51W3N",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Pirate Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 46.266384,
                 "price": 1494.99,
-                "remaining_products": 25,
-                "color": "Pirate Black"
-            },
-            {
-                "weight": 46.266384,
-                "price": 1494.99,
-                "remaining_products": 2,
-                "color": "Pirate Black"
+                "remaining_products": 40,
+                "color": "Pirate Black",
+                "img": null
             },
             {
                 "weight": 46.266384,
                 "price": 1494.99,
                 "remaining_products": 75,
-                "color": "Black"
+                "color": "Pirate Black",
+                "img": null
             },
             {
                 "weight": 46.266384,
                 "price": 1494.99,
-                "remaining_products": 90,
-                "color": "Pirate Black"
+                "remaining_products": 63,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 46.266384,
                 "price": 1494.99,
-                "remaining_products": 15,
-                "color": "Pirate Black"
+                "remaining_products": 64,
+                "color": "Pirate Black",
+                "img": null
+            },
+            {
+                "weight": 46.266384,
+                "price": 1494.99,
+                "remaining_products": 28,
+                "color": "Pirate Black",
+                "img": null
             }
         ]
     },
@@ -9369,15 +8747,6 @@
         "title": "Ankle Resistance Bands, Ankle Bands for Working Out with Cuffs, Resistance Bands for Leg Butt Training Workout Equipment for Kickbacks Hip Gluteus Training Exercises, Ankle Strap with Exercise Bands",
         "price": 13.97,
         "brand": "HPYGN",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71LuHlmfAOL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41YHcBnX0WL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51EeaNi48sL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51+BpxiB15L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51BOj0SUyfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51u5oxrgEiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41PQ0P0O3yL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "3 Different Levels: 3 exercise bands, provide you with 3 level of resistance bands, 10/20/30 lb let you match. Adjustable design System can adapt to different people to exercise, training for 15 minutes every day, Get a bikini booty and ripped abs and be the envy of your friends at your next pool party.",
@@ -9486,135 +8855,41 @@
                 "value": "Yoga, Exercise and Fitness, Pilates, Body Building, Strength Training"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "1-Orange",
-                "thumbnail": "https://m.media-amazon.com/images/I/41YHcBnX0WL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71LuHlmfAOL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71xFb1IcJGL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WpX6wnLQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71tjtbQz8ZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71lGbG4Vl6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71bi-M7SJ1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61XYMgHt5QL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81y3s0mvKUL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0B1TYZQD8",
-                "price": {
-                    "value": 13.97,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Blue",
-                "thumbnail": "https://m.media-amazon.com/images/I/51l6XqCrtZL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71Oy0cGqjmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81BMbaAVYXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81TOipC9VTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81lXtByGuWL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71mHd-fy57L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71p3V2cu47L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81eo9Jsb8jL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D4LN62Z9",
-                "price": {
-                    "value": 14.97,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Purple",
-                "thumbnail": "https://m.media-amazon.com/images/I/51TBw-oPMyL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81WSLAllz9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81vMAfFWO-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71vqm43yfML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71lBhY4PN1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Cn3lkEW3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71kQINLGPZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71tNCiLrukL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CLJ8WCSL",
-                "price": {
-                    "value": 15.98,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Pink",
-                "thumbnail": "https://m.media-amazon.com/images/I/41KTUXbZabL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71pIzbGgWtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71KkgTRwdxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71maH-Y3SDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71R0YG5FvUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61DKeGP1mFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Ca2vXgYeL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61Nv7NILtdL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CHP4V78G",
-                "price": {
-                    "value": 14.98,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41m0fp8agcL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/717pfrPnyqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ZbmxPAn6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71oaq8z4NRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Xm9ckFhKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-eXqXqQiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71EFHctVlsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61ndfbHp49L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0C4Y7ZHMJ",
-                "price": {
-                    "value": 16.98,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "1-Orange"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.4082328,
                 "price": 13.97,
-                "remaining_products": 37,
-                "color": "Orange"
+                "remaining_products": 86,
+                "color": "Orange",
+                "img": null
             },
             {
                 "weight": 0.4082328,
                 "price": 14.97,
-                "remaining_products": 100,
-                "color": "Blue"
+                "remaining_products": 85,
+                "color": "Blue",
+                "img": null
             },
             {
                 "weight": 0.4082328,
                 "price": 15.98,
-                "remaining_products": 40,
-                "color": "Purple"
+                "remaining_products": 71,
+                "color": "Purple",
+                "img": null
             },
             {
                 "weight": 0.4082328,
                 "price": 14.98,
-                "remaining_products": 101,
-                "color": "Pink"
+                "remaining_products": 29,
+                "color": "Pink",
+                "img": null
             },
             {
                 "weight": 0.4082328,
                 "price": 16.98,
-                "remaining_products": 5,
-                "color": "Black"
+                "remaining_products": 3,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -9623,15 +8898,6 @@
         "title": "SELEWARE LAT Pull Down Cable Bar Machine Attachments for Gym, Rotating Straight Bar with Non-Slip Rubber Handle Grip, Universal Attachment for Cable Machines Pulley System & Resistance Bands",
         "price": 19.99,
         "brand": "SELEWARE",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/41PCG+J4cSL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31hNd8D81IL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51oMDx2VtIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Kx3ZVlDAL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41z2fBMRWOL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Fk5eTSgJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/518T6wAeQVL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010Rotating Straight Bar\u3011The pull/press down bar suits all cable machine system for home commercial gym, the 360 swivel can support to workout exercise push down, press down, rows, and curls. Easy to adjust the angle, without wrenching your wrists into uncomfortable positions",
@@ -9687,184 +8953,62 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [
-            {
-                "name": "18\" & 22\" Rotating Straight Bar",
-                "thumbnail": "https://m.media-amazon.com/images/I/41hkKmdVwDL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61K6MIEJyyL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/51uq3s+oq0L._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61t9rj5Y9WL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/51QjKQKyXhL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/713NFTSAgpL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61KaGn+stAL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61wPypCyTKL._AC_SL1000_.jpg"
-                ],
-                "asin": "B0D1MVNHK5",
-                "price": null
-            },
-            {
-                "name": "18\" Rotating Straight Bar W/ Flat Rubber Handle",
-                "thumbnail": "https://m.media-amazon.com/images/I/31uAf0horsL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51+gKNnGhoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61qUnvFMEUL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/51Yl2xRD37L._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61G9b17XD8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61Vi4Vu6UIL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/51TJ+Sifg9L._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/511cUMQmdKL._AC_SL1000_.jpg"
-                ],
-                "asin": "B0B6VHG6VK",
-                "price": null
-            },
-            {
-                "name": "22\" Rotating Straight Bar W/ Flat Rubber Handle",
-                "thumbnail": "https://m.media-amazon.com/images/I/31xgx9asEbL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51gYRyth-TL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/611wX8XGOGL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/51Wwpx5Fz1L._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61G9b17XD8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61Vi4Vu6UIL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/51cEQfNzHuL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/51fvOHtrHOL._AC_SL1000_.jpg"
-                ],
-                "asin": "B0B6VQL9J8",
-                "price": null
-            },
-            {
-                "name": "B. Tricep Rope + Double D Handle",
-                "thumbnail": "https://m.media-amazon.com/images/I/41GrY+flk7L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71h3l7EGP6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61gDf5QpXgL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/614R+dlJ+yL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/6195tGIljHL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61+9O66rSvL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/81bgAfmxbwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71OE4WPoR2L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CZ9LW5MC",
-                "price": null
-            },
-            {
-                "name": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
-                "thumbnail": "https://m.media-amazon.com/images/I/31hNd8D81IL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/41PCG+J4cSL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61xjx6KTj+L._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61BIp5J00lL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61NMfK73zlL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/51vtNGUEFtL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61Vi4Vu6UIL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/71KcNuKikAL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/51i95OZr2jL._AC_SL1000_.jpg"
-                ],
-                "asin": "B09DSZF4ZL",
-                "price": null
-            },
-            {
-                "name": "E. Straight Bar + Tricep Rope + Double D Handle",
-                "thumbnail": "https://m.media-amazon.com/images/I/51VmqOOsOVL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71xt1twZ+XL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61gDf5QpXgL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/614R+dlJ+yL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/6195tGIljHL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61+9O66rSvL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/618o3xT6ugL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/81DQMS7BpAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71GNQBYQauL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D6RF7WDP",
-                "price": null
-            },
-            {
-                "name": "22\" Rotating Straight Bar W/ Convex Rubber Handle",
-                "thumbnail": "https://m.media-amazon.com/images/I/31KC-JvBPZL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51d8IuJ6yRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51QjKQKyXhL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61t9rj5Y9WL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/518OJo8Ol5L._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/71KcNuKikAL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/51pBOpO+lbL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/61Vi4Vu6UIL._AC_SL1000_.jpg"
-                ],
-                "asin": "B09DSWYHJZ",
-                "price": null
-            },
-            {
-                "name": "D. Double D Handle",
-                "thumbnail": "https://m.media-amazon.com/images/I/41hFZ31dGxL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71wGXXrmnML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71LkTjMG0UL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/614e5CvG3PL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61RFKdBBH5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71DMxupoutL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/713fw2hGuBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61ZR52qic1L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BQ6TMQVF",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "18\" Rotating Straight Bar W/ Convex Rubber Handle"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 40,
-                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle"
+                "remaining_products": 73,
+                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
+                "img": null
             },
             {
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 40,
-                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle"
+                "remaining_products": 53,
+                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
+                "img": null
             },
             {
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 46,
-                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle"
+                "remaining_products": 49,
+                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
+                "img": null
             },
             {
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 19,
-                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle"
+                "remaining_products": 58,
+                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
+                "img": null
             },
             {
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 16,
-                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle"
+                "remaining_products": 39,
+                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
+                "img": null
             },
             {
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 15,
-                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle"
+                "remaining_products": 77,
+                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
+                "img": null
             },
             {
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 97,
-                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle"
+                "remaining_products": 91,
+                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
+                "img": null
             },
             {
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 21,
-                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle"
+                "remaining_products": 64,
+                "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
+                "img": null
             }
         ]
     },
@@ -10666,16 +9810,6 @@
         "title": "HPYGN Exercise Handle, Replacement Fitness Equipment for Pilates, Yoga, Strength Trainer, Pull Down Home Gym Red, Grey, Blue Working Out Handle",
         "price": 9.97,
         "brand": "HPYGN",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81aVlxH51bL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51ee4AcBhTL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51VjbYX97TL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51HxREgOPsL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Y5m9MluxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51pdogwvlTL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51nV5CS-bxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51+oRd5AinL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Super Strong Exercise Attachment- HPYGN exercise handles can serve as a suitable replacement for worn-out or damaged handles on your fitness equipment. Whether you need to upgrade your existing handles or replace broken ones, these are an integral part of any home or commercial gym, the resistance band handles can bring gym enthusiasts good firm grip and push-pull experience.",
@@ -10796,164 +9930,55 @@
                 "value": "Strength Training, Exercise and Fitness"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Yellow Handles",
-                "thumbnail": "https://m.media-amazon.com/images/I/5101Iifq+aL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81+pkUgqvlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/7137ycxVyyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71wNVvLhdTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81OKqm1kZbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71fnL82ggSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71sdSdCng5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71z1BWjQOIL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CLJ1K7R5",
-                "price": null
-            },
-            {
-                "name": "1-Red Handles",
-                "thumbnail": "https://m.media-amazon.com/images/I/51ee4AcBhTL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81aVlxH51bL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71usTKLyFyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71vPYdvJJvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71V4rKVkHaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71M0bzWhRlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71BLFRceueL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71MptrRRoDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Sn8Pu4IkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71w42Rq-RiL._AC_SL1500_.jpg"
-                ],
-                "asin": "B09VGPRVCJ",
-                "price": null
-            },
-            {
-                "name": "Black Handles",
-                "thumbnail": "https://m.media-amazon.com/images/I/51cI-u7qTxL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81tii2F1BPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71lRPjTiOKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71TzQ9sbOgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71qC1zxVsqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71SFkfAERyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ntCrk7mcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71khY2keFgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711mL4xXvzL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BY4KR9G7",
-                "price": null
-            },
-            {
-                "name": "Blue Handles",
-                "thumbnail": "https://m.media-amazon.com/images/I/516kawZ3fdL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/811eJL1R9-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71bZ-VUmA5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Hgi-8OzfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ftONXJO9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71R8D-O9fmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71LlH5fl+CL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/715BMpWVdxL._AC_SL1500_.jpg"
-                ],
-                "asin": "B09VGPJ8RL",
-                "price": null
-            },
-            {
-                "name": "Orange Handles",
-                "thumbnail": "https://m.media-amazon.com/images/I/51jKb+F6pwL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81q00kFBxoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71MbyyREepL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711wMpnhS7L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ngC26-j1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/712q8oUKIOL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/719MFNr6DGL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81lhR8D8kHL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CLJ2RWF9",
-                "price": null
-            },
-            {
-                "name": "All Blue Handles",
-                "thumbnail": "https://m.media-amazon.com/images/I/51fo5meNmuL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81siJh-rAsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71nCWD9ofQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71hGQjCGjyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/718iiNMnhPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/712DJodSTBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71iH3N+s-+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81-JQjHHEGL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CLJ51QM6",
-                "price": null
-            },
-            {
-                "name": "Grey Handles",
-                "thumbnail": "https://m.media-amazon.com/images/I/51PeROkl-JL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81Dg7K6KQSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71emDCIt6+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71V0td+DGsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/7121bH2gt8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71T-xjD+FmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/717WJc0WmBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71iGlFE5hYL._AC_SL1500_.jpg"
-                ],
-                "asin": "B09VGPKBCW",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "1-Red Handles"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 3,
-                "color": "Yellow"
+                "remaining_products": 52,
+                "color": "Yellow",
+                "img": null
             },
             {
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 95,
-                "color": "Red"
+                "remaining_products": 77,
+                "color": "Red",
+                "img": null
             },
             {
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 10,
-                "color": "Black"
+                "remaining_products": 1,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 54,
-                "color": "Blue"
+                "remaining_products": 75,
+                "color": "Blue",
+                "img": null
             },
             {
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 37,
-                "color": "Orange"
+                "remaining_products": 82,
+                "color": "Orange",
+                "img": null
             },
             {
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 53,
-                "color": "Blue"
+                "remaining_products": 28,
+                "color": "Blue",
+                "img": null
             },
             {
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 22,
-                "color": "1-Red Handles"
+                "remaining_products": 98,
+                "color": "1-Red Handles",
+                "img": null
             }
         ]
     },
@@ -10962,15 +9987,6 @@
         "title": "Ankle Strap for Cable Machine, Padded Ankle Straps for Cable Machine Kickbacks, Glute Workouts, Leg Extensions, Curls, Booty Hip Abductors Exercise, Adjustable Comfort Ankle Cuff for Gym",
         "price": 9.99,
         "brand": "HPYGN",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81eZ0RjUy1L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51jAFDA9osL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51lcLua2psL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51V+po8qNkL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/516LaXEhGcL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51R7oKFTHYL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/419XAozPDAL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010ADDED AN EXTRA ADJUSTABLE STRAP\u3011In order to solve the problem of the cable ankle strap sliding, our ankle cuff not only added an extra adjustable strap for secure your ankles, but also reinforce the strap part between bands and carabiner, more safe and durable. When you do kickback, it can protect your ankles not to slip easily and let your back kick more standard, won't strain the muscle, precise control of your inner and outer leg exercise, quickly get the body and physique of your dreams.",
@@ -11030,79 +10046,41 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [
-            {
-                "name": "Single-Orange",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0CM2DMHBQ",
-                "price": null
-            },
-            {
-                "name": "1Pair-Orange",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0BRN2KVBZ",
-                "price": null
-            },
-            {
-                "name": "1Pair-Pink",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0CHDQVZHJ",
-                "price": null
-            },
-            {
-                "name": "1Pair-Black",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0CG69KQLH",
-                "price": null
-            },
-            {
-                "name": "Single-Yellow",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0CM2D5FNV",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "1Pair-Orange"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 59,
-                "color": "Orange"
+                "remaining_products": 58,
+                "color": "Orange",
+                "img": null
             },
             {
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 13,
-                "color": "Orange"
-            },
-            {
-                "weight": 0.1360776,
-                "price": 9.99,
-                "remaining_products": 3,
-                "color": "Pink"
+                "remaining_products": 91,
+                "color": "Orange",
+                "img": null
             },
             {
                 "weight": 0.1360776,
                 "price": 9.99,
                 "remaining_products": 32,
-                "color": "Black"
+                "color": "Pink",
+                "img": null
             },
             {
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 48,
-                "color": "Yellow"
+                "remaining_products": 79,
+                "color": "Black",
+                "img": null
+            },
+            {
+                "weight": 0.1360776,
+                "price": 9.99,
+                "remaining_products": 92,
+                "color": "Yellow",
+                "img": null
             }
         ]
     },
@@ -11111,14 +10089,6 @@
         "title": "Power Systems Black Chrome Cable Attachments Bar and Accessory Rack (61947)",
         "price": 485.5,
         "brand": "Power Systems",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51GhB+9qT1L._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41XzaiuWc8L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31qemyMQssL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31KcAVxNIRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31jJPvPeYAL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31ATAqsEtqL._AC_US.jpg"
-        ],
         "description": "Gray, power coated steel rack for cable attachments and accessories. Five double hooks for longer bars, and six hooks for hanging the smaller cable attachments. Two shelves for other accessories. Assembly required. Gray. Rack only; Black Chrome attachments sold separately. Since 1986, Power Systems' passion for fitness has been fueled by our customers. Power Systems is committed to ensuring people have the tools to lead active lives with professional-grade products, cutting-edge educational materials, and elite customer service. Power Your Potential is the philosophy that guides everything Power Systems stands for.",
         "features": [
             "SOLID STEEL CONSTRUCTION: Made of heavy-duty powder coated steel that can withstand the commercial fitness environment, as well as high-end home gyms. The rubber feet included with your rack will provide ample protection against damage to your floors. The bar cradles add extra protection for your cable attachments, as well as allow for easy and quick access to your equipment.",
@@ -11218,14 +10188,13 @@
                 "value": "62 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "62 Pounds",
                 "price": 485.5,
-                "remaining_products": 62,
-                "color": "Gray"
+                "remaining_products": 35,
+                "color": "Gray",
+                "img": null
             }
         ]
     },
@@ -11540,15 +10509,6 @@
         "title": "Heavy Duty Exercise Handles, Gym Handles for Cable Machine Attachment, Grip Gym Equipment, Resistance Bands, and Weight Lifting (Set of 2)",
         "price": 7.99,
         "brand": "COOBONS FITNESS",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81WtQx32cML.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51KhJyuzkWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41A4SkMymiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Q2Vo6csyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51q4szeFWxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51lP3Ucxo9L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41I6cHaJudL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Superior Strength Gym Attachment: Experience the best workout with gym handles, made from thick nylon straps and reinforced stitching for unbeatable durability. Extra-wide ergonomic ABS core grips and sweat-absorbing foam provide ample space for your hands and ultimate comfort.",
@@ -11649,94 +10609,34 @@
                 "value": "Gym Handles for Cable Machine Attachment"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/51KhJyuzkWL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81WtQx32cML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71tS0j26jvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Ucgm9EsiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71tXlnyuVTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71gNoj62YUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71kcnVQNtQL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D1K6N974",
-                "price": null
-            },
-            {
-                "name": "Black Blue",
-                "thumbnail": "https://m.media-amazon.com/images/I/518rWpRH0FL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81aPGMiVGOL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/719ZDTMtvqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71oB7y8npGL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71rJahp0luL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71TdwJaZnCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71gDu448kaL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D1K7RYMT",
-                "price": null
-            },
-            {
-                "name": "Black Orange",
-                "thumbnail": "https://m.media-amazon.com/images/I/51ruNSgc0UL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81gcOvuTuJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71puq6VzvjL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71GipzSUTFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71R6x1bPK7L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71L7NMdCC7L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WwTkVgsgL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BGR7FPFQ",
-                "price": null
-            },
-            {
-                "name": "Black Red",
-                "thumbnail": "https://m.media-amazon.com/images/I/51F9NxlnahL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81+9ph4vNbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/712-WlLPJvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71jGk11hzNL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/7119VV3-2EL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71h1B7V+CSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/712Kqm5m3bL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D1K9N5VL",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 28,
-                "color": "Black"
+                "remaining_products": 70,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 55,
-                "color": "Blue, Black"
+                "remaining_products": 21,
+                "color": "Blue, Black",
+                "img": null
             },
             {
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 82,
-                "color": "Orange, Black"
+                "remaining_products": 7,
+                "color": "Orange, Black",
+                "img": null
             },
             {
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 76,
-                "color": "Red, Black"
+                "remaining_products": 87,
+                "color": "Red, Black",
+                "img": null
             }
         ]
     },
@@ -11745,15 +10645,6 @@
         "title": "39.4'' LAT Pull Down Bar 360 Swivel and 3.74in/95mm Silent Cable Pulley for Pulley System Gym, LAT Pulldown Attachments Cable Machine Attachments",
         "price": 22.99,
         "brand": "Berufexp",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61-yQs24lcL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41-C4Pwl6cL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41PWIFwe4CL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41c8lklaasL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51EVnHzXghL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/514SWqZugRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/512y2ydj-2L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010360 ROTATING AND SPACE SAVING DESIGN\u3011The 360-rotating design of the lat pull down bar attachment reduces maximum friction to improve your exercise performance. Beside, this bar is composed of three parts which is more space saving and they will be connected firmly without any shaky. ALL INSTALLATION TOOLS ARE INCLUDED IN THE PACKAGE.",
@@ -11862,84 +10753,27 @@
                 "value": "Berufexp"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Lat Bar",
-                "thumbnail": "https://m.media-amazon.com/images/I/411huBE7tBL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61tc5tZPywL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/616Txr4Ob1L._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/71rjv40dbTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71xUFNINQIL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71W5+z8cjkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71z+V9jPEmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61ylKrMRFML._AC_SL1023_.jpg"
-                ],
-                "asin": "B08VNTHJ5J",
-                "price": {
-                    "value": 22.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "360 Swivel Lat Bar",
-                "thumbnail": "https://m.media-amazon.com/images/I/41-C4Pwl6cL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61-yQs24lcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61Z4yMUUNiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/613Al3D1n2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Ei4C-i9KL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71nk6Hbf0gL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71idd60Tg+L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D59W94TZ",
-                "price": {
-                    "value": 22.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Cable Pulley",
-                "thumbnail": "https://m.media-amazon.com/images/I/41AWkrU5MLL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61GCaHTqIgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/719-ghqMdmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71tf0mS5cwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71KIEpFhFcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Xt8alvxzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71lWg+BWyuL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BKPB396S",
-                "price": {
-                    "value": 18.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "360 Swivel Lat Bar"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 1.3154168,
                 "price": 22.99,
-                "remaining_products": 68,
-                "color": "360 Swivel Lat Bar"
+                "remaining_products": 99,
+                "color": "360 Swivel Lat Bar",
+                "img": null
             },
             {
                 "weight": 1.3154168,
                 "price": 22.99,
-                "remaining_products": 62,
-                "color": "360 Swivel Lat Bar"
+                "remaining_products": 94,
+                "color": "360 Swivel Lat Bar",
+                "img": null
             },
             {
                 "weight": 1.3154168,
                 "price": 18.99,
-                "remaining_products": 89,
-                "color": "360 Swivel Lat Bar"
+                "remaining_products": 91,
+                "color": "360 Swivel Lat Bar",
+                "img": null
             }
         ]
     },
@@ -13466,15 +12300,6 @@
         "title": "Sparthos Kickback Ankle Straps for Cable Machines",
         "price": 15.97,
         "brand": "Sparthos",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71YXvkWj-xL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/518NfDpiYlL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51hPqO+CTGL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Mq4v6HRfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/511YLwL1owL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51kPz-EwV-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51s6ernklmL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u2705 GET A LOWER BODY YOUR GIRLFRIENDS WILL ENVY - Sparthos Padded Velcro Ankle Straps help you reach your goal of glutes, quads, hips, hamstrings, calves, and thighs that are beach ready. Designed with kickback exercises in mind to get those glutes fit, fine and firm. Tone, trim, and tighten your leg and glute muscles for a better butt and a lower body that\u2019ll stop traffic.",
@@ -13518,40 +12343,20 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [
-            {
-                "name": "Flamingo Pink (Pack of 2)",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0BHNWPPD8",
-                "price": null
-            },
-            {
-                "name": "Iron Gray (Pack of 2)",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0BHNVYD3J",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Iron Gray (Pack of 2)"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.0907184,
                 "price": 15.97,
-                "remaining_products": 19,
-                "color": "Pink"
+                "remaining_products": 72,
+                "color": "Pink",
+                "img": null
             },
             {
                 "weight": 0.0907184,
                 "price": 15.97,
-                "remaining_products": 35,
-                "color": "Gray"
+                "remaining_products": 95,
+                "color": "Gray",
+                "img": null
             }
         ]
     },
@@ -13612,15 +12417,6 @@
         "title": "StripMeister Original Drill-Powered Wire Stripper Machine - Manual Wire Stripping Made Easy, Copper Wire Stripper, Drill Wire Stripper, Electric Wire Stripping & Stripping Tool Drill Attachment",
         "price": 142,
         "brand": "STRIPMEISTER",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/715BWwemX8L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41N4pof8AGL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51hWYlc2o1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Eo1TpLv4L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/512W1dadKgL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51IFByz2DIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/417ZRtRihUL.SS125_PKplay-button-mb-image-grid-small_.jpg"
-        ],
         "description": null,
         "features": [
             "ULTRA-GRIP WIRE STRIPPER TECHNOLOGY: Our stripping machine improved with ultra-grip wire feeder technology. This technology massively increases torque, reduces slippage and straightens mangled wires to get them through the drill-powered wire stripper tool. It will untangle mangled wires effortlessly without any slips or jams. This unique cable stripper is an industrial grade automatic wire stripper for all your scrap wire.",
@@ -13725,14 +12521,13 @@
                 "value": "Aluminum"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "4.2 Pounds",
                 "price": 142,
-                "remaining_products": 64,
-                "color": "Silver"
+                "remaining_products": 95,
+                "color": "Silver",
+                "img": null
             }
         ]
     },
@@ -13854,15 +12649,6 @@
         "title": "Gym Multifunctional Extension Straps (Pair) - for Cable Attachments, Pulley Machines, Pull-ups, Triceps, Rows - Add New Exercises and Grips to Your Workout, Heavy Duty, 5 Lengths Options",
         "price": 29.99,
         "brand": "THEFITGUY",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/91NhzWv5xaL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41ifbDmrkxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41RBgMC3jVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51eTq52hdsL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/513L5uX-YKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41-T4LnFd8L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41p8+DXoqnL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "THE ULTIMATE ACCESSORY: Add Countless New Exercises & Grip Variations to your Routine",
@@ -13960,14 +12746,13 @@
                 "value": "Modern"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "700 Grams",
                 "price": 29.99,
-                "remaining_products": 20,
-                "color": "Black"
+                "remaining_products": 14,
+                "color": "Black",
+                "img": null
             }
         ]
     },

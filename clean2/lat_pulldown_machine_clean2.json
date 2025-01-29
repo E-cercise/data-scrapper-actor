@@ -117,15 +117,6 @@
         "title": "GMWD Chest Press Machine, 1050LBS Bench Press Machine with Independent Converging Arms, Adjustable Flat Incline Bench for Chest, AB Workouts, Shoulder Home Gym Equipment, V1",
         "price": 199.99,
         "brand": "GMWD",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61XiyCFNgzL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41Y5J59FV3L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51BELywaHUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41MOHvHxcIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51mCtpO0l0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51K8ZnBXwcL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51t8tpCtxVL._AC_US.jpg"
-        ],
         "description": "GMWD Chest Press Machine",
         "features": [
             "\u3010Great Upper Body Workout\u3011: Chest press machine constructed with 50 x 50(mm), 11 gauge steel tube. 4 larger Anti-slipper foot bases create better stability, and solid enough to load 450lbs, 200lbs per arm, 200lbs capacity of each weight holder. Note: The Detachable Sleeve can fit both 1'' & 2'' plates. Feel free to put weights on it!",
@@ -219,59 +210,20 @@
                 "value": "GMWD"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Black-V1",
-                "thumbnail": "https://m.media-amazon.com/images/I/41fYG+L4grL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61Y-p5RNXbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-A2nSYW+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71TNEScddvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71P5MuCB9nL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ImEBLLzlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71gRhKRLKML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711KZI1feqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71bWyrXfgvL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0C4L4CN2Y",
-                "price": null
-            },
-            {
-                "name": "Red-V1",
-                "thumbnail": "https://m.media-amazon.com/images/I/41Y5J59FV3L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61XiyCFNgzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Vt-4ED-3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71a0xthghhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Ytt7zJ8IL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71B3dfS5GoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71G3ZMKghFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71HOKw5VfsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71svN8ltrtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61ELRCMAO5L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CP9CQ4RK",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Red-V1"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 40.369688,
                 "price": 199.99,
-                "remaining_products": 57,
-                "color": "Black"
+                "remaining_products": 77,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 40.369688,
                 "price": 199.99,
-                "remaining_products": 54,
-                "color": "Red"
+                "remaining_products": 0,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -1319,15 +1271,6 @@
         "title": "48\" LAT Pull Down Bar,Solid Curl Bar Cable Attachment with Double Hook,Cable Curl Bar Attachment for Dual Pulley Cable Machines Gym,Functional Trainer Strength Workout,Body Training,Muscle Building",
         "price": 49.99,
         "brand": "MUHYHY",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51Uuyn0ninL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/21CHwZXuv6L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51fcJo3qFIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41bVH-7ekcL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/510iH0S-9FL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51d-nR7675L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/318tpszDEyL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Heavy Duty Steel LAT Bar: Made of solid heavy-duty steel with rubber handles and revolving hanger, with polished chrome coating, waterproof and fireproof, safe for fitness and workout",
@@ -1457,14 +1400,13 @@
                 "value": "774351316751"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "12.98 Pounds",
                 "price": 49.99,
-                "remaining_products": 99,
-                "color": "black"
+                "remaining_products": 29,
+                "color": "black",
+                "img": null
             }
         ]
     },
@@ -1708,16 +1650,6 @@
         "title": "Wall Mounted Cable Pulley System, LAT Pulldown Machine with LAT Pulldown Bar Weight Plate Loading Pin, Cable Pulley System for Home Gym Exercise",
         "price": 72.99,
         "brand": "FVNBXG",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71BM9kWsUWL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41sSxRHGvZL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41W7NwZldNL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41KeECujD1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ApryVd8HL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41utyNgl6uL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41JPGDvVyEL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51W6Y4SKzzL._AC_US.jpg"
-        ],
         "description": "Wall mounted LAT pulley system includes: 1 x Main Steel Frame, 1 x Fixed Pulley, 2 x Steel Cable, 1 x Weight Loading Pin, 4 x Carabiners, 6*Screws, 3 x Wrench, 1 x LAT Pulldown Bar.",
         "features": [
             "High-quality materials: The main frame of this pulley system gym attachment is made of solid steel construction with a powder-coated finish, ensuring durability and longevity. The silent pulleys of this cable machine home gym attachment remain stable during workouts, providing a smooth and quiet operation without any extra noise.",
@@ -1798,14 +1730,13 @@
                 "value": "Cable/Pulley straps"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "10 Pounds",
                 "price": 72.99,
-                "remaining_products": 52,
-                "color": "Black"
+                "remaining_products": 71,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -2337,15 +2268,6 @@
         "title": "Lat Pulldown Attachments Lat Pull Down Bar Storage Rack for Mag Grip Lat Pulldown Machines Attachments Stand Cable Attachment Storage Rack for Home Gym and Gym Wall Storage",
         "price": 47.59,
         "brand": "Whiidoom",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51865fO+MjL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/21aaEF0JGnL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411YmdabKrL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41m6K0N9amL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41P0IyCNDZL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/512zVDqvxlL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41asMwOZGTL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Multifunctional storage: Not only can it store the LAT Pull Down Bar, but it can also be used to store resistance bands, yoga rings, tensioners and skipping ropes.",
@@ -2442,14 +2364,13 @@
                 "value": "5"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "2.72 Kilograms",
                 "price": 47.59,
-                "remaining_products": 69,
-                "color": "Black"
+                "remaining_products": 90,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -3188,10 +3109,6 @@
         "title": "Body-Solid Home Gym Tools MB148A Aluminum LAT Pulldown Bar Attachment for Pulley Cable Machine - Straight Arm Lat Pull Down Bar Accessories for Gyms, Strength Workout Equipment, Muscle Building",
         "price": 54.95,
         "brand": "Body-Solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/41KRCe-bF8L.__AC_SY300_SX300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/01WRVboj4ML._AC_US.jpg"
-        ],
         "description": "The Body-Solid Tools MB148A Aluminum Let Bar attaches to any pulley or cable weight machine and is ideal for several let and upper body focused exercises like let pulldowns, straight arm pulldowns and more. Constructed with high-strength 1-\u00bc\u201d aluminum, the MB148A features knurled grips for easy handling throughout workouts. The MB148A\u2019s aluminum construction is rust-proof and lightweight giving it distinct advantages over comparable steel cable attachment bars. The smooth, fluid center of the MB148A swivels and rotates in constant, steady, uninterrupted motion and increased exercise variety.",
         "features": [
             "Premium Material: Our lat pull down bar provides additional strength and durability to your workout routine. Constructed with heavy grade aluminum, our lat bar is far more heavy-duty than plastic or wooden lat bars. It is designed to have a strong grip, allowing for maximum muscle activation during your lat pull down routine.",
@@ -3328,14 +3245,13 @@
                 "value": "638448015111"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "4.41 Pounds",
                 "price": 54.95,
-                "remaining_products": 25,
-                "color": "Silver"
+                "remaining_products": 43,
+                "color": "Silver",
+                "img": null
             }
         ]
     },
@@ -3344,15 +3260,6 @@
         "title": "Body Solid (LVLA) Leverage LAT Pulldown Machine Includes Weight Plate Holders, Commercial and Home Gym Machines and Workout Equipment for Upper Body Exercises",
         "price": 1335,
         "brand": "Body solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51DmQpzUfvL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41qItBwp0KL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41lOy3Uk6AL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41KLSeLAZhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Ramnl7aAL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41F4AD1sClL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51KnfxSV52L._AC_US.jpg"
-        ],
         "description": "The Body-Solid Leverage Lat Pulldown Machine (LVLA) features a dual-axis diverging arm for biomechanically correct lat pulldowns that target your back, arm, and shoulder muscles. 360-degree articulating hand grips float freely and rotate naturally while you pull. Adjustable leg hold-down pads and gas-assisted seat adjustments allow the machine to be operated by users of all sizes.With a 2- by 3-inch 11-gauge high-tensile strength steel mainframe and durable double-stitched upholstery, this lat exercise machine is durably constructed to stand up to rigorous use in gyms and clubs. Sealed bearing pivot points provide smooth, friction-free movement through every intense workout. Weight plate holders are built into the machine for easy storage (plates sold separately).When assembled, the Body-Solid Leverage Lat Pulldown Machine measures 76 by 49 by 84 inches (L x W x H) and weighs 183 pounds. It is backed by the Body-Solid Lifetime In-Home Warranty and Full Commercial Warranty.",
         "features": [
             "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bike machine, ellipticals, cage workout rack, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
@@ -3424,14 +3331,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "182 Pounds",
                 "price": 1335,
-                "remaining_products": 51,
-                "color": "Black"
+                "remaining_products": 10,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -3440,15 +3346,6 @@
         "title": "Body-Solid Best Fitness (BFFT10B) Functional Trainer Cable Machine, Full Body Workout Weight Stacks, Chest and Shoulder Exercise Home Gym LAT Pulldown Machines with 190lb Weights Stack, Black",
         "price": 647.99,
         "brand": "Body solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51rSkdgHiVL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/417BYk3WbUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/91lMrr17QPL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/91jBiL7zLhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/91DP5Ep3ijL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/91aJ0ngrQDL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/414Os6qfE7L._AC_US.jpg"
-        ],
         "description": "The BFFT10R brings affordable, functional training to customers of all exercise levels. The BFFT10R features adjustable pulleys, which swivel 180 degrees providing a wide variety of starting positions. The 190lb weight stack is challenging for most users. The no cable change design allows you to go from exercise to exercise quickly. Two adjustable nylon cable handles included with the unit. Body-Solid sets the standard for quality gym equipment.",
         "features": [
             "Premium Material - The Body-Solid BFFT10B 190lb Stack Home Gym is constructed to last with a heavy duty steel frame, ensuring maximum stability and durability of your workout equipment. The 190-lb selectorized weight stack makes this gym a highly reliable and efficient exercise machine for your home.",
@@ -3528,14 +3425,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "330 Pounds",
                 "price": 647.99,
-                "remaining_products": 41,
-                "color": "Black"
+                "remaining_products": 18,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -3544,14 +3440,6 @@
         "title": "SQUATZ Tricep Straight Bar - Lat Straight Pull Down Bar - Non-Slip Handles Cable Attachment with Revolving Swivel, Fits With Cable Machine Systems for Muscle Building, Exercises Triceps Back Muscles",
         "price": 20.69,
         "brand": "SQUATZ",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61DIuUL3u2L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/310sob3kInL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41UXFfOyO7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41lfUmCDwlL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51hT3n3YSwL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51zVsGnLRbL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "UNIVERSAL DESIGN: The 19.69\u201d LAT Straight Pull Down Bar Cable Attachment is great for numerous lat & upper body-focused workouts such as lat pulldowns, straight arm pulldowns, and more. It can be attached to any pulley/cable weight machine",
@@ -3688,14 +3576,13 @@
                 "value": "842893155104"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "5.1 Pounds",
                 "price": 20.69,
-                "remaining_products": 85,
-                "color": "Black"
+                "remaining_products": 98,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -3704,12 +3591,6 @@
         "title": "CAP Barbell Exercise Machine Attachment | Multiple Options",
         "price": 39.85,
         "brand": "Cap Barbell",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71P7LB3MylL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31NrXT3+cdL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31Gv04KmYsL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31lGOzEcNlL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "USES - Attach this LAT bar to your home gym or Smith machine to build upper body strength",
@@ -3862,151 +3743,55 @@
                 "value": "702556814543"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Double D Handle, Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/31iwsG27YxL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71CknQBHnhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71wYJiEht9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/713s4J3SilL._AC_SL1500_.jpg"
-                ],
-                "asin": "B08H8XPH77",
-                "price": {
-                    "value": 20.15,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Straight Pro-Style LAT Bar. 24in",
-                "thumbnail": "https://m.media-amazon.com/images/I/21Z4NNRH5ML._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/4184UAkWF5L._AC_SL1500_.jpg"
-                ],
-                "asin": "B000RNW79M",
-                "price": {
-                    "value": 24.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Tricep Rope , Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41iQ7TtoSIL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81ggC2x1rHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71fNd-697NL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81in0Qxqi+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716auPPzZjL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/21vY58pGPoL._AC_.jpg"
-                ],
-                "asin": "B000RNW7AG",
-                "price": {
-                    "value": 14.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Triceps Press Down Bar",
-                "thumbnail": "https://m.media-amazon.com/images/I/31epbkWidML._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71FpvfTgxeL._AC_SL1500_.jpg"
-                ],
-                "asin": "B00UAKP6KO",
-                "price": {
-                    "value": 24,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "D Handle Cable Attachment",
-                "thumbnail": "https://m.media-amazon.com/images/I/41wLcd16rjL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/516AbkqKoaL._AC_SL1050_.jpg"
-                ],
-                "asin": "B000RNU2A8",
-                "price": {
-                    "value": 13.06,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Tricep Rope, Red/Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/31F7vuYBonL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/7138hzZfIBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71FIcQs9ymL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71SCogQWbiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71motM++n6L._AC_SL1500_.jpg"
-                ],
-                "asin": "B08NRK32DP",
-                "price": {
-                    "value": 16.52,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "LAT Pull Machine Bar, 20in, Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/31NrXT3+cdL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71P7LB3MylL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ej-T9ZKfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71jGQm1mkYL._AC_SL1500_.jpg"
-                ],
-                "asin": "B08NS1Q6VH",
-                "price": {
-                    "value": 39.85,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "LAT Pull Machine Bar, 20in, Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 5.11651776,
                 "price": 20.15,
-                "remaining_products": 77,
-                "color": "Black"
+                "remaining_products": 46,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 5.11651776,
                 "price": 24.99,
-                "remaining_products": 17,
-                "color": "Black"
+                "remaining_products": 62,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 5.11651776,
                 "price": 14.99,
-                "remaining_products": 76,
-                "color": "Black"
+                "remaining_products": 95,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 5.11651776,
                 "price": 24,
-                "remaining_products": 6,
-                "color": "Black"
+                "remaining_products": 23,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 5.11651776,
                 "price": 13.06,
-                "remaining_products": 65,
-                "color": "Black"
+                "remaining_products": 81,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 5.11651776,
                 "price": 16.52,
-                "remaining_products": 27,
-                "color": "Red, Black"
+                "remaining_products": 95,
+                "color": "Red, Black",
+                "img": null
             },
             {
                 "weight": 5.11651776,
                 "price": 39.85,
-                "remaining_products": 50,
-                "color": "Black"
+                "remaining_products": 96,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -4501,15 +4286,6 @@
         "title": "39.4'' LAT Pull Down Bar 360 Swivel and 3.74in/95mm Silent Cable Pulley for Pulley System Gym, LAT Pulldown Attachments Cable Machine Attachments",
         "price": 22.99,
         "brand": "Berufexp",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61-yQs24lcL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41-C4Pwl6cL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41PWIFwe4CL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41c8lklaasL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51EVnHzXghL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/514SWqZugRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/512y2ydj-2L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010360 ROTATING AND SPACE SAVING DESIGN\u3011The 360-rotating design of the lat pull down bar attachment reduces maximum friction to improve your exercise performance. Beside, this bar is composed of three parts which is more space saving and they will be connected firmly without any shaky. ALL INSTALLATION TOOLS ARE INCLUDED IN THE PACKAGE.",
@@ -4618,84 +4394,27 @@
                 "value": "Berufexp"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Lat Bar",
-                "thumbnail": "https://m.media-amazon.com/images/I/411huBE7tBL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61tc5tZPywL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/616Txr4Ob1L._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/71rjv40dbTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71xUFNINQIL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71W5+z8cjkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71z+V9jPEmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61ylKrMRFML._AC_SL1023_.jpg"
-                ],
-                "asin": "B08VNTHJ5J",
-                "price": {
-                    "value": 22.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "360 Swivel Lat Bar",
-                "thumbnail": "https://m.media-amazon.com/images/I/41-C4Pwl6cL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61-yQs24lcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61Z4yMUUNiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/613Al3D1n2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Ei4C-i9KL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71nk6Hbf0gL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71idd60Tg+L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D59W94TZ",
-                "price": {
-                    "value": 22.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Cable Pulley",
-                "thumbnail": "https://m.media-amazon.com/images/I/41AWkrU5MLL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61GCaHTqIgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/719-ghqMdmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71tf0mS5cwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71KIEpFhFcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Xt8alvxzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71lWg+BWyuL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BKPB396S",
-                "price": {
-                    "value": 18.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "360 Swivel Lat Bar"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 1.2972731199999998,
                 "price": 22.99,
-                "remaining_products": 44,
-                "color": "360 Swivel Lat Bar"
+                "remaining_products": 2,
+                "color": "360 Swivel Lat Bar",
+                "img": null
             },
             {
                 "weight": 1.2972731199999998,
                 "price": 22.99,
-                "remaining_products": 26,
-                "color": "360 Swivel Lat Bar"
+                "remaining_products": 76,
+                "color": "360 Swivel Lat Bar",
+                "img": null
             },
             {
                 "weight": 1.2972731199999998,
                 "price": 18.99,
-                "remaining_products": 36,
-                "color": "360 Swivel Lat Bar"
+                "remaining_products": 95,
+                "color": "360 Swivel Lat Bar",
+                "img": null
             }
         ]
     },
@@ -5145,15 +4864,6 @@
         "title": "Under Desk Elliptical Machine for Seniors Rehab Electric Seated Leg Foot Pedal Exerciser Bike, Portable Trainer for Home & Office with Remote and LCD Monitor",
         "price": 129.99,
         "brand": "ROTAI",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61UwwAFNJGL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41eWAgM0fDL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51PCpEXWVWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51suc+A6a4L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51BToocMzfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51XByTy+uCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41awLUls1VL._AC_US.jpg"
-        ],
         "description": "1.Auto Manual Workout 2 in 1. This Electric Elliptical Machine Works automatically when plug in or manually. It auto works and helps people to get exercises while sitting at work . 2.Auto workout improves better body circulation in legs and feet, keeps pain away and gets energy back. It makes working and exercise at the same time. 3.Easy to USE. Plug cord in, put feet on and start exercise forward or backward. Turn on the machine after a long day office work and start exercise about 30mins for health while watching TV on the coach. Preset 4 modes and 5 levels always meet your needs. 4.Smart remote control starts at your hand and there is no trouble bending. It helps especially with leg recovery just one press to begin. (Controller 2 AAA batteries are NOT INLCUDED)Convenient to store and easy to move. The machine is designed with groove to store remote control when it's working and to move around the house& office.",
         "features": [
             "ABS",
@@ -5256,54 +4966,20 @@
                 "value": "SAMO"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Orange",
-                "thumbnail": "https://m.media-amazon.com/images/I/411O-rtnSqL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61sdMhd1QuL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71MLz3Ct29L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Bfu+EY-rL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/712w10JceLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71BQRaJa9kL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716NaC0wKSL._AC_SL1500_.jpg"
-                ],
-                "asin": "B098JW8M3S",
-                "price": null
-            },
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41eWAgM0fDL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61UwwAFNJGL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71yrN9dqWfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71T+NH0rzmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71OvqTFNBrL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716RuK0VWqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51aSfuEZ4kL._AC_SL1125_.jpg"
-                ],
-                "asin": "B098JWJQMW",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 6.8038799999999995,
                 "price": 129.99,
-                "remaining_products": 70,
-                "color": "Orange"
+                "remaining_products": 0,
+                "color": "Orange",
+                "img": null
             },
             {
                 "weight": 6.8038799999999995,
                 "price": 129.99,
-                "remaining_products": 19,
-                "color": "Black"
+                "remaining_products": 37,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -5655,16 +5331,6 @@
         "title": "Lat Bar Cable Machine Attachment, Curl Pulldown Bar with Full Rotation and Rubber Handle for Gym, Strength Workout, Body Training, Muscle Building, 30 Inch",
         "price": 33.89,
         "brand": "CRGHS",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/41cv44thP+L._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31skoASZY0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/311oRyTLiKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41P58ZaJEUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ogPkY2qKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31V5ALm6ISL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41vktMvIvNL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411Gz8g7tXL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "THE CRGHS LAT BAR\uff1aAttach to any pulley or cable weight machine and is ideal for several lat and upper body focused exercises like lat pulldowns, straight arm pulldowns and more.",
@@ -5797,14 +5463,13 @@
                 "value": "CRGHS"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "3 Kilograms",
                 "price": 33.89,
-                "remaining_products": 58,
-                "color": "Silver"
+                "remaining_products": 65,
+                "color": "Silver",
+                "img": null
             }
         ]
     },
@@ -5813,16 +5478,6 @@
         "title": "Rengue LAT Pull Down Bar T-Bar V-Bar Pulley Cable Machine LAT Pulldown Attachments Back Tricep Pull Down Attachment Strength Training Handle Grips LAT Pulldown Bar Press Down Exercises for Home Gym",
         "price": 119.99,
         "brand": "Rengue",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81R-wk5eQ9L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41PJYjfD0dL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/510-TzrEAxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51vHdIYwVXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51yjDOpWYRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/513mftfslqL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51vCzUorPjL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ByzehJblL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "HIGH PULL-DOWN ATTACHMENT SET - Our lat pulldown machines set has 7 models, No. 1, 2, and 3 are narrow range handles, mainly training the trapezius and rhomboids; No. 4, 5, and 6 are medium-range handles, and No. 7 is a wide-range handle that mainly exercises the teres major, teres minor, and latissimus dorsi muscles; Meets your needs at home or in the gym and easily connects to any cable machine",
@@ -5906,14 +5561,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "40 Pounds",
                 "price": 119.99,
-                "remaining_products": 17,
-                "color": "Black"
+                "remaining_products": 95,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -6039,15 +5693,6 @@
         "title": "48'' LAT Pull Down Bar: Rotating Double Hooks for Dual Pulley Cable Machine - Tricep Press Down Long Bar Pull Down Attachment for Home Gym",
         "price": 85.99,
         "brand": "plzzree",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/41CHbtuMsnL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/210bBuOW4xL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31SqtlSd2EL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41c7T0cuefL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41MxP48UgmL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51rbBJr3DBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31yELkBdNxL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Double Hook Design: Unique dual hook design allows you to multi-purpose use both weight stacks of the dual pulley functional trainer simultaneously for a smooth, unilateral movement",
@@ -6127,14 +5772,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "11.8 Pounds",
                 "price": 85.99,
-                "remaining_products": 8,
-                "color": "Silver"
+                "remaining_products": 35,
+                "color": "Silver",
+                "img": null
             }
         ]
     },
@@ -6673,15 +6317,6 @@
         "title": "Heavy Tricep Rope Cable Attachments Cable Machine Accessories for Home Gym, Nylon Tricep Rope for Cable Machine Attachments, Pulley System Attachment, LAT Pull Down Attachment Weight Fitness",
         "price": 14.98,
         "brand": "yuhqc",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/6114gsuNuBL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31d+LRpkFAL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41r1elZ7YHL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31j7LVSyrNL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31h1z+MJrNL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31CLpiL4MkL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/21L1jT4HOLL._AC_US.jpg"
-        ],
         "description": "Measurements: Approximately Double Grips 27\"/Single Grip 15\" in length and is about 1\" thick.Includes solid steel ring with a half inch cable machine attachment and an extra thick rubber bumpersGreat for overhead tricep extensions, push downs, hammer curls, crossfit, and bodybuildingIdeal to home gym exercise, lat machine, ab machine, cable crossover, or any pulley system to maximize your fitness abilitythe rubber handles are big enough to keep your hands from slipping off, and the end is reinforced by screw to make sure it is sturdy and more durable.",
         "features": [
             "Measurements: Approximately Double Grips 27\"/Single Grip 15\" in length and is about 1\" thick.",
@@ -6790,112 +6425,34 @@
                 "value": "Rubber"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Red&Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/31d+LRpkFAL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/6114gsuNuBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/41r1elZ7YHL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/51MPjOvK1AL._AC_SL1100_.jpg",
-                    "https://m.media-amazon.com/images/I/71f24J0+4AL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51DLDTIgQ1L._AC_SL1100_.jpg",
-                    "https://m.media-amazon.com/images/I/61xG7iHBe9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71uwtNmr0YL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61p7jQgEoXL._AC_SL1500_.jpg"
-                ],
-                "asin": "B07WNJSY2B",
-                "price": {
-                    "value": 14.98,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Yellow&Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41aK8drnQZL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51WkUU2kqNL._AC_SL1000_.jpg",
-                    "https://m.media-amazon.com/images/I/51MVQ76ELSL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/51r+6Y7ZiyL._AC_SL1435_.jpg",
-                    "https://m.media-amazon.com/images/I/51Yt62Qgh4L._AC_SL1190_.jpg",
-                    "https://m.media-amazon.com/images/I/51bUMXdSy1L._AC_SL1422_.jpg",
-                    "https://m.media-amazon.com/images/I/51QumldNm2L._AC_SL1104_.jpg",
-                    "https://m.media-amazon.com/images/I/61+Oczie2DL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BKXKYDWQ",
-                "price": {
-                    "value": 14.98,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Green&Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/31rRbNZwy3L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71g6iGDoVnL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61FDccB0QUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51O-EkBnIsL._AC_SL1413_.jpg",
-                    "https://m.media-amazon.com/images/I/41nktCPRdPL._AC_SL1390_.jpg",
-                    "https://m.media-amazon.com/images/I/51uZhL9NJ0L._AC_SL1267_.jpg",
-                    "https://m.media-amazon.com/images/I/51zg2wZrXBL._AC_SL1125_.jpg",
-                    "https://m.media-amazon.com/images/I/61HBzTfbHgL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BKXJ9H4F",
-                "price": {
-                    "value": 14.98,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Red",
-                "thumbnail": "https://m.media-amazon.com/images/I/31HoVhb5EAL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61ltoBysriL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51d2KNQnYfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51PQDH0V2AL._AC_SL1491_.jpg",
-                    "https://m.media-amazon.com/images/I/51GZh-VBBDL._AC_SL1098_.jpg",
-                    "https://m.media-amazon.com/images/I/61w5Y2cmB8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/612zHf5-OtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61w5Y2cmB8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51FC0281oSL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BKXHBH6V",
-                "price": {
-                    "value": 14.98,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Red&Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.3,
                 "price": 14.98,
-                "remaining_products": 36,
-                "color": "Red, Black"
+                "remaining_products": 82,
+                "color": "Red, Black",
+                "img": null
             },
             {
                 "weight": 0.3,
                 "price": 14.98,
-                "remaining_products": 31,
-                "color": "Yellow, Black"
+                "remaining_products": 82,
+                "color": "Yellow, Black",
+                "img": null
             },
             {
                 "weight": 0.3,
                 "price": 14.98,
-                "remaining_products": 35,
-                "color": "Green, Black"
+                "remaining_products": 80,
+                "color": "Green, Black",
+                "img": null
             },
             {
                 "weight": 0.3,
                 "price": 14.98,
-                "remaining_products": 76,
-                "color": "Red"
+                "remaining_products": 86,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -6904,15 +6461,6 @@
         "title": "Kinglotus Lat Pull down Bar Cable Machine Attachment,Curl Bar Tricep Press Down Bar.",
         "price": 20.98,
         "brand": "Kinglotus",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51p3fiBT3cL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31iXwJGm0TL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51AhqnM4o7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51kn6h2ZSyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51UEXExM0XL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41s-KJyakJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41UYxK6BJBL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010High Quality Pull Down Bar Attachment\u3011:The Lat Attachment Pull Down Bar attaches to cable machines, seated rowing machines, and DIY pulley systems for forward pull downs and backhand pull downs. Exercises the lower side of the latissimus dorsi, arm and low back muscles",
@@ -7013,14 +6561,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "2.6 Pounds",
                 "price": 20.98,
-                "remaining_products": 100,
-                "color": "BLACK"
+                "remaining_products": 77,
+                "color": "BLACK",
+                "img": null
             }
         ]
     },
@@ -9202,15 +8749,6 @@
         "title": "Body Solid (GLA400) LAT and Row Bar Attachment for GPR400 Power Rack, Suitable for High/Low Pulley, Pulldowns, Bicep Curls, and Shrug Exercises, Commercial and Home Gym Pulldown Machine Attachments",
         "price": 458.25,
         "brand": "Body solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61KXqe-MWyL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41P1mo-mx-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51PBo8Z1zRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51s0xvgUFXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/511PeHKa2KL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51sUsEYT17L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41TucHco8iL._AC_US.jpg"
-        ],
         "description": "Transform the Body-Solid GPR400 power rack into a complete home gym with the GLA400 lat attachment. The attachment allows users to perform high and low pulley exercises including lat pulldowns, rows, biceps curls, shrugs and more in the comfort and stability of a power rack. Unique design allows the lat attachment to fit into the GPR400 without requiring additional space or clearance around the rack. The GLA400 is a plate-loaded attachment allowing users to easily add weight plates. It\u2019s compatible with Body-Solid\u2019s SP150 150 lb. weight stack. Nylon-coated, aircraft quality cables ensure durability and safety while using the GLA400. This product features a Lifetime for in-home, personal usage. Pads, pulleys, cables, frames, and everything in between is covered for as long as you own the equipment. This product is Commercial Rated and features a Lifetime on frames, welds, weight plates & guide rods. 3 Years on pulleys, bushing, bearings & hardware. 1 Year on cables, upholstery, grips and all other components.",
         "features": [
             "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, power rack, strength training smith machine, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
@@ -9286,14 +8824,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "36 Kilograms",
                 "price": 458.25,
-                "remaining_products": 75,
-                "color": "Black"
+                "remaining_products": 69,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -9587,15 +9124,6 @@
         "title": "Mikolo Folding Squat Rack, Wall Mounted Power Rack with Cable Crossover Machine & LAT Pull Down, Functional Trainer with 5 Adjustable Function Modes, for Home Gym and Space Saving",
         "price": 499.99,
         "brand": "Mikolo",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61eafFcp90L.__AC_SY300_SX300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41Q1BFjEAZL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51AGBmqSFUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51HR33GsH5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51tUELS99VL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/519bX7hSP+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/517Nj74m02L._AC_US.jpg"
-        ],
         "description": "Mikolo Folding Squat Rack, Wall Mounted Power Rack with Cable Crossover Machine & LAT Pull Down, Power Cage with 5 Adjustable Function Modes, Upgraded Home Gym Package",
         "features": [
             "[SPACE-EFFICIENT MARVEL]: Maximize your space with our folding squat rack! Expandable to a mere 9.5 SQ.FT when fully opened, and folding down to just 3 SQ.FT when not in use, it's the ultimate solution for home gyms, cramped basements, or cozy family garages. Perfect for those who crave quality workouts in tight quarters, it's your compact yet powerful fitness ally!",
@@ -9671,110 +9199,48 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [
-            {
-                "name": "Upgraded Red Package(with BP & Bar & Bench)",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0DP2M1P3L",
-                "price": {
-                    "value": 1449.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Upgraded Black Package(with BP & Bar & Bench)",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0DP2M4Y7Z",
-                "price": {
-                    "value": 1449.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black Power Rack",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0D5QRV87Y",
-                "price": {
-                    "value": 499.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Red Power Rack",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B09NR5DQK4",
-                "price": {
-                    "value": 499.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black Package(with Bar & Bench)",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0DP2L9691",
-                "price": {
-                    "value": 849.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Red Package(with Bar & Bench)",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0DP2L944B",
-                "price": {
-                    "value": 849.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style Name",
-                "value": "Black Power Rack"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 68.0388,
                 "price": 1449.99,
-                "remaining_products": 79,
-                "color": "Red"
+                "remaining_products": 28,
+                "color": "Red",
+                "img": null
             },
             {
                 "weight": 68.0388,
                 "price": 1449.99,
-                "remaining_products": 44,
-                "color": "Black"
+                "remaining_products": 95,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 68.0388,
                 "price": 499.99,
-                "remaining_products": 46,
-                "color": "Black"
+                "remaining_products": 98,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 68.0388,
                 "price": 499.99,
-                "remaining_products": 81,
-                "color": "Red"
+                "remaining_products": 78,
+                "color": "Red",
+                "img": null
             },
             {
                 "weight": 68.0388,
                 "price": 849.99,
-                "remaining_products": 40,
-                "color": "Black"
+                "remaining_products": 64,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 68.0388,
                 "price": 849.99,
-                "remaining_products": 32,
-                "color": "Red"
+                "remaining_products": 63,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -9783,15 +9249,6 @@
         "title": "LAT Pull Down Bar Press Down Bar Cable Machine Attachment Multi Gym Attachment Solid Steel Tricep V-Bar",
         "price": 55.85,
         "brand": "yuhqc",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51QNo+oLe9S._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/21vTTBeE7VS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31mL8sLuumS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31ag6QM6ReL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41MTx7B7rJS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/21o2zh2VpvS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/21IUKYzqqKS._AC_US.jpg"
-        ],
         "description": "Ideal for tricep press-downs and other exercises, target surrounding muscles. Features a durable steel construction, revolving hanger, Rubber handle. Perfect addition to your gym. 28 Inch: SIDES 28.5\u201d LONG x 6\u201d HIGH x 1\u201d DIAMETER, 8 LBS;24 Inch: SIDES 24.5\u201d LONG x 4\u201d HIGH x 1\u201d DIAMETER, 6.5 LBS Perfect dimension provides comfort during your workout, fit well in your palm  UNIVERSAL DESIGN: Designed for all cable systems. Support up to 880 lbs (400 kg)  Rubber handle and FLAT KNOBS: Top quality steel with chrome finish and textured handles and flat knobs to prevent slipping  MULTI-USAGES: Great for a variety of lateral exercises to work out your triceps, lats, back, arms and shoulders  COMMERCIAL CLASS QUALITY: V-Shaped, solid steel extension bar; high, polished chrome finish prevents corrosion and rust Compatible with: DIY Cable Pulley System, LAT Pull Down Machine, Cable Machine, Power Cage, Rowing Machine, Wall Mounted Pulley Cable System",
         "features": [
             "Ideal for tricep press-downs and other exercises, target surrounding muscles. Features a durable steel construction, revolving hanger Rubber handle . Perfect addition to your gym",
@@ -9920,62 +9377,20 @@
                 "value": "yuhqc"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "28 Inch",
-                "thumbnail": "https://m.media-amazon.com/images/I/21vTTBeE7VS._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51QNo+oLe9S._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51zUHjCw7vS._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/519U2gYqKXL._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/71Yn9UL-2DS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61Bt8uL9ghS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61lD+Ifs9YS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51Ehrtd3MuL._AC_SL1500_.jpg"
-                ],
-                "asin": "B088FX4QQT",
-                "price": {
-                    "value": 55.85,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "24 Inch",
-                "thumbnail": "https://m.media-amazon.com/images/I/21cTPPgUawL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51mBg5MCdTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61iK-85vjFL._AC_SL1389_.jpg",
-                    "https://m.media-amazon.com/images/I/51ccfwG4RIL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51CGSPz8a7L._AC_SL1115_.jpg",
-                    "https://m.media-amazon.com/images/I/51JJ-NWow8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51oX8pMzCfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51SNmqcEUfL._AC_SL1500_.jpg"
-                ],
-                "asin": "B088FXQ6HQ",
-                "price": {
-                    "value": 45.85,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "28 Inch"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.3,
                 "price": 55.85,
-                "remaining_products": 20,
-                "color": "28 Inch"
+                "remaining_products": 74,
+                "color": "28 Inch",
+                "img": null
             },
             {
                 "weight": 0.3,
                 "price": 45.85,
-                "remaining_products": 30,
-                "color": "28 Inch"
+                "remaining_products": 95,
+                "color": "28 Inch",
+                "img": null
             }
         ]
     },
@@ -10588,15 +10003,6 @@
         "title": "Lat Pull Down Bar - Heavy Duty Cable Attachments for Gym Machine with Ergonomic Angled Handles - Exercise Equipment for Bicep Curl, Tricep Pushdown, Back Pulldown - Black 18.9 x 4.3 x 6.5\"",
         "price": 38.99,
         "brand": "Alien Gainz",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71KFTmomEUL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41gJzUpoZgL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/511fcsK-9NL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51lkncxjL5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51776WhshpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41V0s0U+0+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51j1rzUrBmL._AC_US.jpg"
-        ],
         "description": "\ud835\uddd4\ud835\uddff\ud835\uddf2 \ud835\ude06\ud835\uddfc\ud835\ude02 \ud835\uddf4\ud835\uddf2\ud835\ude01\ud835\ude01\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddfa\ud835\uddfc\ud835\ude00\ud835\ude01 \ud835\uddf3\ud835\uddff\ud835\uddfc\ud835\uddfa \ud835\ude06\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\uddf0\ud835\uddee\ud835\uddef\ud835\uddf9\ud835\uddf2 \ud835\uddfa\ud835\uddee\ud835\uddf0\ud835\uddf5\ud835\uddf6\ud835\uddfb\ud835\uddf2? Like any exercise machine, cable machines introduce a new dimension to workouts. They let you target muscle groups that would be tricker to engage on your own. However, these cable pulley machines only truly pull their weight when partnered with the right accessories. Our premium lat pull down bar is here to transform your workout routine and take your workouts to the next level. Designed and shaped specifically for lat pulldown and rows, it's your key to gaining the strength and growth you've been looking for. Unlock new levels of progress with the Alien Gainz Lat Pull Down Bar! Lat pull-downs, curls, extensions\u2013perform all the exercises on your cable pulley machine in perfect form with a premium lat pull down bar. The angled handle is designed to give you comfortable handholds no matter the grip you're using, whether supinated, pronated, or neutral. Exercise equipment must be able handle a ton of punishment. Made of heavy-duty aluminum, this lat bar will keep up with you rep after rep. An equally tough steel grommet and carabiner attaches the bar to machines, so you can exercise in confidence knowing the bar won't break free. Whether beginner or seasoned fitness enthusiast, our lat pulldown bar is for you. Our v-bar comes packaged with a free and comprehensive back exercise manual. Inside you'll find exercises you can do to target your lats and back, as well as how to do the movements with proper form. Here are more reasons to kit your cable machine with a new pulldown bar: - Compact design measuring 18.9 x 4.3 x 6.5\", perfect for home gyms of any size - Texture on the bars helps you keep your grip even with sweaty hands - Cool black colorway decorated with our trademark ripped alien Get gains that are out of this world. Add the Alien Gainz Lat Pull Down Bar to your cart TODAY!",
         "features": [
             "\ud835\uddd8\ud835\uddee\ud835\ude00\ud835\ude06 \ud835\uddfc\ud835\uddfb \ud835\ude06\ud835\uddfc\ud835\ude02\ud835\uddff \ud835\uddf5\ud835\uddee\ud835\uddfb\ud835\uddf1\ud835\ude00 - Protecting your hands is key to avoiding injuries that can stall your fitness journey. The ergonomic and textured handles are designed to reduce pressure on the fingers and joints.",
@@ -10660,14 +10066,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "2.3 Kilograms",
                 "price": 38.99,
-                "remaining_products": 62,
-                "color": "Black"
+                "remaining_products": 50,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -11047,16 +10452,6 @@
         "title": "Pulldown Straight Bar Rotating Steel with Rubber Grips LAT Pull Down Handle for Pulley Cable Machine Triceps Training Rowing Machine Attachment for Home Gym Strength Exercise",
         "price": 15.99,
         "brand": "Vishusju",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/41SlIBYdGUL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31A95L2sjRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ZaAXQSMCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41R8iBlvOLL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41opW3HE4WL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51dUwhksDyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51W9KtG4B1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41a7HVdP5KL._AC_US.jpg"
-        ],
         "description": "Material: bar made from hollow steel, with TPE rubber grip.  Features: 360\u00b0 free rotating. Non-slip grip. Size: length 16.7 inches, bar diameter 0.98 inches, handle grip diameter 1.18 inches. Net weight: 500g",
         "features": [
             "Pulldown bar made from hollow steel . It's lightweight , support up to 330 lbs (150KG).",
@@ -11181,14 +10576,13 @@
                 "value": "680491422651"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "500 Grams",
                 "price": 15.99,
-                "remaining_products": 3,
-                "color": "Black"
+                "remaining_products": 15,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -11445,16 +10839,6 @@
         "title": "Lat Pull down Bar for Cable Machine,Curl Pulldown Bar with Full Rotation and Rubber Handle for Gym, Strength Workout, Body Training, Muscle Building",
         "price": 19.99,
         "brand": "VLROQA",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51+a9yB1aAL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/21XxdJTohtL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51n+ShkqTXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51bqsWqkj-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41B5a5yrg-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/4199mb88E5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51iphztAVXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51qikPwTVgL._AC_US.jpg"
-        ],
         "description": "A cable machine attachment is an essential piece of equipment for anyone serious about strength training and building muscle. This versatile accessory attaches to a cable pulley system, allowing you to perform a wide range of exercises that target specific muscle groups. With the ability to adjust the resistance and angle of pull, you can customize your workout to focus on areas like your chest, back, shoulders, arms, and legs. The cable machine attachment provides a smooth and controlled motion, reducing stress on your joints while still challenging your muscles. Whether you're looking to sculpt your physique, improve your strength, or enhance your overall fitness, this attachment offers a comprehensive and effective solution. Incorporate it into your routine and experience the benefits of targeted, resistance-based training",
         "features": [
             "THE VLROQA LAT BAR\uff1aPerfectly compatible with functional trainers, home gym pulley systems, cable machines and more, making it easier to start exercising",
@@ -11559,14 +10943,13 @@
                 "value": "VLROQA"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "1.65 Kilograms",
                 "price": 19.99,
-                "remaining_products": 98,
-                "color": "black"
+                "remaining_products": 92,
+                "color": "black",
+                "img": null
             }
         ]
     },
@@ -11575,15 +10958,6 @@
         "title": "Body-Solid Home Gym Tools MB229A Aluminum LAT Pulldown Curl Bar Attachment for Pulley Cable Machine - Lat Pull Down Curling Bar Accessories for Fitness, Strength Workout Equipment, Muscle Building",
         "price": 47.99,
         "brand": "Body-Solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51FsapOUydL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31JYYmo7NHL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41hL+CIcooL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Tdla5LefL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31WA8WKevfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ekrAU6q3L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/418Dx3JaeuL._AC_US.jpg"
-        ],
         "description": "The Body-Solid Tools MB229A Aluminum Curl Bar attaches to any home gym or cable/pulley-based weight machine and helps you perform curls and numerous other exercises. Constructed from high-strength, rust-proof and lightweight 1-\u00bc\u201d aluminum, the MB229A is both durable and lightweight. Knurled grips offer consistent handling even during intense workouts while the angles on the MB229A were designed specifically for peak biceps and triceps contraction. The smooth, fluid center of the MB229A swivels and rotates in constant, steady, uninterrupted motion and increased exercise variety.",
         "features": [
             "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
@@ -11724,14 +11098,13 @@
                 "value": "638448015128"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "0.9 Kilograms",
                 "price": 47.99,
-                "remaining_products": 13,
-                "color": "Silver"
+                "remaining_products": 17,
+                "color": "Silver",
+                "img": null
             }
         ]
     },
@@ -12478,15 +11851,6 @@
         "title": "Lat Bar Cable Machine Attachment Curl Pulldown Bar Barbell Revolving Bar, Multi-Exerciser Cable Attachment Bar, Solid Steel Tricep Press Down Bar with Rubber Handgrips & Revolving Hanger",
         "price": 34.85,
         "brand": "yuhqc",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/615w7WfIfNS.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/21XAGsAo5MS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41F3X13yWWS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41qandNfy3S._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31dKVFHl38L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/21xvFUIuPZS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/316DTMLCFLL._AC_US.jpg"
-        ],
         "description": "Ideal for tricep press-downs and other exercises, target surrounding muscles. Features a durable steel construction, revolving hanger, Rubber Handgrips. Perfect addition to your gym. Package Sides & Package Dimensions: 20 Inch(20 x 2.2 x 2.2 inch , weighs 5 lbs);30 Inch(29.5 x 4.6 x 2.2 inch , weighs 8 lbs);M (15 x 6 x 6.5 inch , weighs 6 lbs);36 Inch(36.5 x 5.6 x 2.2 inch , weighs 9.8 lbs) 48 Inch (48.5 x 6.5 x 2.8 inch , weighs 12 lbs) : Perfect dimension provides comfort during your workout, fit well in your palm  this chromed multi-exerciser bar attachment is ideal for developing a variety of arm muscles.",
         "features": [
             "The YUHQC Lat Pull Down bar is great compatible with functional trainer, home gym pulley system, cable machine, cable crossover rowing machine, weight machine, lat pull down machine, squat rack with lat pulldown, cable machine and more. Ideal for performing pull-down actions exercise the lower side of the latissimus dorsi, Arm and waist back muscles.",
@@ -12627,159 +11991,48 @@
                 "value": "30 Inches"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "M",
-                "thumbnail": "https://m.media-amazon.com/images/I/31oXAUwQGVS._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61Gge+gqxDS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81IUMMOjQGS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51HOqIvZgML._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/71jdQnK5ltS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/517e7Zhb3YL._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/61IVFPNcOAS._AC_SL1500_.jpg"
-                ],
-                "asin": "B07DBBFZGV",
-                "price": {
-                    "value": 49.95,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "30 Inch Chrome",
-                "thumbnail": "https://m.media-amazon.com/images/I/21Qjtla+qFL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51Vga6kKJyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51WXhCwjr3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/518xzpjDxfL._AC_SL1479_.jpg",
-                    "https://m.media-amazon.com/images/I/613SEuCyXKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/519KVEDP22L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51U8dK3JOCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/5185v7HOIiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51VadufBwzL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BT6ZCPVZ",
-                "price": {
-                    "value": 48.85,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "30 Inch Ball Hand",
-                "thumbnail": "https://m.media-amazon.com/images/I/217+q-e1sqL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61pBP1dZpPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/7152uZwE7UL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61DgPDe0VDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51WhI+7K5iL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/512gaXZOMVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51aCwrBc87L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51xwGo5WJqL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CBG4RQP8",
-                "price": {
-                    "value": 48.85,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "20 Inch",
-                "thumbnail": "https://m.media-amazon.com/images/I/213vDrOWybL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/41Fb3-4xe1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/21GnKa4DxwL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/41-nEUB4I2L._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/51uYeze7AlL._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/61DVCxQ0CdL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61zFKTviShL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51ECSG5n1CL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/211O5j8SALL._AC_.jpg"
-                ],
-                "asin": "B07BL3BDD9",
-                "price": {
-                    "value": 26.98,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "30 Inch",
-                "thumbnail": "https://m.media-amazon.com/images/I/21XAGsAo5MS._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/615w7WfIfNS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61PaMKPOpCS._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/51iqzRBKgTS._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/51ck2nc+7yL._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/51wpggixBVS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71zJB5oaYhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61n9JEcJ1jS._AC_SL1500_.jpg"
-                ],
-                "asin": "B088FX5TW3",
-                "price": {
-                    "value": 34.85,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "36 Inch",
-                "thumbnail": "https://m.media-amazon.com/images/I/21M+v3KfbAS._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51hmeuMXmdS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/615o0wnmtXS._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/61RJVBwC4ES._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51W0zant0qS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51gri4VzCWS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51FjuR11TiS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61lAp04d+uS._AC_SL1500_.jpg"
-                ],
-                "asin": "B0925NYWMJ",
-                "price": {
-                    "value": 62.85,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "30 Inch"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.3,
                 "price": 49.95,
-                "remaining_products": 4,
-                "color": "30 Inch"
+                "remaining_products": 33,
+                "color": "30 Inch",
+                "img": null
             },
             {
                 "weight": 0.3,
                 "price": 48.85,
-                "remaining_products": 38,
-                "color": "Chrome"
+                "remaining_products": 35,
+                "color": "Chrome",
+                "img": null
             },
             {
                 "weight": 0.3,
                 "price": 48.85,
-                "remaining_products": 72,
-                "color": "30 Inch"
+                "remaining_products": 59,
+                "color": "30 Inch",
+                "img": null
             },
             {
                 "weight": 0.3,
                 "price": 26.98,
-                "remaining_products": 56,
-                "color": "30 Inch"
+                "remaining_products": 42,
+                "color": "30 Inch",
+                "img": null
             },
             {
                 "weight": 0.3,
                 "price": 34.85,
-                "remaining_products": 93,
-                "color": "30 Inch"
+                "remaining_products": 85,
+                "color": "30 Inch",
+                "img": null
             },
             {
                 "weight": 0.3,
                 "price": 62.85,
-                "remaining_products": 12,
-                "color": "30 Inch"
+                "remaining_products": 70,
+                "color": "30 Inch",
+                "img": null
             }
         ]
     },

@@ -410,15 +410,6 @@
         "title": "GMWD Chest Press Machine, 1050LBS Bench Press Machine with Independent Converging Arms, Adjustable Flat Incline Bench for Chest, AB Workouts, Shoulder Home Gym Equipment, V1",
         "price": 199.99,
         "brand": "GMWD",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61XiyCFNgzL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41Y5J59FV3L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51BELywaHUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41MOHvHxcIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51mCtpO0l0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51K8ZnBXwcL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51t8tpCtxVL._AC_US.jpg"
-        ],
         "description": "GMWD Chest Press Machine",
         "features": [
             "\u3010Great Upper Body Workout\u3011: Chest press machine constructed with 50 x 50(mm), 11 gauge steel tube. 4 larger Anti-slipper foot bases create better stability, and solid enough to load 450lbs, 200lbs per arm, 200lbs capacity of each weight holder. Note: The Detachable Sleeve can fit both 1'' & 2'' plates. Feel free to put weights on it!",
@@ -512,59 +503,20 @@
                 "value": "GMWD"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Black-V1",
-                "thumbnail": "https://m.media-amazon.com/images/I/41fYG+L4grL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61Y-p5RNXbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-A2nSYW+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71TNEScddvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71P5MuCB9nL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ImEBLLzlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71gRhKRLKML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711KZI1feqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71bWyrXfgvL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0C4L4CN2Y",
-                "price": null
-            },
-            {
-                "name": "Red-V1",
-                "thumbnail": "https://m.media-amazon.com/images/I/41Y5J59FV3L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61XiyCFNgzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Vt-4ED-3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71a0xthghhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Ytt7zJ8IL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71B3dfS5GoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71G3ZMKghFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71HOKw5VfsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71svN8ltrtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61ELRCMAO5L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CP9CQ4RK",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Red-V1"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 40.369688,
                 "price": 199.99,
-                "remaining_products": 8,
-                "color": "Black"
+                "remaining_products": 53,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 40.369688,
                 "price": 199.99,
-                "remaining_products": 35,
-                "color": "Red"
+                "remaining_products": 73,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -984,15 +936,6 @@
         "title": "Adjustable Weight Bench - Utility workout Benches for Exercise, Free Installation Design for Portable Fitness Strength Training Equipment at Home Gym",
         "price": 159.99,
         "brand": "K KiNGKANG",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71f7LUzbcmL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51GN4Fby31L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51GAqL07+1S._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51L9LxxT5LL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41RYOXR+XiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51N6c+vyH7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51kLQgL+KnL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u2705ADJUSTABLE WEIGHT BENCH : Adjustable weight bench has 7 backrest pad positions to meet all you need when workout. The adjustable weight rack is ideal for working out and training on your chest, shoulders, back, abs, and more for Home Gym.",
@@ -1090,14 +1033,13 @@
                 "value": "KKINGKANG"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "15.42 Kilograms",
                 "price": 159.99,
-                "remaining_products": 10,
-                "color": "Black&Red"
+                "remaining_products": 54,
+                "color": "Black&Red",
+                "img": null
             }
         ]
     },
@@ -1610,15 +1552,6 @@
         "title": "Ankle Resistance Bands, Ankle Bands for Working Out with Cuffs, Resistance Bands for Leg Butt Training Workout Equipment for Kickbacks Hip Gluteus Training Exercises, Ankle Strap with Exercise Bands",
         "price": 13.97,
         "brand": "HPYGN",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71LuHlmfAOL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41YHcBnX0WL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51EeaNi48sL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51+BpxiB15L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51BOj0SUyfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51u5oxrgEiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41PQ0P0O3yL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "3 Different Levels: 3 exercise bands, provide you with 3 level of resistance bands, 10/20/30 lb let you match. Adjustable design System can adapt to different people to exercise, training for 15 minutes every day, Get a bikini booty and ripped abs and be the envy of your friends at your next pool party.",
@@ -1727,135 +1660,41 @@
                 "value": "Yoga, Exercise and Fitness, Pilates, Strength Training, Body Building"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "1-Orange",
-                "thumbnail": "https://m.media-amazon.com/images/I/41YHcBnX0WL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71LuHlmfAOL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71xFb1IcJGL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WpX6wnLQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71tjtbQz8ZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71lGbG4Vl6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71bi-M7SJ1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61XYMgHt5QL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81y3s0mvKUL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0B1TYZQD8",
-                "price": {
-                    "value": 13.97,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Blue",
-                "thumbnail": "https://m.media-amazon.com/images/I/51l6XqCrtZL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71Oy0cGqjmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81BMbaAVYXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81TOipC9VTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81lXtByGuWL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71mHd-fy57L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71p3V2cu47L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81eo9Jsb8jL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D4LN62Z9",
-                "price": {
-                    "value": 14.97,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Purple",
-                "thumbnail": "https://m.media-amazon.com/images/I/51TBw-oPMyL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81WSLAllz9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81vMAfFWO-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71vqm43yfML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71lBhY4PN1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Cn3lkEW3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71kQINLGPZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71tNCiLrukL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CLJ8WCSL",
-                "price": {
-                    "value": 15.98,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Pink",
-                "thumbnail": "https://m.media-amazon.com/images/I/41KTUXbZabL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71pIzbGgWtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71KkgTRwdxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71maH-Y3SDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71R0YG5FvUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61DKeGP1mFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Ca2vXgYeL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61Nv7NILtdL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CHP4V78G",
-                "price": {
-                    "value": 14.98,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41m0fp8agcL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/717pfrPnyqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ZbmxPAn6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71oaq8z4NRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Xm9ckFhKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-eXqXqQiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71EFHctVlsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61ndfbHp49L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0C4Y7ZHMJ",
-                "price": {
-                    "value": 16.98,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "1-Orange"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.4082328,
                 "price": 13.97,
-                "remaining_products": 32,
-                "color": "Orange"
+                "remaining_products": 40,
+                "color": "Orange",
+                "img": null
             },
             {
                 "weight": 0.4082328,
                 "price": 14.97,
-                "remaining_products": 68,
-                "color": "Blue"
+                "remaining_products": 75,
+                "color": "Blue",
+                "img": null
             },
             {
                 "weight": 0.4082328,
                 "price": 15.98,
-                "remaining_products": 6,
-                "color": "Purple"
+                "remaining_products": 96,
+                "color": "Purple",
+                "img": null
             },
             {
                 "weight": 0.4082328,
                 "price": 14.98,
-                "remaining_products": 71,
-                "color": "Pink"
+                "remaining_products": 92,
+                "color": "Pink",
+                "img": null
             },
             {
                 "weight": 0.4082328,
                 "price": 16.98,
-                "remaining_products": 7,
-                "color": "Black"
+                "remaining_products": 65,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -3162,15 +3001,6 @@
         "title": "CAP Barbell Olympic Trap Bar, Hex Bar, Shrug Bar, Deadlift Bar",
         "price": 58,
         "brand": "Cap Barbell",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71FgTZzEZxL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31f7IFc7EwL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31FEAJ88a4L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31pEd3DdbIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41hOJcoe+ML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31-CmYHTtnL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41DIl8CxYVL._AC_US.jpg"
-        ],
         "description": "Build strength and fuel your muscle growth by engaging large muscle groups with the CAP Barbell Olympic Trap, Shrug, and Deadlift Bar. This bar features neutral placed grips for comfort and elevated sleeves for less strain on the back muscles. The incorporate feet protect floors from getting scratched and scuffed up by weight plates and help balance the bar while loading and unloading weights. The compact design of this basic trap, shrug, and deadlift bar will take up a minimal amount of space in your home gym. CAP\u2019s Basic Trap, Hex, Shrug, Deadlift bars are a serious addition to any home gym. Designed to handle heavy weight safely and securely with coatings applied that last through the most grueling workout.",
         "features": [
             "SPECS: Dimensions are 50\u201d L x 29\u201d W x 14\u201d H; Loadable sleeve length is 9.5 inches; Total assembled weight is 28lb; Suggested Max Weight Capacity 500 pounds",
@@ -3340,93 +3170,34 @@
                 "value": "9.5 Inches"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "White",
-                "thumbnail": "https://m.media-amazon.com/images/I/31slTqXHOSL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71b95B2C-TL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71vpAjm0GFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71w43DTT55L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71T3qxPzw4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71wgTa9bftL._AC_SL1500_.jpg"
-                ],
-                "asin": "B083R519HJ",
-                "price": null
-            },
-            {
-                "name": "Green",
-                "thumbnail": "https://m.media-amazon.com/images/I/41zQadzkcmL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71WrJvRV3qL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ppjDBtA6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71QMKYcf1eL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71VjWmsMZJL._AC_SL1500_.jpg"
-                ],
-                "asin": "B083R4NYC4",
-                "price": null
-            },
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/31f7IFc7EwL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71FgTZzEZxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71x9grpaoRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71B1jxtwWhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/810JRe3ANpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71IUviq-V5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81jqwFpV1aL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91u-gwL-NSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Uhn88nM5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81+8q4NId4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71QEODd601L._AC_SL1500_.jpg"
-                ],
-                "asin": "B07N4M53DC",
-                "price": null
-            },
-            {
-                "name": "Blue",
-                "thumbnail": "https://m.media-amazon.com/images/I/410jNSjt7wL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/715CggBNeoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71j3g7rq5lL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ibveuLcTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ErpjKgUWL._AC_SL1500_.jpg"
-                ],
-                "asin": "B083R4XT3L",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 70,
-                "color": "White"
+                "remaining_products": 37,
+                "color": "White",
+                "img": null
             },
             {
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 54,
-                "color": "Green"
+                "remaining_products": 76,
+                "color": "Green",
+                "img": null
             },
             {
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 78,
-                "color": "Black"
+                "remaining_products": 72,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 89,
-                "color": "Blue"
+                "remaining_products": 35,
+                "color": "Blue",
+                "img": null
             }
         ]
     },
@@ -3903,15 +3674,6 @@
         "title": "Sunny Health & Fitness Compact Adjustable Rowing Machine with 12 Levels of Resistance for Complete Body Workouts and Optional Free SunnyFit App Enhanced Connectivity",
         "price": 119.99,
         "brand": "Sunny Health & Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61trRuA+jtL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/413vZcvVuFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41wZYbS54aL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51VHbekYwCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51mjyO+IXEL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41yXR+Sd1lL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Mi9GTiyML._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010FULL BODY WORKOUT\u3011Complete body workout that engages all major muscle groups with the smooth, hydraulic resistance that targets legs, glutes, back, arms, shoulders, and core. The low-impact rowing motion works your whole body.",
@@ -4093,62 +3855,20 @@
                 "value": "22.4 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Classic",
-                "thumbnail": "https://m.media-amazon.com/images/I/41Fbe20LDFL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71Xr8P3IOhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71KGOasG+CL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Axx0WnnBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/814BHBOQ7VL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71yZeJ6UHRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81VOT35GWPL._AC_SL1500_.jpg"
-                ],
-                "asin": "B009QXP77I",
-                "price": {
-                    "value": 80.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Smart",
-                "thumbnail": "https://m.media-amazon.com/images/I/413vZcvVuFL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61trRuA+jtL._AC_SL1080_.jpg",
-                    "https://m.media-amazon.com/images/I/71uAYxod0SL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81uvf4JXSsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81EyjL02-xL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71743p9EeKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71nUebUZx9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0C8342FMM",
-                "price": {
-                    "value": 119.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "Smart"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 10.1604608,
                 "price": 80.99,
                 "remaining_products": 3,
-                "color": "Black"
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 10.1604608,
                 "price": 119.99,
-                "remaining_products": 18,
-                "color": "Black"
+                "remaining_products": 58,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -5259,16 +4979,6 @@
         "title": "Leg Press Hack Squat Machine, 2 in 1 Leg Press Machines for Home Gym with Linear Bearing, Hack Squat Machine for Full Lower Body Workout with Weight Storage Posts, Black",
         "price": 599.99,
         "brand": "HOMLANE",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/617RmwrZhFL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41JmrQFyOQL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51pqGJoeGiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/514ozf+NNTL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51A2GxSEfoL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51WuLuX87kL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41qM1MmysrL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51V3yZ4rfKL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "2-in-1 Lower Limb Exercise Machine: This innovative combination of leg compressions and squats effectively targets and strengthens key lower limb muscles, including the quadriceps, hamstring, gluteus maximus, and calves. It can also improve cardiovascular function, help burn fat, making it an ideal tool for home and gym use. The maximum tablet load capacity of this device is 1500 pounds, which can meet the needs of most users, whether they are beginners or experienced fitness enthusiasts.",
@@ -5362,14 +5072,13 @@
                 "value": "61.22\"D x 27.05\"W x 89.25\"H"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "110.2 Pounds",
                 "price": 599.99,
-                "remaining_products": 45,
-                "color": "BLACK"
+                "remaining_products": 11,
+                "color": "BLACK",
+                "img": null
             }
         ]
     },
@@ -6198,15 +5907,6 @@
         "title": "OPPSDECOR 660lbs 6 in 1 Weight Bench Set with Squat Rack Adjustable Workout Bench with Leg Developer Preacher Curl Rack Fitness Strength Training for Home Gym",
         "price": 189.98,
         "brand": "OPPSDECOR",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81zUzby46gL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51jx+1ZvVdL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/418E8bVnWuL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51qbInnRJLL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51SfgoL7rvL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Hj3dzZ6wL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51HABI7yMrL._AC_US.jpg"
-        ],
         "description": "Product Specification: Structure Material: Metal and Imitation Leather - Bench Surface Material: - Design: Barbell rack and Bench Height Adjustable -Package Size: 119.5*33*18.5/ 47 x 13 x 7.3 inch - Height: 80-105cm/31.5-41.3inch - Seat Size: 30x26cm/ 10.2x11.8inch - Cushion Size: 80x26cm/31.5x10.2inch - Rack Width: 75cm/29.6 inch Product Feature: USE IT YOUR WAY You can do incline dumbbell bench press,one-arm dumbbell preacher curl as well as leg extension with it. EFFECTIVE TRAINER Strong 5 in 1 Rack & Bench set for barbell and dumbbell, this multifunctional machine is ideal for you to more easily emphasize lower abdominal muscles and build the abs you want in less time. ADJUSTABLE DESIGH Height adjustable and folded design brings more convenience to your exercising. FOR INDOOR EXERCISE Ideal for your power training exercising at your home or in the gym.Enjoy your personal power training and build your body either home or in the gym with your friends.Warm Tips: 1. Simple Assembly is required according to included instruction. 2. Please warm up fully before training to avoid physical injury.",
         "features": [
             "[Versatile Workout Bench]: This adjustable weight bench is great for a wide variety of full-body workouts, such as Flat Bench Presses/Incline Dumbbell Bench Press/One-Arm Dumbbell Preacher Curl etc. With two pull-up grips to exercise arm muscles, supine board allows you to exercise abdominal and leg muscles.",
@@ -6310,59 +6010,20 @@
                 "value": "OppsDecor"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "RedCarbon",
-                "thumbnail": "https://m.media-amazon.com/images/I/51jx+1ZvVdL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81zUzby46gL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71d42hueWbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81NYwNk8JKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71HUv3-7NCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81dXB0VWBgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81VUhmsJ65L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81fBqOGlNiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-BBo1SemL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81U-T-BF-fL._AC_SL1500_.jpg"
-                ],
-                "asin": "B09KRH994G",
-                "price": null
-            },
-            {
-                "name": "Red",
-                "thumbnail": "https://m.media-amazon.com/images/I/41M3ETx7PuL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71h9OEUjRPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71lY9z-yqUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71BMY7ZaRyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71K+7O54+5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71xXqZvfHLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/810SjeutD+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81unKBOlYwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71szYOvFGLL._AC_SL1500_.jpg"
-                ],
-                "asin": "B08PNVJKZM",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "RedCarbon"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 28.0,
                 "price": 189.98,
-                "remaining_products": 7,
-                "color": "Red"
+                "remaining_products": 16,
+                "color": "Red",
+                "img": null
             },
             {
                 "weight": 28.0,
                 "price": 189.98,
-                "remaining_products": 43,
-                "color": "Red"
+                "remaining_products": 7,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -6712,16 +6373,6 @@
         "title": "KeppiFitness Adjustable Weight Bench, Bench3000 MAX Heavy Duty Workout Bench Press with Leg Extension and Preacher Pad for Home Gym Fitness, Flat Incline Decline Sit Up Bench",
         "price": 399.99,
         "brand": "Keppi Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71TJTB8wFUL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/415hxggTeKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51kdpon+cJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51l02jCra3L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51s2UIpRzUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51iWpafbRuL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Ld7DLILBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51RyvDe5rbL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Upgraded Multi Functional Weight Bench - With a weight capacity of 1200 lbs. The frame of weight bench is made of 2.7\u201d*1.9\u201d commercial thickness steel to ensure safety and durability during high intensity workouts.",
@@ -6834,14 +6485,13 @@
                 "value": "632125458642"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "76 Pounds",
                 "price": 399.99,
-                "remaining_products": 70,
-                "color": "BLACK"
+                "remaining_products": 27,
+                "color": "BLACK",
+                "img": null
             }
         ]
     },
@@ -6850,15 +6500,6 @@
         "title": "Marcy Adjustable 6 Position Utility Bench with Leg Developer and High Density Foam Padding SB-350,dark gray",
         "price": 169.99,
         "brand": "MARCY",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71hx828LZoL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41Ip7ugk7PL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41gjtyY+wQL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51EODLQJVHL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51XjYkl3M7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51K+QMueUxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31UqCq0V7CL._AC_US.jpg"
-        ],
         "description": "Sculpt yourself and make your dream body a reality with the Marcy Utility Bench SB-350 This bench has an adjustable back that can be altered to suit your workout routine or regimen. Its secure sawtooth back pad adjustment design that can be altered to an incline, flat, or decline position. This multiple seatback positioning allows strength training exercises such as crunches and weightlifting. You can use this bench to lift dumbbells and barbells or performing tool-free exercises such as sit-ups. You can also perform leg curls and other muscle-toning routines on this training equipment in order to sculpt your legs to match your toned upper body. This sleek black bench\u2019s foam roller pads have a vinyl covering and a hardwearing, powder-coated finish. It also has a convenient transport handle. Additionally, this training device is suitable for the whole family, so everyone can use it to improve their bodies and health. The ergonomic bench\u2019s dual position leg developer has a two-position padded bar and weight posts that let you do leg extensions and curls. You can strengthen your calves and hamstrings, sculpt your quads and glutes, and gain a leaner figure through this helpful feature. The bench\u2019s powder-coated steel frame offers great resiliency with a maximum weight capacity of 300 pounds. It is strong and sturdy so you\u2019ll be able to pump iron at home for years to come. This bench is designed to fit most standards racks, cages, and Smith machines. Work out with optimal efficiency and without worrying about the training equipment\u2019s construction. Its top grade high density foam padding allows users to exercise comfortably on the equipment, boasts exceptional durability, withstands pressure, and is guaranteed to resist heavy lifting. Target your oblique and abs without any hassle. Gain a better body in the comfort of your own home with the Marcy Utility Bench SB-350.",
         "features": [
             "6-POSITION ADJUSTABLE BACK PAD \u2013 This utility bench has an adjustable back that can be altered to suit your workout routine. It features a secure sawtooth back pad adjustment design that can be modified to an incline, flat, or decline position.",
@@ -6994,14 +6635,13 @@
                 "value": "096362992732"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "51 Pounds",
                 "price": 169.99,
-                "remaining_products": 76,
-                "color": "black"
+                "remaining_products": 85,
+                "color": "black",
+                "img": null
             }
         ]
     },
@@ -7797,15 +7437,6 @@
         "title": "Titan Fitness Leverage Squat Machine, Calf Raise Machine, Hack Squat Machine & Leg Press Machine for Lower Body Training, Rated 1,000 LB, for Glutes, Hamstrings, Quadriceps, Calves & Thighs",
         "price": 657.97,
         "brand": "Titan Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/41yldKPFCgL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31gUr-kMBBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41oB3tXlhrL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ALYGF7KGL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41+AFO5xpoL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ZfI-+z3qL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31vQrhZ8TyL._AC_US.jpg"
-        ],
         "description": null,
         "features": [],
         "attributes": [
@@ -7851,14 +7482,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "180 Pounds",
                 "price": 657.97,
-                "remaining_products": 81,
-                "color": "black"
+                "remaining_products": 90,
+                "color": "black",
+                "img": null
             }
         ]
     },
@@ -8178,15 +7808,6 @@
         "title": "Sunny Health & Fitness Row-N-Ride Squat Assist Trainer, Foldable & Easy Setup Exercise Equipment w/Adjustable Resistance, Home Gym Training Machine for Arm, Glute & Leg Workout, Optional in Colors",
         "price": 90.85,
         "brand": "Sunny Health & Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71fue6zAF-L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41kV-+oBtuL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51P7ffGTchL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51QnyeWuTML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41DiGx4mPHL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41v9NXwz07L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ThCJ2bfyL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010WHY SQUAT\u3011Squats are not only effective for building an insanely strong lower body, but also because they deliver several ancillary physical benefits, including increased hormone release and improved flexibility",
@@ -8367,87 +7988,27 @@
                 "value": "24.5 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Grey",
-                "thumbnail": "https://m.media-amazon.com/images/I/41kV-+oBtuL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71fue6zAF-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/719FBSDdy9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81rivWO2vML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71AgyYVln6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/710kKAaDL0L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71GwRv72DsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-0KnnOdnL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/8191aOxQciL._AC_SL1500_.jpg"
-                ],
-                "asin": "B074B3B22G",
-                "price": null
-            },
-            {
-                "name": "Green",
-                "thumbnail": "https://m.media-amazon.com/images/I/4136ZgmgMEL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71hG+mrCtNL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61gtQ7ZjDQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/8141pFn3wzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61UCgS7jwnL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71da4C0YGPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61xe+XcW6oL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61bnowyMcML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71b54tGkSyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61vwp-idPmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61bIUE+iRhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Ww7uMVflL._AC_SL1500_.jpg"
-                ],
-                "asin": "B09W37YJFK",
-                "price": null
-            },
-            {
-                "name": "2 - Pink",
-                "thumbnail": "https://m.media-amazon.com/images/I/417UbUP4hZL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61ag45Fg6qL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61yXmOXP9pL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71eS4KcOpXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61GHwOZ9QtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71l48VJlgwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61bN5aknQGL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61-kYu6R6iL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71qgieBadrL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61ZzVCE8KDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61xcaBws4GL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81yClQU0iOL._AC_SL1500_.jpg"
-                ],
-                "asin": "B09W372BGG",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Grey"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 11.113004,
                 "price": 90.85,
-                "remaining_products": 65,
-                "color": "Grey"
+                "remaining_products": 36,
+                "color": "Grey",
+                "img": null
             },
             {
                 "weight": 11.113004,
                 "price": 90.85,
-                "remaining_products": 90,
-                "color": "Green"
+                "remaining_products": 91,
+                "color": "Green",
+                "img": null
             },
             {
                 "weight": 11.113004,
                 "price": 90.85,
-                "remaining_products": 99,
-                "color": "Pink"
+                "remaining_products": 91,
+                "color": "Pink",
+                "img": null
             }
         ]
     },
@@ -8721,13 +8282,6 @@
         "title": "Finer Form Multi-Functional Weight Bench for Full All-in-One Body Workout \u2013 Versatile Adjustable Workout Bench for Home Gym. Fitness equipment perfect for Back HyperExtension, Bench Press, Roman Chair Exercise, Sit up. Adjusts to Decline or Flat Bench.",
         "price": 149.99,
         "brand": "FF Finer Form",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61nLeVE+-uL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/411VhSaOhmL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411CPLdvUKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51+9G0ewXlL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51yE-wbdJtL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Full-body Adjustable Weight Bench - Work Your Arms, Back, Chest, Glutes, Hamstrings and Core. Use for Bench Press, As a Back Extension Machine Or for Hundreds of Other Weight Training Exercises.",
@@ -8850,14 +8404,13 @@
                 "value": "680193710605"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "17.2 Kilograms",
                 "price": 149.99,
-                "remaining_products": 2,
-                "color": "Black, Red"
+                "remaining_products": 75,
+                "color": "Black, Red",
+                "img": null
             }
         ]
     },
@@ -9646,15 +9199,6 @@
         "title": "Ankle Strap for Cable Machine, Padded Ankle Straps for Cable Machine Kickbacks, Glute Workouts, Leg Extensions, Curls, Booty Hip Abductors Exercise, Adjustable Comfort Ankle Cuff for Gym",
         "price": 9.99,
         "brand": "HPYGN",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81eZ0RjUy1L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51jAFDA9osL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51lcLua2psL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51V+po8qNkL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/516LaXEhGcL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51R7oKFTHYL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/419XAozPDAL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010ADDED AN EXTRA ADJUSTABLE STRAP\u3011In order to solve the problem of the cable ankle strap sliding, our ankle cuff not only added an extra adjustable strap for secure your ankles, but also reinforce the strap part between bands and carabiner, more safe and durable. When you do kickback, it can protect your ankles not to slip easily and let your back kick more standard, won't strain the muscle, precise control of your inner and outer leg exercise, quickly get the body and physique of your dreams.",
@@ -9714,94 +9258,41 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [
-            {
-                "name": "Single-Orange",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0CM2DMHBQ",
-                "price": {
-                    "value": 5.89,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "1Pair-Orange",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0BRN2KVBZ",
-                "price": {
-                    "value": 9.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "1Pair-Pink",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0CHDQVZHJ",
-                "price": {
-                    "value": 9.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "1Pair-Black",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0CG69KQLH",
-                "price": {
-                    "value": 11.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Single-Yellow",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0CM2D5FNV",
-                "price": {
-                    "value": 5.89,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "1Pair-Orange"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.1360776,
                 "price": 5.89,
-                "remaining_products": 84,
-                "color": "Orange"
+                "remaining_products": 89,
+                "color": "Orange",
+                "img": null
             },
             {
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 91,
-                "color": "Orange"
+                "remaining_products": 52,
+                "color": "Orange",
+                "img": null
             },
             {
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 69,
-                "color": "Pink"
+                "remaining_products": 52,
+                "color": "Pink",
+                "img": null
             },
             {
                 "weight": 0.1360776,
                 "price": 11.99,
-                "remaining_products": 89,
-                "color": "Black"
+                "remaining_products": 74,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 0.1360776,
                 "price": 5.89,
-                "remaining_products": 7,
-                "color": "Yellow"
+                "remaining_products": 100,
+                "color": "Yellow",
+                "img": null
             }
         ]
     },
@@ -10079,16 +9570,6 @@
         "title": "Adjustable Weight Bench, Multi-function Preacher Curl Bench for Home Gym, Foldable Leg Extension and Leg Curl Machine, weight capacity 660LBS.",
         "price": 179.99,
         "brand": "Z ZHICHI",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61b7TT+qY6L._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41GfRgg3+QL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41bmzCtom2L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/415XnYQRECL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51z4+mMDGOL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51yu6Zx0EzL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41LOj5TVY1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51jjhGa7Q+L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\ud83d\udcaa\u3010SUPER SALE POINTS\u3011\uff1aAdjustable weight bench space design conforms to the human body engineering,fitness enthusiasts of all heights have room to do exercises like leg extensions,the enlarged and lengthened double-deck preacher pad is very effective for the double hands dumbbell bending, roman chair abdomen bending and other functions. Whole bench leather is 1.4mm thickness,comfort and exquisite feeling far beyond competitors, 2 in 1 weight rod can fit dumbbell & Olympic weight plates..",
@@ -10191,56 +9672,20 @@
                 "value": "ZHICHI"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "black&red",
-                "thumbnail": "https://m.media-amazon.com/images/I/51XRqOtQIxL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71Ii1NiUdIL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61sUJMmGkqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81mXdXLPZHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Dj7HSjfmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71dF-F2vrfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71VidyOWkaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/41Fh3ULlExL._AC_.jpg"
-                ],
-                "asin": "B08CSK5PJ2",
-                "price": null
-            },
-            {
-                "name": "orange",
-                "thumbnail": "https://m.media-amazon.com/images/I/41GfRgg3+QL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61b7TT+qY6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ZRtAWPRtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61cdrNRhZGL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71fOh1TBZlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71dDpPBlI+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71sJAW4NulL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81tff7EhyxL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D9NKQZ1X",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "orange"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 20.41164,
                 "price": 179.99,
-                "remaining_products": 49,
-                "color": "Red, Black"
+                "remaining_products": 84,
+                "color": "Red, Black",
+                "img": null
             },
             {
                 "weight": 20.41164,
                 "price": 179.99,
-                "remaining_products": 38,
-                "color": "Orange"
+                "remaining_products": 40,
+                "color": "Orange",
+                "img": null
             }
         ]
     },
@@ -10249,16 +9694,6 @@
         "title": "Feierdun Squat Machine for Home, Rodeo Core Exercise Machine, 330lbs Foldable with Adjustable 4 Resistance Bands, Ride & Rowing Machine for Glutes, Thighs, Abs, Back, Leg Press, and Hip Thrust",
         "price": 79.99,
         "brand": "FEIERDUN",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61MGxJD-ZbL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41DP9WxISPL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/518xS8ATqxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41kg+nCkSVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41pvV8uqGFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51PfMLgXFCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51216oIkLaL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51jYFI+TAmL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010The Feierdun Squat Machine\u3011The Feierdun Squat Machine engages both upper and lower body through 13 targeted exercises, solving the inefficiency of traditional squats. It offers a more effective and efficient workout for those seeking full-body conditioning.",
@@ -10408,14 +9843,13 @@
                 "value": "330 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "23.8 Pounds",
                 "price": 79.99,
-                "remaining_products": 83,
-                "color": "Black"
+                "remaining_products": 29,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -11643,15 +11077,6 @@
         "title": "Leg Press Machine Pad - Fitness Exercise Attachment for Gym Machines - Body Building Accessory & Equipment - Compact Portable Wedge for Lower Back & Knee - Squat Replacement Hip Workout",
         "price": 44.99,
         "brand": "Motion Molds",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61x9wnty9wL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31gHdEwvJ6L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51KTjMJznbL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51PePhkV9aL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/511hkZNuoJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51brYF8UP0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/511aBPkSuPL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\ud83c\udf31 DECREASE BACK PRESSURE: Experience a safer lift with our leg press attachment that minimizes lower back rounding and maintains your spine's natural curve. This essential piece of workout equipment is designed to seamlessly integrate with standard gym equipment ensuring safety and efficiency. Elevate your training with this gym machine equipment. Our leg press attachment for smith machine ensures compatibility with various gym equipment, making it a sought piece of rehabilitation equipment.",
@@ -11699,14 +11124,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "0.9 Pounds",
                 "price": 44.99,
-                "remaining_products": 67,
-                "color": "Black"
+                "remaining_products": 83,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -12232,15 +11656,6 @@
         "title": "Adjustable Weight Bench,Utility Workout Bench Foldable Incline Decline Benches for Home Gym Full Body Workout,Load 600LBS",
         "price": 159.99,
         "brand": "K KiNGKANG",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61068x4kfXL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41Fp7Nz+v5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51UHnUC1YRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51RjKMyW-8L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5143jXXXUFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41gIY+O2DWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51JWxWdta2L._AC_US.jpg"
-        ],
         "description": "Specification: Material: steel + PU leather + foam Gross weight: 18.5kg Packaging Size: 82*38*38(CM) Folded Size: 31 \"L x 14.5 \"W x 13 \"H Seat cushion material: Regenerated foam, can sit for 24 hours without getting tired and restore the original shape Backing plate material: better than the previous material, the 1cm thick steel plate has 7 adjustable angles. Adjustment structure change: Compared with the previous product, the adjustment method of this product is more practical, the adjustment is simpler, and the position to be used can be adjusted in one second, saving the time of fitness Package includes\uff1a Adjustable Weight Bench+Instructions+Toolkit",
         "features": [
             "[Material of Weightlifting Stool]: Made of high-hardness commercial high-quality steel, unique frame and thick support tube, sturdy and durable, can bear 600lbs, effectively prolong the service life",
@@ -12353,65 +11768,20 @@
                 "value": "782948713395"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Load 600LBS",
-                "thumbnail": "https://m.media-amazon.com/images/I/41VL6S5MNmL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71pS6DYehbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71KWq+NzZ0L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71F-6G7hclL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-akZVrhzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71sVI5TN3uL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71eSPwRXdwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71yqUudwpZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/41nkoas6vqL._AC_.jpg"
-                ],
-                "asin": "B09VG463BN",
-                "price": {
-                    "value": 164.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41Fp7Nz+v5L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61068x4kfXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71es7lZaiUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Pz4zVxgwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Kl4H5CdjL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71yO1RIlD-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81xWgEIUnwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71PO4+s69cL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61KhZ4qVQsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/612Ik2JqugL._AC_SL1500_.jpg"
-                ],
-                "asin": "B08FWVDSHB",
-                "price": {
-                    "value": 159.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 272.1552,
                 "price": 164.99,
-                "remaining_products": 18,
-                "color": "Black"
+                "remaining_products": 99,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 16.50167696,
                 "price": 159.99,
-                "remaining_products": 84,
-                "color": "Black"
+                "remaining_products": 93,
+                "color": "Black",
+                "img": null
             }
         ]
     },

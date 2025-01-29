@@ -610,15 +610,6 @@
         "title": "Soozier Chest Fly Machine and Chest Press Station, Delt Machine Home Gym Equipment for Chest, Back, Pectoral, Rear Deltoid and Shoulder Training",
         "price": 249.99,
         "brand": "Soozier",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61ADPM4SXZL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31Ttg9ruWtL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51syv32hBpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/515dSb3qbzL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51LctftXFhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41wzGQvPu7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51VDA5nmzVL._AC_US.jpg"
-        ],
         "description": "Description:Transform your workout routine with the Soozier chest fly machine! This versatile chest press machine features an adjustable 4-level seat and resistance up to 132 lbs, which is great for any home gym. Crafted for stability and various upper body exercises, it's a must-have for those serious about strength training. Step up your fitness game with this essential home workout equipment.Features:\u25cf Chest press and butterfly machine target upper body muscles\u25cf Seat adjusts to four levels, enhancing comfort during workouts\u25cf Adjustable resistance fits 1\" opening weight plates up to 132 lbs (weight is not included)\u25cf 2\" x 2\" steel tube construction for enhanced durability\u25cf Anti-slip foot bases ensure stability and safety while exercisingSpecifications:\u25cf Color: Red\u25cf Materials: Steel, PU\u25cf Overall Dimensions: 38.6\" L x 43.3\" W x 78.1\" H\u25cf Seat Size: 11.8\" L x 11\" W x 20.9\" -23.8\" H\u25cf Back Size: 25.2\" L x 11\" W\u25cf Butterfly Arm Spacing: 28.7\" W\u25cf Max Counterweight: 66 lbs. for a side, 132 lbs. in total\u25cf Weight Capacity: 265 lbs.\u25cf Item Label: A91-366V00RDPackage Includes:- 1 x Chest Workout Station- 1 x Manual",
         "features": [
             "Comprehensive Upper Body Training: This chest machine combines a chest press and butterfly arm features, allowing for a versatile upper body workout in your home gym",
@@ -743,60 +734,20 @@
                 "value": "196393142233"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Yellow",
-                "thumbnail": "https://m.media-amazon.com/images/I/31DB0qJNJ8L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61L0XNdiwYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81+3-N+AqtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81B2NME1uaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81pO0RY7uSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/713UVYEEPRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ZTbm153AL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Xe0pnn4kL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81GPvOlueRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81TqQWW+wmL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DQSRXK2N",
-                "price": null
-            },
-            {
-                "name": "Red",
-                "thumbnail": "https://m.media-amazon.com/images/I/31Ttg9ruWtL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61ADPM4SXZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81eGdH5H1AL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81icfWf6SiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81RMJpWHqdL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71fstXQOhQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Z57MXlZpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81qZRvOTLCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81MvXJmtr4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71RbD16YKXL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DQSLP7RF",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Red"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 84,
-                "color": "Yellow"
+                "remaining_products": 87,
+                "color": "Yellow",
+                "img": null
             },
             {
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 72,
-                "color": "Red"
+                "remaining_products": 57,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -1382,15 +1333,6 @@
         "title": "RELIFE REBUILD YOUR LIFE Power Tower Pull Up Bar Station Workout Dip Station for Home Gym Strength Training Fitness Equipment",
         "price": 149.99,
         "brand": "RELIFE REBUILD YOUR LIFE",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51AfBFK9QxL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31nF9kLr3YL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/419ZKoE+2iL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/518FeJPiFWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51iOMA0gDZL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51VpyrYrOjL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41JPliuKPEL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Sturdiness and Durability\uff0cSupports up to 400 lbs, safety locknut and 4 sturdy suction cups for added stability. The Relife power tower features a robust pull up bar and stays steady without any wobbling or shaking, providing confidence and safety during your workout, whether you're doing pull-ups, push-ups, chin-ups,dips or other exercises.",
@@ -1489,60 +1431,20 @@
                 "value": "Fixed"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/31FLf3+KyzL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51mYFJioEfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71NdEAK8OPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-Zgx3HnjL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/718fh6mT6BL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61i6UhQY8yL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71bUKyTGIhL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CLV77TKQ",
-                "price": {
-                    "value": 154.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Silver",
-                "thumbnail": "https://m.media-amazon.com/images/I/31nF9kLr3YL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51AfBFK9QxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71DLRh4FVzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71jhQRkEyyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Blh4qSY1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71oL-rwN3xL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71TOsOwhy-L._AC_SL1500_.jpg"
-                ],
-                "asin": "B071HT1DH1",
-                "price": {
-                    "value": 149.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Silver"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 27.215519999999998,
                 "price": 154.99,
-                "remaining_products": 94,
-                "color": "Black"
+                "remaining_products": 37,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 27.215519999999998,
                 "price": 149.99,
-                "remaining_products": 93,
-                "color": "Silver"
+                "remaining_products": 100,
+                "color": "Silver",
+                "img": null
             }
         ]
     },
@@ -2168,12 +2070,6 @@
         "title": "Body Solid Powerline (PPA13X) PEC Attachment for PSM144X Smith Machine for Boosting Upper Muscle Development, Compact Workout Station for Commercial and Home Gym",
         "price": 211.5,
         "brand": "Body-Solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61IdvDlmnYL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41u-r9ZHPXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51GqiQbix1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5195rc7hxcL._AC_US.jpg"
-        ],
         "description": "Product DescriptionPowerLine Pec Attachment. Perform Pec Flys for fast and effective chest development. Unique design allows unilateral and bilateral movement with even resistance on both pec arms. Thick DuraFirm back pad provides user comfort. NOTE PLA144X Lat Attachment must be installed prior to use. For use with PSM144X Powerline Smith Machine onlyAmazon.comAdd pec flys to your Smith-based workout routine with the Powerline PPA13X pec attachment. Designed exclusively for use with the PSM144X Powerline Smith machine, the unit features a unique design that allows for both unilateral and bilateral movement. As a result, the resistance will be equal on both arms, so you'll develop your chest muscles faster and more effectively. The unit also includes a DuraFirm back pad for added comfort during your workouts. The Powerline pec attachment carries a 10-year warranty on the frame and a one-year warranty on all other parts.",
         "features": [
             "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
@@ -2266,14 +2162,13 @@
                 "value": "Body-Solid"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "0.01 Ounces",
                 "price": 211.5,
-                "remaining_products": 49,
-                "color": "Black"
+                "remaining_products": 6,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -3136,12 +3031,6 @@
         "title": "Unicorn Using Pec Deck Machine Fitness Gym Men Women Kids Throw Pillow",
         "price": 21.99,
         "brand": "Unicorn Pec Deck Machine Weightlifting Rainbow",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71+yhSU5acL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31+ykma-ETL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/216WY8HW-RL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31muOikOZIL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "100% Polyester",
@@ -3215,54 +3104,20 @@
                 "value": "18\"L x 18\"W"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "16x16",
-                "thumbnail": "https://m.media-amazon.com/images/I/314VGsGD5YL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/610i6QLnlUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61PICL67tPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61+dLIkxxZL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DG31D1GQ",
-                "price": {
-                    "value": 19.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "18x18",
-                "thumbnail": "https://m.media-amazon.com/images/I/31+ykma-ETL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71+yhSU5acL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61PICL67tPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61+dLIkxxZL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DG3218M2",
-                "price": {
-                    "value": 21.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Size",
-                "value": "18x18"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.49895120000000004,
                 "price": 19.99,
-                "remaining_products": 38,
-                "color": "Multicolor"
+                "remaining_products": 71,
+                "color": "Multicolor",
+                "img": null
             },
             {
                 "weight": 0.49895120000000004,
                 "price": 21.99,
-                "remaining_products": 68,
-                "color": "Multicolor"
+                "remaining_products": 84,
+                "color": "Multicolor",
+                "img": null
             }
         ]
     },

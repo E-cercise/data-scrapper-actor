@@ -102,16 +102,6 @@
         "title": "HulkFit Exercise Machine Attachments and Weight Lifting Cable Attachments for Cable Crossover, LAT Pulldown, and Power Cage - D Row, Straight Bar, Tricep Rope, and V Tricep Bar",
         "price": 74.99,
         "brand": "HULKFIT",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51ZFPZQ4YaL.__AC_SY300_SX300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31Co45kX4tL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51VtoAafRzL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/515Ee-edgWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51nWhMY3C8L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Ke-5-dy1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41tA+H62LgL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41AnWezdi4L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Set includes a Straight Bar, D Row Handle Bar, V Shaped Tricep Bar and a Tricep Rope plus 4 caribiner clips",
@@ -186,55 +176,20 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [
-            {
-                "name": "Cable Attachments",
-                "thumbnail": "https://m.media-amazon.com/images/I/31Co45kX4tL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51ZFPZQ4YaL._AC_SL1368_.jpg",
-                    "https://m.media-amazon.com/images/I/71acZrauKIL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71fYrLfGr2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81IAtDyHJYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ZHfX1PxFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/719dqPcQ2yL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71teKZ35wYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71akwAAhavL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81uiNzBHlbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71oQPVMBIFL._AC_SL1500_.jpg"
-                ],
-                "asin": "B08PYGRPVV",
-                "price": null
-            },
-            {
-                "name": "V-Tricep Bar",
-                "thumbnail": "https://m.media-amazon.com/images/I/21OF64okZyL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51ZkiTa2SYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/41OpOXBB0aL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/81isQh8RhjL._AC_SL1500_.jpg"
-                ],
-                "asin": "B09NPS979Y",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style Name",
-                "value": "Cable Attachments"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 3.52,
                 "price": 74.99,
-                "remaining_products": 22,
-                "color": "Black"
+                "remaining_products": 12,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 3.52,
                 "price": 74.99,
-                "remaining_products": 66,
-                "color": "Black"
+                "remaining_products": 20,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -243,15 +198,6 @@
         "title": "Sunny Health & Fitness Rowing Machine for Low Impact Full Body Workouts, Optional Magnetic Rower or Air Rower with Exclusive Free SunnyFit App and Smart Connectivity",
         "price": 149.49,
         "brand": "Sunny Health & Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71Vy2Kalo6L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41L7-oEl7KL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Y4+WC35AL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41YomPzJRqL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41dYJv0In1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/4100Y8iD7ZL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51PVajoLjiL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010SMOOTH MAGNETIC\u3011 Enjoy the quiet and smooth resistance that magnetic tension system offer including 8 steps of resistance. Smaller number of steps means you don't waste time figiding with the right resistance.",
@@ -429,63 +375,20 @@
                 "value": "64.2 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Smart Magnetic Fan",
-                "thumbnail": "https://m.media-amazon.com/images/I/41hS4F0zM6L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71LdlVWYZqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/616hTxiINIL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71fnMFC8ClL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ywey+vQeL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71B9IRjUrtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/712X3Sohb3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71PcjlaQQ+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81PFVb7SLmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71TT0vOsDdL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81KPfvD9k1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61ooWz0boAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71sKSGlU7CL._AC_SL1500_.jpg"
-                ],
-                "asin": "B092LMX6X3",
-                "price": null
-            },
-            {
-                "name": "Magnetic",
-                "thumbnail": "https://m.media-amazon.com/images/I/41L7-oEl7KL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71Vy2Kalo6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81cdu9aZMVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81kOtxjSjyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/811NAbCEUwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71zIPY88H3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71FzX6eZ75L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81BXanIoUiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/819AOruVjnL._AC_SL1500_.jpg"
-                ],
-                "asin": "B01M8GSBON",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "Magnetic"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 29.1206064,
                 "price": 149.49,
-                "remaining_products": 100,
-                "color": "Steel"
+                "remaining_products": 58,
+                "color": "Steel",
+                "img": null
             },
             {
                 "weight": 29.1206064,
                 "price": 149.49,
-                "remaining_products": 92,
-                "color": "Steel"
+                "remaining_products": 36,
+                "color": "Steel",
+                "img": null
             }
         ]
     },
@@ -605,15 +508,6 @@
         "title": "Body-Solid Rower Attachment for Home Gyms - Low-Impact Cardio Workout Accessory for Cable Machines, Pulleys, and Power Racks",
         "price": 270,
         "brand": "Body-Solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51ij8XERCOL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31PrtMd0zEL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ypSff9fVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41iRkE4jT1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51gMd0KKWrL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51y52IQpWBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/61M+rhYpSbL._AC_US.jpg"
-        ],
         "description": "Body Solid",
         "features": [
             "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
@@ -762,14 +656,13 @@
                 "value": "43 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "43 Pounds",
                 "price": 270,
-                "remaining_products": 20,
-                "color": "Black"
+                "remaining_products": 31,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -1129,16 +1022,6 @@
         "title": "Rowing Machine Seat Cushion, Custom Memory Foam for Perfectly Fit, Washable Cover with Anti-Slip Fastening Strap, Compatible UTRYUP & Concept 2 and Other Row Machines - Rower Accessories Black",
         "price": 38.99,
         "brand": "UTRYUP",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/91q9l3j19eL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51IAf7Nnp7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Ek+FWqu9L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411+xQ5sHYL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41WUAy2gvjL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/414BpwXBcfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41a-R28NL4L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/414xw6ivWjL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Enhance Your Performance: By reducing discomfort and providing the support you need, our Premium Rowing Machine Seat Cushion lets you focus on improving your rowing technique and achieving your fitness goals. It's the must-have accessory for serious rowers",
@@ -1248,14 +1131,13 @@
                 "value": "No Display"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "0.13 Kilograms",
                 "price": 38.99,
-                "remaining_products": 82,
-                "color": "black"
+                "remaining_products": 52,
+                "color": "black",
+                "img": null
             }
         ]
     },
@@ -1264,14 +1146,6 @@
         "title": "Row Machine Seat Cushion with Straps - Rower Seat Pad Designed for Concept 2 Rowing Machine- Cushion for Rowing Machine, Compatible with Peloton",
         "price": 24.99,
         "brand": "Home & Rowe",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/511IKuDlaqL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41i6l3Ady0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41irMfuVZFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41a+8IGi0TS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Y8ciG+rbL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/412Jqa+wkwL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "INNOVATIVE DESIGN: Get ready to row for hours! Our innovative seat pad design includes all the features needed for hours of superior comfort and support while using your rowing machine. The cushion is specifically designed with a neoprene core to maintain its shape and provide lasting comfort, with added elastic straps and a convenient drawstring to securely fasten the cushion to the seat.",
@@ -1395,14 +1269,13 @@
                 "value": "LCD"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "16 Ounces",
                 "price": 24.99,
-                "remaining_products": 6,
-                "color": "Black"
+                "remaining_products": 80,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -1698,15 +1571,6 @@
         "title": "GMWD Chest Press Machine, 1050LBS Bench Press Machine with Independent Converging Arms, Adjustable Flat Incline Bench for Chest, AB Workouts, Shoulder Home Gym Equipment, V1",
         "price": 199.99,
         "brand": "GMWD",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61XiyCFNgzL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41Y5J59FV3L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51BELywaHUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41MOHvHxcIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51mCtpO0l0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51K8ZnBXwcL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51t8tpCtxVL._AC_US.jpg"
-        ],
         "description": "GMWD Chest Press Machine",
         "features": [
             "\u3010Great Upper Body Workout\u3011: Chest press machine constructed with 50 x 50(mm), 11 gauge steel tube. 4 larger Anti-slipper foot bases create better stability, and solid enough to load 450lbs, 200lbs per arm, 200lbs capacity of each weight holder. Note: The Detachable Sleeve can fit both 1'' & 2'' plates. Feel free to put weights on it!",
@@ -1800,65 +1664,20 @@
                 "value": "GMWD"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Black-V1",
-                "thumbnail": "https://m.media-amazon.com/images/I/41fYG+L4grL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61Y-p5RNXbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-A2nSYW+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71TNEScddvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71P5MuCB9nL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ImEBLLzlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71gRhKRLKML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711KZI1feqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71bWyrXfgvL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0C4L4CN2Y",
-                "price": {
-                    "value": 199.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Red-V1",
-                "thumbnail": "https://m.media-amazon.com/images/I/41Y5J59FV3L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61XiyCFNgzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Vt-4ED-3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71a0xthghhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Ytt7zJ8IL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71B3dfS5GoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71G3ZMKghFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71HOKw5VfsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71svN8ltrtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61ELRCMAO5L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CP9CQ4RK",
-                "price": {
-                    "value": 199.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Red-V1"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 40.369688,
                 "price": 199.99,
-                "remaining_products": 66,
-                "color": "Black"
+                "remaining_products": 67,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 40.369688,
                 "price": 199.99,
-                "remaining_products": 93,
-                "color": "Red"
+                "remaining_products": 16,
+                "color": "Red",
+                "img": null
             }
         ]
     },
@@ -2015,15 +1834,6 @@
         "title": "Rowing Machine Seat Cushion Designed for Concept 2 Rower, Hydrow and Waterrower and More - Anti Slip Surface of The Rowers Pad Increases Comfort and Stability",
         "price": 24.99,
         "brand": "Hornet Watersports",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81WOhlXV2qL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41+JKzGZnCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51NylaJi0jL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/513zrDFGyaL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/61GcJeemgMS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/512uP2uoAWS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51xAdETVOjS._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "ANTI-SLIP TECHNOLOGY: Anti-slip silicone printing holds you and the rowing cushion firmly in place to stay in place no matter how hard or fast you're rowing.",
@@ -2159,14 +1969,13 @@
                 "value": "Neoprene, Sports grade SBR"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "0.53 Pounds",
                 "price": 24.99,
-                "remaining_products": 32,
-                "color": "Black"
+                "remaining_products": 70,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -2175,15 +1984,6 @@
         "title": "Sunny Health & Fitness Compact Adjustable Rowing Machine with 12 Levels of Resistance for Complete Body Workouts and Optional Free SunnyFit App Enhanced Connectivity",
         "price": 80.99,
         "brand": "Sunny Health & Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71Xr8P3IOhL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41Fbe20LDFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31SIy3p-dFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411DARgO8yL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41DYwy8+YsL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41f+gPgemJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51PVajoLjiL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010Progressive Resistance Levels\u3011Elevate your rowing experience with 12 adjustable resistance levels, catering to everyone from beginners to advanced users. Safeguard your joints while achieving your fitness goals.",
@@ -2369,62 +2169,20 @@
                 "value": "20.5 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Classic",
-                "thumbnail": "https://m.media-amazon.com/images/I/41Fbe20LDFL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71Xr8P3IOhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71KGOasG+CL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Axx0WnnBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/814BHBOQ7VL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71yZeJ6UHRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81VOT35GWPL._AC_SL1500_.jpg"
-                ],
-                "asin": "B009QXP77I",
-                "price": {
-                    "value": 80.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Smart",
-                "thumbnail": "https://m.media-amazon.com/images/I/413vZcvVuFL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61trRuA+jtL._AC_SL1080_.jpg",
-                    "https://m.media-amazon.com/images/I/71uAYxod0SL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81uvf4JXSsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81EyjL02-xL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71743p9EeKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71nUebUZx9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0C8342FMM",
-                "price": {
-                    "value": 103.33,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "Classic"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 9.298636,
                 "price": 80.99,
-                "remaining_products": 74,
-                "color": "Grey/black"
+                "remaining_products": 40,
+                "color": "Grey/black",
+                "img": null
             },
             {
                 "weight": 9.298636,
                 "price": 103.33,
-                "remaining_products": 9,
-                "color": "Grey/black"
+                "remaining_products": 86,
+                "color": "Grey/black",
+                "img": null
             }
         ]
     },
@@ -2551,15 +2309,6 @@
         "title": "Body-Solid Pro Clubline (LVSR) Leverage Seated Row Machine - Unilateral Dual-Axis, Adjustable Gas-Assisted Chest Support, 360-Degree Grips",
         "price": 1155,
         "brand": "Body solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/516ldCNnDnL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41lY0oGyYdL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51o4nAhST4L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/518PlrgQ1OL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51nXlsajbuL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51o1s25245L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41JzHXzaebL._AC_US.jpg"
-        ],
         "description": "The Body-Solid Leverage Seated Row Machine (LVSR) helps users build depth in the middle back and train the lower lats with biomechanically-correct movements. Featuring dual-axis diverging arms, this rowing machine lets each arm move independently, with sealed bearing pivot points for smooth, uninterrupted movement. 360-degree articulating hand grips provide a natural range of motion while you pull, while the gas-assisted chest support delivers total isolation of back muscles while supporting users of various arm lengths. Made with a heavy-duty 2 by 3-inch 11-gauge steel mainframe and double-stitched upholstery, this seated row machine is durably constructed to stand up to rigorous use in gyms and clubs. It uses Olympic weight plates for resistance (weight plates sold separately). When assembled, the Body-Solid Leverage Seated Row Machine measures 65 by 35 by 44 inches (L x W x H) and weighs 158 pounds. It is backed by the Body-Solid Lifetime In-Home Warranty and Full Commercial Warranty.",
         "features": [
             "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
@@ -2635,14 +2384,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "158 Pounds",
                 "price": 1155,
-                "remaining_products": 61,
-                "color": "Black"
+                "remaining_products": 46,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -2749,14 +2497,6 @@
         "title": "Body-Solid Tools Seated Row Chinning Bar - Diamond Knurl Textured Grip for Home Gym System - Ideal for Middle Back & Lower Lat Muscles Training, Fitness Exercise Equipment",
         "price": 27.09,
         "brand": "Body-Solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/7141WejJmGL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41dJiQDWokL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41EEOj4pwzL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41VDto2IiCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41reijLqw2L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/416-JfvpY5L._AC_US.jpg"
-        ],
         "description": "The Body-Solid Tools Pro-Grip Seated Row Chinning Bar (MB502RG) expands the functionality of any Body-Solid cable machine to help you develop your middle back and train the hard-to-reach lower lat muscles. Toning and growing the back can have a significant and positive effect on posture, health, and appearance, and this rowing attachment facilitates a variety of workouts that target this muscle group.This wide grip row bar is made of durable solid steel and features soft, diamond knurl-textured grips to provide a secure and comfortable hold as you workout. All ends are precision-ground and polished to an exact radius, offering perfectly balanced motion while you pull.The Body-Solid Tools Pro-Grip Seated Row Chinning Bar measures 7 by 5.75 by 4.75 inches (L x W x H) and weighs 5 pounds.",
         "features": [
             "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
@@ -2901,14 +2641,13 @@
                 "value": "066510401706 638448005839"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "4.34 Pounds",
                 "price": 27.09,
-                "remaining_products": 97,
-                "color": "Chrome"
+                "remaining_products": 31,
+                "color": "Chrome",
+                "img": null
             }
         ]
     },
@@ -3599,15 +3338,6 @@
         "title": "Rowing Machine Seat Cushion (Model 3) for The Concept 2 Rowing Machine with Custom Gel That Fits The Concept 2 Rower, WaterRower Pad, Crew Boat, Sculling, Kayak, and Canoe",
         "price": 29.99,
         "brand": "2K Fit",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81Bf709LAvL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/4129DxM05hL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41EzAtd4HNL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31laTguoSSL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31wj+TpBAgL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/4178PBUetsL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51D81aR-y8L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "PERFECTLY FITS ON CONCEPT 2 ROWING MACHINE: This rowing machine pad is perfect for rowers who want a THIN cushion to take the edge off. Look at our Model 1 and Model 2 cushions if you want more comfort. Also works on the Stationary recumbent bikes, Waterrower, Hydrow, Some outdoor rowing shells, boat, sculling, kayak, and canoe!",
@@ -3724,14 +3454,13 @@
                 "value": "687181999233"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "637 Grams",
                 "price": 29.99,
-                "remaining_products": 12,
-                "color": "Black"
+                "remaining_products": 16,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -3740,16 +3469,6 @@
         "title": "Rowing Machine Seat Cushion fits Perfectly Over Concept 2 Rower - Rower Seat Cushion Compatible with Hydrow, Concept2 and Other Row Machines - Rowing Accessories and Seat Pad",
         "price": 19.99,
         "brand": "Hornet Watersports",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71aNeBj5fIL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41-EtxHatvL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51i+dWZ3UGL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51uGJ+XS-+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51g9bzl6vEL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51x3CbFrojL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Ke6mD9cDL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31P4hYvsZ9L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Fits Perfectly On The Concept 2 Rowing Machine: This black seat cushion is designed to have the exact specifications of the Concept 2 rowing machine's seat in mind - so it's a perfect, snug fit. It also fits on the WaterRower, HydRow, and more.",
@@ -3890,14 +3609,13 @@
                 "value": "Battery Powered"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "0.3 Pounds",
                 "price": 19.99,
-                "remaining_products": 100,
-                "color": "Black"
+                "remaining_products": 94,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -3906,15 +3624,6 @@
         "title": "Sunny Health & Fitness Row-N-Ride\u00ae Plus, Heavy Duty Assisted Squat Machine with 300 LB Max Weight Capacity, Adjustable Resistance and Thick Padded Seat - NO. 077PLUS",
         "price": 199.99,
         "brand": "Sunny Health & Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/717hdghWvYL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41fzDdXOdQL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51aD0ldkdZL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41jLnsk8YBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41RhhH7FzvL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41vUS-cMjcL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41xo8UlJ6XL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010FULL BODY SQUAT MACHINE\u3011Squat with proper form, focus on toning your glutes, engage your arms, sculpt your abs, and embrace strength training. This all-in-one squat machine delivers a comprehensive and varied workout experience.",
@@ -4088,14 +3797,13 @@
                 "value": "37.9 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "37.9 Pounds",
                 "price": 199.99,
-                "remaining_products": 17,
-                "color": "Black"
+                "remaining_products": 34,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -4104,15 +3812,6 @@
         "title": "Sunny Health & Fitness Flip & Foldable Rowing Machine for Home w/Extended Slide Rail, Full-Body Workout, Low-Impact, Optional Extra Long Rail, Quiet Rail Cover, Water Motion and Free SunnyFit App",
         "price": 197.1,
         "brand": "Sunny Health & Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71SQk7mhvPL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41JZsWotevL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51iMZzy+PpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51myPfYryUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51SlvLK1dsL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ytBNeQWjL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ft59tKIQL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010TOTAL BODY WORKOUT\u3011Full-body Workout with Extended Slide Rails. Engage & strengthen legs, glutes, core, back, arms & shoulders. Rowing activates multiple muscles, promoting balanced development & strength. Unlock your potential.",
@@ -4294,115 +3993,34 @@
                 "value": "60.9 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Smart Quite Rail",
-                "thumbnail": "https://m.media-amazon.com/images/I/41VRzY1acBL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71Aw5ZXncgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51Rm+wdp4YL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71JOnYjXFgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ps5mlZV+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61swKZ1ea+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D28B72T9",
-                "price": {
-                    "value": 339.76,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Smart Water Rower",
-                "thumbnail": "https://m.media-amazon.com/images/I/51GHk4QIDWL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71NL-GFs9jL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81UVnuKd-1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81wK87QXlFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81A7JOsMgVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81m4HeeNE-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/717afhoI37L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CT1GGNBL",
-                "price": {
-                    "value": 664.98,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Smart Long Rail",
-                "thumbnail": "https://m.media-amazon.com/images/I/31x4HqvfPML._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71st4J+uDVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71yIT0o3HyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71yaCRc4noL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81FaUutjEjL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91v51ZquZzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716t9qsREQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81k2Syg4-4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81F0AdAGUxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Hh3dQycfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61jZrlavU3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ISTjTLP9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61gzCj1R5HL._AC_SL1500_.jpg"
-                ],
-                "asin": "B09Y9H42CH",
-                "price": {
-                    "value": 309.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Classic Long Rail",
-                "thumbnail": "https://m.media-amazon.com/images/I/41JZsWotevL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71SQk7mhvPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81C+pPLG+SL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71XmIC+5lDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81eos3FXxyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WtKi4R8WL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71KZl2XXxYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71OQpy4CgBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/717TVLXJurL._AC_SL1500_.jpg"
-                ],
-                "asin": "B017HSNIEW",
-                "price": {
-                    "value": 197.1,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "Classic Long Rail"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 27.6237528,
                 "price": 339.76,
-                "remaining_products": 58,
-                "color": "Grey"
+                "remaining_products": 88,
+                "color": "Grey",
+                "img": null
             },
             {
                 "weight": 27.6237528,
                 "price": 664.98,
-                "remaining_products": 20,
-                "color": "Grey"
+                "remaining_products": 79,
+                "color": "Grey",
+                "img": null
             },
             {
                 "weight": 27.6237528,
                 "price": 309.99,
-                "remaining_products": 72,
-                "color": "Grey"
+                "remaining_products": 7,
+                "color": "Grey",
+                "img": null
             },
             {
                 "weight": 27.6237528,
                 "price": 197.1,
-                "remaining_products": 54,
-                "color": "Grey"
+                "remaining_products": 97,
+                "color": "Grey",
+                "img": null
             }
         ]
     },
@@ -4573,15 +4191,6 @@
         "title": "Valor Fitness Seated Row Machine - Plate Loaded- Converging Arms- Multi-Grip Rotating Handles, Max 400 lb - 2\" Plate Adapters, Back & Chest Workout",
         "price": 395.98,
         "brand": "Valor Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81bgLrU2Y5L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41ww+1h6Z0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/4130h80wBML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51aC1wCfrnL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41IRGuT-gZL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Nr1cumMFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51-cxylPdRL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "HEAVY DUTY BACK ROW MACHINE: It is constructed with 2\"x 2\" 12-gauge steel for strength and durability, and high-density dual-layered padding to last through your most intense back workout. Rubber end caps on each foot of the Row Machine provide additional stability to the frame and prevent damage to your home gym floor.",
@@ -4727,14 +4336,13 @@
                 "value": "400 lb"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "80 Pounds",
                 "price": 395.98,
-                "remaining_products": 101,
-                "color": "Metallic Grey and Black"
+                "remaining_products": 90,
+                "color": "Metallic Grey and Black",
+                "img": null
             }
         ]
     },
@@ -4873,15 +4481,6 @@
         "title": "YOSUDA Under Desk Elliptical Electric,Ellipse Leg Exerciser for Seniors,Fully Assembled Seated Pedal Exerciser with Remote Control with Free Footstraps & 10 Adjustable Speeds",
         "price": 149.99,
         "brand": "YOSUDA",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71y9vC+jZTL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51uvfyMZs-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/514bcKN1nhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51f902KGT-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51hiQ+co8tL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41viGt3J45L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51mFuqbXy0L._AC_US.jpg"
-        ],
         "description": "YOSUDA ellipse leg exerciser is a versatile and user-friendly exercise machine that people of various fitness levels and age groups can use. Its compact design and quiet operation make it suitable for home or office use, and it offers a range of health benefits for those looking to maintain an active lifestyle. Note: Only use it when you sit. This device is not suitable for therapeutic purposes. Please do not use it with other electronic medical devices like pacemakers. Do not use this product if there are steel plates or other fixtures in the body after surgery.",
         "features": [
             "Low-Impact Exercise: YOSUDA under desk elliptical's low-impact, zero-pressure design helps stimulate blood circulation, strengthen lower body muscles, and enhance mobility; ideal for office workers, seniors, and those needing leg rehabilitation",
@@ -4998,62 +4597,27 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Orange",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0CMXYLXQQ",
-                "price": {
-                    "value": 149.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "White",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0DKDRPZB2",
-                "price": {
-                    "value": 169.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Bule Gray",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0DKDR1VFP",
-                "price": {
-                    "value": 169.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Lens Color",
-                "value": "Orange"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 7.8,
                 "price": 149.99,
-                "remaining_products": 92,
-                "color": "Orange"
+                "remaining_products": 57,
+                "color": "Orange",
+                "img": null
+            },
+            {
+                "weight": 7.8,
+                "price": 169.99,
+                "remaining_products": 66,
+                "color": "White",
+                "img": null
             },
             {
                 "weight": 7.8,
                 "price": 169.99,
                 "remaining_products": 2,
-                "color": "White"
-            },
-            {
-                "weight": 7.8,
-                "price": 169.99,
-                "remaining_products": 3,
-                "color": "Gray"
+                "color": "Gray",
+                "img": null
             }
         ]
     },
@@ -5062,16 +4626,6 @@
         "title": "Titan Fitness Seated Dip Machine, Plate Loaded Dip Machine Rated 200 LB, Seated Triceps Dip Machine, Adjustable Padded Seat Backrest, Doubles as Bicep Curl Station",
         "price": 319.99,
         "brand": "Titan Distributors Inc.",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/510EE22ixsL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31wn4tEQx7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41xaeHyzzCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41RG8oo0FLL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41SKn98tPyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41EpEiP0S-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41E4YZO0qcL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/412n-SpsHKL._AC_US.jpg"
-        ],
         "description": "This plate-loaded seated dip machine has a seated design to stabilize your body and shoulders and better isolate your triceps. This results in bigger gains in less time compared to traditional full-body dips. The adjustable seat and backrest make it easy to customize your position for comfort and proper form. Add up to 200 LB of Olympic weight plates to the dual 11\u00e2\u20ac weight sleeves to increase resistance and achieve progressive muscle growth. This seated tricep dip machine is built with durable steel and features comfortable hand grips to guide your movements and ensure proper form for more efficient workouts and less shoulder strain. Plus, this model doubles as a bicep curl station with an eyelet for attaching a curl bar and comes with a chain, carabiners, and curl bar included.FEATURES:- Plate-loaded design- Two Olympic weight sleeves- Rated at 200 LB- Adjustable seat height- Chain, carabiners, and curl bar included- Rubber feet with bolt down optionSPECIFICATIONS:- Overall Height: 51-in.- Overall Width: 27-in.- Overall Depth: 30-in.- Adjustable Seat Height: 16.75-in. \u00e2\u20ac\u201c 22-in.- Seat Back Dimensions: 33-in. x 9.5-in.- Seat Bench Dimensions: 10.25-in. x 11-in.- Handle Length: 16.75-in.- Handle Diameter: 38mm- Weight Sleeve Length: 11-in.- Weight Sleeve Diameter: 49mm- Finish: Powder-Coated Black- Material: 11-Ga Steel- User Weight Capacity: 300 lb.- Loadable Weight Capacity: 200 lb.- Product Weight: 67 lb.",
         "features": [
             "SEATED DIP MACHINE: This seated design stabilizes your body and shoulders to better isolate your triceps, resulting in bigger gains in less time compared to traditional full-body dips.",
@@ -5175,14 +4729,13 @@
                 "value": "Titan Distributors Inc."
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "67 Pounds",
                 "price": 319.99,
-                "remaining_products": 48,
-                "color": "Black"
+                "remaining_products": 30,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -5191,15 +4744,6 @@
         "title": "Dripex Rowing Machines for Home Use, Rowing Machine Max 350 LBS, Professional Magnetic Rower with 16 Levels of Workout Resistance, Durable Slide Rail, LCD Monitor, Row Machine for Gym Exercise",
         "price": 189.99,
         "brand": "Dripex",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71MNPapxPkL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41+IqCR8QuL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51jD2SZncSL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5156Vsg9ovL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51NWoclIo5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/510aCCVEvaL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51TxuNTJXLL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "16 Levels of Resistance: The rowing machine offers 16 magnetic resistance levels to keep you challenged, allowing you to adjust the intensity of your workout. You can customize the built-in handlebars, pedals, and console until you feel comfortable, and then settle in for a solid workout",
@@ -5359,14 +4903,13 @@
                 "value": "50 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "50 Pounds",
                 "price": 189.99,
-                "remaining_products": 98,
-                "color": "Black"
+                "remaining_products": 77,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -5902,15 +5445,6 @@
         "title": "4 in 1 Rowing Machines, AB Machine with 3-Level Angle & Adjustable Tension, Foldable AB Crunch Workout Machine for Home & Gym Use",
         "price": 189.99,
         "brand": "HiFast",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71sjXkKRkvL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41Novyp8cUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ba2i6UfgL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51PjfZvli-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41eIkfK4b1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ZqhseFbjL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51c3sGNF7zL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "4 in 1 Multi-Functional Rowing Machine: The home gym equipment combines rowing machines, ab machine, gym training, and inverted rowing for varied exercises. Suitable for users ranging from 4'4'' to 6'6'' in height and up to 260 lbs in weight",
@@ -6056,14 +5590,13 @@
                 "value": "23 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "23 Pounds",
                 "price": 189.99,
-                "remaining_products": 34,
-                "color": "Black+Red"
+                "remaining_products": 12,
+                "color": "Black+Red",
+                "img": null
             }
         ]
     },
@@ -6153,15 +5686,6 @@
         "title": "Sunny Health & Fitness Smart Upright Row-N-Ride Trainer w/Adjustable Resistance, Foldable Home Exercise Equipment for Arm, Glute & Leg Training, Free SunnyFit App Bluetooth Connect, Optional in Colors",
         "price": 120.62,
         "brand": "Sunny Health & Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71uTHHazdaL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41bHX0mVazL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51k8m4SEdiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51R-cfaLh-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51q00ZqZuHL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51y3ZOUir-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41i-+-NZJmL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010ALL-IN-ONE HOME FITNESS\u3011Squats with precision, engage in dynamic rowing exercises, target your glutes for toning, sculpt your abs, and undertake strength training. The all-in-one fitness solution for a well-rounded and diverse workout experience.",
@@ -6331,61 +5855,20 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Pink",
-                "thumbnail": "https://m.media-amazon.com/images/I/31wMy+BIg0L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61kQG572LDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71jPvwCydGL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61Qx98vpRcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61dwr3Imv2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/614FuVZIlhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51JNN5xLM-L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D6X1YTXP",
-                "price": {
-                    "value": 116.43,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41bHX0mVazL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71uTHHazdaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/8160l1ubCLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81bsN+r9vLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81tmXJ0NgKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71w+AMSVFkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71PvbMREx5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CFYRLPKR",
-                "price": {
-                    "value": 120.62,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 13.380964,
                 "price": 116.43,
-                "remaining_products": 62,
-                "color": "Pink"
+                "remaining_products": 65,
+                "color": "Pink",
+                "img": null
             },
             {
                 "weight": 13.380964,
                 "price": 120.62,
-                "remaining_products": 39,
-                "color": "Black"
+                "remaining_products": 40,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -6394,15 +5877,6 @@
         "title": "Sunny Health & Fitness Row-N-Ride PRO, Full Body Combo Squat Machine w/Optional Resistance Band, Easy Setup Ab Workout Exercise Equipment for Home, Whole Body Cardio, Optional SunnyFit App Connection",
         "price": 119.19,
         "brand": "Sunny Health & Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71wWbkvJwnL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41l2tUjvf2L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51cNCnfS79L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41kW28-0ZEL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41yXX2km5ML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411RB33sJNL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5120mqYuYHL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010INTENSE FULL BODY SQUATS\u3011The Row-N-Ride PRO is expertly engineered to perform squats with precision & challenge, emphasizing glute toning while activating your arms. This versatile squat machine provides a full-body workout experience.",
@@ -6580,100 +6054,34 @@
                 "value": "37.8 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "PRO SMART",
-                "thumbnail": "https://m.media-amazon.com/images/I/413NfFG7f-L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71szx28f-XL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61aTZEN1WEL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/714e-PkEjqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71MO+cx7SnL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711eBersiBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/512yCPkyLlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D85TNBBP",
-                "price": null
-            },
-            {
-                "name": "SMART Row-N-Ride BIKE",
-                "thumbnail": "https://m.media-amazon.com/images/I/41YLqMSOq3L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61yuE3IBDlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71hSPM2HZsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71KNS+wRseL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81EZvax0WbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Xnh3XThlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61E9+QnIMoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0C44972P5",
-                "price": null
-            },
-            {
-                "name": "PRO",
-                "thumbnail": "https://m.media-amazon.com/images/I/41l2tUjvf2L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71wWbkvJwnL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Fbw6FnU0L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81YaJfoyxGL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/710XthQ10lL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716b-zhaIpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91LTg9hWJZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91yr5J7u2nL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716b-zhaIpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg"
-                ],
-                "asin": "B08SSFZN4P",
-                "price": null
-            },
-            {
-                "name": "SMART",
-                "thumbnail": "https://m.media-amazon.com/images/I/41PcNKnkQLL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71rn+ASQBkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71SLGjgayCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81zQQojn3iL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71YMY0URJjL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71CSwVZrTcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71dsituMZ-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61f72JvqCAL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CPGL721Q",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "PRO"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 17.1457776,
                 "price": 119.19,
-                "remaining_products": 81,
-                "color": "Silver"
-            },
-            {
-                "weight": 17.1457776,
-                "price": 119.19,
-                "remaining_products": 35,
-                "color": "Silver"
-            },
-            {
-                "weight": 17.1457776,
-                "price": 119.19,
                 "remaining_products": 91,
-                "color": "Silver"
+                "color": "Silver",
+                "img": null
             },
             {
                 "weight": 17.1457776,
                 "price": 119.19,
                 "remaining_products": 93,
-                "color": "Silver"
+                "color": "Silver",
+                "img": null
+            },
+            {
+                "weight": 17.1457776,
+                "price": 119.19,
+                "remaining_products": 55,
+                "color": "Silver",
+                "img": null
+            },
+            {
+                "weight": 17.1457776,
+                "price": 119.19,
+                "remaining_products": 57,
+                "color": "Silver",
+                "img": null
             }
         ]
     },
@@ -6682,15 +6090,6 @@
         "title": "Pooboo Magnetic Rowing Machine 360 LB Weight Capacity, folding rower with Combination Strength exercise, Tablet Holder and Comfortable Seat Cushion, Rower for Home Use",
         "price": 399.99,
         "brand": "pooboo",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71M2rynwu7L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51-vznjuxZL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5181e21iEuL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5155ZplZOpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51tPGVFEBRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Cm8mWaQFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51+YEwcgCUL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Smooth Quiet Rower: Magnetic resistance system ensures smooth and quiet rowing. It is a very good choice for indoor exercise. You will NEVER disturb your families or roommates. Convenient folding rowing machine folds upright. Great for home storege",
@@ -6836,64 +6235,20 @@
                 "value": "14"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "H016-1",
-                "thumbnail": "https://m.media-amazon.com/images/I/41cBLtXqXcL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71Ans+gztCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61mnKmQfHlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71NIgM3BcZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61pDZzZkmQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711fKu0vSTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71dpeeUPGgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/713zF+pr0PL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CN98WJW9",
-                "price": {
-                    "value": 409.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "H015-3",
-                "thumbnail": "https://m.media-amazon.com/images/I/51-vznjuxZL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71M2rynwu7L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71wy6MHA8LL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Z1Kdp6YKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71KJ3ox3spL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ZzKfNLW6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/710kJh96yJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Hxh2wCKHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71LDZqg78VL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81o-DnpxXDL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0B1V4NZD8",
-                "price": {
-                    "value": 399.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "H015-3"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 28.122704,
                 "price": 409.99,
-                "remaining_products": 90,
-                "color": "H015-3"
+                "remaining_products": 41,
+                "color": "H015-3",
+                "img": null
             },
             {
                 "weight": 28.122704,
                 "price": 399.99,
-                "remaining_products": 79,
-                "color": "H015-3"
+                "remaining_products": 46,
+                "color": "H015-3",
+                "img": null
             }
         ]
     },
@@ -6902,16 +6257,6 @@
         "title": "Magnetic Rowing Machines for Home (R05), Water Rowing (R10), 16 Levels of Quiet Resistance Foldable Compact Rowing Machine 350 LB Weight Capacity with Bluetooth, App Supported, Tablet Holder",
         "price": 229.99,
         "brand": "UTRYUP",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71SoGDYgvML.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41OyuspUx2L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41bagOQTg9L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51nf4HSicGL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41pTn6tWdUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41YRPtp5xtL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41M8+Cf+e2L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51kKMKAKLJL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Efficient Magnetism: Upgraded magnetic system with powerful Resistance without compromising silence. perfect for home use without disturbing others",
@@ -7059,65 +6404,20 @@
                 "value": "44 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "R05 Pro - Foldable Magnetic Rowing",
-                "thumbnail": "https://m.media-amazon.com/images/I/41OyuspUx2L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71SoGDYgvML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71nF3dY+NJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81MnLFxt-nL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ESm9XK2ZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71NEu59-+6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81eniNiTLEL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81utJx3U8LL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61P3FvmiwJL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CJ9N9ZZX",
-                "price": {
-                    "value": 229.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "R10 - Water Rowing",
-                "thumbnail": "https://m.media-amazon.com/images/I/41DOPYZ49AL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71C5Uay55gL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81e6zWZqcJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71JAwLQ-6rL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/811Qc9I-MbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71YD9TUwoyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81CC9+9jnmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81W26A9ZBML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Bqc1Q6FbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71XrdzBZm6L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CHDV9BVS",
-                "price": {
-                    "value": 279.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "R05 Pro - Foldable Magnetic Rowing"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 19.958047999999998,
                 "price": 229.99,
-                "remaining_products": 43,
-                "color": "Black/Orange"
+                "remaining_products": 38,
+                "color": "Black/Orange",
+                "img": null
             },
             {
                 "weight": 19.958047999999998,
                 "price": 279.99,
-                "remaining_products": 11,
-                "color": "Black/Orange"
+                "remaining_products": 60,
+                "color": "Black/Orange",
+                "img": null
             }
         ]
     },
@@ -7126,10 +6426,6 @@
         "title": "Spud Low Econo Pulley Seated Row Machine Cable Attachment for Use with Olympic Plates (Black)",
         "price": 103.8,
         "brand": "SPUD",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81I9o6VnVYL.__AC_SY300_SX300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/415Am-RNjHL._AC_US.jpg"
-        ],
         "description": "Spud Low Econo Pulley Lat Seated Row Machine Cable Attachment IMPORTANT **This item is designed to be used in conjunction with the Spud econo triceps and lat pulldown, and will not function by itself** The Low pulley system is designed to be easily added to the Triceps Lat pulley on a rack that is 6-7\u2019 tall to use for exercises like seated rows, leg curls, leg extensions, biceps curls, and many more options. The Econo low pulley system comes with a single swivel pulley, a 6\u20193\" cable, (2) 3/8\" spring clips, a deluxe hamstinger, and a single stump strap (utility strap handle). Don\u2019t limit your workouts anymore because you don\u2019t want to fill your gym up with bulky equipment.",
         "features": [
             "THIS WILL NOT FUNCTION UNLESS YOU ALREADY HAVE THE SPUD ECONO LAT PULLDOWN (sold separately)",
@@ -7177,14 +6473,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "2.8 Pounds",
                 "price": 103.8,
-                "remaining_products": 17,
-                "color": "BLACK"
+                "remaining_products": 35,
+                "color": "BLACK",
+                "img": null
             }
         ]
     },
@@ -7630,16 +6925,6 @@
         "title": "FEIERDUN Rowing Machines for Home, Rower Machine with 350LBS Loading Capacity, Magetic Rower with APP, Row Machine with Dual Slide Rail",
         "price": 129.99,
         "brand": "FEIERDUN",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71h4+ejgBSL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41ucpuaAHfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/513U2Cuty9L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51LGpCQK55L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Vv301tbpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51oM9+GWCpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/519zmi7wd0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51o6E3ZHDGL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Sweat in 15 MINS: FEIEREDUN Magnetic Rowing Machine features a 10LBS flywheel and 10 NdFeB magnets in a dual-ring structure, delivering 1.5 times more resistance than standard models; Beginners typically break a sweat within just 15 minutes of rowing",
@@ -7785,60 +7070,20 @@
                 "value": "19.5 Kilograms"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41UAbREgL-L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71KII20bWrL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81lHYu7oDHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81oD0rK5yoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Aq2EaOH3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81m+Q1YWNnL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81WRJrmC+YL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81WwyeoM+kL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81XjjCes2qL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71maTEXKojL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DNHNFBJW",
-                "price": null
-            },
-            {
-                "name": "Gray",
-                "thumbnail": "https://m.media-amazon.com/images/I/41ucpuaAHfL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71h4+ejgBSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/812GN3DCCuL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81u5O55EQ4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/819hRdeqvCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817gGHeBLtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81WRJrmC+YL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81k5fsbTf8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81YG83esYHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71oIT-qw0aL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DNHLDLRP",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Gray"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 19.5,
                 "price": 129.99,
-                "remaining_products": 62,
-                "color": "Black"
+                "remaining_products": 86,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 19.5,
                 "price": 129.99,
-                "remaining_products": 80,
-                "color": "Gray"
+                "remaining_products": 4,
+                "color": "Gray",
+                "img": null
             }
         ]
     },
@@ -7847,15 +7092,6 @@
         "title": "YOSUDA Magnetic/Water Rowing Machine 350 LB Weight Capacity - Foldable Rower for Home Use with Bluetooth, App Supported, Tablet Holder and Comfortable Seat Cushion",
         "price": 359.99,
         "brand": "YOSUDA",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71lU8XCUqUL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/411KXkp+KpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/515KMoqUUhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ybvRWJ04L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/516ZFLWd7QL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51FV4KdkCnL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51SLknHOGwL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Choose YOSUDA: We have produced top-quality exercise machines for home use for 20 years and served more than 1,000,000 families. All our products are full of praise.We are so confident YOSUDA can be your fitness partner",
@@ -7995,78 +7231,34 @@
                 "value": "Titanium Aluminum, Alloy Steel"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "01-Magnetic Rower",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0C1VGRX2P",
-                "price": {
-                    "value": 259.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "02-Magnetic PRO",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B095JR2FTV",
-                "price": {
-                    "value": 329.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "03-Pro Max",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0B38CMPG9",
-                "price": {
-                    "value": 359.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "04-Water Rowing Machine",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0B8N6FR3H",
-                "price": {
-                    "value": 369.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "03-Pro Max"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 34.93,
                 "price": 259.99,
-                "remaining_products": 87,
-                "color": "Black"
+                "remaining_products": 29,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 34.93,
                 "price": 329.99,
-                "remaining_products": 58,
-                "color": "Black"
+                "remaining_products": 37,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 34.93,
                 "price": 359.99,
-                "remaining_products": 31,
-                "color": "Black"
+                "remaining_products": 83,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 34.93,
                 "price": 369.99,
-                "remaining_products": 15,
-                "color": "Black"
+                "remaining_products": 20,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -8075,15 +7267,6 @@
         "title": "Sunny Health & Fitness Row-N-Ride Squat Assist Trainer, Foldable & Easy Setup Exercise Equipment w/Adjustable Resistance, Home Gym Training Machine for Arm, Glute & Leg Workout, Optional in Colors",
         "price": 89.98,
         "brand": "Sunny Health & Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71fue6zAF-L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41kV-+oBtuL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51P7ffGTchL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51QnyeWuTML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41DiGx4mPHL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41v9NXwz07L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ThCJ2bfyL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010WHY SQUAT\u3011Squats are not only effective for building an insanely strong lower body, but also because they deliver several ancillary physical benefits, including increased hormone release and improved flexibility",
@@ -8264,87 +7447,27 @@
                 "value": "24.5 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Grey",
-                "thumbnail": "https://m.media-amazon.com/images/I/41kV-+oBtuL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71fue6zAF-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/719FBSDdy9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81rivWO2vML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71AgyYVln6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/710kKAaDL0L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71GwRv72DsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-0KnnOdnL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/8191aOxQciL._AC_SL1500_.jpg"
-                ],
-                "asin": "B074B3B22G",
-                "price": null
-            },
-            {
-                "name": "Green",
-                "thumbnail": "https://m.media-amazon.com/images/I/4136ZgmgMEL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71hG+mrCtNL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61gtQ7ZjDQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/8141pFn3wzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61UCgS7jwnL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71da4C0YGPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61xe+XcW6oL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61bnowyMcML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71b54tGkSyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61vwp-idPmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61bIUE+iRhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Ww7uMVflL._AC_SL1500_.jpg"
-                ],
-                "asin": "B09W37YJFK",
-                "price": null
-            },
-            {
-                "name": "2 - Pink",
-                "thumbnail": "https://m.media-amazon.com/images/I/417UbUP4hZL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61ag45Fg6qL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61yXmOXP9pL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71eS4KcOpXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61GHwOZ9QtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71l48VJlgwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61bN5aknQGL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61-kYu6R6iL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71qgieBadrL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61ZzVCE8KDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61xcaBws4GL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81yClQU0iOL._AC_SL1500_.jpg"
-                ],
-                "asin": "B09W372BGG",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Grey"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 11.113004,
                 "price": 89.98,
-                "remaining_products": 4,
-                "color": "Grey"
+                "remaining_products": 33,
+                "color": "Grey",
+                "img": null
             },
             {
                 "weight": 11.113004,
                 "price": 89.98,
-                "remaining_products": 80,
-                "color": "Green"
+                "remaining_products": 39,
+                "color": "Green",
+                "img": null
             },
             {
                 "weight": 11.113004,
                 "price": 89.98,
-                "remaining_products": 20,
-                "color": "Pink"
+                "remaining_products": 7,
+                "color": "Pink",
+                "img": null
             }
         ]
     },
@@ -8353,15 +7476,6 @@
         "title": "MERACH Rowing Machine, Magnetic Rower Machine for Home, 16 Levels of Quiet Resistance, Dual Slide Rail with Max 350lb Weight Capacity, App Compatible",
         "price": 299.99,
         "brand": "MERACH",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71bnY1bd3PL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41q+O6Y7XgL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41DMzc46z7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41jxOs48zUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41u7aOyaPIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51R6CRNHF6L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41TpCVBz59L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "FREE MERACH APP: Our exclusive App offers various FREE courses and programmed exercises for you. Also, compatible with KINOMAP APP, immerse yourself in splash, and feel nature even while rowing at home.",
@@ -8514,128 +7628,41 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Q1S Pro - Electromagnetic 1.0 (2023)",
-                "thumbnail": "https://m.media-amazon.com/images/I/41D4VW3RxdL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61vxYnwjesL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/715xCdTK8SL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Q0SQ0dtUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71IzecAS-wL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71L6Mq3PI3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Y873Bo55L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/813MH-g9EaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/712sj1QBz0L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711sKeHGykL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Vp17-9GBL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0B9MTW1MH",
-                "price": null
-            },
-            {
-                "name": "Q1S Pro - Electromagnetic 2.0 (2024)",
-                "thumbnail": "https://m.media-amazon.com/images/I/41DpgcHqlsL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71Qk96JF1vL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71i4XhmweDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61uXQMUuMkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61RZh367RhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-KH66syZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61fqU0aHcoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71haEgrwpkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81t9-whwp2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71a5fGNo9ZL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CZS1H839",
-                "price": null
-            },
-            {
-                "name": "Q1SW - Magnetic Silent",
-                "thumbnail": "https://m.media-amazon.com/images/I/41q+O6Y7XgL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71bnY1bd3PL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71q+7buTwgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71hRv-WpRiL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81rZHFg13rL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/818by0FUGeL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71QqcM2nrnL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/719oosXDtOL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81wwE0lNdqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71mmSNbx9gL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BN6WKZ87",
-                "price": null
-            },
-            {
-                "name": "Q1S - Magnetic",
-                "thumbnail": "https://m.media-amazon.com/images/I/41Us07LPeNL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71rrUbpsnXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WOiFcfd9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81jC4fE4a2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81BfEufBKYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71fyTnH8fOL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71wjD9LyJjL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ED95wJbxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/717dQAdmqxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71an4SN2zyL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0B2P23DBS",
-                "price": null
-            },
-            {
-                "name": "R06 - Water & Magnetic Dual Resistance",
-                "thumbnail": "https://m.media-amazon.com/images/I/419UqnyEw0L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71m6V3IsAwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71m63dOYyPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81QCKNPe3FL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71SxzPZ1zUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71eJy3SyF9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81LBPG3L-dL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71zt4yKRk5L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BQDDV4SY",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "Q1SW - Magnetic Silent"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 20.41164,
                 "price": 299.99,
-                "remaining_products": 75,
-                "color": "White"
+                "remaining_products": 62,
+                "color": "White",
+                "img": null
             },
             {
                 "weight": 20.41164,
                 "price": 299.99,
-                "remaining_products": 6,
-                "color": "White"
+                "remaining_products": 45,
+                "color": "White",
+                "img": null
             },
             {
                 "weight": 20.41164,
                 "price": 299.99,
-                "remaining_products": 54,
-                "color": "White"
+                "remaining_products": 85,
+                "color": "White",
+                "img": null
             },
             {
                 "weight": 20.41164,
                 "price": 299.99,
-                "remaining_products": 50,
-                "color": "White"
+                "remaining_products": 87,
+                "color": "White",
+                "img": null
             },
             {
                 "weight": 20.41164,
                 "price": 299.99,
-                "remaining_products": 88,
-                "color": "Tan"
+                "remaining_products": 96,
+                "color": "Tan",
+                "img": null
             }
         ]
     },
@@ -8644,15 +7671,6 @@
         "title": "Double D Handle for Cable Machine - Ergonomic Row Handle Cable Attachment - Triangle V Bar Grip LAT PullDown Attachments for Home Gym",
         "price": 28.99,
         "brand": "HXD-ERGO",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61eSvGuVAxL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31rro6-PQQL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Mhi5ZSEoL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51MWkq4HvRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51wm9G4WHIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51-M-rygsaL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51BQtyR7YqL._AC_US.jpg"
-        ],
         "description": "v bar attachment Double D Handle for Cable Machine",
         "features": [
             "Ergonomic Double D Handle : According to the physiological structure of the human palm, a handle that fits the palm is designed to help the trainer obtain the correct hand posture. Reduce wrist stress and improve sports experience",
@@ -8724,56 +7742,20 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/31rro6-PQQL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61eSvGuVAxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71MGylelmIL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Eno37+d0L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ut8JHy8sL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81dwb4JToCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81jg-Evp0bL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71wCTel2ysL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71DU8KdpGeL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BWJQB7RL",
-                "price": null
-            },
-            {
-                "name": "Black-2",
-                "thumbnail": "https://m.media-amazon.com/images/I/41P4k-hJL3L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61iYlPo54dL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71vKhEoXI7L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81NT8LBps8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71JCxxsMZ+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81UELdT0N1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81RRUcAooFL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D8VL2HN2",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.5443104,
                 "price": 28.99,
-                "remaining_products": 25,
-                "color": "Black"
+                "remaining_products": 34,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 0.5443104,
                 "price": 28.99,
-                "remaining_products": 80,
-                "color": "Black"
+                "remaining_products": 10,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -8994,16 +7976,6 @@
         "title": "ECHANFIT Rowing Machine for Home Use - Rower with 16 Levels Adjustable Resistance, Ergonomic Seat, Tablet Holder, LCD Monitor and 350 LB Weight Capacity",
         "price": 169.99,
         "brand": "ECHANFIT",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61dEmbOtOAL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/318kEAryXhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41X-61zjreL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41T7nUqLF6L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/416YR4JFooL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/417ehqogSRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41FImrUjlSL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41765DUM3ZL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "From Brand ECHANFIT: Enabling you to enjoy a better workout journey through professional indoor cardio training machines is what we do. We have redefined the fitness experience and wholeheartedly served for over 10 years. We offer you a one year for replacement parts and answer in less than 12 business hours.",
@@ -9146,60 +8118,20 @@
                 "value": "34.48 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Blue",
-                "thumbnail": "https://m.media-amazon.com/images/I/41TBRB2L-SL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61nJMLvUZ6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81K+P0y0JkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71qzqdHO7XL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ik9ttytcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711Uz5-0+IL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Z2UXAhDZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81iaC+CVfkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711Z7LIVV7L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Jrii43aeL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D8KBT9D9",
-                "price": null
-            },
-            {
-                "name": "Orange",
-                "thumbnail": "https://m.media-amazon.com/images/I/318kEAryXhL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61dEmbOtOAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Rw6z2d9JL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71vpeyfHdJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71nKzGJuHcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71LKS-tWJvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71yYij7z1DL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81SpkNA1CTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71gW2LFfMQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81pQfOgo-4L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D8KC5NC3",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Orange"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 15.639852159999998,
                 "price": 169.99,
-                "remaining_products": 92,
-                "color": "Blue"
+                "remaining_products": 76,
+                "color": "Blue",
+                "img": null
             },
             {
                 "weight": 15.639852159999998,
                 "price": 169.99,
-                "remaining_products": 17,
-                "color": "Orange"
+                "remaining_products": 24,
+                "color": "Orange",
+                "img": null
             }
         ]
     },
@@ -9612,15 +8544,6 @@
         "title": "Rowing Machines for Home Use SPORFIT Compact Portable Folding Rower Machine with 12 Level Adjustable Hydraulic Resistance & LCD Monitor, Soft Seat Row",
         "price": 175.99,
         "brand": "SPORFIT",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71DUD0aekeL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41kvru4sbeL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41m8rGLCH+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41cSXwf4VGL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51JwJSAx0gL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/519X4NBTnIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/4162qg4oBAL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Each stroke engages 90% of the body's muscles.",
@@ -9768,14 +8691,13 @@
                 "value": "30 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "30 Pounds",
                 "price": 175.99,
-                "remaining_products": 32,
-                "color": "Dark Grey"
+                "remaining_products": 8,
+                "color": "Dark Grey",
+                "img": null
             }
         ]
     },
@@ -9784,16 +8706,6 @@
         "title": "Hydrow Pro Rowing Machine with Immersive 22\" HD Rotating Screen - Stows Upright | Live and On-Demand at-Home Workouts, Membership Required",
         "price": 1794.99,
         "brand": "Hydrow",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61BysoMfflL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31Ub1u7CAtL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41j3j+GmSaL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31hGjDNu+aL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5115ebedlJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41oPRqscUzL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51JgzrBpYKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51MI-sPHfYL._AC_US.jpg"
-        ],
         "description": "Working out at home is a whole lot more exciting when you\u2019re transported to, say, a Scandinavian fjord. Hydrow\u2019s immersive experience takes you all around the world for full-body workouts \u2013 over 5,000, to be exact \u2013 led by world-class Athletes in stunning destinations. With a proprietary computer-controlled electromagnetic drag mechanism designed to mimic the feel of rowing on water, getting onto the Hydrow Pro feels about as close as it gets to really getting out there.",
         "features": [
             "WORK MORE MUSCLES IN LESS TIME. Build with low-impact workouts that engage more than 86% of your muscles in under 20 (yes, 20!) minutes.",
@@ -9950,14 +8862,13 @@
                 "value": "145 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "145 Pounds",
                 "price": 1794.99,
-                "remaining_products": 3,
-                "color": "Black/ Silver"
+                "remaining_products": 56,
+                "color": "Black/ Silver",
+                "img": null
             }
         ]
     },
@@ -10435,15 +9346,6 @@
         "title": "HARISON Water Rowing Machine for Home Use, Rower Machine for Home Workout with Tablet Holder and Comfortable Seat, 350LBS Weight Capacity",
         "price": 369.99,
         "brand": "HARISON",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71iIWcB6cSL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41ejI33VWyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51yXyrJzCpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51BWLjuWTML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Di+nEJiJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41tE6wrm0rL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51QQTWxMNRL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Choose HARISON: For over two decades, HARISON has been dedicated to crafting premium quality exercise machines, incorporating continuous product testing and refinement. Trusted by over 3,000,000 customers, our products consistently garner praise. We are confident that HARISON can be your reliable fitness partner. The pursuit of establishing HARISON as a premier brand in quality exercise equipment is our eternal goal.",
@@ -10583,14 +9485,13 @@
                 "value": "Adjustable based on water level"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "57 Pounds",
                 "price": 369.99,
-                "remaining_products": 63,
-                "color": "Black"
+                "remaining_products": 49,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -10599,15 +9500,6 @@
         "title": "Peloton Row | Rowing Machine with 24\u201d HD, Swiveling Touchscreen",
         "price": 3295,
         "brand": "Peloton",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/31fzVNVkX6L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31fzVNVkX6L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41bjUAgQ2HL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51CSF81G+wL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Irpmz4UuL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51v7qxZS38L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/415yftrBhWL._AC_US.jpg"
-        ],
         "description": "Peloton Row Rowing Machine with 24\u201d HD Swiveling TouchscreenPeloton Row is the ultimate machine to unlock classes that combine cardio and strength. It\u2019s designed for ultra-efficient workouts that are low-impact and high-reward. The 24\" swiveling HD touchscreen and front and rear-facing speakers offer studio-quality sound. Immerse yourself in classes where you can work 86% of your muscles in just 15 minutes or less. Peloton Row has a compact footprint, complete with a folding arm for upright storage.Unlock thousands of classes, both on and off the Row, like strength, Row Bootcamp and balance classes. Explore our lineup of 50+ instructors. Track your progress class after class using on-screen metrics like output, distance, pace and stroke rate. Your Peloton Row is compatible with any ANT+ heart rate monitor, Apple Watch, Strava, or any Android watch running Wear OS 3 or higher.All-Access Membership must be purchased separately in order to access Peloton classes.You\u2019ll pay one monthly fee for your entire household, so everyone can access our entire library of classes that range from 5 to 90 minutes. With workouts that fit your experience level, mood, goals, music style, and schedule, you\u2019ll be ready to train on and off your Peloton Row.",
         "features": [
             "VALUE-PACKED MEMBERSHIP \u2013 A Peloton All-Access Membership must be purchased separately to access Peloton content on your Row. Pay $44/mo for your household to get unlimited access to our content. Age, height, and weight restrictions apply",
@@ -10761,14 +9653,13 @@
                 "value": "156.5 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "156.5 Pounds",
                 "price": 3295,
-                "remaining_products": 79,
-                "color": "Black"
+                "remaining_products": 57,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -10891,15 +9782,6 @@
         "title": "Home Folding Rowing Machine, Hydraulic Rowing Machine. Dual Tracks for Quieter, Indoor Fitness\u3002with 12 Levels of Adjustable Resistance. LCD Display for Real-time Recording",
         "price": 139,
         "brand": "TEMPTIPS",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/610upj2cQdL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41-dzWx84hL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51aeedwSMkL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51cc2qDPB4L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51BUBHKbchL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5116oIFtVBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51l5Mr16vUL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010Progressive Liquid Resistance Levels\u3011: With 12 adjustable liquid resistance levels, (1-3) Beginner Training. (4-8) Basic Daily Training. (8-12) Endurance Training. Can meet the needs of everyone from beginners to advanced users while protecting your joints during exercise.",
@@ -11026,14 +9908,13 @@
                 "value": "28 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "28 Pounds",
                 "price": 139,
-                "remaining_products": 25,
-                "color": "silver"
+                "remaining_products": 99,
+                "color": "silver",
+                "img": null
             }
         ]
     },
@@ -11602,15 +10483,6 @@
         "title": "Rowing Machine for Home Use, LUBBYGIM Rowing Machine Foldable Rower with LCD Monitor - Hyper-Quiet & Smooth - 2024 Upgraded Version with 300LBS Loading Capacity",
         "price": 109,
         "brand": "LUBBYGIM",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61TrzY-KEYL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41mksrm7E4L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/512Auyh5dTL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51OJPezE2qL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/510O8bExWyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51iid4SpfdL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51XpVZyHgvL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\ud83d\udcf6\u3010Quiet & Smooth Resistance performance\u30113 elastic ropes with super quiet and smooth resistance to meet your different training needs. You can remain challenging and effective throughout your rowing fitness journey, whether you're a beginner or a pro, you can get an effective workout!",
@@ -11751,55 +10623,20 @@
                 "value": "400 lbs for 3 elastic cords"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "matt",
-                "thumbnail": "https://m.media-amazon.com/images/I/41mksrm7E4L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61TrzY-KEYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71zTx3n19LL._AC_SL1200_.jpg",
-                    "https://m.media-amazon.com/images/I/717PLQoSSaL._AC_SL1200_.jpg",
-                    "https://m.media-amazon.com/images/I/71WVGZNyQlL._AC_SL1200_.jpg",
-                    "https://m.media-amazon.com/images/I/71GcZy1qt0L._AC_SL1200_.jpg",
-                    "https://m.media-amazon.com/images/I/71O4Z2PI+nL._AC_SL1200_.jpg",
-                    "https://m.media-amazon.com/images/I/71iqf-fq3gL._AC_SL1200_.jpg"
-                ],
-                "asin": "B0BX4GZCG8",
-                "price": null
-            },
-            {
-                "name": "Matte Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41kBLrM1E+L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61e0YORRmUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71fkUNbfQbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81EW2KhLarL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71tWPyHADXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81i4k7zrPPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71XWEGiDx3L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CRHD74RK",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "matt"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 12.3,
                 "price": 109,
-                "remaining_products": 17,
-                "color": "matt"
+                "remaining_products": 56,
+                "color": "matt",
+                "img": null
             },
             {
                 "weight": 12.3,
                 "price": 109,
-                "remaining_products": 59,
-                "color": "Black"
+                "remaining_products": 47,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -11808,15 +10645,6 @@
         "title": "Stamina Inmotion Rower Compact, Efficient Cardiovascular Rowing Machine Smooth Adjustable Tension",
         "price": 579.99,
         "brand": "Stamina",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71P21qO9V6L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31-OLPuDRIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51XTSjXL0mL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5135IsTcB1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51by7LRaWWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/516f2cZFTyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51rq+-uiXTL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "STAMINA WATER ROWING MACHINE - Our Water Rower 1435 simulates the feeling of real-world rowing. This rowing machine is an effective strength-building, cardiovascular exercise that\u2019s great for the whole body.",
@@ -11981,66 +10809,20 @@
                 "value": "58 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Black / Red",
-                "thumbnail": "https://m.media-amazon.com/images/I/41pi8R7ikDL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71KU2Itg0JL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81LI67Z4juL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81HpPMvWHhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81WlHiPFiVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81V8TeOJr8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/8163PeqN6-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71CdB2m8uQL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ouRwrShmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-8HS-lodL._AC_SL1500_.jpg"
-                ],
-                "asin": "B07F7F4FR8",
-                "price": {
-                    "value": 689,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "black, blue",
-                "thumbnail": "https://m.media-amazon.com/images/I/31-OLPuDRIL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71P21qO9V6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81AegdsNo6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81r6l-KcLXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81zFD3RaCzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81UMfv4aK0L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ORAzgD+UL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81jJkrxXj9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/8170HT9u7bL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71iKk7oIB3L._AC_SL1500_.jpg"
-                ],
-                "asin": "B09LPQ51ZD",
-                "price": {
-                    "value": 579.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "black, blue"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 26.308336,
                 "price": 689,
-                "remaining_products": 70,
-                "color": "Red, Black"
+                "remaining_products": 2,
+                "color": "Red, Black",
+                "img": null
             },
             {
                 "weight": 26.308336,
                 "price": 579.99,
-                "remaining_products": 96,
-                "color": "Blue, Black"
+                "remaining_products": 29,
+                "color": "Blue, Black",
+                "img": null
             }
         ]
     },
@@ -12049,15 +10831,6 @@
         "title": "Seated Row Machine, Plate Loaded Back Machines Home Gym Back Row Machine, Leverage Row Machine with Independent Arms & Multi Grips, LAT Machine for Home Gym and Commercial",
         "price": 399.99,
         "brand": "syedee",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61fqj6+gdgL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41-NLTig5VL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Ir04hWdVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41iCow200JL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Z0Pc9mVQL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41nnlQPi5NL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51KK3XJ+SUL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010OPTIMIZED MOTION\u3011: Easily sculpt a V-shaped back with our seated row machine! Replicate the traditional pulling movement towards the chest, it's ergonomically designed to follow the body's natural motion, ensuring maximum engagement and a full range of motion. Feel the intensity as your back muscles engage, supported by smooth-operating bearings for a seamless exercise experience. Whether you're a beginner or a seasoned pro, mastering this back machine is effortless.",
@@ -12194,14 +10967,13 @@
                 "value": "168 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "168 Pounds",
                 "price": 399.99,
-                "remaining_products": 49,
-                "color": "black"
+                "remaining_products": 73,
+                "color": "black",
+                "img": null
             }
         ]
     },
@@ -12210,15 +10982,6 @@
         "title": "Sunny Health & Fitness Smart Compact Full Motion Rowing Machine, Full-Body Workout, Low-Impact, Extra-Long Rail, 350 LB Weight Capacity and Optional Free SunnyFit\u00ae App Enhanced Connectivity",
         "price": 116.2,
         "brand": "Sunny Health & Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71gckdU0LaL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41MLiOEicZL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31QYOICUi7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41IFU+e9VCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Rfqq+PlRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41JtCxT-25L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41AnK+RBGyL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010FULL MOTION WORKOUT\u3011This rower activates multiple muscle groups, including your legs, back, core, and arms, for a comprehensive exercise thanks to 360-degree full motion arms that mimic natural rowing form for a complete range of movement.",
@@ -12398,119 +11161,34 @@
                 "value": "33 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "2 - SMART",
-                "thumbnail": "https://m.media-amazon.com/images/I/41-esAYKQpL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61LYHNUTozL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51iJsGLSH4L._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/51qlfMREDeL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/71vynGeJciL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61oeMQAD7qL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/51eMhTrIHTL._AC_.jpg"
-                ],
-                "asin": "B0C83TRH47",
-                "price": {
-                    "value": 199.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "1 - Classic",
-                "thumbnail": "https://m.media-amazon.com/images/I/41MLiOEicZL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71gckdU0LaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716GV43SfhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81TJTtMudEL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81zIXNyPvfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WiLX7NaaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81baP-aTT6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71BvCQ0rC7L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71n9cVNdNAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71heZaffWCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71wEeYdVCBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81vdnpbNgHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81HB9ZN38BL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81kkjR+lboL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81grw0VjiCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/9195Hnb5SYL._AC_SL1500_.jpg"
-                ],
-                "asin": "B06WW5XXJL",
-                "price": {
-                    "value": 116.2,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "3 - Row-N-Ride SMART",
-                "thumbnail": "https://m.media-amazon.com/images/I/41O0bg-9esL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71n1LMeI-mL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ANCA0JmZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Ba-7+VuTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81cTJ-pkvpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/717L9k0irLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71YfpCxekUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BZQJLVBH",
-                "price": {
-                    "value": 227.49,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "4 - Premium Magnetic SMART",
-                "thumbnail": "https://m.media-amazon.com/images/I/31Synb48-9L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61PFr9ItgqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61DGeO+rShL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71GuVW1bTrL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71013qCd9dL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61yBeVsHN8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61t2snX8KSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61-dquJedJL._AC_SL1200_.jpg"
-                ],
-                "asin": "B0CLT9F123",
-                "price": {
-                    "value": 565.24,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "1 - Classic"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 14.968536,
                 "price": 199.99,
-                "remaining_products": 85,
-                "color": "Silver"
+                "remaining_products": 9,
+                "color": "Silver",
+                "img": null
             },
             {
                 "weight": 14.968536,
                 "price": 116.2,
-                "remaining_products": 61,
-                "color": "Silver"
+                "remaining_products": 86,
+                "color": "Silver",
+                "img": null
             },
             {
                 "weight": 14.968536,
                 "price": 227.49,
-                "remaining_products": 22,
-                "color": "Silver"
+                "remaining_products": 50,
+                "color": "Silver",
+                "img": null
             },
             {
                 "weight": 14.968536,
                 "price": 565.24,
-                "remaining_products": 18,
-                "color": "Silver"
+                "remaining_products": 54,
+                "color": "Silver",
+                "img": null
             }
         ]
     },
@@ -12629,13 +11307,6 @@
         "title": "LAT Pull Down Bar,Rotating Press Down Bar,Tricep Rope,Strength Training Double D Row Handle Cable Attachment for Weight Workout,Cable Machine Accessories with Rubber Grips",
         "price": 14.85,
         "brand": "Rivotrance",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/613AV02PwlS.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31D3pcv+4PS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41F5UM4-EkS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31D3pcv+4PS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41F5UM4-EkS._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "This Deluxe LAT bar attaches to your home gym, Smith machine,Pulldown system, Home gym fitness etc",
@@ -12691,14 +11362,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "0.85 Kilograms",
                 "price": 14.85,
-                "remaining_products": 1,
-                "color": "Chrome"
+                "remaining_products": 38,
+                "color": "Chrome",
+                "img": null
             }
         ]
     },
@@ -12836,15 +11506,6 @@
         "title": "YOSUDA Water Rowing Machines for Home Use- Foldable Rower Machine 400LBS Weight Capacity with Dedicated Monitor & Bluetooth APP, Comfortable Seat",
         "price": 469.99,
         "brand": "YOSUDA",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71225pLeCSL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41FpaEBddNL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41PDktt+EBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51HQM+Lu6BL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51UzFi4KmSL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/415Sb8ddijL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51JqJ57v5xL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Revolutionary 180\u00b0 Foldable Storage Design: Save space in your home with our innovative folding feature; The elegant beech wood finish adds a stylish touch, making it blend seamlessly with your home decoration",
@@ -12987,14 +11648,13 @@
                 "value": "36.25 Kilograms"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "36.25 Kilograms",
                 "price": 469.99,
-                "remaining_products": 27,
-                "color": "Wood"
+                "remaining_products": 67,
+                "color": "Wood",
+                "img": null
             }
         ]
     },
@@ -13116,16 +11776,6 @@
         "title": "Synergee Seated Dip Machine \u2013 Heavy-Duty Tricep Workout Station with Adjustable Seat & Ergonomic Handles for Targeted Arm Training",
         "price": 249.95,
         "brand": "Synergee",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71TFr60ozoL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31yS5v3Wa+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51doxvan0XL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51uvYrjMVbL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51MPHZy0JIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51JkyuxcAwL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51jeRTl6e5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51TwdSt3SjL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u2605 TARGETED TRICEP TRAINING \u2605 \u2013 Perfectly focuses on triceps with a stable, seated position, allowing for isolated, effective arm workouts that minimize strain on wrists and elbows.",
@@ -13218,14 +11868,13 @@
                 "value": "Power Tower"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "21.1 Pounds",
                 "price": 249.95,
-                "remaining_products": 62,
-                "color": "Black"
+                "remaining_products": 24,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -13234,15 +11883,6 @@
         "title": "Rowing Machines for Home,Hartwares Magnetic Rowing Machine with 77lbs High Resistance Rowing Machine,16 Levels of Quiet Resistance,Rower Machine for Home Row Machine,App Compatible,LCD Monitor",
         "price": 179.99,
         "brand": "Hartwares",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71yJCWKsTML.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41ljV4rXG8L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51WUBuQfUJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51mRx7s+yIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/514uu6Uw-oL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/514rbjn9zoL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/515YAg6lkKL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Whisper-Quiet Workout Equipment: Our rowing machine features a custom magnetic flywheel system, ensuring exercise sessions are incredibly quiet, generating less than 20 decibels. Perfect for home or office use without disturbing others",
@@ -13392,46 +12032,20 @@
                 "value": "23.59 Kilograms"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "magnetic rower 02",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0CXHSHX6L",
-                "price": {
-                    "value": 179.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "magnetic rower 03",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0DMDZ3V9N",
-                "price": {
-                    "value": 169.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "magnetic rower 02"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 23.59,
                 "price": 179.99,
-                "remaining_products": 14,
-                "color": "black"
+                "remaining_products": 44,
+                "color": "black",
+                "img": null
             },
             {
                 "weight": 23.59,
                 "price": 169.99,
-                "remaining_products": 1,
-                "color": "black"
+                "remaining_products": 52,
+                "color": "black",
+                "img": null
             }
         ]
     },
@@ -13553,15 +12167,6 @@
         "title": "Sunny Health & Fitness Smart Compact Full Motion Rowing Machine, Full-Body Workout, Low-Impact, Extra-Long Rail, 350 LB Weight Capacity and Optional Free SunnyFit\u00ae App Enhanced Connectivity",
         "price": 227.49,
         "brand": "Sunny Health & Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71n1LMeI-mL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41O0bg-9esL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51OXXkBygDL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51LewbL9aNL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51gjkZA1nrL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41pER1P7COL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411Tz2cIT8L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010ALL-IN-ONE HOME FITNESS\u3011 Transform the single handlebar into two independent rower bars for wider back stroke while providing gentle support for squat exercises, reducing joint strain, and providing upper and lower body workout at the same time.",
@@ -13731,119 +12336,34 @@
                 "value": "39.3 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "2 - SMART",
-                "thumbnail": "https://m.media-amazon.com/images/I/41-esAYKQpL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61LYHNUTozL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51iJsGLSH4L._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/51qlfMREDeL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/71vynGeJciL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61oeMQAD7qL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/51eMhTrIHTL._AC_.jpg"
-                ],
-                "asin": "B0C83TRH47",
-                "price": {
-                    "value": 199.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "1 - Classic",
-                "thumbnail": "https://m.media-amazon.com/images/I/41MLiOEicZL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71gckdU0LaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716GV43SfhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81TJTtMudEL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81zIXNyPvfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WiLX7NaaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81baP-aTT6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71BvCQ0rC7L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71n9cVNdNAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71heZaffWCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71wEeYdVCBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81vdnpbNgHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81HB9ZN38BL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81kkjR+lboL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81grw0VjiCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/9195Hnb5SYL._AC_SL1500_.jpg"
-                ],
-                "asin": "B06WW5XXJL",
-                "price": {
-                    "value": 116.2,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "3 - Row-N-Ride SMART",
-                "thumbnail": "https://m.media-amazon.com/images/I/41O0bg-9esL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71n1LMeI-mL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81ANCA0JmZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Ba-7+VuTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81cTJ-pkvpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/717L9k0irLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71YfpCxekUL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BZQJLVBH",
-                "price": {
-                    "value": 227.49,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "4 - Premium Magnetic SMART",
-                "thumbnail": "https://m.media-amazon.com/images/I/31Synb48-9L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61PFr9ItgqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61DGeO+rShL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71GuVW1bTrL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71013qCd9dL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61yBeVsHN8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61t2snX8KSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61-dquJedJL._AC_SL1200_.jpg"
-                ],
-                "asin": "B0CLT9F123",
-                "price": {
-                    "value": 565.24,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "3 - Row-N-Ride SMART"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 17.8261656,
                 "price": 199.99,
-                "remaining_products": 4,
-                "color": "5 - Full Motion Smart"
+                "remaining_products": 31,
+                "color": "5 - Full Motion Smart",
+                "img": null
             },
             {
                 "weight": 17.8261656,
                 "price": 116.2,
-                "remaining_products": 96,
-                "color": "5 - Full Motion Smart"
+                "remaining_products": 2,
+                "color": "5 - Full Motion Smart",
+                "img": null
             },
             {
                 "weight": 17.8261656,
                 "price": 227.49,
-                "remaining_products": 100,
-                "color": "5 - Full Motion Smart"
+                "remaining_products": 28,
+                "color": "5 - Full Motion Smart",
+                "img": null
             },
             {
                 "weight": 17.8261656,
                 "price": 565.24,
-                "remaining_products": 40,
-                "color": "5 - Full Motion Smart"
+                "remaining_products": 17,
+                "color": "5 - Full Motion Smart",
+                "img": null
             }
         ]
     },
@@ -14053,16 +12573,6 @@
         "title": "Rowing Machine for Home, Multiple Levels of Quiet Magnetic Resistance, Compact Foldable Rowing Machine, 350 Lbs Max Weight Capacity, Seated Row Machine with Electronic Display",
         "price": 169.99,
         "brand": "TROPOW",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71g70UL1cJL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41Ib7lTIIfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51fBF7IbARL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51fouTIPmeL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51rXwdx1gAL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51RyPM78TEL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Z6T6NzaLL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51cS97rwS9L._AC_US.jpg"
-        ],
         "description": "This rowing machine uses an extended rail design to effectively work multiple muscle groups in the legs, buttocks, core, back, arms, and shoulders. Whether you are a beginner or a fitness expert, rowing can stimulate your potential and make you become stronger.",
         "features": [
             "FULL-BODY WORKOUT: This rowing machine uses an extended rail design to effectively work multiple muscle groups in the legs, buttocks, core, back, arms, and shoulders. Whether you are a beginner or a fitness expert, rowing can stimulate your potential and make you become stronger.",
@@ -14199,60 +12709,20 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Double Tracks",
-                "thumbnail": "https://m.media-amazon.com/images/I/41DUtYAxxGL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71deRsUgAkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/813UV5xxYyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81G7GLLko4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81PD6N-xT8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71pOxfmaOYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71d2bgbO6SL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817owGsVjwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71x7DNB29HL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71A9qBIHu5L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DMW4WPH7",
-                "price": null
-            },
-            {
-                "name": "Double Sculls",
-                "thumbnail": "https://m.media-amazon.com/images/I/41Ib7lTIIfL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71g70UL1cJL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81-EoisO0CL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81xdi6YJxKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817mXGsbF5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81WZZPckEVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81tJg1GnzrL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81t-IcsBjSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71MCYrPWGqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81zGP6FNDML._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DMW5JD9V",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "Double Sculls"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 32.60872888,
                 "price": 169.99,
-                "remaining_products": 6,
-                "color": "Black and Orange"
+                "remaining_products": 18,
+                "color": "Black and Orange",
+                "img": null
             },
             {
                 "weight": 32.60872888,
                 "price": 169.99,
-                "remaining_products": 64,
-                "color": "Black and Orange"
+                "remaining_products": 49,
+                "color": "Black and Orange",
+                "img": null
             }
         ]
     },
@@ -14261,15 +12731,6 @@
         "title": "Rower Seat Pad Compatible with Concept 2 Rowing Machine - Anti Slip Rowing Machine Seat Cushion Pad Compatible with Hydrow, Concept2, Waterrower and Other Row Machines - Rower Accessories",
         "price": 19.99,
         "brand": "Hornet Watersports",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/81Bxfia1ahL.__AC_SY300_SX300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41IqHw1z1xL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Kws+LJrHL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51JfUijY90L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51knuJabr2L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51V9b7HL1iL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51GHZrs11xL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "ANTI-SLIP TECHNOLOGY: Anti-slip silicone printing holds you and the cushion firmly in place to stay in place no matter how hard or fast you're rowing. Our unique technology avoids the inconvenience of having to clip your cushion each time.",
@@ -14413,14 +12874,13 @@
                 "value": "0.26 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "0.26 Pounds",
                 "price": 19.99,
-                "remaining_products": 6,
-                "color": "Black"
+                "remaining_products": 86,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -14524,15 +12984,6 @@
         "title": "PASYOU Rowing Machines for Home - Row Machine for Cardio Training, Water Rowing Machines with Dedicated Monitor & Bluetooth, 350LBS Weight Capacity",
         "price": 179.99,
         "brand": "PASYOU",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71yKQd4ACgL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41dpO8L-Q+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51SDblNqBWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51H24-HlBSL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41EDFYRxJmL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41uEJgbHgKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/414xQ6KAXlL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010BUILT TO LAST, DESIGNED FOR STRENGTH\u3011 The PASYOU PW30 rowing machine is expertly engineered to withstand the test of time and deliver exceptional performance. Its robust steel frame, measuring 2.4\"x1.2\" (60x30mm), ensures a sturdy and stable construction that can handle heavy usage and weights up to 350 lbs. Whether you're a beginner or an advanced athlete, you can push yourself to the limit without any worries about the durability and stability of this rowing machine.",
@@ -14672,14 +13123,13 @@
                 "value": "25 Kilograms"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "25 Kilograms",
                 "price": 179.99,
-                "remaining_products": 14,
-                "color": "Black"
+                "remaining_products": 25,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -15086,15 +13536,6 @@
         "title": "Under Desk Elliptical Machine, Electric Ellipse Leg Exerciser as Seen on Tv for Seniors with 12 Adjustable, Quiet Portable Elliptical Machine, Seated Pedal Exerciser with Remote Control",
         "price": 129.99,
         "brand": "Putnen",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71+Mrzs6hzL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41eMf-mqUQL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ojADGq1+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51DXIlUVwkL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ai6FCzMXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51z-2qPWZxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51B1FA4QAVL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u30102 IN 1 & AUTO OR MANUAL MODES\u3011PUTNEN ellipse leg exercise has Manual (12-level speed) & Auto mode (P1-P3) for your choice. Pedals can forward or backward. Adjust the speed to achieve the results you need, including strengthening your legs, exercising your body etc. Effectively exercise multiple muscle groups to help you achieve your fitness goals.",
@@ -15203,14 +13644,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "13.7 Pounds",
                 "price": 129.99,
                 "remaining_products": 2,
-                "color": "orange"
+                "color": "orange",
+                "img": null
             }
         ]
     },
@@ -15219,15 +13659,6 @@
         "title": "SogesPower Squat Machine for Home Gym, Squat Rowing Machine with Adjustable Resistance and Optional Full Motion, Squat Assist Trainer for Glutes & Legs Workout, Up to 330lbs",
         "price": 92.99,
         "brand": "SogesPower",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71MHDitUjsL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/4175cC431EL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31DfvBlRAfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Cu+u3G4dL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51QoHROPJAL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41BV4kTlJ6L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41I7oq0qYzL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010THE SOGESPOWER SQUAT MACHINE\u3011This ideal home gym equipment uses a deep squat format that shifts the center of gravity back to the hips, fully engaging the glutes. It helps you squat and stretch from 30\u00b0to 120\u00b0and maintain balance.Combined with the features of a rowing machine, the squat machine offers multiple movements that activate both the lower and upper body.",
@@ -15368,88 +13799,27 @@
                 "value": "22 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Red",
-                "thumbnail": "https://m.media-amazon.com/images/I/4175cC431EL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71MHDitUjsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61fRE-vSL7L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81eEfZ0YLoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81D7nowMCeL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61kDmDl4ZXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/714bpltCdnL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Jv7LtxkOL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D66VS23C",
-                "price": {
-                    "value": 92.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Pink",
-                "thumbnail": "https://m.media-amazon.com/images/I/41rMETjBE1L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61YtbzhxtZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81dgBLhm04L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61zvQhvnY6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71gPP5PyqnL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71EPhy25SgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81nJtzfcnoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/610Tvh9ComL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DK95WVK4",
-                "price": {
-                    "value": 89.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Orange",
-                "thumbnail": "https://m.media-amazon.com/images/I/41zbr-OquHL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71IXJu2TiSL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81IFrz09mpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81JNmLLWzNL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ZWEmi6tpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71btrhpRK9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61As1shPVuL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61fyv7hAR9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81OeLXsK1JL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81vodUYNdxL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CR3ZXPF4",
-                "price": {
-                    "value": 95.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Red"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 9.979023999999999,
                 "price": 92.99,
-                "remaining_products": 16,
-                "color": "Red"
+                "remaining_products": 89,
+                "color": "Red",
+                "img": null
             },
             {
                 "weight": 9.979023999999999,
                 "price": 89.99,
-                "remaining_products": 95,
-                "color": "Pink"
+                "remaining_products": 43,
+                "color": "Pink",
+                "img": null
             },
             {
                 "weight": 9.979023999999999,
                 "price": 95.99,
-                "remaining_products": 70,
-                "color": "Orange"
+                "remaining_products": 79,
+                "color": "Orange",
+                "img": null
             }
         ]
     },
@@ -15458,15 +13828,6 @@
         "title": "Magnetic Rowing Machine, Quiet Rowing Machines for Home\uff0c8 Levels Adjustable Resistance, Foldable Rower with Tablet Holder, Combined Strength Training for Two",
         "price": 109.99,
         "brand": "INVERPRO",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71tm8nOdSkL.__AC_SY300_SX300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41F3VvfBeVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51gzTZIKSjL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51DUDXdhdpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/61XhwOhV26L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51RJxMqlI5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/419I4+I+iEL._AC_US.jpg"
-        ],
         "description": "Experience the ultimate full-body workout with this versatile rowing machine. Designed to engage multiple muscle groups simultaneously, this machine offers an intense yet low-impact cardio session. The smooth rowing motion targets your arms, legs, back, and core, promoting overall strength and endurance. Equipped with an LCD monitor, you can easily track your progress and adjust the resistance levels to suit your fitness goals. Featuring a sturdy steel frame and a comfortable padded seat, this rowing machine provides a stable and comfortable workout experience. Compact and space-saving, it seamlessly integrates into any home gym setup. Elevate your fitness routine and achieve a toned, sculpted physique with this high-performance rowing machine.",
         "features": [
             "\u3010Duo-Rower\u3011Duo-Rower Rowing Machine can be used two people at the same time.You can also use it alone.Invite your couple, partner, parents, friends to use it together to superivse and compare with each other to make cxercise and fun.",
@@ -15614,14 +13975,13 @@
                 "value": "56 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "56 Pounds",
                 "price": 109.99,
-                "remaining_products": 23,
-                "color": "Black/Gray"
+                "remaining_products": 41,
+                "color": "Black/Gray",
+                "img": null
             }
         ]
     },
@@ -15833,15 +14193,6 @@
         "title": "Rowing Machine Seat Cushion (Model 2) for The Concept 2 Rowing Machine with Custom Memory Foam, Washable Cover, and Straps- Concept 2 Rower, Recumbent Stationary Bike, WatterRower Seat Pad",
         "price": 39.99,
         "brand": "2K Fit",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71URYoBwcJL.__AC_SY300_SX300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51urAad0y-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41CSfIYH4oL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51a-AvjJdGL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41RXeL1y-sL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51XsFj0yt4L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Ouu5+MnJL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "MOST COMFORTABLE ROWING MACHINE PAD: Perfectly fits the concept 2 rowing machine. Works great with Model D, Model E, Stationary Recumbent Bike, WaterRower, and Hydrow. Simply put the cushion on the seat and buckle the straps!",
@@ -15974,14 +14325,13 @@
                 "value": "breathable mesh fabric"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "0.5 Kilograms",
                 "price": 39.99,
-                "remaining_products": 51,
-                "color": "Black"
+                "remaining_products": 21,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -16161,15 +14511,6 @@
         "title": "Sunny Health & Fitness Smart Upright Row-N-Ride Trainer w/Adjustable Resistance, Foldable Home Exercise Equipment for Arm, Glute & Leg Training, Free SunnyFit App Bluetooth Connect, Optional in Colors",
         "price": 116.43,
         "brand": "Sunny Health & Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61kQG572LDL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31wMy+BIg0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41mU83EkAVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31fnUQjMJiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41P-UXmwQiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Aa9ZjnbnL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31pFTKcXFiL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010PINK ALL-IN-ONE HOME EXERCISE MACHINE\u3011Your favorite Sunny machine, in PINK! Strengthen your legs, tighten your glutes, and tone your arms and abs with this versatile squat machine for a full-body workout. Add some style to your fitness routine!",
@@ -16319,55 +14660,20 @@
                 "value": "330 Pounds"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Pink",
-                "thumbnail": "https://m.media-amazon.com/images/I/31wMy+BIg0L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61kQG572LDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71jPvwCydGL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61Qx98vpRcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61dwr3Imv2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/614FuVZIlhL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51JNN5xLM-L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D6X1YTXP",
-                "price": null
-            },
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41bHX0mVazL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71uTHHazdaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/8160l1ubCLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81bsN+r9vLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81tmXJ0NgKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71w+AMSVFkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71PvbMREx5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/817tzIlIxHL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CFYRLPKR",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Pink"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 13.0180904,
                 "price": 116.43,
-                "remaining_products": 2,
-                "color": "Pink"
+                "remaining_products": 57,
+                "color": "Pink",
+                "img": null
             },
             {
                 "weight": 13.0180904,
                 "price": 116.43,
-                "remaining_products": 48,
-                "color": "Black"
+                "remaining_products": 6,
+                "color": "Black",
+                "img": null
             }
         ]
     },

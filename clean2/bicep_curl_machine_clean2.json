@@ -154,15 +154,6 @@
         "title": "RIMSports Weight Lifting Arm Blaster for Biceps & Triceps Heavy Duty Bicep Blaster for Barbell and Dumbell Curl Portable Bicep Curl Support Isolator for Muscle Gains Premium Biceps Workout Equipment",
         "price": 24.49,
         "brand": "RIMSports",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71eLo80oM2L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41FZiieiGPL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ZxrrqTTGS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41svlp4qFIS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Z+xabVXbS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51P3fOlZnjS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41tSJILTPoS._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Great Bicep Builder: Our bicep curl support isolator promotes proper form while lifting to prevent cheat curls, supports you in performing are perfect biceps workout equipment to get that massive biceps pump",
@@ -272,64 +263,20 @@
                 "value": "Standard"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Pink",
-                "thumbnail": "https://m.media-amazon.com/images/I/51tHJrHv4JS._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/81dI0Ejwj1S._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51KlVxV8UmS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61hDWY19i2S._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61i+WeGTkOS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81xX-0YOsgS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/719-qaFA-GS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51CUcFkCqAS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/619s19Y09AS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/618WCnL+j6S._AC_SL1500_.jpg"
-                ],
-                "asin": "B07NDDQRRW",
-                "price": {
-                    "value": 23.79,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41FZiieiGPL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71eLo80oM2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71b3O-kYYZS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71+CAZLC01S._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71TE4Z3cSxS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/814EgGqh5TS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71p438lA7gS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/715o9xpckQS._AC_SL1500_.jpg"
-                ],
-                "asin": "B075GHXLVT",
-                "price": {
-                    "value": 24.49,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 1.0,
                 "price": 23.79,
-                "remaining_products": 72,
-                "color": "Pink"
+                "remaining_products": 87,
+                "color": "Pink",
+                "img": null
             },
             {
                 "weight": 1.0,
                 "price": 24.49,
-                "remaining_products": 63,
-                "color": "Black"
+                "remaining_products": 54,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -338,15 +285,6 @@
         "title": "Mikolo Preacher Curl Bench, Plate Loaded Bicep Curl Machine, Bicep and Tricep Workout Equipment\uff0c2 in 1 Arm Training Machine for Home Gym",
         "price": 259.99,
         "brand": "Mikolo",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61h-xEPNX1L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41h1m7fzcbL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51egISk17ML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51ebaGCf8YL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41lR2oInp5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/513Gu9bbHVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51DXFoFsXfL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010Precision Bicep Isolation\u3011: Designed for targeted bicep training, ensuring maximum muscle engagement and growth with each curl, making it ideal for serious strength training enthusiasts.",
@@ -439,14 +377,13 @@
                 "value": "Mikolo"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "88 Pounds",
                 "price": 259.99,
-                "remaining_products": 26,
-                "color": "Black"
+                "remaining_products": 29,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -455,16 +392,6 @@
         "title": "ANT MARCH Preacher Curl Weight Bench Seated Arm Isolated Barbell Dumbbell Biceps Station Home Gym Max load 450lLBS",
         "price": 91.98,
         "brand": "ANT MARCH",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61wbwUiwThL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31JPkSuoW7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41HPMxn+pWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41I4Qeq2vSL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41pdOrm9Q4L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41GLQzsoDDL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41+RKEG101L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41rWBqtM-VL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010Height Adjustable\u3011This arm curl weight bench equipped with 6 levels height adjustable function. The bar rest can be adjusted from 16.7\" to 20.7\". The arm rest can be adjusted from 30.7\" to 35.8\". It can meet different fitness needs.",
@@ -561,14 +488,13 @@
                 "value": "Ant March US"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "28.5 Pounds",
                 "price": 91.98,
-                "remaining_products": 79,
-                "color": "White, Black"
+                "remaining_products": 45,
+                "color": "White, Black",
+                "img": null
             }
         ]
     },
@@ -919,15 +845,6 @@
         "title": "DHT Strength Training Adjustable Benches, Weight Bench for Full Body Workout with Fast Folding, Stable Incline Decline Bench B2 for Home, Gym, Sit up Bench",
         "price": 259,
         "brand": "DHT DYNAMIC HEALTH TECH",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61gGtgbnTTL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31U7nhDg6NL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41vtty8SkdL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/410Tu3e8EiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411jaOg4GeL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41cLXaFJrUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51IimBdw0rL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "SAFETY AND STABILITY: Designed with a triangular structural frame, and it is made of commercial-thick steel and has undergone thousands of weight tests to ensure the safety of each exercise.",
@@ -1028,14 +945,13 @@
                 "value": "Dynamic Health Tech"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "47.4 Pounds",
                 "price": 259,
-                "remaining_products": 60,
-                "color": "Black"
+                "remaining_products": 9,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -1324,14 +1240,6 @@
         "title": "Barbell Multi-Exerciser Cable Attachment For Cable Machines, Lat Pull Down Bar Cable Machine Attachments, Tricep Press Down Bar, Revolving Straight Curl Pulldown Bar with Rotating & Rubber Handle Grips",
         "price": 34.95,
         "brand": "qibylift",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/615w7WfIfNS.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/21XAGsAo5MS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/21+wx6i8MeS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/319pm0qDc4L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/21xvFUIuPZS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/312aFTSKXYL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Upgrade Your Home Gym: qibylift Lat Bar Attachment is compatible with functional trainers, cable machines, rowing machines, and more. Perfect for targeting lower back and core muscles.",
@@ -1469,151 +1377,48 @@
                 "value": "21 Inches"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "29 Inch Chrome Ball",
-                "thumbnail": "https://m.media-amazon.com/images/I/21Tqiefva-L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/6122MwH7ZTL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/7152uZwE7UL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51qF9JD5CAL._AC_SL1393_.jpg",
-                    "https://m.media-amazon.com/images/I/51qF9JD5CAL._AC_SL1393_.jpg",
-                    "https://m.media-amazon.com/images/I/51WhI+7K5iL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51xwGo5WJqL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0C9XYHGM6",
-                "price": {
-                    "value": 48.85,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "29 Inch Chrome",
-                "thumbnail": "https://m.media-amazon.com/images/I/21610DqbyLL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51Msfic6CgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/519KVEDP22L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/613SEuCyXKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/5178Qe81GDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51WXhCwjr3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/516n9q1dyDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51ez9N7uqmL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0BRHWM9Q4",
-                "price": {
-                    "value": 48.85,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "20 Inch",
-                "thumbnail": "https://m.media-amazon.com/images/I/21id7rr-mbL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/41K1G8GpohL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/41IPaLGxbwL._AC_SL1042_.jpg",
-                    "https://m.media-amazon.com/images/I/41f+dNSf2LL._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/21Dm9p8xrhL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/41u+S+EVUYL._AC_SL1500_.jpg"
-                ],
-                "asin": "B08DM6B8JX",
-                "price": {
-                    "value": 27.98,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "29 Inch",
-                "thumbnail": "https://m.media-amazon.com/images/I/21XAGsAo5MS._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/615w7WfIfNS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61L9Nk9vdLS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/319pm0qDc4L._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/51wpggixBVS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61+GM0L1dTL._AC_SL1500_.jpg"
-                ],
-                "asin": "B08VWS51WS",
-                "price": {
-                    "value": 34.95,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "36 Inch",
-                "thumbnail": "https://m.media-amazon.com/images/I/21M+v3KfbAS._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/51hmeuMXmdS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61RJVBwC4ES._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61Wy3ajaIjL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/615o0wnmtXS._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/51ZLy73qhlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ZO7tRqpmS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51BtuT9H4AL._AC_.jpg"
-                ],
-                "asin": "B0BFRP8SMM",
-                "price": {
-                    "value": 62.98,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "M",
-                "thumbnail": "https://m.media-amazon.com/images/I/31oXAUwQGVS._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61Gge+gqxDS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81QVWuj6RPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51HOqIvZgML._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/41FnIb5NGUL._AC_SL1024_.jpg",
-                    "https://m.media-amazon.com/images/I/61IVFPNcOAS._AC_SL1500_.jpg"
-                ],
-                "asin": "B08FMV1VNQ",
-                "price": {
-                    "value": 49.95,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "29 Inch"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 2.0,
                 "price": 48.85,
-                "remaining_products": 88,
-                "color": "Chrome"
+                "remaining_products": 55,
+                "color": "Chrome",
+                "img": null
             },
             {
                 "weight": 2.0,
                 "price": 48.85,
-                "remaining_products": 48,
-                "color": "Chrome"
+                "remaining_products": 99,
+                "color": "Chrome",
+                "img": null
             },
             {
                 "weight": 2.0,
                 "price": 27.98,
-                "remaining_products": 45,
-                "color": "29 Inch"
+                "remaining_products": 63,
+                "color": "29 Inch",
+                "img": null
             },
             {
                 "weight": 2.0,
                 "price": 34.95,
-                "remaining_products": 17,
-                "color": "29 Inch"
+                "remaining_products": 101,
+                "color": "29 Inch",
+                "img": null
             },
             {
                 "weight": 2.0,
                 "price": 62.98,
-                "remaining_products": 86,
-                "color": "29 Inch"
+                "remaining_products": 84,
+                "color": "29 Inch",
+                "img": null
             },
             {
                 "weight": 2.0,
                 "price": 49.95,
-                "remaining_products": 66,
-                "color": "29 Inch"
+                "remaining_products": 2,
+                "color": "29 Inch",
+                "img": null
             }
         ]
     },
@@ -1622,16 +1427,6 @@
         "title": "Luwint Ultra Heavy Duty Steel Cable Attachments, Cable Row Handle/Straight Bar",
         "price": 49.99,
         "brand": "Luwint",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/512q6v3tUVL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31NqH+DF-KL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31AxRXL8iwL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31SKiVsp3ZL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31Vb3wloOJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31kFH7wReFL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51hm6k19QtL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/2114-7PpO1L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010Chrome-plated Solid Steel Bar\u3011The straight bar cable attachment is heavy-duty, well built, all metal, with rubber handgrips, heavy weight about 5.6 lbs. Comes with the large carabiner. Chrome finish for home gyms, Commercial gym and training clubs",
@@ -1740,63 +1535,20 @@
                 "value": "Luwint"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Rotation Straight Bar",
-                "thumbnail": "https://m.media-amazon.com/images/I/31NqH+DF-KL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/512q6v3tUVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51+B6DQ23ML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61OcRbmVXGL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61V-HAPVC9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51+uI3XA8YL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71k8b2ucX3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51PsGyUsZkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/41podr1BhyL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61MgLxwd-JL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0B2NMT28C",
-                "price": {
-                    "value": 49.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Rotation V Handle",
-                "thumbnail": "https://m.media-amazon.com/images/I/41O1CBeyjiL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61AUcpES-4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71h2Gq4T+BL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61C9sfzLY-L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61JUIbEBrjL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61OzU4NFddL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711WDzNVyVL._AC_SL1500_.jpg"
-                ],
-                "asin": "B08T7HDKXQ",
-                "price": {
-                    "value": 37.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Rotation Straight Bar"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 2.56733072,
                 "price": 49.99,
-                "remaining_products": 6,
-                "color": "Rotation Straight Bar"
+                "remaining_products": 11,
+                "color": "Rotation Straight Bar",
+                "img": null
             },
             {
                 "weight": 2.56733072,
                 "price": 37.99,
-                "remaining_products": 49,
-                "color": "Rotation Straight Bar"
+                "remaining_products": 20,
+                "color": "Rotation Straight Bar",
+                "img": null
             }
         ]
     },
@@ -2163,16 +1915,6 @@
         "title": "Adjustable Arm Preacher Curl Bench Bicep Strengh Bench Seated Strenghthen Training Isolated Barbell Dumbell Biceps Station for Home Gym",
         "price": 56.99,
         "brand": "BBBuy",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51O9Ph6kjQL.__AC_SY300_SX300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31ckycBhbOL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41TCdr3RBaL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31GbMtRw-5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/511w3mq7IUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41qYJIdCy0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/412q+pD3owL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41mZO-kLtFL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010Safety and Durable\u3011Our sturdy bicep curl bench is made of heavy-duty steel and cushioned seat and armrests, which can give you a nice experience of body workout. Also, the best material can accompany you with a long time without repair.",
@@ -2285,14 +2027,13 @@
                 "value": "608410770461"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "26.5 Pounds",
                 "price": 56.99,
-                "remaining_products": 0,
-                "color": "White, Black"
+                "remaining_products": 33,
+                "color": "White, Black",
+                "img": null
             }
         ]
     },
@@ -2530,15 +2271,6 @@
         "title": "Valor Fitness Preacher Curl Bench - Adjustable Curling Machines Sit or Stand for Upper Body Home Gym Biceps Workout",
         "price": 490.98,
         "brand": "Valor Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71Y9J4kWwFL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41CKFM5IA7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41KfB9Sqs+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41cG5AMRj3L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41triEiuzNL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51SMS0SdCuL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51bwsk7H2JL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Heavy Duty: This preacher curl bench is constructed from heavy-duty 2\u201d x 2\u201d steel for a strong and stable frame necessary when lifting heavy weight. Option to bolt unit to the ground for further stability hardware not included",
@@ -2663,84 +2395,27 @@
                 "value": "844192007597"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "CB-5 Standing Preacher Curl Station",
-                "thumbnail": "https://m.media-amazon.com/images/I/41CKFM5IA7L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71Y9J4kWwFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81wvhrJtkIL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81dXAvCqQdL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/9163Yvh84SL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81GDJHSCATL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91ppGgmDogL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81j2tBlZjLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81CE7lWe6mL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81+TmAAbs6L._AC_SL1500_.jpg"
-                ],
-                "asin": "B01N0D9FS3",
-                "price": null
-            },
-            {
-                "name": "CB-6 Adjustable Arm Curl Bench",
-                "thumbnail": "https://m.media-amazon.com/images/I/41HpBGt6LAL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/91PNrVolPaL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/811wX4pgyYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81XtJQEkXoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81JWXZawt8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81WutN4d8nL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/913Y+5PYkcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91j2R+XeoeL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/9199dEil7JL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/915+aiV1v3L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91HC7s0gHDL._AC_SL1500_.jpg"
-                ],
-                "asin": "B001TJ5KPQ",
-                "price": null
-            },
-            {
-                "name": "CB-11 Standing Arm Station w/ Saddled Seat Pad",
-                "thumbnail": "https://m.media-amazon.com/images/I/41fFLi3OTzL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/811wbHAbSAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81JjGbQG0PL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91SjiFRxOCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91ltP+GJ-+L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/917gsMjp8NL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/91dubxZvCcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81o-qYL1OPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81gQhFFaVHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81hypbZLFQL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0069U1MPM",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "CB-5 Standing Preacher Curl Station"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 47.173568,
                 "price": 490.98,
-                "remaining_products": 26,
-                "color": "Tan"
+                "remaining_products": 13,
+                "color": "Tan",
+                "img": null
             },
             {
                 "weight": 47.173568,
                 "price": 490.98,
-                "remaining_products": 95,
-                "color": "CB-5 Standing Preacher Curl Station"
+                "remaining_products": 72,
+                "color": "CB-5 Standing Preacher Curl Station",
+                "img": null
             },
             {
                 "weight": 47.173568,
                 "price": 490.98,
-                "remaining_products": 61,
-                "color": "Tan"
+                "remaining_products": 51,
+                "color": "Tan",
+                "img": null
             }
         ]
     },
@@ -3236,15 +2911,6 @@
         "title": "Vibration Plate Exercise Machine for Lymphatic Drainage Weight Loss,SoftGym Power Vibration Plate 300-400 Lbs Capacity Full Whole Body Workout Vibration Platform,Waver Vibration Plate for Home Fitness",
         "price": 99.99,
         "brand": "SoftGym",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/610JAXHInFL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41u17lBrwOL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51zIZH9D7OL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ECdk8RZ2L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/510tHSoXjTL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/512bdoeXMIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41-Ho-tC-WL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Build Your Dream Body: The vibration plate exercise machine is equipped with multiple exercise modes, which can target different parts of the body, such as the waist, abdomen, buttocks, and legs, for a full-body workout.The vibration plate for lymphatic drainage,helping to increase the body\u2019s metabolic rate and promote blood circulation and metabolism",
@@ -3310,165 +2976,55 @@
                 "value": "BLACK"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Slim- White",
-                "thumbnail": "https://m.media-amazon.com/images/I/41Wsu9r88TL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61-oE53HjZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71IHffdgtnL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71CTg5Hm1dL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Pqzf4itZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71j-sPpj8aL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71AqJpgz8OL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71evsiEEFsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/712NU7jq-zL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D9NVN751",
-                "price": null
-            },
-            {
-                "name": "Flat-BLACK",
-                "thumbnail": "https://m.media-amazon.com/images/I/41u17lBrwOL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/610JAXHInFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711RAnRvHoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716kzBcxViL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71LrIsWrG5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71ELvKRG8AL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71P9GZI-vbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71XXVmrEqlL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DH2MZFQ3",
-                "price": null
-            },
-            {
-                "name": "Flat-PINK",
-                "thumbnail": "https://m.media-amazon.com/images/I/41F38z8JIcL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61RpCc0Q1uL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71cP0nPtp1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71XNpucENeL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71O2Eds-ASL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71rQVxdv5EL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71InCE4UsrL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71YG18t1ClL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DH2P9W9M",
-                "price": null
-            },
-            {
-                "name": "Flat-BLUE",
-                "thumbnail": "https://m.media-amazon.com/images/I/41sMhGdTvlL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/6167am+OZVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/717ywObDeFL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71MR7yZkNlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Tq5iWHfYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71V4tBV8ztL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71FsgeNf6eL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/715tpBGlxyL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DK32V81C",
-                "price": null
-            },
-            {
-                "name": "Slim- Pink",
-                "thumbnail": "https://m.media-amazon.com/images/I/41-cGsdUT+L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61IyJeEbWNL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71tdYu-Bp2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71NmjfxknCL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/719lGGJtHOL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71M79yMFmtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71zUZOFRsHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Y7F6zyB4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71UlQQO6Z-L._AC_SL1500_.jpg"
-                ],
-                "asin": "B0D9NVYC5X",
-                "price": null
-            },
-            {
-                "name": "Slim- Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41y-6EnoxSL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61V+TB4TfBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/717hLSal-nL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Mwad+yNHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Nsw-uIA6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/7131CdlK2WL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716Nme6nBcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71nVR0uaUpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71FbdRh1LGL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DG51RKFW",
-                "price": null
-            },
-            {
-                "name": "Slim- Blue",
-                "thumbnail": "https://m.media-amazon.com/images/I/41iFg4h+wQL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61pxkW5HaZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/714-UzQ5jgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Wziz92eBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/712G-f20BcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/718jBcvXu4L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/713kg6QYzfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71se-odbPHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71PZb2jWOgL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DH2P5DYB",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "Flat-BLACK"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 7.05,
                 "price": 99.99,
-                "remaining_products": 56,
-                "color": "White"
+                "remaining_products": 17,
+                "color": "White",
+                "img": null
             },
             {
                 "weight": 7.05,
                 "price": 99.99,
-                "remaining_products": 54,
-                "color": "Black"
+                "remaining_products": 7,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 7.05,
                 "price": 99.99,
-                "remaining_products": 66,
-                "color": "Pink"
+                "remaining_products": 86,
+                "color": "Pink",
+                "img": null
             },
             {
                 "weight": 7.05,
                 "price": 99.99,
-                "remaining_products": 49,
-                "color": "Blue"
+                "remaining_products": 50,
+                "color": "Blue",
+                "img": null
             },
             {
                 "weight": 7.05,
                 "price": 99.99,
-                "remaining_products": 11,
-                "color": "Pink"
+                "remaining_products": 0,
+                "color": "Pink",
+                "img": null
             },
             {
                 "weight": 7.05,
                 "price": 99.99,
-                "remaining_products": 37,
-                "color": "Black"
+                "remaining_products": 32,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 7.05,
                 "price": 99.99,
-                "remaining_products": 101,
-                "color": "Blue"
+                "remaining_products": 24,
+                "color": "Blue",
+                "img": null
             }
         ]
     },
@@ -3477,15 +3033,6 @@
         "title": "Adjustable Weight Bench - Utility workout Benches for Exercise, Free Installation Design for Portable Fitness Strength Training Equipment at Home Gym",
         "price": 159.99,
         "brand": "K KiNGKANG",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71f7LUzbcmL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51GN4Fby31L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51GAqL07+1S._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51L9LxxT5LL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41RYOXR+XiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51N6c+vyH7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51kLQgL+KnL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u2705ADJUSTABLE WEIGHT BENCH : Adjustable weight bench has 7 backrest pad positions to meet all you need when workout. The adjustable weight rack is ideal for working out and training on your chest, shoulders, back, abs, and more for Home Gym.",
@@ -3583,14 +3130,13 @@
                 "value": "KKINGKANG"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "15.42 Kilograms",
                 "price": 159.99,
-                "remaining_products": 48,
-                "color": "Black&Red"
+                "remaining_products": 78,
+                "color": "Black&Red",
+                "img": null
             }
         ]
     },
@@ -3599,16 +3145,6 @@
         "title": "Deluxe Exercise Curl Bar for Lats, Curls and More BBEB-7355 Black 47 inches",
         "price": 49.99,
         "brand": "BIONIC BODY",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/513QxMfzqML.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/316G-w7LfUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41WxKrO7gxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41EldzuaUEL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41rQL0uFngL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41i0sOBYODL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41cfQcYARWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Gda7JTGoL._AC_US.jpg"
-        ],
         "description": "The Bionic Body Deluxe Exercise Bar BBEB-7355 provides a full body workout in your home gym, backyard, or anywhere you have a bit of space to workout. Perform curls, seated rows, and much more with the Deluxe exercise bar. Simply add resistance tubes (sold separately) to the bar and you will have access to a wide variety of workout options.This durable exercise bar is made with sturdy steel covered with rubber to ensure a solid grip. At 47\u201d long, the bar is easy to store when not in use and easy to transport as needed. If you don\u2019t have space for bulkier equipment, the Bionic Body Deluxe Exercise Bar can still deliver a full body workout.The connection points on the Bionic Body Deluxe exercise bar have swivels. The swivels ensure you are getting tension at the correct angle of your workout. In addition, the bar\u2019s ergonomic curvy shape puts less stress on your elbows, wrists, and forearms during lifts.",
         "features": [
             "The Bionic Body Deluxe Exercise Bar is ideal for lats, curls, and various other exercises due to its curved shaped.",
@@ -3753,14 +3289,13 @@
                 "value": "096362997355"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "4.19 Pounds",
                 "price": 49.99,
-                "remaining_products": 88,
-                "color": "Black"
+                "remaining_products": 79,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -3899,16 +3434,6 @@
         "title": "Lat Bar Cable Machine Attachment, Curl Pulldown Bar with Full Rotation and Rubber Handle for Gym, Strength Workout, Body Training, Muscle Building, 30 Inch",
         "price": 33.89,
         "brand": "CRGHS",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/41cv44thP+L._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31skoASZY0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/311oRyTLiKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41P58ZaJEUL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ogPkY2qKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31V5ALm6ISL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41vktMvIvNL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411Gz8g7tXL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "THE CRGHS LAT BAR\uff1aAttach to any pulley or cable weight machine and is ideal for several lat and upper body focused exercises like lat pulldowns, straight arm pulldowns and more.",
@@ -4041,14 +3566,13 @@
                 "value": "CRGHS"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "3 Kilograms",
                 "price": 33.89,
-                "remaining_products": 23,
-                "color": "Silver"
+                "remaining_products": 60,
+                "color": "Silver",
+                "img": null
             }
         ]
     },
@@ -4300,16 +3824,6 @@
         "title": "Olympic EZ Curl Barbell Bar 47\", 2-Inch Curl Bar for Weight Lifting,Hip Thrusts,Squat,Biceps-Home Gym Weight Bar, Chrome Curling Bar for 2 Inch Weight Plates -2 Spring Collars(500lb Weight Capacity)",
         "price": 49.99,
         "brand": "LAVVON",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61yOzGchGRL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31jFHdg0jIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51KSUxzyZEL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51AirAhyE5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51nL8A2O4yL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41shM9xt5cL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/518ZPT3SMnL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51JrfamhndL._AC_US.jpg"
-        ],
         "description": "2-inch Curl Bar",
         "features": [
             "COMFORTABLE CURVED SHAFT: The ergonomic curved design puts the hand in a more comfortable position, effectively reduce the pressure in the wrist and forearm, and can be used by beginners and professionals alike.",
@@ -4431,56 +3945,20 @@
                 "value": "LAVVON"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/31jFHdg0jIL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61yOzGchGRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71rolIkHndL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81kRRI4rv5L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/715NdgYcNcL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71i8N2Y7oBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/711ccit6hrL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71a4Lf4Q7fL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CY4GX63H",
-                "price": null
-            },
-            {
-                "name": "Silver",
-                "thumbnail": "https://m.media-amazon.com/images/I/31Bvbxf+gHL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61akdFV2IbL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716A9gr7loL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81l2bur1yzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/712QyAsbyfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71i8N2Y7oBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71cvI0CGlBL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71a4Lf4Q7fL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0CWRJ4DP5",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 5.6,
                 "price": 49.99,
-                "remaining_products": 26,
-                "color": "Black"
+                "remaining_products": 7,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 5.6,
                 "price": 49.99,
-                "remaining_products": 77,
-                "color": "Silver"
+                "remaining_products": 81,
+                "color": "Silver",
+                "img": null
             }
         ]
     },
@@ -4711,13 +4189,6 @@
         "title": "Finer Form Multi-Functional Weight Bench for Full All-in-One Body Workout \u2013 Versatile Adjustable Workout Bench for Home Gym. Fitness equipment perfect for Back HyperExtension, Bench Press, Roman Chair Exercise, Sit up. Adjusts to Decline or Flat Bench.",
         "price": 149.99,
         "brand": "FF Finer Form",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61nLeVE+-uL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/411VhSaOhmL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411CPLdvUKL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51+9G0ewXlL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51yE-wbdJtL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Full-body Adjustable Weight Bench - Work Your Arms, Back, Chest, Glutes, Hamstrings and Core. Use for Bench Press, As a Back Extension Machine Or for Hundreds of Other Weight Training Exercises.",
@@ -4840,14 +4311,13 @@
                 "value": "680193710605"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "17.2 Kilograms",
                 "price": 149.99,
-                "remaining_products": 37,
-                "color": "Black, Red"
+                "remaining_products": 57,
+                "color": "Black, Red",
+                "img": null
             }
         ]
     },
@@ -4856,16 +4326,6 @@
         "title": "Fitlaya Fitness Preacher Curl Pad Barbell & Dumbbell Bicep Curl Support Isolator Home Gym Equipment for Arms Bodybuilding",
         "price": 64.99,
         "brand": "Fitlaya Fitness",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51u9--IxocL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41D37ea2vvL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/61A50goYeHL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41IFPJxIx6L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Wv5yyaFhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/4132fIq8gWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41-xEfAVjfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/410FTQOsKxL._AC_US.jpg"
-        ],
         "description": "This preacher pad was designed to workout your biceps & sriceps in a more efficient way",
         "features": [
             "\u3010Get Bigger Arms\u3011Everyone wants bigger arms, with our preacher pad it will isolate your biceps and triceps that enables to maximize arm muscle gains faster and more efficiently.",
@@ -4978,14 +4438,13 @@
                 "value": "Fitlaya Fitness"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "1.75 Kilograms",
                 "price": 64.99,
-                "remaining_products": 24,
-                "color": "black"
+                "remaining_products": 62,
+                "color": "black",
+                "img": null
             }
         ]
     },
@@ -5151,15 +4610,6 @@
         "title": "Ab Roller, Vinsguir Ab Roller Wheel for Core Workout & Strength Training, 3.2 Inch Dual-wheel Ab Wheel for Abs Workout, Abdominal Wheel Workout Equipment, Exercise wheels for Home Gym with Knee Pad Accessories",
         "price": 25.99,
         "brand": "VINSGUIR",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71WYhvuQfbL.__AC_SY300_SX300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/51Mr5SL9y7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51s7nZ1rTVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5185w8yJzeL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/511N4+-+HhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41RkbjmmC-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/510qjmFF6UL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010More Accessible & Hassle Free\u3011The 3.2 inch dual-wheel ab roller offers extra support and stability compared to the common single ab wheel. Equipped with a knee pad, this ab roller wheel delivers comfortable workout experience and caring protection. Just embrace the freedom of more thrilling and challenging routines without the hassle of using resistance bands!",
@@ -5280,54 +4730,20 @@
                 "value": "Vinsguir"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Lake Blue And Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41EFbtnlTuL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71UbdEn+u8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81giUT1iJdL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Kjv+u6pGL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81hsecDp9kL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/7117dnhzYPL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81oY9VdlRKL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DLNKYR7M",
-                "price": null
-            },
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/51Mr5SL9y7L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71WYhvuQfbL._AC_SL1497_.jpg",
-                    "https://m.media-amazon.com/images/I/71GPGiBJ+DL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71n+W9mr1TL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81MOESrxROL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71VoU2zAUYL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81-Jo3jtqdL._AC_SL1500_.jpg"
-                ],
-                "asin": "B07RKW5H68",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.63956472,
                 "price": 25.99,
-                "remaining_products": 13,
-                "color": "Blue, Black"
+                "remaining_products": 18,
+                "color": "Blue, Black",
+                "img": null
             },
             {
                 "weight": 0.63956472,
                 "price": 25.99,
-                "remaining_products": 4,
-                "color": "Black"
+                "remaining_products": 57,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -5525,16 +4941,6 @@
         "title": "FLYBIRD Adjustable Weight Bench Workout Bench for Home Gym, 15 Degree Decline Sit-Up, Sturdy Durable Folding Weight Bench for Years of Workout -FBGEAR23",
         "price": 109.98,
         "brand": "FLYBIRD",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71Uyi3MI4dL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41vu4Ej8qOL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5186upOP4DL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51D2KmrzfIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/61SRa-hdG+L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/61-icGkipBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51wXKA4x+TL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41rE7xDeYeL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Simple and Functional: FLYBIRD weight bench FBGEAR23 is simple and functional for lightweight daily home workout or high-intensity strength training; With its user-friendly design, you can perform various strength exercises at home effortlessly",
@@ -5636,14 +5042,13 @@
                 "value": "FLYBIRD"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "23.59 Pounds",
                 "price": 109.98,
                 "remaining_products": 58,
-                "color": "700LBS"
+                "color": "700LBS",
+                "img": null
             }
         ]
     },
@@ -5652,15 +5057,6 @@
         "title": "Jayflex Hyperbell Dumbbell Converter - Convert Dumbbells to Barbell Set and Kettlebell for Home Fitness - Adjustable & Up to 200 lb Capacity Weight Barbell for Weight Lifting",
         "price": 119,
         "brand": "Jayflex",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61grU0yMeKL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31ft4v02D6L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41knBa6wqJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41fBLSuiFCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41d9JbFzAML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41jjU0CDD2L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/419b4s8UhNL._AC_US.jpg"
-        ],
         "description": "Transform your home gym into the ultimate fitness center with the Jayflex Hyperbell Bar. This amazing adjustable dumbbell set allows you to work from home, without the need for extra equipment or space. The Hyperbell Bar has multi-purpose high-quality steel connectors that allow you to convert your dumbbells into a full barbell set. The Hyperbell Bar can handle weights of up to 200 lbs, with each side of the dumbbell connector bar capable of holding up to 100 lb weights. With the weight lifting bar included in the set, you can easily create a challenging workout that helps you reach your goals. Built with high-strength modular plastic clamps, the Hyperbell Bar has been stringently tested for durability in the toughest workouts. The bar is perfect for serious strength training and can be used for bench presses, deadlifts, and power cleans. Incorporating the Hyperbell Bar into your home fitness routine is easy. Simply snap your chosen weights into the dumbbell attachments on the weight bar to create a versatile workout routine. The weight-adjustable home barbell connectors are foam-lined for a safe and secure grip. The Hyperbell Bar is ideal for home gym workouts and is compatible with most standard hex dumbbells, including Bowflex SelectTech, CORE Fitness, Peloton, JaxJox, MX Select, Merax, and NordicTrack (orange version). However, it is not compatible with PowerBlock, NordicTrack (blue version), or Nuobell dumbbells. Whether you're looking to intensify your squats, lunges, curls, and rows, or target the chest, shoulders, and biceps with bench presses and military presses, the Hyperbell Bar is the perfect addition to your home gym. Order now and take the first step towards achieving your fitness goals!",
         "features": [
             "DUMBBELL TO BARBELL CONVERTER: With the adjustable steel barbell bar, transform your adjustable dumbbell set into a heavy-duty weight bar for weights lifting and strength training bars at home.",
@@ -5773,83 +5169,27 @@
                 "value": "Adjustable"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "EZ Curl",
-                "thumbnail": "https://m.media-amazon.com/images/I/21NDgLiYntL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/41a7jVGiY5L._AC_SL1080_.jpg",
-                    "https://m.media-amazon.com/images/I/615+t8kXNYL._AC_SL1080_.jpg",
-                    "https://m.media-amazon.com/images/I/51hkmnp13rL._AC_SL1080_.jpg",
-                    "https://m.media-amazon.com/images/I/613K-yBV3CL._AC_SL1080_.jpg",
-                    "https://m.media-amazon.com/images/I/512MOeK3VoL._AC_SL1080_.jpg",
-                    "https://m.media-amazon.com/images/I/614UEHdarfL._AC_SL1080_.jpg"
-                ],
-                "asin": "B0C1MFGC4J",
-                "price": {
-                    "value": 129,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Barbell",
-                "thumbnail": "https://m.media-amazon.com/images/I/31ft4v02D6L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61grU0yMeKL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/613ikBJgw6L._AC_SL1080_.jpg",
-                    "https://m.media-amazon.com/images/I/51wlcNfNEvL._AC_SL1080_.jpg",
-                    "https://m.media-amazon.com/images/I/61ePvOD5SdL._AC_SL1080_.jpg",
-                    "https://m.media-amazon.com/images/I/512MOeK3VoL._AC_SL1080_.jpg",
-                    "https://m.media-amazon.com/images/I/614UEHdarfL._AC_SL1080_.jpg"
-                ],
-                "asin": "B0BZF8NB9N",
-                "price": {
-                    "value": 119,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Kettlebell",
-                "thumbnail": "https://m.media-amazon.com/images/I/31c-r8QyCmL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61fv6URJMVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71-7M1NR5VL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61nFp0dW3ZL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/7185zmMQ8uL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61tKlygFMoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71gsKU2sucL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0B5JXJWPV",
-                "price": {
-                    "value": 39,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Barbell"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 2.26796,
                 "price": 129,
-                "remaining_products": 53,
-                "color": "Barbell"
+                "remaining_products": 42,
+                "color": "Barbell",
+                "img": null
             },
             {
                 "weight": 2.26796,
                 "price": 119,
-                "remaining_products": 42,
-                "color": "Barbell"
+                "remaining_products": 80,
+                "color": "Barbell",
+                "img": null
             },
             {
                 "weight": 2.26796,
                 "price": 39,
                 "remaining_products": 53,
-                "color": "Barbell"
+                "color": "Barbell",
+                "img": null
             }
         ]
     },
@@ -5858,15 +5198,6 @@
         "title": "Yes4All Arm Blaster for Biceps & Triceps Dumbbells, 2-Layers Neck Cushion Bicep Curl Support Isolator for Body Building, Strength Training, and Muscle Gain",
         "price": 23.99,
         "brand": "Yes4All",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/516bG-5qrgL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31PrZ7yI+3L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51538gZuDLL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51PKF56QFjL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51nCkpHGXYL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51bwbUYVTPL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51yKVdX3WiL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "ENHANCED COMFORT: Our bicep blaster features a double-layers EVA neck cushion for superior comfort during intense bicep and tricep workouts. It ensures a comfortable experience for men seeking to strengthen their arms with an arm blaster specifically designed for biceps and triceps.",
@@ -5963,14 +5294,13 @@
                 "value": "Yes4All"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "1.5 Pounds",
                 "price": 23.99,
-                "remaining_products": 64,
-                "color": "A. Arm Blaster"
+                "remaining_products": 40,
+                "color": "A. Arm Blaster",
+                "img": null
             }
         ]
     },
@@ -6103,16 +5433,6 @@
         "title": "ZENY Preacher Curl Bench Arm Curl Weight Bench Weightlifting, Biceps Triceps Muscle Strength Training, Isolated Barbell Rack Stand Home Gym Equipment, Adjustable Height",
         "price": 42.99,
         "brand": "ZENY",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61BlCKXO+4L._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41x4JaOJ9ML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41VwWm5riZL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41n1b4x2cOL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/416mQqP7CBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31erslb+jpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41kfgCODSxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/411Z4FLbK5L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Metal",
@@ -6222,14 +5542,13 @@
                 "value": "ZENY"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "27.3 Pounds",
                 "price": 42.99,
-                "remaining_products": 21,
-                "color": "white"
+                "remaining_products": 31,
+                "color": "white",
+                "img": null
             }
         ]
     },
@@ -6328,16 +5647,6 @@
         "title": "WINOMO DIY Rotating Straight Bar, Weight Machine Accessories Bicep Pull Bar for Home Gym Exercise Back Arm Shoulder Muscles",
         "price": 24.49,
         "brand": "WINOMO",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61FKXXhMDSL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/319tXtq0diL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51p9aigzoyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31yFhlYPbPL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51T2DNAr7wL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41fyqa1xjxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51VoFffX84L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41IA7DATv-L._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\ud83c\udf08Our pull bar weight machine is made from great quality material, which let you use for a very long time.",
@@ -6442,14 +5751,13 @@
                 "value": "Adjustable"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "365 Grams",
                 "price": 24.49,
-                "remaining_products": 59,
-                "color": "Black"
+                "remaining_products": 13,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -7030,16 +6338,6 @@
         "title": "JungleA Adjustable Arm Preacher Curl Bench Machine w/Rack,Seated Arm Isolated Barbell Dumbbell Biceps Station for Home Gym Workout,Bicep Triceps Muscle Strength Training Weight Bench,550 Lbs Capacity",
         "price": 73.59,
         "brand": "Generic",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61BlCKXO+4L._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41x4JaOJ9ML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41fcrj+7F3L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41YZ+trvxvL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41n1b4x2cOL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41qYJIdCy0L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31+PKKy+GWL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41TE01VH1vL._AC_US.jpg"
-        ],
         "description": "Get ready to pump up your biceps with JungleA preacher curl bench!Specifications: Weight: 31 lbs Load capacity: 550 lbs Pad thickness : 2\" Size of the Pad:13.98 x 9.45 x 1.89inch  Whole Size: 28.54\"(L) x 27.17\"(W) x 31.1-35\"(H) Bar rest adjustment: 18\" - 22\"(H) Arm rest adjustment: Six-position 31\" - 35\"(H) Package include: 1 x Arm curl bench (need assembled) Note: 1.Dumbbells and barbell are not included. 2.Simple Assembly is required according to the included instruction. 3.Please check the weight capacity before using dumbbells or barbell.",
         "features": [
             "\u3010Heavy Duty Structure\u3011--JungleA preacher curl bench feature a heavy duty steel frame, together with sturdy construction for maximum stability and durability.",
@@ -7132,14 +6430,13 @@
                 "value": "JungleA"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "31 Pounds",
                 "price": 73.59,
-                "remaining_products": 35,
-                "color": "White"
+                "remaining_products": 48,
+                "color": "White",
+                "img": null
             }
         ]
     },
@@ -7523,13 +6820,6 @@
         "title": "Body-Solid Tools (MB229FG) Revolving Curl Bar Attachment for Pulley Cable Machine, LAT Pull Down Commercial and Home Gym Attachments for Bicep Curls and Tricep Pulldown Exercises with Fat Grip, Black",
         "price": 45,
         "brand": "Body solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61WvLg8K63L.__AC_SY300_SX300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/21ST6cQmBwL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31ZnsLZ0DTL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31+hXnK9HxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31u2UAw6yxL._AC_US.jpg"
-        ],
         "description": "This premium cable attachment is engineered to isolate your biceps, ensuring a focused and effective training session. Whether you're at the gym or setting up your home workout station, this curl bar cable attachment is a must-have for anyone serious about strength training. The Body-Solid Revolving Curl Bar Attachment is perfect for various exercises, including bicep curls, tricep pull-downs, and lat pulldowns. Its ergonomic design and fat grip provide maximum comfort and reduce strain on your wrists and elbows, allowing you to lift heavier and train longer. This versatile cable machine attachment is compatible with most pulley systems, making it an ideal addition to your gym accessories for cable machines.",
         "features": [
             "INDUSTRY LEADER - For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machine, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, curl bar cable attachment, and more). Our curl bar attachments are cutting-edge and reliable and are built for Life\u2026\u2026Your Life.",
@@ -7601,14 +6891,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "5.3 Pounds",
                 "price": 45,
-                "remaining_products": 56,
-                "color": "Black"
+                "remaining_products": 93,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -7617,15 +6906,6 @@
         "title": "Marcy Adjustable 6 Position Utility Bench with Leg Developer and High Density Foam Padding SB-350,dark gray",
         "price": 169.99,
         "brand": "MARCY",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71hx828LZoL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41Ip7ugk7PL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41gjtyY+wQL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51EODLQJVHL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51XjYkl3M7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51K+QMueUxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31UqCq0V7CL._AC_US.jpg"
-        ],
         "description": "Sculpt yourself and make your dream body a reality with the Marcy Utility Bench SB-350 This bench has an adjustable back that can be altered to suit your workout routine or regimen. Its secure sawtooth back pad adjustment design that can be altered to an incline, flat, or decline position. This multiple seatback positioning allows strength training exercises such as crunches and weightlifting. You can use this bench to lift dumbbells and barbells or performing tool-free exercises such as sit-ups. You can also perform leg curls and other muscle-toning routines on this training equipment in order to sculpt your legs to match your toned upper body. This sleek black bench\u2019s foam roller pads have a vinyl covering and a hardwearing, powder-coated finish. It also has a convenient transport handle. Additionally, this training device is suitable for the whole family, so everyone can use it to improve their bodies and health. The ergonomic bench\u2019s dual position leg developer has a two-position padded bar and weight posts that let you do leg extensions and curls. You can strengthen your calves and hamstrings, sculpt your quads and glutes, and gain a leaner figure through this helpful feature. The bench\u2019s powder-coated steel frame offers great resiliency with a maximum weight capacity of 300 pounds. It is strong and sturdy so you\u2019ll be able to pump iron at home for years to come. This bench is designed to fit most standards racks, cages, and Smith machines. Work out with optimal efficiency and without worrying about the training equipment\u2019s construction. Its top grade high density foam padding allows users to exercise comfortably on the equipment, boasts exceptional durability, withstands pressure, and is guaranteed to resist heavy lifting. Target your oblique and abs without any hassle. Gain a better body in the comfort of your own home with the Marcy Utility Bench SB-350.",
         "features": [
             "6-POSITION ADJUSTABLE BACK PAD \u2013 This utility bench has an adjustable back that can be altered to suit your workout routine. It features a secure sawtooth back pad adjustment design that can be modified to an incline, flat, or decline position.",
@@ -7761,14 +7041,13 @@
                 "value": "096362992732"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "51 Pounds",
                 "price": 169.99,
-                "remaining_products": 22,
-                "color": "black"
+                "remaining_products": 96,
+                "color": "black",
+                "img": null
             }
         ]
     },
@@ -8135,15 +7414,6 @@
         "title": "Straight Bar, Pull Down Bar 360 Rotating, Lat Pulldown Attachments Cable Attachments For Gym Cable Machine Attachment, Tricep Press Down Curl Bar, Strength Training Cable Attachments",
         "price": 14.99,
         "brand": "Berufexp",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/611h171glpL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41pGQQpvqrL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51vjkjrMlYL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51pGiYUlRqL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41-efxtX2BL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51PE+pOiyXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41oEvtlSD9L._AC_US.jpg"
-        ],
         "description": "Great additional supply to your home gym cable attachments. Rotating bar cable attachment for the gym is very suitable for strengthening the triceps and grip, aiming to develop your triceps, biceps, back, shoulders, and abs and improve the biceps grip of the triceps.",
         "features": [
             "\u3010GREAT DIMENSION\u3011This tricep pull down attachment cable machine is about 18'' in length and 1'' in diameter. The short curling bar is perfect for performing all kinds of exercise providing an excellent grip feeling.",
@@ -8240,14 +7510,13 @@
                 "value": "Berufexp"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "0.61 Kilograms",
                 "price": 14.99,
-                "remaining_products": 71,
-                "color": "Black"
+                "remaining_products": 30,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -9204,15 +8473,6 @@
         "title": "Fitness Adjustable Arm Preacher Curl bench, Seated Bicep Curl Machine, Tricep Workout Equipment, Seated trenghthen Training Isolated Barbell Dumbell Station for Home Gym",
         "price": 99,
         "brand": "AOWINNOX",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/719i49eID3L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31GDswrkpeL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51kR0PMYjCL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41G1t80FGnL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41+oSlqz7IL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51HErNdZGSL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41vvgOHifAL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010Safety and Durable\u3011Our sturdy bicep curl bench is made of 2''*2'' 14-gauge heavy-duty steel. The cushioned seat and armrest provide a comfortable workout experience, while the high-quality materials ensure long-lasting durability without the need for repair.",
@@ -9313,14 +8573,13 @@
                 "value": "AOWINNOX"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "29.8 Pounds",
                 "price": 99,
-                "remaining_products": 83,
-                "color": "Black"
+                "remaining_products": 33,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -9684,15 +8943,6 @@
         "title": "Kinglotus Lat Pull down Bar Cable Machine Attachment,Curl Bar Tricep Press Down Bar.",
         "price": 20.98,
         "brand": "Kinglotus",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51p3fiBT3cL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31iXwJGm0TL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51AhqnM4o7L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51kn6h2ZSyL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51UEXExM0XL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41s-KJyakJL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41UYxK6BJBL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010High Quality Pull Down Bar Attachment\u3011:The Lat Attachment Pull Down Bar attaches to cable machines, seated rowing machines, and DIY pulley systems for forward pull downs and backhand pull downs. Exercises the lower side of the latissimus dorsi, arm and low back muscles",
@@ -9793,14 +9043,13 @@
                 "value": "Alloy Steel"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "2.6 Pounds",
                 "price": 20.98,
-                "remaining_products": 48,
-                "color": "BLACK"
+                "remaining_products": 59,
+                "color": "BLACK",
+                "img": null
             }
         ]
     },
@@ -9809,15 +9058,6 @@
         "title": "Body Solid (GLA400) LAT and Row Bar Attachment for GPR400 Power Rack, Suitable for High/Low Pulley, Pulldowns, Bicep Curls, and Shrug Exercises, Commercial and Home Gym Pulldown Machine Attachments",
         "price": 470,
         "brand": "Body solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61KXqe-MWyL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41P1mo-mx-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51PBo8Z1zRL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51s0xvgUFXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/511PeHKa2KL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51sUsEYT17L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41TucHco8iL._AC_US.jpg"
-        ],
         "description": "Transform the Body-Solid GPR400 power rack into a complete home gym with the GLA400 lat attachment. The attachment allows users to perform high and low pulley exercises including lat pulldowns, rows, biceps curls, shrugs and more in the comfort and stability of a power rack. Unique design allows the lat attachment to fit into the GPR400 without requiring additional space or clearance around the rack. The GLA400 is a plate-loaded attachment allowing users to easily add weight plates. It\u2019s compatible with Body-Solid\u2019s SP150 150 lb. weight stack. Nylon-coated, aircraft quality cables ensure durability and safety while using the GLA400. This product features a Lifetime for in-home, personal usage. Pads, pulleys, cables, frames, and everything in between is covered for as long as you own the equipment. This product is Commercial Rated and features a Lifetime on frames, welds, weight plates & guide rods. 3 Years on pulleys, bushing, bearings & hardware. 1 Year on cables, upholstery, grips and all other components.",
         "features": [
             "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, power rack, strength training smith machine, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
@@ -9893,14 +9133,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "36 Kilograms",
                 "price": 470,
-                "remaining_products": 61,
-                "color": "Black"
+                "remaining_products": 101,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -10261,10 +9500,6 @@
         "title": "IVANKO REVOLVING CURL BAR, 28in (RCB-28)",
         "price": 54,
         "brand": "Ivanko",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/315t+OmetmL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/315t+OmetmL._AC_US.jpg"
-        ],
         "description": "A VERSATILE PIECE OF EQUIPMENT! For use as a curl bar, or low row pull bar, the IVANKO Revolving Curl Bar (RCB-28) Cable System Attachment, can be used for lat pull downs or as a tricep bar.",
         "features": [
             "Precision forged steel swivels.",
@@ -10357,14 +9592,13 @@
                 "value": "719589001598"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "7.7 Pounds",
                 "price": 54,
-                "remaining_products": 21,
-                "color": "Silver, Black"
+                "remaining_products": 39,
+                "color": "Silver, Black",
+                "img": null
             }
         ]
     },
@@ -10537,15 +9771,6 @@
         "title": "Best Fitness Semi Recumbent AB Crunch Bench (BFAB20R), Lower & Upper Abdominal Muscles Workout Machine For Home Gym, Red/Black",
         "price": 233.97,
         "brand": "Body-Solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61IlLbjKJTL.__AC_SY300_SX300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41M0e38p8kL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41aImaJ-yoL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Nr+ziOBML._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51jPCf0QuiL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51mmVEysSIL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/5132HstphnL._AC_US.jpg"
-        ],
         "description": "Product DescriptionPerform a variety of ab exercises easily, effectively, and safely with the Body-Solid Best Fitness Semi Recumbent AB Bench (BFAB20). The adjustable, ergonomic AB crunch bench seat can be adjusted into 3 different positions to accommodate a wide range of heights and motion. The AB workout bench seat is angled at 45-degrees and reclines to 2 different 5-degree angles for a wide range of motion. This abdominal bench with adjustable length, textured grip handles, standard weight post, and 2-position footrests make it is comfortable and easy to perform exercises such as ab crunches and knee raises. When assembled the Body-Solid Best Fitness Semi Recumbent AB Bench (BFAB20) measures 64 by 11 by 46 inches (L x W x H). The frame is backed by the Best Fitness 3-year Warranty and the parts are backed by a 1 year warranty.Amazon.comMake any time crunch time with the Best Fitness BFAB20 semi-recumbent ab crunch. Unlike some other ab machines--which require the agility of an acrobat to be thoroughly effective--the BFAB20 puts you in a comfortable seated position without sacrificing your workout efficiency. The ergonomically designed machine is built to help you tighten up your midsection, strengthen your back, and improve your core stability, with your choice of toning your lower abs with knees raises or your upper abs with abdominal crunches. To perform ab crunches, simply use the upholstered upper back support, textured grip handles, and standard weight post. Performing knee raises is just as easy thanks to the adjustable-length, two-position footrests. Add in a three-position upholstered seat--which starts at 45 degrees but offers two additional 5-degree reclining positions--and you have everything you need to design an effective ab regimen in the comfort of your own home.  The BFAB20 is an essential workout accessory because your core is where all your body movements originate. Your abdominal muscles support and protect your internal organs and aid in breathing, especially when you exhale. The abs also team up with your back muscles to control trunk motions, such as twisting and bending. The BFAB20 takes the next step by also strengthening and toning the front of the thighs and increasing hip flexibility. The end results include a flatter stomach, better defined abs, well-developed obliques, a more upright posture, and greater support for your spine. Other features include a 1.75-inch upholstered seat, a durable powder-coated finish, and safety pins and bolts that allow for easy disassembly or permanent setup. The BFAB20 measures 22 by 46 by 64 inches (W x H x D) and carries a three-year warranty.",
         "features": [
             "\"INDUSTRY LEADER: For 30+ years, Best FItness by Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.\"",
@@ -10690,14 +9915,13 @@
                 "value": "066510400105 801740753313 638448001428"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "60 Pounds",
                 "price": 233.97,
-                "remaining_products": 52,
-                "color": "Red / Black"
+                "remaining_products": 94,
+                "color": "Red / Black",
+                "img": null
             }
         ]
     },
@@ -10852,15 +10076,6 @@
         "title": "Seated Row Machine, Plate Loaded Back Machines Home Gym Back Row Machine, Leverage Row Machine with Independent Arms & Multi Grips, LAT Machine for Home Gym and Commercial",
         "price": 399.99,
         "brand": "syedee",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61fqj6+gdgL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41-NLTig5VL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Ir04hWdVL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41iCow200JL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Z0Pc9mVQL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41nnlQPi5NL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51KK3XJ+SUL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "\u3010OPTIMIZED MOTION\u3011: Easily sculpt a V-shaped back with our seated row machine! Replicate the traditional pulling movement towards the chest, it's ergonomically designed to follow the body's natural motion, ensuring maximum engagement and a full range of motion. Feel the intensity as your back muscles engage, supported by smooth-operating bearings for a seamless exercise experience. Whether you're a beginner or a seasoned pro, mastering this back machine is effortless.",
@@ -10997,14 +10212,13 @@
                 "value": "168 Pounds"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "168 Pounds",
                 "price": 399.99,
-                "remaining_products": 23,
-                "color": "black"
+                "remaining_products": 99,
+                "color": "black",
+                "img": null
             }
         ]
     },
@@ -11489,15 +10703,6 @@
         "title": "Wrist Trainer Ball Auto-Start Wrist Strengthener Gyroscopic Forearm Exerciser Gyro Ball for Strengthen Arms, Fingers, Wrist Bones and Muscles",
         "price": 16.99,
         "brand": "JIN BD",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71iUQ0IoYJS.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/515qrvurAMS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51pOZ0JpNQL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Sxkf7iRxL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/516Su6xoRuL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51TaibJijAS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51alkceLNFL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Automatic start design, need to push the core in the direction of the arrow, start by the internal spring, very easy and convenient.",
@@ -11602,166 +10807,48 @@
                 "value": "Strength training ball"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "BLUE",
-                "thumbnail": "https://m.media-amazon.com/images/I/51BrkmDC+tS._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71bSAvVjrBS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71mZ1a5HQ1L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WgFF2txXS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71YtHNu0TlL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81+KCaEUacL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81pswAc89AL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WwULAKnNL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71J9U1V3TtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71uEylxXxeL._AC_SL1500_.jpg"
-                ],
-                "asin": "B094GX1JRR",
-                "price": {
-                    "value": 17.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "BLACK",
-                "thumbnail": "https://m.media-amazon.com/images/I/515qrvurAMS._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71iUQ0IoYJS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81dNRouKMWL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71SpuIs2zvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Y2vO0P88L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71PcadQhZgS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71CBUgM+GXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71r+PUdD0tL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71uEylxXxeL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71HK7uEPLLL._AC_SL1500_.jpg"
-                ],
-                "asin": "B094GXVT4C",
-                "price": {
-                    "value": 16.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Silver-Metal",
-                "thumbnail": "https://m.media-amazon.com/images/I/41lb6J7gk7L._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61Gx6ctHTjL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Q10BvI3nL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61nQ7E4A0gL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61YfxfcaY0L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71nnbUcBkgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71BxVU4i3BL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71VVDY6AOoL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71W3GtYXQqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Cmxoo9lZS._AC_SL1500_.jpg"
-                ],
-                "asin": "B09STKWK4Y",
-                "price": {
-                    "value": 28.49,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Red",
-                "thumbnail": "https://m.media-amazon.com/images/I/51zJpd5aloL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71hAMeUGTHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71GeQ5FU0ML._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71r37ejRvEL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71BbiAKB4RL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71BLX0zOYeL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71nvJB3fEkL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71f8LujtWpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71lWhZDpKqL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71A8FQQqIlL._AC_SL1500_.jpg"
-                ],
-                "asin": "B09PK8FF6S",
-                "price": {
-                    "value": 16.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "BLACK Without Light",
-                "thumbnail": "https://m.media-amazon.com/images/I/515qrvurAMS._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71iUQ0IoYJS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81dNRouKMWL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71SpuIs2zvL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71CBUgM+GXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/716DFe94gRL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71HK7uEPLLL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71r+PUdD0tL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81Y2vO0P88L._AC_SL1500_.jpg"
-                ],
-                "asin": "B09F69X3FW",
-                "price": {
-                    "value": 15.99,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "Blue Without Light",
-                "thumbnail": "https://m.media-amazon.com/images/I/4131V2k-qlL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71-S33+8-dL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81PsWc0kFUS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WgFF2txXS._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/51EKq7PcdoL._AC_.jpg",
-                    "https://m.media-amazon.com/images/I/71yKIb7i6+S._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/41q5p2H1A4L._AC_.jpg"
-                ],
-                "asin": "B0CWPNMWFX",
-                "price": {
-                    "value": 15.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "BLACK"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 0.0,
                 "price": 17.99,
-                "remaining_products": 79,
-                "color": "Blue"
+                "remaining_products": 35,
+                "color": "Blue",
+                "img": null
             },
             {
                 "weight": 0.0,
                 "price": 16.99,
-                "remaining_products": 100,
-                "color": "Black"
+                "remaining_products": 17,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 0.0,
                 "price": 28.49,
-                "remaining_products": 31,
-                "color": "Silver"
+                "remaining_products": 19,
+                "color": "Silver",
+                "img": null
             },
             {
                 "weight": 0.0,
                 "price": 16.99,
-                "remaining_products": 50,
-                "color": "Red"
+                "remaining_products": 40,
+                "color": "Red",
+                "img": null
             },
             {
                 "weight": 0.0,
                 "price": 15.99,
-                "remaining_products": 73,
-                "color": "Black"
+                "remaining_products": 11,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 0.0,
                 "price": 15.99,
-                "remaining_products": 91,
-                "color": "Blue"
+                "remaining_products": 19,
+                "color": "Blue",
+                "img": null
             }
         ]
     },
@@ -12261,15 +11348,6 @@
         "title": "47\" EZ Curl Bar Weight Lifting Bar, for Hip Thrusts/Squats/Lunges, 1\" Weight Plates Curling Bar for Gym and Home, with Star Collars",
         "price": 44.99,
         "brand": "ExtreSpo",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61fXKJHWFpL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31QSTwzhNpL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51zbeMQt2DL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51rAV6uELPL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/515zhu1B9KL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51FRr7jFJ-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51NLFE7HgxL._AC_US.jpg"
-        ],
         "description": "curl bar",
         "features": [
             "\ud83d\udcaaHEAVY SOLID STEEL - This curl bar is made of aviation grade steel, with unique E-coat surface, providing excellent corrosion resistance and oxidation resistance. The curling bar is 47inch long, for 1-inch Plate, withstand up to 220lbs of weight.",
@@ -12406,46 +11484,20 @@
                 "value": "Chrome"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "1 inch-silver",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0BJ6MHCMK",
-                "price": {
-                    "value": 42.74,
-                    "currency": "$"
-                }
-            },
-            {
-                "name": "1 inch-black",
-                "images": [],
-                "thumbnail": null,
-                "asin": "B0BXBD3L68",
-                "price": {
-                    "value": 44.99,
-                    "currency": "$"
-                }
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Style",
-                "value": "1 inch-black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 4.9895119999999995,
                 "price": 42.74,
-                "remaining_products": 6,
-                "color": "Silver"
+                "remaining_products": 4,
+                "color": "Silver",
+                "img": null
             },
             {
                 "weight": 4.9895119999999995,
                 "price": 44.99,
-                "remaining_products": 55,
-                "color": "Black"
+                "remaining_products": 98,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -12687,16 +11739,6 @@
         "title": "Kisangel Exercise Machines Training Board Bicep Workout Arm Curl Gym Gear Biceps Training Board Man Fitness Tools Bicep Aluminum Alloy Booster Black Arm Arm Belt",
         "price": 40.69,
         "brand": "Kisangel",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61C+fD57nEL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/318fO5Tb12L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51efiWjXxhL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51dMYlVk1qL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41AgoRbU2qL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51XSfhUQbBL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/512IjcdgqXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51+X1emNwZL._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Aluminum alloy",
@@ -12769,14 +11811,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "1.66 Pounds",
                 "price": 40.69,
-                "remaining_products": 68,
-                "color": "Black"
+                "remaining_products": 100,
+                "color": "Black",
+                "img": null
             }
         ]
     },
@@ -12785,15 +11826,6 @@
         "title": "Body-Solid Home Gym Tools MB229A Aluminum LAT Pulldown Curl Bar Attachment for Pulley Cable Machine - Lat Pull Down Curling Bar Accessories for Fitness, Strength Workout Equipment, Muscle Building",
         "price": 47.99,
         "brand": "Body-Solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51FsapOUydL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/31JYYmo7NHL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41hL+CIcooL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Tdla5LefL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31WA8WKevfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41ekrAU6q3L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/418Dx3JaeuL._AC_US.jpg"
-        ],
         "description": "The Body-Solid Tools MB229A Aluminum Curl Bar attaches to any home gym or cable/pulley-based weight machine and helps you perform curls and numerous other exercises. Constructed from high-strength, rust-proof and lightweight 1-\u00bc\u201d aluminum, the MB229A is both durable and lightweight. Knurled grips offer consistent handling even during intense workouts while the angles on the MB229A were designed specifically for peak biceps and triceps contraction. The smooth, fluid center of the MB229A swivels and rotates in constant, steady, uninterrupted motion and increased exercise variety.",
         "features": [
             "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
@@ -12934,14 +11966,13 @@
                 "value": "638448015128"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "0.9 Kilograms",
                 "price": 47.99,
-                "remaining_products": 38,
-                "color": "Silver"
+                "remaining_products": 30,
+                "color": "Silver",
+                "img": null
             }
         ]
     },
@@ -12950,16 +11981,6 @@
         "title": "FITNESS MANIAC USA EZ Curl Cable Bar Attachment - Revolving 30\" Curl Bar with Wide Grip, Cable Machine Accessories for Bicep and Tricep Exercises in Home Gym",
         "price": 33.69,
         "brand": "FITNESS MANIAC",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51QmYgoUJpL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/3146Z0wtllL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41kpkvyRW2L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31K7wOeEN4L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31-JlxZ3h8L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41YuHaHn0xS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41pCpLybduL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/31xOHqv5HNS._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Versatile Home Gym Essential: Our EZ Curl Cable Bar Attachment is a must-have for your home gym, providing a wide range of exercise possibilities. From bicep curls to tricep extensions, this 30\" cable attachment is perfect for targeting various muscle groups.",
@@ -13023,14 +12044,13 @@
             }
         ],
         "productOverview": [],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "3.38 Kilograms",
                 "price": 33.69,
-                "remaining_products": 60,
-                "color": "Chrome"
+                "remaining_products": 93,
+                "color": "Chrome",
+                "img": null
             }
         ]
     },
@@ -13039,15 +12059,6 @@
         "title": "Soozier Multi-Exercise Full-Body Weight Rack with Bench Press, Leg Extension, Chest Fly Resistance Band & Preacher Curl",
         "price": 199.99,
         "brand": "Soozier",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/71ilGIl5tCL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/410Mhgo8AgL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/510uBuaaXOS._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41FKDZIyhfL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51Ur7u10C8L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41MQc2EJG5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/517n47d3i7S._AC_US.jpg"
-        ],
         "description": null,
         "features": [
             "Gym at Home: The multifunctional weight bench features a preacher curl pad, leg extension machine, bench press, chest fly machine, and resistance bands. This allows you to train your legs and upper body, exercising the biceps, triceps, quads, hamstrings, & glutes anytime at home.",
@@ -13156,14 +12167,13 @@
                 "value": "842525164931"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "60.5 Pounds",
                 "price": 199.99,
-                "remaining_products": 49,
-                "color": "White, Brown"
+                "remaining_products": 33,
+                "color": "White, Brown",
+                "img": null
             }
         ]
     },
@@ -13172,16 +12182,6 @@
         "title": "Lat Pull down Bar for Cable Machine,Curl Pulldown Bar with Full Rotation and Rubber Handle for Gym, Strength Workout, Body Training, Muscle Building",
         "price": 19.99,
         "brand": "VLROQA",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/51+a9yB1aAL._AC_SY300_SX300_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/21XxdJTohtL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51n+ShkqTXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51bqsWqkj-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41B5a5yrg-L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/4199mb88E5L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51iphztAVXL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51qikPwTVgL._AC_US.jpg"
-        ],
         "description": "A cable machine attachment is an essential piece of equipment for anyone serious about strength training and building muscle. This versatile accessory attaches to a cable pulley system, allowing you to perform a wide range of exercises that target specific muscle groups. With the ability to adjust the resistance and angle of pull, you can customize your workout to focus on areas like your chest, back, shoulders, arms, and legs. The cable machine attachment provides a smooth and controlled motion, reducing stress on your joints while still challenging your muscles. Whether you're looking to sculpt your physique, improve your strength, or enhance your overall fitness, this attachment offers a comprehensive and effective solution. Incorporate it into your routine and experience the benefits of targeted, resistance-based training",
         "features": [
             "THE VLROQA LAT BAR\uff1aPerfectly compatible with functional trainers, home gym pulley systems, cable machines and more, making it easier to start exercising",
@@ -13286,14 +12286,13 @@
                 "value": "VLROQA"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "1.65 Kilograms",
                 "price": 19.99,
-                "remaining_products": 94,
-                "color": "black"
+                "remaining_products": 8,
+                "color": "black",
+                "img": null
             }
         ]
     },
@@ -13469,13 +12468,6 @@
         "title": "Body-Solid Home Gym Tools LAT Pulldown Revolving Curl Bar Attachment for Pulley Cable Machine - Lat Pull Down Curling Bar Accessories for Fitness, Strength Workout Equipment, Muscle Building",
         "price": 44.74,
         "brand": "Body-Solid",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/41TvGHpBl7L.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/21ehC976lsL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/213kIdPMq1L._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/312cZ4beHTL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/21p5HHZU3fL._AC_US.jpg"
-        ],
         "description": "Add functionality to your Body-Solid home gym system with the Body-Solid Tools Revolving Curl Bar (MB229). Featuring an angled design that specifically isolates your biceps and triceps muscles, this curling bar allows you to reach peak concentration in your bicep curl workout, so you can achieve the most complete arm development possible.This curl barbell is made of durable solid steel with a knurled grip in the center and edges of the bar. This allows for close- and wide-grip curls as well as triceps press downs with exceptional control and balance. The Body-Solid Tools Revolving Curl Bar measures 29 inches in length and weighs 7 pounds.",
         "features": [
             "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
@@ -13628,14 +12620,13 @@
                 "value": "638448005778 638448005785 066510401652"
             }
         ],
-        "variantDetails": [],
-        "variantAttributes": [],
         "equipment_options": [
             {
                 "weight": "8 Pounds",
                 "price": 44.74,
-                "remaining_products": 16,
-                "color": "Silver"
+                "remaining_products": 9,
+                "color": "Silver",
+                "img": null
             }
         ]
     },
@@ -13644,16 +12635,6 @@
         "title": "Soozier Adjustable Preacher Curl Bench with Brabell Rack, Strength Training Seated Arm Isolated Barbell Dumbbell Bicep Station, 265 LBS Home Gym Fitness Equipment",
         "price": 99.99,
         "brand": "Soozier",
-        "thumbnailImage": "https://m.media-amazon.com/images/I/61Cg8J8uOwL.__AC_SX300_SY300_QL70_ML2_.jpg",
-        "galleryThumbnails": [
-            "https://m.media-amazon.com/images/I/41zCnCNfksL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41Gfd9+PBOL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41lqQgMBmsL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51+C7Qno+wL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/418dDfb4iwL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/41qP0E5uhnL._AC_US.jpg",
-            "https://m.media-amazon.com/images/I/51BwVQcj0CL._AC_US.jpg"
-        ],
         "description": "Description:Maximize your arm day workouts with the Soozier Preacher Curl Machine! Customize your comfort with adjustable armrest pads, seat height, and barbell holder to fit various body shapes. Enjoy the thickened, sweat-resistant preacher curl pad as you push limits on this versatile bicep tricep curl machine, supporting up to 265 pounds. Elevate your training routine effortlessly.Features:\u25cf Adjustable arm, seat, and barbell holder cater to various body types\u25cf Thickened armrest pad enhances comfort during workouts\u25cf Sweat-resistant PU cover prolongs bench's life and looks\u25cf Supports up to 265 pounds for robust reliability\u25cf Steel construction with powder coating for durability\u25cf Great for focused dumbbell or barbell bicep exercises\u25cf Easy to assembleSpecifications:\u25cf Color: Black\u25cf Materials: Steel, PU\u25cf Overall Dimensions: 35.4\" L x 25.2\" W x 33.5\"-40.2\" H\u25cf Seat Size: 14.2\" L x 10.2\" W x 1.6\" T\u25cf Seat Height: 18.1\"-22\" (5-position Adjustable)\u25cf Armrest Pad Size: 22.4\" L x 11.8\" W x 3.1\" T\u25cf Armrest Height: 33.5\"-40.2\" (4-position Adjustable)\u25cf Bar Rest Height: 22.8\"-30.7\" (5-position Adjustable)\u25cf Tube Size: 50 x 50 x 1.5mm\u25cf Max Loading: 265 lbs\u25cf Item Lable: A91-368V00BKPackage Includes:- 1 x Preacher Curl Bench- 1 x Manual",
         "features": [
             "Height Adjustable: This bicep curl bench features a 4-position adjustable armrest (33.5\"-40.2\"), a 5-position adjustable seat (18.1\"-21.7\"), and a 5-position adjustable barbell rack (22.8\"-30.7\"), accommodating various body types and heights.",
@@ -13778,83 +12759,27 @@
                 "value": "196393142240"
             }
         ],
-        "variantDetails": [
-            {
-                "name": "Black",
-                "thumbnail": "https://m.media-amazon.com/images/I/41zCnCNfksL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61Cg8J8uOwL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71YQzHEeBpL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71Hue82LuzL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81kGSVJTG8L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61L1xyVhnxL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71WrYxo5kmL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71JQrruIfHL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71FXJJOiQVL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71+FRBoUzjL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DPPXDQN1",
-                "price": null
-            },
-            {
-                "name": "Red",
-                "thumbnail": "https://m.media-amazon.com/images/I/41aoqP4l5RL._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/71kRFW785WL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81HF-zymL2L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71eAWUJsI6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/810A2xO3W9L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61zX5djLj6L._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71IqCCzFKXL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71A7jB9jKfL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61veNKE-vgL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71L4YzMVGGL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DPX6WVDB",
-                "price": null
-            },
-            {
-                "name": "White",
-                "thumbnail": "https://m.media-amazon.com/images/I/31om3p3T9ML._AC_US.jpg",
-                "images": [
-                    "https://m.media-amazon.com/images/I/61TngsS47wL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81u9gpMaGAL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71P5VjB62rL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/81JyWmdzywL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/612soj3BZtL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71qr+xgcNsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71T2JgqDzsL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/61ZY0useYDL._AC_SL1500_.jpg",
-                    "https://m.media-amazon.com/images/I/71PtVvQ4LEL._AC_SL1500_.jpg"
-                ],
-                "asin": "B0DPPNVSFW",
-                "price": null
-            }
-        ],
-        "variantAttributes": [
-            {
-                "key": "Color",
-                "value": "Black"
-            }
-        ],
         "equipment_options": [
             {
                 "weight": 13.154168,
                 "price": 99.99,
-                "remaining_products": 14,
-                "color": "Black"
+                "remaining_products": 30,
+                "color": "Black",
+                "img": null
             },
             {
                 "weight": 13.154168,
                 "price": 99.99,
-                "remaining_products": 88,
-                "color": "Red"
+                "remaining_products": 24,
+                "color": "Red",
+                "img": null
             },
             {
                 "weight": 13.154168,
                 "price": 99.99,
-                "remaining_products": 64,
-                "color": "White"
+                "remaining_products": 71,
+                "color": "White",
+                "img": null
             }
         ]
     }
