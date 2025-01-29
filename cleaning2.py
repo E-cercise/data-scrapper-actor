@@ -184,6 +184,8 @@ def value_of_attribute(attr_list, key: str):
 def process_variant_data(json_file):
     with open(json_file, "r") as file:
         data = json.load(file)
+        
+    new_data = []
 
     for product in data:
         product["equipment_options"] = []
@@ -195,19 +197,21 @@ def process_variant_data(json_file):
         item_color = value_of_attribute(product["attributes"], "Color")
         base_price = product.get("price", 0.0)
 
+
         # Skip products missing top-level weight or color
         if item_weight is None or item_color is None:
             continue
 
         # If there are no variants, create a single option
-        if not variants:
+        if not variants: 
+            img_list = [{"link": product["thumbnailImage"], "is_primary": True}] + [{"link": img_link, "is_primary": False} for img_link in product["galleryThumbnails"]]
             product["equipment_options"].append(
                 {
                     "weight": item_weight,
                     "price": base_price,
                     "remaining_products": random.randint(0, 101),
                     "color": item_color,
-                    "img": [{"link": product["thumbnailImage"], "is_primary": True}].append([{"link": img_link, "is_primary": False} for img_link in product["galleryThumbnails"]])
+                    "img": img_list
                 }
             )
         else:
@@ -233,20 +237,24 @@ def process_variant_data(json_file):
                 final_weight = (
                     parsed_weight if parsed_weight != 0.0 else fallback_weight
                 )
+                
+                img_list = [{"link": variant["thumbnail"], "is_primary": True}] + [{"link": img_link, "is_primary": False} for img_link in variant["images"]]
 
                 equipment_option = {
                     "weight": final_weight,
                     "price": variant_price,
                     "remaining_products": random.randint(0, 101),
                     "color": final_color,
-                    "img": [{"link": variant["thumbnail"], "is_primary": True}].append([{"link": img_link, "is_primary": False} for img_link in variant["images"]])
+                    "img": img_list
                 }
                 product["equipment_options"].append(equipment_option)
 
 
         del product["variantDetails"], product["variantAttributes"], product["thumbnailImage"], product["galleryThumbnails"]
+        
+        new_data.append(product)
 
-    return data
+    return new_data
 
 
 def main():
