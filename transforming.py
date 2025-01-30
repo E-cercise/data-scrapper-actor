@@ -347,41 +347,37 @@ def process_data(json_file):
     with open(json_file, "r") as file:
         data = json.load(file)
 
-    file
     for product in data:
-        continue
+        product["muscle_group_used"] = muscle_mapper[json_file]
 
     return data
 
 
 def main():
     input_directory = "clean3"
-    output_directory = "clean3"
+    output_directory = "transformed"
 
     if not os.path.exists(output_directory):
         os.makedirs(output_directory)
 
-    pathh = []
     for filename in os.listdir(input_directory):
         if filename.endswith(".json"):
             input_path = os.path.join(input_directory, filename)
-            pathh.append(input_path)
-            # processed_data = process_data(input_path)
+            processed_data = process_data(input_path)
 
-            # # Construct output filename
-            # base_name = os.path.splitext(filename)[
-            #     0
-            # ]  # e.g., "assited_pull_up_machine_unique_clean"
-            # # Remove "_unique_clean" at the end if it exists
-            # output_filename = base_name.replace("clean2", "clean") + ".json"
+            # Construct output filename
+            base_name = os.path.splitext(filename)[
+                0
+            ]  # e.g., "assited_pull_up_machine_unique_clean"
+            # Remove "_unique_clean" at the end if it exists
+            output_filename = base_name.replace("_clean", "") + ".json"
 
-            # output_path = os.path.join(output_directory, output_filename)
+            output_path = os.path.join(output_directory, output_filename)
 
-            # with open(output_path, "w") as outfile:
-            #     json.dump(processed_data, outfile, indent=4)
+            with open(output_path, "w") as outfile:
+                json.dump(processed_data, outfile, indent=4)
 
-            # print(f"Processed {input_path} -> {output_path}")
-    print(pathh)
+            print(f"Processed {input_path} -> {output_path}")
 
 
 if __name__ == "__main__":
