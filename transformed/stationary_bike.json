@@ -121,9 +121,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Classic 49LB Flywheel",
                 "weight": 22.226008,
                 "price": 369.99,
-                "remaining_products": 23,
+                "remaining_products": 45,
                 "color": "Black",
                 "img": [
                     {
@@ -161,9 +162,10 @@
                 ]
             },
             {
+                "name": "Magnetic Smart",
                 "weight": 50.2579936,
                 "price": 369.99,
-                "remaining_products": 56,
+                "remaining_products": 43,
                 "color": "Black",
                 "img": [
                     {
@@ -201,9 +203,10 @@
                 ]
             },
             {
+                "name": "Classic Heavy-Duty",
                 "weight": 50.2579936,
                 "price": 369.99,
-                "remaining_products": 87,
+                "remaining_products": 51,
                 "color": "Black",
                 "img": [
                     {
@@ -411,9 +414,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Schwinn IC3 Indoor Cycling Bike",
                 "weight": 50.802304,
                 "price": 699,
-                "remaining_products": 42,
+                "remaining_products": 26,
                 "color": "Black",
                 "img": [
                     {
@@ -459,9 +463,10 @@
                 ]
             },
             {
+                "name": "Schwinn IC4 Indoor Cycling Bike",
                 "weight": 50.802304,
                 "price": 799,
-                "remaining_products": 53,
+                "remaining_products": 25,
                 "color": "Black",
                 "img": [
                     {
@@ -609,9 +614,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 37 Pounds 199",
                 "weight": "37 Pounds",
                 "price": 199,
-                "remaining_products": 74,
+                "remaining_products": 81,
                 "color": "White, Orange",
                 "img": [
                     {
@@ -769,9 +775,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Arctic White",
                 "weight": 45.3592,
                 "price": 789.99,
-                "remaining_products": 13,
+                "remaining_products": 11,
                 "color": "White",
                 "img": [
                     {
@@ -817,9 +824,10 @@
                 ]
             },
             {
+                "name": "Mist Grey",
                 "weight": 45.3592,
                 "price": 789.99,
-                "remaining_products": 87,
+                "remaining_products": 72,
                 "color": "Arctic White",
                 "img": [
                     {
@@ -977,9 +985,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Magnetic Plus",
                 "weight": 27.0,
                 "price": 599.99,
-                "remaining_products": 65,
+                "remaining_products": 4,
                 "color": "Friction-Black",
                 "img": [
                     {
@@ -1021,9 +1030,10 @@
                 ]
             },
             {
+                "name": "Magnetic-Black",
                 "weight": 27.0,
                 "price": 299.99,
-                "remaining_products": 50,
+                "remaining_products": 5,
                 "color": "Black",
                 "img": [
                     {
@@ -1061,9 +1071,10 @@
                 ]
             },
             {
+                "name": "Magnetic-Grey",
                 "weight": 27.0,
                 "price": 299.99,
-                "remaining_products": 68,
+                "remaining_products": 11,
                 "color": "Friction-Black",
                 "img": [
                     {
@@ -1101,9 +1112,10 @@
                 ]
             },
             {
+                "name": "Friction-Black",
                 "weight": 27.0,
                 "price": 249.99,
-                "remaining_products": 71,
+                "remaining_products": 40,
                 "color": "Black",
                 "img": [
                     {
@@ -1239,9 +1251,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 35.4 Pounds 112.99",
                 "weight": "35.4 Pounds",
                 "price": 112.99,
-                "remaining_products": 101,
+                "remaining_products": 56,
                 "color": "Black",
                 "img": [
                     {
@@ -1379,9 +1392,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black",
                 "weight": 16.011797599999998,
                 "price": 129.99,
-                "remaining_products": 1,
+                "remaining_products": 26,
                 "color": "Black",
                 "img": [
                     {
@@ -1423,9 +1437,10 @@
                 ]
             },
             {
+                "name": "Black-Green",
                 "weight": 16.011797599999998,
                 "price": 129.99,
-                "remaining_products": 41,
+                "remaining_products": 7,
                 "color": "Green, Black",
                 "img": [
                     {
@@ -1562,9 +1577,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 61 Pounds 169.99",
                 "weight": "61 Pounds",
                 "price": 169.99,
-                "remaining_products": 57,
+                "remaining_products": 93,
                 "color": "Black",
                 "img": [
                     {
@@ -1701,9 +1717,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 77 Pounds 267.47",
                 "weight": "77 Pounds",
                 "price": 267.47,
-                "remaining_products": 86,
+                "remaining_products": 29,
                 "color": "Black-Red",
                 "img": [
                     {
@@ -1840,9 +1857,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 33 Pounds 69.99",
                 "weight": "33 Pounds",
                 "price": 69.99,
-                "remaining_products": 7,
+                "remaining_products": 20,
                 "color": "Cranberry",
                 "img": [
                     {
@@ -1979,9 +1997,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 41 Kilograms 389",
                 "weight": "41 Kilograms",
                 "price": 389,
-                "remaining_products": 83,
+                "remaining_products": 95,
                 "color": "BLUE",
                 "img": [
                     {
@@ -2133,9 +2152,10 @@
         ],
         "equipment_options": [
             {
+                "name": "White Lite",
                 "weight": 23.133192,
                 "price": 379.99,
-                "remaining_products": 87,
+                "remaining_products": 93,
                 "color": "White",
                 "img": [
                     {
@@ -2177,9 +2197,10 @@
                 ]
             },
             {
+                "name": "White Plus",
                 "weight": 23.133192,
                 "price": 379.99,
-                "remaining_products": 77,
+                "remaining_products": 35,
                 "color": "White",
                 "img": [
                     {
@@ -2225,9 +2246,10 @@
                 ]
             },
             {
+                "name": "Black Lite",
                 "weight": 23.133192,
                 "price": 379.99,
-                "remaining_products": 80,
+                "remaining_products": 23,
                 "color": "Black",
                 "img": [
                     {
@@ -2273,9 +2295,10 @@
                 ]
             },
             {
+                "name": "Black Plus",
                 "weight": 23.133192,
                 "price": 379.99,
-                "remaining_products": 69,
+                "remaining_products": 75,
                 "color": "Black",
                 "img": [
                     {
@@ -2321,9 +2344,10 @@
                 ]
             },
             {
+                "name": "Black Pro Max",
                 "weight": 23.133192,
                 "price": 379.99,
-                "remaining_products": 67,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -2369,9 +2393,10 @@
                 ]
             },
             {
+                "name": "White Pro Max",
                 "weight": 23.133192,
                 "price": 379.99,
-                "remaining_products": 40,
+                "remaining_products": 44,
                 "color": "White",
                 "img": [
                     {
@@ -2537,9 +2562,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 86 Pounds 399.99",
                 "weight": "86 Pounds",
                 "price": 399.99,
-                "remaining_products": 89,
+                "remaining_products": 63,
                 "color": "Pro Magnetic",
                 "img": [
                     {
@@ -2700,9 +2726,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Original Peloton Bike",
                 "weight": 63.50288,
                 "price": 2495,
-                "remaining_products": 26,
+                "remaining_products": 32,
                 "color": "Black",
                 "img": [
                     {
@@ -2728,9 +2755,10 @@
                 ]
             },
             {
+                "name": "Peloton Bike+",
                 "weight": 63.50288,
                 "price": 2495,
-                "remaining_products": 94,
+                "remaining_products": 45,
                 "color": "Black",
                 "img": [
                     {
@@ -2867,9 +2895,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 33 Pounds 75.99",
                 "weight": "33 Pounds",
                 "price": 75.99,
-                "remaining_products": 3,
+                "remaining_products": 86,
                 "color": "Champagne Gold",
                 "img": [
                     {
@@ -3006,9 +3035,10 @@
         ],
         "equipment_options": [
             {
+                "name": "816-Main",
                 "weight": 14.968536,
                 "price": 129.99,
-                "remaining_products": 88,
+                "remaining_products": 4,
                 "color": "816-Main",
                 "img": [
                     {
@@ -3046,9 +3076,10 @@
                 ]
             },
             {
+                "name": "816-All Black",
                 "weight": 14.968536,
                 "price": 139.99,
-                "remaining_products": 4,
+                "remaining_products": 51,
                 "color": "Black",
                 "img": [
                     {
@@ -3225,9 +3256,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Heavy-Duty",
                 "weight": 41.8211824,
                 "price": 158.1,
-                "remaining_products": 74,
+                "remaining_products": 60,
                 "color": "Gray",
                 "img": [
                     {
@@ -3277,9 +3309,10 @@
                 ]
             },
             {
+                "name": "40LB Flywheel",
                 "weight": 18.14368,
                 "price": 158.1,
-                "remaining_products": 63,
+                "remaining_products": 11,
                 "color": "Gray",
                 "img": [
                     {
@@ -3444,9 +3477,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 13.2 Pounds 89.95",
                 "weight": "13.2 Pounds",
                 "price": 89.95,
-                "remaining_products": 98,
+                "remaining_products": 15,
                 "color": "Standard Model with Monitor",
                 "img": [
                     {
@@ -3588,9 +3622,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Pro Friction Resistance-Black",
                 "weight": 27.215519999999998,
                 "price": 239.99,
-                "remaining_products": 41,
+                "remaining_products": 39,
                 "color": "Black, Tan",
                 "img": [
                     {
@@ -3628,9 +3663,10 @@
                 ]
             },
             {
+                "name": "Magnetic Resistance-Blue",
                 "weight": 27.215519999999998,
                 "price": 239.99,
-                "remaining_products": 16,
+                "remaining_products": 33,
                 "color": "Blue, Tan",
                 "img": [
                     {
@@ -3668,9 +3704,10 @@
                 ]
             },
             {
+                "name": "Silver-Upgraded Monitor",
                 "weight": 27.215519999999998,
                 "price": 239.99,
-                "remaining_products": 27,
+                "remaining_products": 69,
                 "color": "Silver",
                 "img": [
                     {
@@ -3814,9 +3851,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 30 Pounds 221.44",
                 "weight": "30 Pounds",
                 "price": 221.44,
-                "remaining_products": 3,
+                "remaining_products": 34,
                 "color": "Black",
                 "img": [
                     {
@@ -3984,9 +4022,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 53 Pounds 239.99",
                 "weight": "53 Pounds",
                 "price": 239.99,
-                "remaining_products": 41,
+                "remaining_products": 8,
                 "color": "Gray, White",
                 "img": [
                     {
@@ -4125,9 +4164,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black",
                 "weight": 26.5,
                 "price": 239.99,
-                "remaining_products": 17,
+                "remaining_products": 1,
                 "color": "Black",
                 "img": [
                     {
@@ -4173,9 +4213,10 @@
                 ]
             },
             {
+                "name": "Silver",
                 "weight": 26.5,
                 "price": 239.99,
-                "remaining_products": 82,
+                "remaining_products": 4,
                 "color": "Silver",
                 "img": [
                     {
@@ -4320,9 +4361,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 53.4 Pounds 99.99",
                 "weight": "53.4 Pounds",
                 "price": 99.99,
-                "remaining_products": 22,
+                "remaining_products": 84,
                 "color": "Mini Black",
                 "img": [
                     {
@@ -4462,9 +4504,10 @@
         ],
         "equipment_options": [
             {
+                "name": "black red",
                 "weight": 20.3,
                 "price": 129.99,
-                "remaining_products": 1,
+                "remaining_products": 65,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -4510,9 +4553,10 @@
                 ]
             },
             {
+                "name": "gray blue",
                 "weight": 20.3,
                 "price": 129.99,
-                "remaining_products": 80,
+                "remaining_products": 5,
                 "color": "Blue, Gray",
                 "img": [
                     {
@@ -4680,9 +4724,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Original Peloton Bike",
                 "weight": 61.23492,
                 "price": 1145,
-                "remaining_products": 66,
+                "remaining_products": 27,
                 "color": "Black",
                 "img": [
                     {
@@ -4708,9 +4753,10 @@
                 ]
             },
             {
+                "name": "Peloton Bike+",
                 "weight": 61.23492,
                 "price": 2495,
-                "remaining_products": 98,
+                "remaining_products": 83,
                 "color": "Black",
                 "img": [
                     {
@@ -4839,9 +4885,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 33 Pounds 75.99",
                 "weight": "33 Pounds",
                 "price": 75.99,
-                "remaining_products": 61,
+                "remaining_products": 32,
                 "color": "Orange",
                 "img": [
                     {
@@ -4985,9 +5032,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black-red",
                 "weight": 22.6796,
                 "price": 169.99,
-                "remaining_products": 20,
+                "remaining_products": 51,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -4997,9 +5045,10 @@
                 ]
             },
             {
+                "name": "Gray-plus",
                 "weight": 22.6796,
                 "price": 169.99,
-                "remaining_products": 4,
+                "remaining_products": 53,
                 "color": "Gray",
                 "img": [
                     {
@@ -5009,9 +5058,10 @@
                 ]
             },
             {
+                "name": "Red-plus",
                 "weight": 22.6796,
                 "price": 169.99,
-                "remaining_products": 25,
+                "remaining_products": 99,
                 "color": "Red",
                 "img": [
                     {
@@ -5139,9 +5189,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Gray Chain Drive",
                 "weight": 45.0870448,
                 "price": 220.99,
-                "remaining_products": 80,
+                "remaining_products": 35,
                 "color": "Gray",
                 "img": [
                     {
@@ -5187,9 +5238,10 @@
                 ]
             },
             {
+                "name": "Gray Smart Belt Drive",
                 "weight": 45.0870448,
                 "price": 369.99,
-                "remaining_products": 62,
+                "remaining_products": 61,
                 "color": "Gray",
                 "img": [
                     {
@@ -5227,6 +5279,7 @@
                 ]
             },
             {
+                "name": "Gray Belt Drive",
                 "weight": 45.0870448,
                 "price": 218.49,
                 "remaining_products": 51,
@@ -5390,9 +5443,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Electromagnetic",
                 "weight": 51.3012552,
                 "price": 699.99,
-                "remaining_products": 64,
+                "remaining_products": 20,
                 "color": "Black",
                 "img": [
                     {
@@ -5438,9 +5492,10 @@
                 ]
             },
             {
+                "name": "Magnetic",
                 "weight": 51.3012552,
                 "price": 699.99,
-                "remaining_products": 68,
+                "remaining_products": 46,
                 "color": "Black",
                 "img": [
                     {
@@ -5606,9 +5661,10 @@
         ],
         "equipment_options": [
             {
+                "name": "HR-B50A Magnetic Recumbent Bike",
                 "weight": 34.0194,
                 "price": 499.99,
-                "remaining_products": 29,
+                "remaining_products": 77,
                 "color": "HR-B8A Magnetic Recumbent Bike",
                 "img": [
                     {
@@ -5618,9 +5674,10 @@
                 ]
             },
             {
+                "name": "HR-B8RE with Bluetooth",
                 "weight": 34.0194,
                 "price": 499.99,
-                "remaining_products": 55,
+                "remaining_products": 77,
                 "color": "Blue",
                 "img": [
                     {
@@ -5630,9 +5687,10 @@
                 ]
             },
             {
+                "name": "HR-B8A Magnetic Recumbent Bike",
                 "weight": 34.0194,
                 "price": 499.99,
-                "remaining_products": 75,
+                "remaining_products": 65,
                 "color": "HR-B8A Magnetic Recumbent Bike",
                 "img": [
                     {
@@ -5744,9 +5802,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 68.7 Pounds None",
                 "weight": "68.7 Pounds",
                 "price": null,
-                "remaining_products": 33,
+                "remaining_products": 56,
                 "color": "Silver",
                 "img": [
                     {
@@ -5887,9 +5946,10 @@
         ],
         "equipment_options": [
             {
+                "name": "grey",
                 "weight": 6.8,
                 "price": 179.99,
-                "remaining_products": 2,
+                "remaining_products": 68,
                 "color": "grey",
                 "img": [
                     {
@@ -5931,9 +5991,10 @@
                 ]
             },
             {
+                "name": "White",
                 "weight": 6.8,
                 "price": 179.99,
-                "remaining_products": 46,
+                "remaining_products": 66,
                 "color": "White",
                 "img": [
                     {
@@ -6081,9 +6142,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 6750 Grams 106.99",
                 "weight": "6750 Grams",
                 "price": 106.99,
-                "remaining_products": 42,
+                "remaining_products": 54,
                 "color": "as the pictures shown",
                 "img": [
                     {
@@ -6254,9 +6316,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 115 Pounds 1799",
                 "weight": "115 Pounds",
                 "price": 1799,
-                "remaining_products": 84,
+                "remaining_products": 35,
                 "color": "Black, Gray, Silver",
                 "img": [
                     {
@@ -6394,9 +6457,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Arctic White",
                 "weight": 45.3592,
                 "price": 789.99,
-                "remaining_products": 51,
+                "remaining_products": 55,
                 "color": "White",
                 "img": [
                     {
@@ -6442,9 +6506,10 @@
                 ]
             },
             {
+                "name": "Mist Grey",
                 "weight": 45.3592,
                 "price": 789.99,
-                "remaining_products": 15,
+                "remaining_products": 86,
                 "color": "Mist Grey",
                 "img": [
                     {
@@ -6595,9 +6660,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black",
                 "weight": 25.854744,
                 "price": 259.99,
-                "remaining_products": 45,
+                "remaining_products": 80,
                 "color": "Black",
                 "img": [
                     {
@@ -6639,9 +6705,10 @@
                 ]
             },
             {
+                "name": "Gray",
                 "weight": 25.854744,
                 "price": 259.99,
-                "remaining_products": 33,
+                "remaining_products": 26,
                 "color": "Gray",
                 "img": [
                     {
@@ -6788,9 +6855,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 89 Pounds 499.99",
                 "weight": "89 Pounds",
                 "price": 499.99,
-                "remaining_products": 30,
+                "remaining_products": 22,
                 "color": "Brown+Orange",
                 "img": [
                     {
@@ -6935,9 +7003,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Magnetic Plus",
                 "weight": 27.215519999999998,
                 "price": 219.99,
-                "remaining_products": 83,
+                "remaining_products": 16,
                 "color": "Classical Model",
                 "img": [
                     {
@@ -6975,9 +7044,10 @@
                 ]
             },
             {
+                "name": "Classical Model",
                 "weight": 27.215519999999998,
                 "price": 219.99,
-                "remaining_products": 84,
+                "remaining_products": 21,
                 "color": "Classical Model",
                 "img": [
                     {
@@ -7111,9 +7181,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 55 Pounds 199.99",
                 "weight": "55 Pounds",
                 "price": 199.99,
-                "remaining_products": 0,
+                "remaining_products": 73,
                 "color": "Black and Orange",
                 "img": [
                     {
@@ -7265,9 +7336,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 40 Pounds 131.99",
                 "weight": "40 Pounds",
                 "price": 131.99,
-                "remaining_products": 30,
+                "remaining_products": 59,
                 "color": "Black",
                 "img": [
                     {
@@ -7395,9 +7467,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 40 Pounds 125.99",
                 "weight": "40 Pounds",
                 "price": 125.99,
-                "remaining_products": 47,
+                "remaining_products": 13,
                 "color": "Grey",
                 "img": [
                     {
@@ -7530,9 +7603,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 30.9 Pounds 99.99",
                 "weight": "30.9 Pounds",
                 "price": 99.99,
-                "remaining_products": 49,
+                "remaining_products": 6,
                 "color": "Black",
                 "img": [
                     {
@@ -7677,9 +7751,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Advanced",
                 "weight": 28.9391696,
                 "price": 399.99,
-                "remaining_products": 88,
+                "remaining_products": 36,
                 "color": "Black",
                 "img": [
                     {
@@ -7721,9 +7796,10 @@
                 ]
             },
             {
+                "name": "Heavy-Duty",
                 "weight": 28.9391696,
                 "price": 399.99,
-                "remaining_products": 39,
+                "remaining_products": 24,
                 "color": "Black",
                 "img": [
                     {
@@ -7757,9 +7833,10 @@
                 ]
             },
             {
+                "name": "Essential",
                 "weight": 28.9391696,
                 "price": 399.99,
-                "remaining_products": 96,
+                "remaining_products": 6,
                 "color": "Black",
                 "img": [
                     {
@@ -7904,9 +7981,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Advanced",
                 "weight": 26.761928,
                 "price": 399.99,
-                "remaining_products": 74,
+                "remaining_products": 100,
                 "color": "Dark Grey",
                 "img": [
                     {
@@ -7948,9 +8026,10 @@
                 ]
             },
             {
+                "name": "Heavy-Duty",
                 "weight": 26.761928,
                 "price": 469.99,
-                "remaining_products": 46,
+                "remaining_products": 24,
                 "color": "Dark Grey",
                 "img": [
                     {
@@ -7984,9 +8063,10 @@
                 ]
             },
             {
+                "name": "Essential",
                 "weight": 26.761928,
                 "price": 279.99,
-                "remaining_products": 23,
+                "remaining_products": 4,
                 "color": "Dark Grey",
                 "img": [
                     {
@@ -8154,9 +8234,10 @@
         ],
         "equipment_options": [
             {
+                "name": "FB350",
                 "weight": 19.186941599999997,
                 "price": 149.99,
-                "remaining_products": 11,
+                "remaining_products": 2,
                 "color": "Silver, Blue",
                 "img": [
                     {
@@ -8210,9 +8291,10 @@
                 ]
             },
             {
+                "name": "FB150",
                 "weight": 19.186941599999997,
                 "price": 149.99,
-                "remaining_products": 41,
+                "remaining_products": 4,
                 "color": "Silver, Blue",
                 "img": [
                     {
@@ -8388,9 +8470,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 35.83 Kilograms 348.49",
                 "weight": "35.83 Kilograms",
                 "price": 348.49,
-                "remaining_products": 17,
+                "remaining_products": 71,
                 "color": "Black",
                 "img": [
                     {
@@ -8531,9 +8614,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 33 Pounds 71.99",
                 "weight": "33 Pounds",
                 "price": 71.99,
-                "remaining_products": 53,
+                "remaining_products": 38,
                 "color": "Green",
                 "img": [
                     {
@@ -8674,9 +8758,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 33 Pounds 75.99",
                 "weight": "33 Pounds",
                 "price": 75.99,
-                "remaining_products": 78,
+                "remaining_products": 91,
                 "color": "Navy Blue",
                 "img": [
                     {
@@ -8818,9 +8903,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 28 Kilograms 219.99",
                 "weight": "28 Kilograms",
                 "price": 219.99,
-                "remaining_products": 28,
+                "remaining_products": 48,
                 "color": "Black",
                 "img": [
                     {
@@ -8949,9 +9035,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 61.3 Pounds 299.99",
                 "weight": "61.3 Pounds",
                 "price": 299.99,
-                "remaining_products": 100,
+                "remaining_products": 34,
                 "color": "Black-orange - Friction Pro",
                 "img": [
                     {
@@ -9103,9 +9190,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 39.7 Pounds 159.99",
                 "weight": "39.7 Pounds",
                 "price": 159.99,
-                "remaining_products": 4,
+                "remaining_products": 85,
                 "color": "Silver",
                 "img": [
                     {
@@ -9243,9 +9331,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Magnetic Model",
                 "weight": 27.215519999999998,
                 "price": 319.99,
-                "remaining_products": 99,
+                "remaining_products": 11,
                 "color": "Magnetic Model",
                 "img": [
                     {
@@ -9279,9 +9368,10 @@
                 ]
             },
             {
+                "name": "Magnetic Plus",
                 "weight": 27.215519999999998,
                 "price": 399.99,
-                "remaining_products": 99,
+                "remaining_products": 29,
                 "color": "Magnetic Model",
                 "img": [
                     {
@@ -9426,9 +9516,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Upgraded Magnetic -Orange",
                 "weight": 26.988724,
                 "price": 269.99,
-                "remaining_products": 67,
+                "remaining_products": 8,
                 "color": "Orange",
                 "img": [
                     {
@@ -9438,9 +9529,10 @@
                 ]
             },
             {
+                "name": "Friction Plus + Compatible Applications -Red",
                 "weight": 26.988724,
                 "price": 269.99,
-                "remaining_products": 2,
+                "remaining_products": 97,
                 "color": "Red",
                 "img": [
                     {
@@ -9563,9 +9655,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 41 Pounds 179.99",
                 "weight": "41 Pounds",
                 "price": 179.99,
-                "remaining_products": 63,
+                "remaining_products": 6,
                 "color": "Black",
                 "img": [
                     {
@@ -9701,9 +9794,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 39.7 Pounds 139.95",
                 "weight": "39.7 Pounds",
                 "price": 139.95,
-                "remaining_products": 1,
+                "remaining_products": 76,
                 "color": "black",
                 "img": [
                     {
@@ -9841,9 +9935,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black / Orange",
                 "weight": 27.0,
                 "price": 269.99,
-                "remaining_products": 54,
+                "remaining_products": 92,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -9889,9 +9984,10 @@
                 ]
             },
             {
+                "name": "Black / Yellow",
                 "weight": 27.0,
                 "price": 269.99,
-                "remaining_products": 82,
+                "remaining_products": 13,
                 "color": "Yellow, Black",
                 "img": [
                     {
@@ -10041,9 +10137,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 37.65 Kilograms 499.99",
                 "weight": "37.65 Kilograms",
                 "price": 499.99,
-                "remaining_products": 42,
+                "remaining_products": 26,
                 "color": "Pro Max Magnetic",
                 "img": [
                     {
@@ -10185,9 +10282,10 @@
         ],
         "equipment_options": [
             {
+                "name": "X2 Exercise bike",
                 "weight": 41.5,
                 "price": 429.99,
-                "remaining_products": 47,
+                "remaining_products": 87,
                 "color": "X2PRO (Support Bluetooth)",
                 "img": [
                     {
@@ -10237,9 +10335,10 @@
                 ]
             },
             {
+                "name": "X4S (Dual Solid Flywheels)",
                 "weight": 41.5,
                 "price": 569.99,
-                "remaining_products": 15,
+                "remaining_products": 77,
                 "color": "X2PRO (Support Bluetooth)",
                 "img": [
                     {
@@ -10281,9 +10380,10 @@
                 ]
             },
             {
+                "name": "X2PRO (Support Bluetooth)",
                 "weight": 41.5,
                 "price": 499.99,
-                "remaining_products": 87,
+                "remaining_products": 26,
                 "color": "Blue",
                 "img": [
                     {
@@ -10440,9 +10540,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 27.7 Pounds 109.99",
                 "weight": "27.7 Pounds",
                 "price": 109.99,
-                "remaining_products": 22,
+                "remaining_products": 45,
                 "color": "816-White",
                 "img": [
                     {
@@ -10583,9 +10684,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 64 Pounds 299.99",
                 "weight": "64 Pounds",
                 "price": 299.99,
-                "remaining_products": 91,
+                "remaining_products": 10,
                 "color": "Black",
                 "img": [
                     {
@@ -10726,9 +10828,10 @@
         ],
         "equipment_options": [
             {
+                "name": "BLack 817",
                 "weight": 17.690088,
                 "price": 154.99,
-                "remaining_products": 54,
+                "remaining_products": 49,
                 "color": "Black",
                 "img": [
                     {
@@ -10762,9 +10865,10 @@
                 ]
             },
             {
+                "name": "819 White",
                 "weight": 17.690088,
                 "price": 237.99,
-                "remaining_products": 76,
+                "remaining_products": 68,
                 "color": "White",
                 "img": [
                     {
@@ -10905,9 +11009,10 @@
         ],
         "equipment_options": [
             {
+                "name": "817-All Gray",
                 "weight": 17.236496,
                 "price": 129.99,
-                "remaining_products": 30,
+                "remaining_products": 29,
                 "color": "Gray",
                 "img": [
                     {
@@ -10941,9 +11046,10 @@
                 ]
             },
             {
+                "name": "817-Main",
                 "weight": 17.236496,
                 "price": 129.99,
-                "remaining_products": 33,
+                "remaining_products": 49,
                 "color": "817-Main",
                 "img": [
                     {
@@ -10977,9 +11083,10 @@
                 ]
             },
             {
+                "name": "816-Gray",
                 "weight": 17.236496,
                 "price": 129.99,
-                "remaining_products": 77,
+                "remaining_products": 55,
                 "color": "Gray",
                 "img": [
                     {
@@ -11017,9 +11124,10 @@
                 ]
             },
             {
+                "name": "819-White",
                 "weight": 17.236496,
                 "price": 129.99,
-                "remaining_products": 8,
+                "remaining_products": 14,
                 "color": "White",
                 "img": [
                     {
@@ -11057,9 +11165,10 @@
                 ]
             },
             {
+                "name": "817-White",
                 "weight": 17.236496,
                 "price": 129.99,
-                "remaining_products": 66,
+                "remaining_products": 40,
                 "color": "White",
                 "img": [
                     {
@@ -11093,9 +11202,10 @@
                 ]
             },
             {
+                "name": "817-All Black",
                 "weight": 17.236496,
                 "price": 129.99,
-                "remaining_products": 24,
+                "remaining_products": 27,
                 "color": "Black",
                 "img": [
                     {
@@ -11129,9 +11239,10 @@
                 ]
             },
             {
+                "name": "818-Grey",
                 "weight": 17.236496,
                 "price": 129.99,
-                "remaining_products": 54,
+                "remaining_products": 46,
                 "color": "817-Main",
                 "img": [
                     {
@@ -11288,9 +11399,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 77 Pounds 228.6",
                 "weight": "77 Pounds",
                 "price": 228.6,
-                "remaining_products": 54,
+                "remaining_products": 24,
                 "color": "Black-Red",
                 "img": [
                     {
@@ -11417,9 +11529,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 35 Pounds 145.99",
                 "weight": "35 Pounds",
                 "price": 145.99,
-                "remaining_products": 75,
+                "remaining_products": 95,
                 "color": "grey",
                 "img": [
                     {
@@ -11539,9 +11652,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black - Classical Model",
                 "weight": 29.48348,
                 "price": 259.99,
-                "remaining_products": 98,
+                "remaining_products": 95,
                 "color": "Black",
                 "img": [
                     {
@@ -11583,9 +11697,10 @@
                 ]
             },
             {
+                "name": "Orange - Upgraded Plus Magnetic Bluetooth",
                 "weight": 29.48348,
                 "price": 399.99,
-                "remaining_products": 59,
+                "remaining_products": 68,
                 "color": "Blue, Orange",
                 "img": [
                     {
@@ -11623,9 +11738,10 @@
                 ]
             },
             {
+                "name": "Red - Magnetic New Model",
                 "weight": 29.48348,
                 "price": 299.99,
-                "remaining_products": 47,
+                "remaining_products": 67,
                 "color": "Red",
                 "img": [
                     {
@@ -11762,9 +11878,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 55 Pounds 139.99",
                 "weight": "55 Pounds",
                 "price": 139.99,
-                "remaining_products": 86,
+                "remaining_products": 83,
                 "color": "Black",
                 "img": [
                     {
@@ -11897,9 +12014,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 40 Pounds 119.99",
                 "weight": "40 Pounds",
                 "price": 119.99,
-                "remaining_products": 53,
+                "remaining_products": 93,
                 "color": "G-Black&Red",
                 "img": [
                     {
@@ -12056,9 +12174,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 61 Pounds 359.99",
                 "weight": "61 Pounds",
                 "price": 359.99,
-                "remaining_products": 69,
+                "remaining_products": 78,
                 "color": "Black-Blue Friction",
                 "img": [
                     {
@@ -12190,9 +12309,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 42.2 Pounds 129.99",
                 "weight": "42.2 Pounds",
                 "price": 129.99,
-                "remaining_products": 76,
+                "remaining_products": 32,
                 "color": "Black",
                 "img": [
                     {
@@ -12352,9 +12472,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 110 Pounds 699",
                 "weight": "110 Pounds",
                 "price": 699,
-                "remaining_products": 39,
+                "remaining_products": 75,
                 "color": "Black",
                 "img": [
                     {
@@ -12476,9 +12597,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Orange-Classic",
                 "weight": 29.937072,
                 "price": 299.99,
-                "remaining_products": 7,
+                "remaining_products": 0,
                 "color": "Orange",
                 "img": [
                     {
@@ -12520,9 +12642,10 @@
                 ]
             },
             {
+                "name": "Yellow",
                 "weight": 29.937072,
                 "price": 279,
-                "remaining_products": 9,
+                "remaining_products": 57,
                 "color": "Yellow",
                 "img": [
                     {
@@ -12536,9 +12659,10 @@
                 ]
             },
             {
+                "name": "Organe-Update",
                 "weight": 29.937072,
                 "price": 299.99,
-                "remaining_products": 67,
+                "remaining_products": 25,
                 "color": "Orange-Classic",
                 "img": [
                     {
@@ -12580,9 +12704,10 @@
                 ]
             },
             {
+                "name": "Silver-Classic",
                 "weight": 29.937072,
                 "price": 269.98,
-                "remaining_products": 38,
+                "remaining_products": 7,
                 "color": "Silver",
                 "img": [
                     {
@@ -12746,9 +12871,10 @@
         ],
         "equipment_options": [
             {
+                "name": "White Lite",
                 "weight": 34.0194,
                 "price": 379.99,
-                "remaining_products": 45,
+                "remaining_products": 68,
                 "color": "White",
                 "img": [
                     {
@@ -12790,6 +12916,7 @@
                 ]
             },
             {
+                "name": "White Plus",
                 "weight": 34.0194,
                 "price": 379.99,
                 "remaining_products": 83,
@@ -12838,9 +12965,10 @@
                 ]
             },
             {
+                "name": "Black Lite",
                 "weight": 34.0194,
                 "price": 379.99,
-                "remaining_products": 89,
+                "remaining_products": 1,
                 "color": "Black",
                 "img": [
                     {
@@ -12886,9 +13014,10 @@
                 ]
             },
             {
+                "name": "Black Plus",
                 "weight": 34.0194,
                 "price": 379.99,
-                "remaining_products": 91,
+                "remaining_products": 42,
                 "color": "Black",
                 "img": [
                     {
@@ -12934,9 +13063,10 @@
                 ]
             },
             {
+                "name": "Black Pro Max",
                 "weight": 34.0194,
                 "price": 379.99,
-                "remaining_products": 38,
+                "remaining_products": 62,
                 "color": "Black",
                 "img": [
                     {
@@ -12982,9 +13112,10 @@
                 ]
             },
             {
+                "name": "White Pro Max",
                 "weight": 34.0194,
                 "price": 379.99,
-                "remaining_products": 36,
+                "remaining_products": 30,
                 "color": "White",
                 "img": [
                     {
@@ -13155,9 +13286,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Classic",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 79,
+                "remaining_products": 31,
                 "color": "Gray-Magnetic",
                 "img": [
                     {
@@ -13203,9 +13335,10 @@
                 ]
             },
             {
+                "name": "Smart & Motorized",
                 "weight": 11.3398,
                 "price": 269.99,
-                "remaining_products": 39,
+                "remaining_products": 17,
                 "color": "Gray-Magnetic",
                 "img": [
                     {
@@ -13239,9 +13372,10 @@
                 ]
             },
             {
+                "name": "Smart Pink",
                 "weight": 11.3398,
                 "price": 179.99,
-                "remaining_products": 93,
+                "remaining_products": 64,
                 "color": "Pink",
                 "img": [
                     {
@@ -13275,9 +13409,10 @@
                 ]
             },
             {
+                "name": "Smart",
                 "weight": 11.3398,
                 "price": 169.99,
-                "remaining_products": 96,
+                "remaining_products": 57,
                 "color": "Gray-Magnetic",
                 "img": [
                     {
@@ -13315,9 +13450,10 @@
                 ]
             },
             {
+                "name": "Classic Pink",
                 "weight": 11.3398,
                 "price": 144.48,
-                "remaining_products": 14,
+                "remaining_products": 47,
                 "color": "Pink",
                 "img": [
                     {
@@ -13478,9 +13614,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Gray Chain Drive",
                 "weight": 45.5406368,
                 "price": 220.99,
-                "remaining_products": 89,
+                "remaining_products": 74,
                 "color": "Gray",
                 "img": [
                     {
@@ -13526,9 +13663,10 @@
                 ]
             },
             {
+                "name": "Gray Smart Belt Drive",
                 "weight": 45.5406368,
                 "price": 369.99,
-                "remaining_products": 42,
+                "remaining_products": 3,
                 "color": "Gray",
                 "img": [
                     {
@@ -13566,9 +13704,10 @@
                 ]
             },
             {
+                "name": "Gray Belt Drive",
                 "weight": 45.5406368,
                 "price": 218.49,
-                "remaining_products": 39,
+                "remaining_products": 36,
                 "color": "Gray",
                 "img": [
                     {
@@ -13725,9 +13864,10 @@
         ],
         "equipment_options": [
             {
+                "name": "CBE30",
                 "weight": 24.94756,
                 "price": 199.99,
-                "remaining_products": 50,
+                "remaining_products": 42,
                 "color": "CBE30",
                 "img": [
                     {
@@ -13761,9 +13901,10 @@
                 ]
             },
             {
+                "name": "CBR60",
                 "weight": 24.94756,
                 "price": 199.99,
-                "remaining_products": 88,
+                "remaining_products": 48,
                 "color": "CBE30",
                 "img": [
                     {
@@ -13944,9 +14085,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Schwinn AD 7 Airdyne Fan Bike",
                 "weight": 52.16308,
                 "price": 1099,
-                "remaining_products": 52,
+                "remaining_products": 31,
                 "color": "Black",
                 "img": [
                     {
@@ -13996,9 +14138,10 @@
                 ]
             },
             {
+                "name": "Schwinn AD 6 Airdyne Fan Bike",
                 "weight": 52.16308,
                 "price": 799,
-                "remaining_products": 17,
+                "remaining_products": 25,
                 "color": "Black",
                 "img": [
                     {
@@ -14141,9 +14284,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 75 Pounds 399.99",
                 "weight": "75 Pounds",
                 "price": 399.99,
-                "remaining_products": 89,
+                "remaining_products": 36,
                 "color": "HR-B8A without arm exerciser",
                 "img": [
                     {
@@ -14292,9 +14436,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 44 Kilograms 499.99",
                 "weight": "44 Kilograms",
                 "price": 499.99,
-                "remaining_products": 18,
+                "remaining_products": 65,
                 "color": "Black",
                 "img": [
                     {
@@ -14473,9 +14618,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Copper - Recumbent",
                 "weight": 24.040376,
                 "price": 161.15,
-                "remaining_products": 50,
+                "remaining_products": 6,
                 "color": "Copper",
                 "img": [
                     {
@@ -14485,9 +14631,10 @@
                 ]
             },
             {
+                "name": "Grey - Upright",
                 "weight": 24.040376,
                 "price": 139.1,
-                "remaining_products": 41,
+                "remaining_products": 15,
                 "color": "Copper - Recumbent",
                 "img": [
                     {
@@ -14596,9 +14743,10 @@
         ],
         "equipment_options": [
             {
+                "name": "HR-B50A Magnetic Recumbent Bike",
                 "weight": 34.0194,
                 "price": 699.99,
-                "remaining_products": 11,
+                "remaining_products": 76,
                 "color": "HR-B8RE with Bluetooth",
                 "img": [
                     {
@@ -14608,9 +14756,10 @@
                 ]
             },
             {
+                "name": "HR-B8RE with Bluetooth",
                 "weight": 34.0194,
                 "price": 699.99,
-                "remaining_products": 75,
+                "remaining_products": 53,
                 "color": "Blue",
                 "img": [
                     {
@@ -14620,9 +14769,10 @@
                 ]
             },
             {
+                "name": "HR-B8A Magnetic Recumbent Bike",
                 "weight": 34.0194,
                 "price": 699.99,
-                "remaining_products": 31,
+                "remaining_products": 74,
                 "color": "HR-B8RE with Bluetooth",
                 "img": [
                     {
@@ -14741,9 +14891,10 @@
         ],
         "equipment_options": [
             {
+                "name": "PRO MAX Magnetic + Bluetooth",
                 "weight": 29.0,
                 "price": 339.99,
-                "remaining_products": 11,
+                "remaining_products": 33,
                 "color": "Blue",
                 "img": [
                     {
@@ -14785,9 +14936,10 @@
                 ]
             },
             {
+                "name": "Black - Classic Friction Pro",
                 "weight": 29.0,
                 "price": 189.99,
-                "remaining_products": 3,
+                "remaining_products": 23,
                 "color": "Black",
                 "img": [
                     {
@@ -14935,9 +15087,10 @@
         ],
         "equipment_options": [
             {
+                "name": "GREEN",
                 "weight": 2.77,
                 "price": 31.99,
-                "remaining_products": 33,
+                "remaining_products": 47,
                 "color": "Green",
                 "img": [
                     {
@@ -14983,9 +15136,10 @@
                 ]
             },
             {
+                "name": "BLUE",
                 "weight": 2.77,
                 "price": 31.99,
-                "remaining_products": 76,
+                "remaining_products": 73,
                 "color": "Blue",
                 "img": [
                     {
@@ -15125,9 +15279,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 108 Pounds 549.99",
                 "weight": "108 Pounds",
                 "price": 549.99,
-                "remaining_products": 69,
+                "remaining_products": 43,
                 "color": "Black",
                 "img": [
                     {
@@ -15348,9 +15503,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.01 Ounces 300",
                 "weight": "0.01 Ounces",
                 "price": 300,
-                "remaining_products": 88,
+                "remaining_products": 48,
                 "color": "Black",
                 "img": [
                     {
@@ -15484,9 +15640,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Pink",
                 "weight": 24.94756,
                 "price": 85.99,
-                "remaining_products": 15,
+                "remaining_products": 77,
                 "color": "Pink",
                 "img": [
                     {
@@ -15524,9 +15681,10 @@
                 ]
             },
             {
+                "name": "Blue",
                 "weight": 24.94756,
                 "price": 109.99,
-                "remaining_products": 54,
+                "remaining_products": 92,
                 "color": "Blue",
                 "img": [
                     {
@@ -15564,9 +15722,10 @@
                 ]
             },
             {
+                "name": "Skyblue",
                 "weight": 24.94756,
                 "price": 99.99,
-                "remaining_products": 9,
+                "remaining_products": 11,
                 "color": "Blue",
                 "img": [
                     {
@@ -15604,9 +15763,10 @@
                 ]
             },
             {
+                "name": "Light Green",
                 "weight": 24.94756,
                 "price": 99.99,
-                "remaining_products": 19,
+                "remaining_products": 82,
                 "color": "Green, Light Green",
                 "img": [
                     {
@@ -15644,9 +15804,10 @@
                 ]
             },
             {
+                "name": "White",
                 "weight": 24.94756,
                 "price": 99.99,
-                "remaining_products": 11,
+                "remaining_products": 26,
                 "color": "White",
                 "img": [
                     {
@@ -15777,9 +15938,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Green",
                 "weight": 7.5,
                 "price": 129.99,
-                "remaining_products": 71,
+                "remaining_products": 65,
                 "color": "Green",
                 "img": [
                     {
@@ -15789,9 +15951,10 @@
                 ]
             },
             {
+                "name": "Orange",
                 "weight": 7.5,
                 "price": 129.99,
-                "remaining_products": 13,
+                "remaining_products": 20,
                 "color": "Orange",
                 "img": [
                     {
@@ -15915,9 +16078,10 @@
         ],
         "equipment_options": [
             {
+                "name": "YELLOW",
                 "weight": 17.5,
                 "price": 169.99,
-                "remaining_products": 74,
+                "remaining_products": 63,
                 "color": "Yellow",
                 "img": [
                     {
@@ -15951,9 +16115,10 @@
                 ]
             },
             {
+                "name": "BLUE",
                 "weight": 17.5,
                 "price": 169.99,
-                "remaining_products": 36,
+                "remaining_products": 57,
                 "color": "Blue",
                 "img": [
                     {
@@ -16121,9 +16286,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 45.3 Pounds 234.99",
                 "weight": "45.3 Pounds",
                 "price": 234.99,
-                "remaining_products": 51,
+                "remaining_products": 96,
                 "color": "Black/Grey",
                 "img": [
                     {
@@ -16283,9 +16449,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Grey",
                 "weight": 19.3683784,
                 "price": 163.39,
-                "remaining_products": 55,
+                "remaining_products": 12,
                 "color": "Black/Grey/Silver",
                 "img": [
                     {
@@ -16323,9 +16490,10 @@
                 ]
             },
             {
+                "name": "Black/Grey/Silver",
                 "weight": 19.3683784,
                 "price": 163.39,
-                "remaining_products": 82,
+                "remaining_products": 78,
                 "color": "Black, Silver",
                 "img": [
                     {
@@ -16469,9 +16637,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Grey",
                 "weight": 15.422128,
                 "price": 129.99,
-                "remaining_products": 59,
+                "remaining_products": 52,
                 "color": "Grey",
                 "img": [
                     {
@@ -16513,9 +16682,10 @@
                 ]
             },
             {
+                "name": "Black",
                 "weight": 15.422128,
                 "price": 139.99,
-                "remaining_products": 75,
+                "remaining_products": 77,
                 "color": "Black",
                 "img": [
                     {
@@ -16661,9 +16831,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 53 Pounds 249.99",
                 "weight": "53 Pounds",
                 "price": 249.99,
-                "remaining_products": 100,
+                "remaining_products": 99,
                 "color": "Friction-Black",
                 "img": [
                     {
@@ -16803,9 +16974,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 41.9 Pounds 400",
                 "weight": "41.9 Pounds",
                 "price": 400,
-                "remaining_products": 62,
+                "remaining_products": 69,
                 "color": "Black",
                 "img": [
                     {
@@ -16921,9 +17093,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 13 Pounds 79.99",
                 "weight": "13 Pounds",
                 "price": 79.99,
-                "remaining_products": 59,
+                "remaining_products": 1,
                 "color": "red",
                 "img": [
                     {
@@ -17059,9 +17232,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.76 ounces 171.99",
                 "weight": "1.76 ounces",
                 "price": 171.99,
-                "remaining_products": 32,
+                "remaining_products": 98,
                 "color": "black",
                 "img": [
                     {
@@ -17207,9 +17381,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Red&Black",
                 "weight": 24.040376,
                 "price": 209.99,
-                "remaining_products": 87,
+                "remaining_products": 44,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -17251,9 +17426,10 @@
                 ]
             },
             {
+                "name": "Silver",
                 "weight": 24.040376,
                 "price": 219.99,
-                "remaining_products": 28,
+                "remaining_products": 96,
                 "color": "Silver",
                 "img": [
                     {
@@ -17299,9 +17475,10 @@
                 ]
             },
             {
+                "name": "Red",
                 "weight": 24.040376,
                 "price": 259.99,
-                "remaining_products": 42,
+                "remaining_products": 55,
                 "color": "Red",
                 "img": [
                     {
@@ -17452,9 +17629,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 7.9 Pounds 74.99",
                 "weight": "7.9 Pounds",
                 "price": 74.99,
-                "remaining_products": 98,
+                "remaining_products": 92,
                 "color": "White",
                 "img": [
                     {
@@ -17615,9 +17793,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Extra Long 78\"",
                 "weight": 2.26796,
                 "price": 34.19,
-                "remaining_products": 7,
+                "remaining_products": 84,
                 "color": "Black",
                 "img": [
                     {
@@ -17655,9 +17834,10 @@
                 ]
             },
             {
+                "name": "Regular 60\"",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 91,
+                "remaining_products": 57,
                 "color": "Black",
                 "img": [
                     {
@@ -17829,9 +18009,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 42 Pounds 119.09",
                 "weight": "42 Pounds",
                 "price": 119.09,
-                "remaining_products": 37,
+                "remaining_products": 97,
                 "color": "Green",
                 "img": [
                     {
@@ -17980,9 +18161,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Gray Magnetic Smart",
                 "weight": 26.6258504,
                 "price": 299.99,
-                "remaining_products": 53,
+                "remaining_products": 75,
                 "color": "Gray",
                 "img": [
                     {
@@ -18024,9 +18206,10 @@
                 ]
             },
             {
+                "name": "Gray Classic",
                 "weight": 26.6258504,
                 "price": 299.99,
-                "remaining_products": 37,
+                "remaining_products": 40,
                 "color": "Gray",
                 "img": [
                     {
@@ -18170,9 +18353,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 41.9 Pounds 400",
                 "weight": "41.9 Pounds",
                 "price": 400,
-                "remaining_products": 24,
+                "remaining_products": 8,
                 "color": "black",
                 "img": [
                     {
@@ -18290,9 +18474,10 @@
         ],
         "equipment_options": [
             {
+                "name": "HR-X3L Upright Bike without Resistance Bands-White",
                 "weight": 18.14368,
                 "price": 199.99,
-                "remaining_products": 17,
+                "remaining_products": 92,
                 "color": "White, Tan",
                 "img": [
                     {
@@ -18326,9 +18511,10 @@
                 ]
             },
             {
+                "name": "HR-X3LBrown Upright Exercise Bike",
                 "weight": 1.360776,
                 "price": 269.99,
-                "remaining_products": 74,
+                "remaining_products": 9,
                 "color": "Brown",
                 "img": [
                     {

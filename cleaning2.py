@@ -197,6 +197,7 @@ def process_variant_data(json_file):
             img_list = [{"link": product["thumbnailImage"], "is_primary": True}] + [{"link": img_link, "is_primary": False} for img_link in product["galleryThumbnails"]]
             product["equipment_options"].append(
                 {
+                    "name": f"Item {item_weight} {base_price}",
                     "weight": item_weight,
                     "price": base_price,
                     "remaining_products": random.randint(0, 101),
@@ -231,6 +232,7 @@ def process_variant_data(json_file):
                 img_list = [{"link": variant["thumbnail"], "is_primary": True}] + [{"link": img_link, "is_primary": False} for img_link in variant["images"]]
 
                 equipment_option = {
+                    "name": variant_name,
                     "weight": final_weight,
                     "price": variant_price,
                     "remaining_products": random.randint(0, 101),
@@ -242,6 +244,8 @@ def process_variant_data(json_file):
 
         del product["variantDetails"], product["variantAttributes"], product["thumbnailImage"], product["galleryThumbnails"], product["productOverview"]
         
+        if product.get("aPlusContent", "eiei") != "eiei":
+            del product["aPlusContent"]
         new_data.append(product)
 
     return new_data

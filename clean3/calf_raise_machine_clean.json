@@ -84,9 +84,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 11.2 Pounds 62.9",
                 "weight": "11.2 Pounds",
                 "price": 62.9,
-                "remaining_products": 85,
+                "remaining_products": 43,
                 "color": "Red and Black",
                 "img": [
                     {
@@ -191,9 +192,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black-V1",
                 "weight": 40.369688,
                 "price": 299.99,
-                "remaining_products": 34,
+                "remaining_products": 25,
                 "color": "Black",
                 "img": [
                     {
@@ -235,9 +237,10 @@
                 ]
             },
             {
+                "name": "Red-V1",
                 "weight": 40.369688,
                 "price": 199.99,
-                "remaining_products": 3,
+                "remaining_products": 101,
                 "color": "Red",
                 "img": [
                     {
@@ -360,9 +363,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Slant Board Exercise Kit",
                 "weight": 3.85,
                 "price": 42.99,
-                "remaining_products": 90,
+                "remaining_products": 2,
                 "color": "Slant Board",
                 "img": [
                     {
@@ -372,9 +376,10 @@
                 ]
             },
             {
+                "name": "Slant Board",
                 "weight": 3.85,
                 "price": 39.99,
-                "remaining_products": 53,
+                "remaining_products": 59,
                 "color": "Slant Board",
                 "img": [
                     {
@@ -458,9 +463,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 5.2 Pounds 26.95",
                 "weight": "5.2 Pounds",
                 "price": 26.95,
-                "remaining_products": 39,
+                "remaining_products": 69,
                 "color": "Black, Fits 2\" Olympic Plates",
                 "img": [
                     {
@@ -580,9 +586,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.6 Pounds 20.89",
                 "weight": "1.6 Pounds",
                 "price": 20.89,
-                "remaining_products": 14,
+                "remaining_products": 67,
                 "color": "Brown",
                 "img": [
                     {
@@ -690,9 +697,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 4.4 Pounds 27.99",
                 "weight": "4.4 Pounds",
                 "price": 27.99,
-                "remaining_products": 12,
+                "remaining_products": 92,
                 "color": "Black",
                 "img": [
                     {
@@ -792,9 +800,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 3.9 Pounds 23.99",
                 "weight": "3.9 Pounds",
                 "price": 23.99,
-                "remaining_products": 67,
+                "remaining_products": 18,
                 "color": "Black",
                 "img": [
                     {
@@ -912,9 +921,10 @@
         ],
         "equipment_options": [
             {
+                "name": "V2 ONLY",
                 "weight": 54.884631999999996,
                 "price": 379.99,
-                "remaining_products": 11,
+                "remaining_products": 66,
                 "color": "Black",
                 "img": [
                     {
@@ -956,9 +966,10 @@
                 ]
             },
             {
+                "name": "with BP 100LB",
                 "weight": 45.3592,
                 "price": 699.99,
-                "remaining_products": 61,
+                "remaining_products": 41,
                 "color": "Black",
                 "img": [
                     {
@@ -1066,9 +1077,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 4.91 pounds 29.99",
                 "weight": "4.91 pounds",
                 "price": 29.99,
-                "remaining_products": 65,
+                "remaining_products": 92,
                 "color": "Black",
                 "img": [
                     {
@@ -1172,9 +1184,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2.27 Kilograms 25.99",
                 "weight": "2.27 Kilograms",
                 "price": 25.99,
-                "remaining_products": 62,
+                "remaining_products": 87,
                 "color": "Black",
                 "img": [
                     {
@@ -1282,9 +1295,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Large",
                 "weight": 3.45,
                 "price": 59.99,
-                "remaining_products": 23,
+                "remaining_products": 9,
                 "color": "Black",
                 "img": [
                     {
@@ -1294,9 +1308,10 @@
                 ]
             },
             {
+                "name": "Small",
                 "weight": 3.45,
                 "price": 49.99,
-                "remaining_products": 50,
+                "remaining_products": 100,
                 "color": "Black",
                 "img": [
                     {
@@ -1372,9 +1387,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.1 Kilograms 12.99",
                 "weight": "1.1 Kilograms",
                 "price": 12.99,
-                "remaining_products": 45,
+                "remaining_products": 95,
                 "color": "beige",
                 "img": [
                     {
@@ -1478,9 +1494,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black, \u200eFits 2\" Weight Plates",
                 "weight": 2.8,
                 "price": 34.99,
-                "remaining_products": 2,
+                "remaining_products": 8,
                 "color": "Black",
                 "img": [
                     {
@@ -1514,9 +1531,10 @@
                 ]
             },
             {
+                "name": "Black, \u200eFits 1\" Weight Plates",
                 "weight": 2.8,
                 "price": 34.99,
-                "remaining_products": 41,
+                "remaining_products": 3,
                 "color": "Black",
                 "img": [
                     {
@@ -1632,9 +1650,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 10 Pounds 50.99",
                 "weight": "10 Pounds",
                 "price": 50.99,
-                "remaining_products": 54,
+                "remaining_products": 94,
                 "color": "Black",
                 "img": [
                     {
@@ -1738,9 +1757,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Large",
                 "weight": 4.89,
                 "price": 59.99,
-                "remaining_products": 31,
+                "remaining_products": 69,
                 "color": "Black",
                 "img": [
                     {
@@ -1750,9 +1770,10 @@
                 ]
             },
             {
+                "name": "Small",
                 "weight": 4.89,
                 "price": 59.99,
-                "remaining_products": 22,
+                "remaining_products": 28,
                 "color": "Black",
                 "img": [
                     {
@@ -1832,9 +1853,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Portable",
                 "weight": 2.3,
                 "price": 34.98,
-                "remaining_products": 58,
+                "remaining_products": 67,
                 "color": "black",
                 "img": [
                     {
@@ -1868,9 +1890,10 @@
                 ]
             },
             {
+                "name": "All-season",
                 "weight": 2.3,
                 "price": 33.98,
-                "remaining_products": 61,
+                "remaining_products": 52,
                 "color": "black",
                 "img": [
                     {
@@ -1978,9 +2001,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2.79 Kilograms 29.9",
                 "weight": "2.79 Kilograms",
                 "price": 29.9,
-                "remaining_products": 13,
+                "remaining_products": 20,
                 "color": "Black",
                 "img": [
                     {
@@ -2092,9 +2116,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 3.9 Kilograms 39.99",
                 "weight": "3.9 Kilograms",
                 "price": 39.99,
-                "remaining_products": 74,
+                "remaining_products": 72,
                 "color": "Black",
                 "img": [
                     {
@@ -2182,9 +2207,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 5 Pounds 109",
                 "weight": "5 Pounds",
                 "price": 109,
-                "remaining_products": 79,
+                "remaining_products": 8,
                 "color": "White",
                 "img": [
                     {
@@ -2279,9 +2305,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2.3 Kilograms 46.99",
                 "weight": "2.3 Kilograms",
                 "price": 46.99,
-                "remaining_products": 24,
+                "remaining_products": 25,
                 "color": "Black",
                 "img": [
                     {
@@ -2385,9 +2412,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 5 Pounds 41.91",
                 "weight": "5 Pounds",
                 "price": 41.91,
-                "remaining_products": 40,
+                "remaining_products": 33,
                 "color": "Black",
                 "img": [
                     {
@@ -2457,9 +2485,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 180 Pounds 657.97",
                 "weight": "180 Pounds",
                 "price": 657.97,
-                "remaining_products": 45,
+                "remaining_products": 72,
                 "color": "black",
                 "img": [
                     {
@@ -2559,9 +2588,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.9 Pounds 26.21",
                 "weight": "1.9 Pounds",
                 "price": 26.21,
-                "remaining_products": 61,
+                "remaining_products": 28,
                 "color": "black",
                 "img": [
                     {
@@ -2669,9 +2699,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.9 Pounds 26.21",
                 "weight": "1.9 Pounds",
                 "price": 26.21,
-                "remaining_products": 99,
+                "remaining_products": 67,
                 "color": "black",
                 "img": [
                     {
@@ -2788,9 +2819,10 @@
         ],
         "equipment_options": [
             {
+                "name": "B: Black-Metal-5Heights",
                 "weight": 3.5,
                 "price": 49.62,
-                "remaining_products": 0,
+                "remaining_products": 14,
                 "color": "Black",
                 "img": [
                     {
@@ -2824,9 +2856,10 @@
                 ]
             },
             {
+                "name": "A: Dark-Rubber-3Heights",
                 "weight": 3.5,
                 "price": 49.62,
-                "remaining_products": 20,
+                "remaining_products": 39,
                 "color": "B: Black-Metal-5Heights",
                 "img": [
                     {
@@ -2954,9 +2987,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black",
                 "weight": 2.5401152,
                 "price": 29.99,
-                "remaining_products": 1,
+                "remaining_products": 7,
                 "color": "Black",
                 "img": [
                     {
@@ -2994,9 +3028,10 @@
                 ]
             },
             {
+                "name": "Green",
                 "weight": 2.5401152,
                 "price": 24.99,
-                "remaining_products": 41,
+                "remaining_products": 64,
                 "color": "Green",
                 "img": [
                     {
@@ -3092,9 +3127,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 4.5 Pounds 25.95",
                 "weight": "4.5 Pounds",
                 "price": 25.95,
-                "remaining_products": 43,
+                "remaining_products": 54,
                 "color": "Black, Wood",
                 "img": [
                     {
@@ -3203,9 +3239,10 @@
         ],
         "equipment_options": [
             {
+                "name": "10-Degree Elevation",
                 "weight": 3.04,
                 "price": 39.97,
-                "remaining_products": 46,
+                "remaining_products": 17,
                 "color": "Black",
                 "img": [
                     {
@@ -3239,9 +3276,10 @@
                 ]
             },
             {
+                "name": "20-Degree Non-Slip",
                 "weight": 3.04,
                 "price": 39.97,
-                "remaining_products": 93,
+                "remaining_products": 52,
                 "color": "Black",
                 "img": [
                     {
@@ -3369,9 +3407,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 5.4 Pounds 59",
                 "weight": "5.4 Pounds",
                 "price": 59,
-                "remaining_products": 3,
+                "remaining_products": 26,
                 "color": "Orange",
                 "img": [
                     {
@@ -3483,9 +3522,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black, Fits 1\" Dumbbell Pieces",
                 "weight": 2.1772416,
                 "price": 39.99,
-                "remaining_products": 100,
+                "remaining_products": 11,
                 "color": "Black",
                 "img": [
                     {
@@ -3523,9 +3563,10 @@
                 ]
             },
             {
+                "name": "Black, Fits 2\" Weight Plates",
                 "weight": 2.1772416,
                 "price": 39.99,
-                "remaining_products": 53,
+                "remaining_products": 27,
                 "color": "Black",
                 "img": [
                     {
@@ -3563,9 +3604,10 @@
                 ]
             },
             {
+                "name": "Green, Fits 2\" Weight Plates",
                 "weight": 2.1772416,
                 "price": 39.99,
-                "remaining_products": 15,
+                "remaining_products": 64,
                 "color": "Green",
                 "img": [
                     {
@@ -3603,9 +3645,10 @@
                 ]
             },
             {
+                "name": "Yellow, Fits 2\" Weight Plates",
                 "weight": 2.1772416,
                 "price": 39.99,
-                "remaining_products": 97,
+                "remaining_products": 75,
                 "color": "Yellow",
                 "img": [
                     {
@@ -3725,9 +3768,10 @@
         ],
         "equipment_options": [
             {
+                "name": "KC-FEET BAR",
                 "weight": 0.75,
                 "price": 56.99,
-                "remaining_products": 43,
+                "remaining_products": 89,
                 "color": "Black",
                 "img": [
                     {
@@ -3765,9 +3809,10 @@
                 ]
             },
             {
+                "name": "S-FOOT BAR",
                 "weight": 0.75,
                 "price": 21.99,
-                "remaining_products": 90,
+                "remaining_products": 94,
                 "color": "Black",
                 "img": [
                     {

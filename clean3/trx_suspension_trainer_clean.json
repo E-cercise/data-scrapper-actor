@@ -125,9 +125,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.9 Kilograms 229.95",
                 "weight": "0.9 Kilograms",
                 "price": 229.95,
-                "remaining_products": 80,
+                "remaining_products": 65,
                 "color": "Black",
                 "img": [
                     {
@@ -243,9 +244,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 3.28 Pounds 59.99",
                 "weight": "3.28 Pounds",
                 "price": 59.99,
-                "remaining_products": 99,
+                "remaining_products": 57,
                 "color": "Black,Yellow",
                 "img": [
                     {
@@ -345,9 +347,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 3.92 Pounds 69.97",
                 "weight": "3.92 Pounds",
                 "price": 69.97,
-                "remaining_products": 97,
+                "remaining_products": 35,
                 "color": "Green",
                 "img": [
                     {
@@ -459,9 +462,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.19 Kilograms 157",
                 "weight": "1.19 Kilograms",
                 "price": 157,
-                "remaining_products": 55,
+                "remaining_products": 88,
                 "color": "Black and Yellow",
                 "img": [
                     {
@@ -600,9 +604,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2 Pounds 139.95",
                 "weight": "2 Pounds",
                 "price": 139.95,
-                "remaining_products": 82,
+                "remaining_products": 29,
                 "color": "Grey",
                 "img": [
                     {
@@ -706,9 +711,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2 Pounds 11.99",
                 "weight": "2 Pounds",
                 "price": 11.99,
-                "remaining_products": 73,
+                "remaining_products": 48,
                 "color": "Grey",
                 "img": [
                     {
@@ -820,9 +826,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 3 Pounds 39.99",
                 "weight": "3 Pounds",
                 "price": 39.99,
-                "remaining_products": 14,
+                "remaining_products": 66,
                 "color": "Yellow",
                 "img": [
                     {
@@ -974,9 +981,10 @@
         ],
         "equipment_options": [
             {
+                "name": "50.0 Pounds",
                 "weight": 22.6796,
                 "price": 34.95,
-                "remaining_products": 90,
+                "remaining_products": 22,
                 "color": "Black",
                 "img": [
                     {
@@ -1018,9 +1026,10 @@
                 ]
             },
             {
+                "name": "0.6 Pounds",
                 "weight": 0.2721552,
                 "price": 34.95,
-                "remaining_products": 68,
+                "remaining_products": 74,
                 "color": "Black",
                 "img": [
                     {
@@ -1062,9 +1071,10 @@
                 ]
             },
             {
+                "name": "38.0 Pounds",
                 "weight": 17.236496,
                 "price": 34.95,
-                "remaining_products": 38,
+                "remaining_products": 79,
                 "color": "Black",
                 "img": [
                     {
@@ -1106,9 +1116,10 @@
                 ]
             },
             {
+                "name": "15.0 Pounds",
                 "weight": 6.8038799999999995,
                 "price": 34.95,
-                "remaining_products": 37,
+                "remaining_products": 57,
                 "color": "Black",
                 "img": [
                     {
@@ -1154,9 +1165,10 @@
                 ]
             },
             {
+                "name": "20.0 Pounds",
                 "weight": 9.07184,
                 "price": 34.95,
-                "remaining_products": 76,
+                "remaining_products": 29,
                 "color": "Black",
                 "img": [
                     {
@@ -1262,9 +1274,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 19.8 Pounds 179.99",
                 "weight": "19.8 Pounds",
                 "price": 179.99,
-                "remaining_products": 100,
+                "remaining_products": 10,
                 "color": "Red+Black",
                 "img": [
                     {
@@ -1409,9 +1422,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.7 Pounds 179.95",
                 "weight": "1.7 Pounds",
                 "price": 179.95,
-                "remaining_products": 30,
+                "remaining_products": 90,
                 "color": "Black",
                 "img": [
                     {
@@ -1499,9 +1513,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2.29 pounds 127.99",
                 "weight": "2.29 pounds",
                 "price": 127.99,
-                "remaining_products": 13,
+                "remaining_products": 66,
                 "color": "multicoloured",
                 "img": [
                     {
@@ -1601,9 +1616,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.2 Kilograms 16.07",
                 "weight": "0.2 Kilograms",
                 "price": 16.07,
-                "remaining_products": 89,
+                "remaining_products": 23,
                 "color": "natural",
                 "img": [
                     {
@@ -1755,9 +1771,10 @@
         ],
         "equipment_options": [
             {
+                "name": "M 8",
                 "weight": 0.8391452,
                 "price": 18.99,
-                "remaining_products": 77,
+                "remaining_products": 92,
                 "color": "Sliver",
                 "img": [
                     {
@@ -1791,9 +1808,10 @@
                 ]
             },
             {
+                "name": "M 10",
                 "weight": 0.8391452,
                 "price": 18.99,
-                "remaining_products": 63,
+                "remaining_products": 10,
                 "color": "Sliver",
                 "img": [
                     {
@@ -1823,9 +1841,10 @@
                 ]
             },
             {
+                "name": "M 5",
                 "weight": 0.8391452,
                 "price": 18.99,
-                "remaining_products": 80,
+                "remaining_products": 50,
                 "color": "Sliver",
                 "img": [
                     {
@@ -1859,9 +1878,10 @@
                 ]
             },
             {
+                "name": "M 6",
                 "weight": 0.8391452,
                 "price": 18.99,
-                "remaining_products": 35,
+                "remaining_products": 98,
                 "color": "Sliver",
                 "img": [
                     {
@@ -1969,9 +1989,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Trapeze Stand",
                 "weight": 0.453592,
                 "price": 29.97,
-                "remaining_products": 14,
+                "remaining_products": 30,
                 "color": "Tan",
                 "img": [
                     {
@@ -2005,9 +2026,10 @@
                 ]
             },
             {
+                "name": "Aqua",
                 "weight": 0.453592,
                 "price": 29.97,
-                "remaining_products": 64,
+                "remaining_products": 74,
                 "color": "Aqua",
                 "img": [
                     {
@@ -2041,9 +2063,10 @@
                 ]
             },
             {
+                "name": "Purple",
                 "weight": 0.453592,
                 "price": 29.97,
-                "remaining_products": 41,
+                "remaining_products": 44,
                 "color": "Purple",
                 "img": [
                     {
@@ -2163,9 +2186,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.1 Kilograms 24.95",
                 "weight": "0.1 Kilograms",
                 "price": 24.95,
-                "remaining_products": 65,
+                "remaining_products": 64,
                 "color": "Black",
                 "img": [
                     {
@@ -2293,9 +2317,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2.94 Kilograms 69.95",
                 "weight": "2.94 Kilograms",
                 "price": 69.95,
-                "remaining_products": 95,
+                "remaining_products": 50,
                 "color": "Black",
                 "img": [
                     {
@@ -2395,9 +2420,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Sliver 1Pack",
                 "weight": 0.63,
                 "price": 14.99,
-                "remaining_products": 97,
+                "remaining_products": 91,
                 "color": "Sliver 1Pack",
                 "img": [
                     {
@@ -2435,9 +2461,10 @@
                 ]
             },
             {
+                "name": "Sliver 2Pack",
                 "weight": 0.63,
                 "price": 24.99,
-                "remaining_products": 23,
+                "remaining_products": 12,
                 "color": "Sliver 1Pack",
                 "img": [
                     {
@@ -2541,9 +2568,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2 Pounds 39.99",
                 "weight": "2 Pounds",
                 "price": 39.99,
-                "remaining_products": 82,
+                "remaining_products": 45,
                 "color": "Black, Yellow",
                 "img": [
                     {
@@ -2671,9 +2699,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.68 Pounds 48.97",
                 "weight": "1.68 Pounds",
                 "price": 48.97,
-                "remaining_products": 54,
+                "remaining_products": 12,
                 "color": "black",
                 "img": [
                     {
@@ -2789,9 +2818,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1 Pounds 27.99",
                 "weight": "1 Pounds",
                 "price": 27.99,
-                "remaining_products": 43,
+                "remaining_products": 14,
                 "color": "Red, Black, Green, Blue, Yellow",
                 "img": [
                     {
@@ -2920,9 +2950,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Devil",
                 "weight": 0.0,
                 "price": 28.99,
-                "remaining_products": 88,
+                "remaining_products": 15,
                 "color": "Black",
                 "img": [
                     {
@@ -2956,9 +2987,10 @@
                 ]
             },
             {
+                "name": "Gray",
                 "weight": 0.0,
                 "price": 28.99,
-                "remaining_products": 19,
+                "remaining_products": 20,
                 "color": "Gray",
                 "img": [
                     {
@@ -2992,9 +3024,10 @@
                 ]
             },
             {
+                "name": "American",
                 "weight": 0.0,
                 "price": 28.99,
-                "remaining_products": 2,
+                "remaining_products": 89,
                 "color": "Black",
                 "img": [
                     {
@@ -3028,9 +3061,10 @@
                 ]
             },
             {
+                "name": "Black",
                 "weight": 0.0,
                 "price": 28.99,
-                "remaining_products": 22,
+                "remaining_products": 58,
                 "color": "Black",
                 "img": [
                     {
@@ -3064,9 +3098,10 @@
                 ]
             },
             {
+                "name": "Black Premium",
                 "weight": 0.0,
                 "price": 39.99,
-                "remaining_products": 36,
+                "remaining_products": 0,
                 "color": "Black",
                 "img": [
                     {
@@ -3100,9 +3135,10 @@
                 ]
             },
             {
+                "name": "Blue",
                 "weight": 0.0,
                 "price": 28.99,
-                "remaining_products": 57,
+                "remaining_products": 90,
                 "color": "Blue",
                 "img": [
                     {
@@ -3210,9 +3246,10 @@
         ],
         "equipment_options": [
             {
+                "name": "1 Pack",
                 "weight": 0.39916096,
                 "price": 16.14,
-                "remaining_products": 61,
+                "remaining_products": 88,
                 "color": "1 Pack",
                 "img": [
                     {
@@ -3254,9 +3291,10 @@
                 ]
             },
             {
+                "name": "2 Pack",
                 "weight": 0.39916096,
                 "price": 28.49,
-                "remaining_products": 64,
+                "remaining_products": 49,
                 "color": "1 Pack",
                 "img": [
                     {
@@ -3368,9 +3406,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Orange",
                 "weight": 0.0226796,
                 "price": 7.97,
-                "remaining_products": 2,
+                "remaining_products": 48,
                 "color": "Orange",
                 "img": [
                     {
@@ -3408,9 +3447,10 @@
                 ]
             },
             {
+                "name": "Yellow",
                 "weight": 0.0226796,
                 "price": 7.97,
-                "remaining_products": 58,
+                "remaining_products": 7,
                 "color": "Yellow",
                 "img": [
                     {
@@ -3448,9 +3488,10 @@
                 ]
             },
             {
+                "name": "Black",
                 "weight": 0.0226796,
                 "price": 7.97,
-                "remaining_products": 28,
+                "remaining_products": 73,
                 "color": "Black",
                 "img": [
                     {
@@ -3570,9 +3611,10 @@
         ],
         "equipment_options": [
             {
+                "name": "green",
                 "weight": 1.77,
                 "price": 59.99,
-                "remaining_products": 3,
+                "remaining_products": 92,
                 "color": "Green",
                 "img": [
                     {
@@ -3610,9 +3652,10 @@
                 ]
             },
             {
+                "name": "Pink",
                 "weight": 1.77,
                 "price": 59.99,
-                "remaining_products": 21,
+                "remaining_products": 47,
                 "color": "Pink",
                 "img": [
                     {
@@ -3650,9 +3693,10 @@
                 ]
             },
             {
+                "name": "Yellow",
                 "weight": 1.77,
                 "price": 59.99,
-                "remaining_products": 33,
+                "remaining_products": 58,
                 "color": "Yellow",
                 "img": [
                     {
@@ -3764,9 +3808,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 3.15 Pounds 35.29",
                 "weight": "3.15 Pounds",
                 "price": 35.29,
-                "remaining_products": 9,
+                "remaining_products": 28,
                 "color": "Black.",
                 "img": [
                     {
@@ -3872,9 +3917,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Pink",
                 "weight": 0.0,
                 "price": 19.99,
-                "remaining_products": 19,
+                "remaining_products": 2,
                 "color": "Pink",
                 "img": [
                     {
@@ -3916,9 +3962,10 @@
                 ]
             },
             {
+                "name": "Green",
                 "weight": 0.0,
                 "price": 19.99,
-                "remaining_products": 28,
+                "remaining_products": 51,
                 "color": "Green",
                 "img": [
                     {
@@ -3960,9 +4007,10 @@
                 ]
             },
             {
+                "name": "Purple",
                 "weight": 0.0,
                 "price": 16.99,
-                "remaining_products": 30,
+                "remaining_products": 14,
                 "color": "Purple",
                 "img": [
                     {
@@ -4078,9 +4126,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2.68 Ounces 10.99",
                 "weight": "2.68 Ounces",
                 "price": 10.99,
-                "remaining_products": 56,
+                "remaining_products": 39,
                 "color": "Version 2.0 Black",
                 "img": [
                     {
@@ -4187,9 +4236,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.03 Kilograms 54.99",
                 "weight": "1.03 Kilograms",
                 "price": 54.99,
-                "remaining_products": 68,
+                "remaining_products": 76,
                 "color": "Yellow",
                 "img": [
                     {
@@ -4288,9 +4338,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.4 Kilograms 15.99",
                 "weight": "0.4 Kilograms",
                 "price": 15.99,
-                "remaining_products": 13,
+                "remaining_products": 5,
                 "color": "Black",
                 "img": [
                     {
@@ -4410,9 +4461,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black",
                 "weight": 0.0,
                 "price": 46.95,
-                "remaining_products": 45,
+                "remaining_products": 8,
                 "color": "Black",
                 "img": [
                     {
@@ -4450,9 +4502,10 @@
                 ]
             },
             {
+                "name": "Light Grey",
                 "weight": 0.0,
                 "price": 46.95,
-                "remaining_products": 17,
+                "remaining_products": 46,
                 "color": "Gun Metal Gray",
                 "img": [
                     {
@@ -4490,9 +4543,10 @@
                 ]
             },
             {
+                "name": "Blue",
                 "weight": 0.0,
                 "price": 46.95,
-                "remaining_products": 55,
+                "remaining_products": 38,
                 "color": "Blue",
                 "img": [
                     {
@@ -4530,9 +4584,10 @@
                 ]
             },
             {
+                "name": "Gun Metal Gray",
                 "weight": 0.0,
                 "price": 46.95,
-                "remaining_products": 44,
+                "remaining_products": 81,
                 "color": "Gray",
                 "img": [
                     {
@@ -4624,9 +4679,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.48 pounds 24.99",
                 "weight": "1.48 pounds",
                 "price": 24.99,
-                "remaining_products": 10,
+                "remaining_products": 70,
                 "color": "Silver2",
                 "img": [
                     {
@@ -4726,9 +4782,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black/Yellow (pair)",
                 "weight": 0.18,
                 "price": 25.99,
-                "remaining_products": 90,
+                "remaining_products": 20,
                 "color": "Yellow, Black",
                 "img": [
                     {
@@ -4766,9 +4823,10 @@
                 ]
             },
             {
+                "name": "Grey",
                 "weight": 0.18,
                 "price": 14.99,
-                "remaining_products": 76,
+                "remaining_products": 32,
                 "color": "Black",
                 "img": [
                     {
@@ -4806,9 +4864,10 @@
                 ]
             },
             {
+                "name": "Black",
                 "weight": 0.18,
                 "price": 15.99,
-                "remaining_products": 47,
+                "remaining_products": 31,
                 "color": "Black",
                 "img": [
                     {
@@ -4920,9 +4979,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2.9 Pounds 49.99",
                 "weight": "2.9 Pounds",
                 "price": 49.99,
-                "remaining_products": 27,
+                "remaining_products": 6,
                 "color": "Black, Yellow",
                 "img": [
                     {
@@ -5050,9 +5110,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.7 Pounds 188.95",
                 "weight": "1.7 Pounds",
                 "price": 188.95,
-                "remaining_products": 61,
+                "remaining_products": 70,
                 "color": "Grey",
                 "img": [
                     {
@@ -5188,9 +5249,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 100 Grams 17.97",
                 "weight": "100 Grams",
                 "price": 17.97,
-                "remaining_products": 76,
+                "remaining_products": 30,
                 "color": "Black",
                 "img": [
                     {
@@ -5289,9 +5351,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Pink",
                 "weight": 1.04,
                 "price": 44.95,
-                "remaining_products": 65,
+                "remaining_products": 42,
                 "color": "Pink",
                 "img": [
                     {
@@ -5321,9 +5384,10 @@
                 ]
             },
             {
+                "name": "Army Green",
                 "weight": 1.04,
                 "price": 44.95,
-                "remaining_products": 42,
+                "remaining_products": 43,
                 "color": "Green",
                 "img": [
                     {
@@ -5361,6 +5425,7 @@
                 ]
             },
             {
+                "name": "Beige",
                 "weight": 1.04,
                 "price": 44.95,
                 "remaining_products": 44,
@@ -5475,9 +5540,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.88 Pounds 22.66",
                 "weight": "0.88 Pounds",
                 "price": 22.66,
-                "remaining_products": 45,
+                "remaining_products": 64,
                 "color": "Silver",
                 "img": [
                     {
@@ -5581,9 +5647,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Yellow - 20 lbs",
                 "weight": 9.07184,
                 "price": 34.99,
-                "remaining_products": 61,
+                "remaining_products": 86,
                 "color": "Yellow",
                 "img": [
                     {
@@ -5621,9 +5688,10 @@
                 ]
             },
             {
+                "name": "Blue - 60 lbs",
                 "weight": 27.215519999999998,
                 "price": 34.99,
-                "remaining_products": 13,
+                "remaining_products": 96,
                 "color": "Blue",
                 "img": [
                     {
@@ -5661,9 +5729,10 @@
                 ]
             },
             {
+                "name": "Red - 40 lbs",
                 "weight": 18.14368,
                 "price": 34.99,
-                "remaining_products": 100,
+                "remaining_products": 95,
                 "color": "Red",
                 "img": [
                     {
@@ -5772,9 +5841,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.5 Kilograms 39.99",
                 "weight": "1.5 Kilograms",
                 "price": 39.99,
-                "remaining_products": 66,
+                "remaining_products": 3,
                 "color": "Blue",
                 "img": [
                     {
@@ -5900,9 +5970,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1 Kilograms 289.95",
                 "weight": "1 Kilograms",
                 "price": 289.95,
-                "remaining_products": 97,
+                "remaining_products": 10,
                 "color": "Olive",
                 "img": [
                     {
@@ -6014,9 +6085,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.35 Kilograms 18.99",
                 "weight": "1.35 Kilograms",
                 "price": 18.99,
-                "remaining_products": 35,
+                "remaining_products": 100,
                 "color": "Black",
                 "img": [
                     {
@@ -6140,9 +6212,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.6 ounces 5.99",
                 "weight": "1.6 ounces",
                 "price": 5.99,
-                "remaining_products": 8,
+                "remaining_products": 11,
                 "color": "Black/Red",
                 "img": [
                     {
@@ -6266,9 +6339,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.2 Kilograms 43.95",
                 "weight": "1.2 Kilograms",
                 "price": 43.95,
-                "remaining_products": 19,
+                "remaining_products": 48,
                 "color": "yellow & black",
                 "img": [
                     {
@@ -6372,9 +6446,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Sunshine Yellow",
                 "weight": 1.4968536,
                 "price": 36.99,
-                "remaining_products": 35,
+                "remaining_products": 10,
                 "color": "Yellow",
                 "img": [
                     {
@@ -6408,9 +6483,10 @@
                 ]
             },
             {
+                "name": "Army Green",
                 "weight": 1.4968536,
                 "price": 36.99,
-                "remaining_products": 63,
+                "remaining_products": 80,
                 "color": "Green",
                 "img": [
                     {
@@ -6444,9 +6520,10 @@
                 ]
             },
             {
+                "name": "Azure Blue",
                 "weight": 1.4968536,
                 "price": 36.99,
-                "remaining_products": 73,
+                "remaining_products": 17,
                 "color": "Blue",
                 "img": [
                     {
@@ -6590,9 +6667,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2.4 Pounds 28.47",
                 "weight": "2.4 Pounds",
                 "price": 28.47,
-                "remaining_products": 84,
+                "remaining_products": 22,
                 "color": "Yellow, Black",
                 "img": [
                     {
@@ -6700,9 +6778,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.49 Kilograms 65.99",
                 "weight": "1.49 Kilograms",
                 "price": 65.99,
-                "remaining_products": 97,
+                "remaining_products": 52,
                 "color": "Yellow",
                 "img": [
                     {
@@ -6814,9 +6893,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.2 Kilograms 29.99",
                 "weight": "1.2 Kilograms",
                 "price": 29.99,
-                "remaining_products": 88,
+                "remaining_products": 33,
                 "color": "Orange&Black",
                 "img": [
                     {
@@ -6932,9 +7012,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 3 Pounds 50",
                 "weight": "3 Pounds",
                 "price": 50,
-                "remaining_products": 57,
+                "remaining_products": 83,
                 "color": "ED-20 VFX Training Straps",
                 "img": [
                     {
@@ -7032,9 +7113,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.07 Kilograms 9.99",
                 "weight": "0.07 Kilograms",
                 "price": 9.99,
-                "remaining_products": 40,
+                "remaining_products": 73,
                 "color": "black",
                 "img": [
                     {
@@ -7138,9 +7220,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Yellow",
                 "weight": 1.5,
                 "price": 39.99,
-                "remaining_products": 64,
+                "remaining_products": 77,
                 "color": "Yellow",
                 "img": [
                     {
@@ -7174,9 +7257,10 @@
                 ]
             },
             {
+                "name": "Grey",
                 "weight": 1.5,
                 "price": 39.99,
-                "remaining_products": 41,
+                "remaining_products": 46,
                 "color": "Yellow",
                 "img": [
                     {
@@ -7210,9 +7294,10 @@
                 ]
             },
             {
+                "name": "Army Green",
                 "weight": 1.5,
                 "price": 39.99,
-                "remaining_products": 65,
+                "remaining_products": 80,
                 "color": "Green",
                 "img": [
                     {
@@ -7246,9 +7331,10 @@
                 ]
             },
             {
+                "name": "Pink",
                 "weight": 1.5,
                 "price": 39.99,
-                "remaining_products": 83,
+                "remaining_products": 40,
                 "color": "Pink",
                 "img": [
                     {
@@ -7282,9 +7368,10 @@
                 ]
             },
             {
+                "name": "Blue",
                 "weight": 1.5,
                 "price": 39.99,
-                "remaining_products": 101,
+                "remaining_products": 15,
                 "color": "Blue",
                 "img": [
                     {
@@ -7396,9 +7483,10 @@
         ],
         "equipment_options": [
             {
+                "name": "61.7 Pounds",
                 "weight": 27.986626400000002,
                 "price": null,
-                "remaining_products": 21,
+                "remaining_products": 44,
                 "color": "Black",
                 "img": [
                     {
@@ -7444,9 +7532,10 @@
                 ]
             },
             {
+                "name": "70.5 Pounds",
                 "weight": 31.978236,
                 "price": null,
-                "remaining_products": 15,
+                "remaining_products": 60,
                 "color": "Black",
                 "img": [
                     {
@@ -7492,9 +7581,10 @@
                 ]
             },
             {
+                "name": "52.9 Pounds",
                 "weight": 23.9950168,
                 "price": null,
-                "remaining_products": 10,
+                "remaining_products": 8,
                 "color": "Black",
                 "img": [
                     {
@@ -7540,9 +7630,10 @@
                 ]
             },
             {
+                "name": "44.1 Pounds",
                 "weight": 20.0034072,
                 "price": null,
-                "remaining_products": 48,
+                "remaining_products": 57,
                 "color": "Black",
                 "img": [
                     {
@@ -7564,9 +7655,10 @@
                 ]
             },
             {
+                "name": "88.1 Pounds",
                 "weight": 39.961455199999996,
                 "price": null,
-                "remaining_products": 83,
+                "remaining_products": 68,
                 "color": "Black",
                 "img": [
                     {
@@ -7612,9 +7704,10 @@
                 ]
             },
             {
+                "name": "35.2 Pounds",
                 "weight": 15.966438400000001,
                 "price": null,
-                "remaining_products": 84,
+                "remaining_products": 65,
                 "color": "Black",
                 "img": [
                     {
@@ -7698,9 +7791,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 11.7 ounces 15.29",
                 "weight": "11.7 ounces",
                 "price": 15.29,
-                "remaining_products": 57,
+                "remaining_products": 64,
                 "color": "Silver1",
                 "img": [
                     {
@@ -7792,9 +7886,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black",
                 "weight": 1.35624008,
                 "price": 19.99,
-                "remaining_products": 0,
+                "remaining_products": 32,
                 "color": "Black",
                 "img": [
                     {
@@ -7832,9 +7927,10 @@
                 ]
             },
             {
+                "name": "Gray",
                 "weight": 1.35624008,
                 "price": 19.99,
-                "remaining_products": 87,
+                "remaining_products": 93,
                 "color": "Gray",
                 "img": [
                     {
@@ -7979,9 +8075,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.7 Pounds 229.95",
                 "weight": "1.7 Pounds",
                 "price": 229.95,
-                "remaining_products": 97,
+                "remaining_products": 33,
                 "color": "Black",
                 "img": [
                     {
@@ -8137,9 +8234,10 @@
         ],
         "equipment_options": [
             {
+                "name": "1 closed",
                 "weight": 0.453592,
                 "price": 17.09,
-                "remaining_products": 13,
+                "remaining_products": 93,
                 "color": "1 closed",
                 "img": [
                     {
@@ -8177,9 +8275,10 @@
                 ]
             },
             {
+                "name": "2 openings",
                 "weight": 0.453592,
                 "price": 17.09,
-                "remaining_products": 96,
+                "remaining_products": 48,
                 "color": "1 closed",
                 "img": [
                     {
@@ -8217,9 +8316,10 @@
                 ]
             },
             {
+                "name": "3 closed",
                 "weight": 0.453592,
                 "price": 17.09,
-                "remaining_products": 76,
+                "remaining_products": 9,
                 "color": "1 closed",
                 "img": [
                     {

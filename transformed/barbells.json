@@ -111,9 +111,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 40 Pounds 47.49",
                 "weight": "40 Pounds",
                 "price": 47.49,
-                "remaining_products": 11,
+                "remaining_products": 94,
                 "color": "Black",
                 "img": [
                     {
@@ -284,9 +285,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black",
                 "weight": 4.9895119999999995,
                 "price": 35.99,
-                "remaining_products": 53,
+                "remaining_products": 73,
                 "color": "Black",
                 "img": [
                     {
@@ -324,9 +326,10 @@
                 ]
             },
             {
+                "name": "Silver",
                 "weight": 4.9895119999999995,
                 "price": 35.99,
-                "remaining_products": 56,
+                "remaining_products": 26,
                 "color": "Silver",
                 "img": [
                     {
@@ -492,9 +495,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Pink Marble",
                 "weight": 0.0,
                 "price": 9.99,
-                "remaining_products": 39,
+                "remaining_products": 26,
                 "color": "Pink",
                 "img": [
                     {
@@ -532,9 +536,10 @@
                 ]
             },
             {
+                "name": "Pink 7pcs Set",
                 "weight": 0.0,
                 "price": 9.99,
-                "remaining_products": 30,
+                "remaining_products": 97,
                 "color": "Pink",
                 "img": [
                     {
@@ -572,9 +577,10 @@
                 ]
             },
             {
+                "name": "Black 7pcs Set",
                 "weight": 0.0,
                 "price": 9.99,
-                "remaining_products": 90,
+                "remaining_products": 93,
                 "color": "Black",
                 "img": [
                     {
@@ -612,9 +618,10 @@
                 ]
             },
             {
+                "name": "Black Marble",
                 "weight": 0.0,
                 "price": 9.99,
-                "remaining_products": 52,
+                "remaining_products": 92,
                 "color": "Black",
                 "img": [
                     {
@@ -648,9 +655,10 @@
                 ]
             },
             {
+                "name": "Pink&White",
                 "weight": 0.0,
                 "price": 9.99,
-                "remaining_products": 35,
+                "remaining_products": 23,
                 "color": "White, Pink",
                 "img": [
                     {
@@ -684,9 +692,10 @@
                 ]
             },
             {
+                "name": "2#Pink",
                 "weight": 0.0,
                 "price": 9.99,
-                "remaining_products": 12,
+                "remaining_products": 16,
                 "color": "Pink",
                 "img": [
                     {
@@ -724,9 +733,10 @@
                 ]
             },
             {
+                "name": "Black",
                 "weight": 0.0,
                 "price": 9.99,
-                "remaining_products": 86,
+                "remaining_products": 9,
                 "color": "Black",
                 "img": [
                     {
@@ -760,9 +770,10 @@
                 ]
             },
             {
+                "name": "Grey",
                 "weight": 0.0,
                 "price": 9.99,
-                "remaining_products": 70,
+                "remaining_products": 5,
                 "color": "Black",
                 "img": [
                     {
@@ -916,9 +927,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 51.8 Pounds 131.16",
                 "weight": "51.8 Pounds",
                 "price": 131.16,
-                "remaining_products": 72,
+                "remaining_products": 56,
                 "color": "Black",
                 "img": [
                     {
@@ -1098,9 +1110,10 @@
         ],
         "equipment_options": [
             {
+                "name": "45LBS(22.5LBS PAIR)",
                 "weight": 20.41164,
                 "price": 109.99,
-                "remaining_products": 55,
+                "remaining_products": 44,
                 "color": "45LBS(22.5LBS PAIR)",
                 "img": [
                     {
@@ -1146,9 +1159,10 @@
                 ]
             },
             {
+                "name": "70LBS(35LBS PAIR)",
                 "weight": 31.75144,
                 "price": 169.99,
-                "remaining_products": 71,
+                "remaining_products": 51,
                 "color": "45LBS(22.5LBS PAIR)",
                 "img": [
                     {
@@ -1194,9 +1208,10 @@
                 ]
             },
             {
+                "name": "90LBS(45LBS PAIR)",
                 "weight": 40.82328,
                 "price": 209.99,
-                "remaining_products": 92,
+                "remaining_products": 42,
                 "color": "45LBS(22.5LBS PAIR)",
                 "img": [
                     {
@@ -1242,9 +1257,10 @@
                 ]
             },
             {
+                "name": "110LBS(55LBS PAIR)",
                 "weight": 49.89512,
                 "price": 284.99,
-                "remaining_products": 64,
+                "remaining_products": 0,
                 "color": "45LBS(22.5LBS PAIR)",
                 "img": [
                     {
@@ -1290,9 +1306,10 @@
                 ]
             },
             {
+                "name": "30LBS(15LBS PAIR)",
                 "weight": 13.607759999999999,
                 "price": 89.99,
-                "remaining_products": 95,
+                "remaining_products": 70,
                 "color": "45LBS(22.5LBS PAIR)",
                 "img": [
                     {
@@ -1338,9 +1355,10 @@
                 ]
             },
             {
+                "name": "20LBS(10LBS PAIR)",
                 "weight": 9.07184,
                 "price": 69.99,
-                "remaining_products": 6,
+                "remaining_products": 81,
                 "color": "45LBS(22.5LBS PAIR)",
                 "img": [
                     {
@@ -1523,9 +1541,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black E-coating, 700LBS, Center Knurl",
                 "weight": 317.5144,
                 "price": 139.99,
-                "remaining_products": 70,
+                "remaining_products": 77,
                 "color": "Black",
                 "img": [
                     {
@@ -1567,9 +1586,10 @@
                 ]
             },
             {
+                "name": "Silver Chrome, 700LBS, Center Knurl",
                 "weight": 317.5144,
                 "price": 139.99,
-                "remaining_products": 6,
+                "remaining_products": 70,
                 "color": "Silver, Chrome",
                 "img": [
                     {
@@ -1611,9 +1631,10 @@
                 ]
             },
             {
+                "name": "Black E-coating, 1000LBS, No Center Knurl",
                 "weight": 453.592,
                 "price": 139.99,
-                "remaining_products": 53,
+                "remaining_products": 47,
                 "color": "Black",
                 "img": [
                     {
@@ -1655,9 +1676,10 @@
                 ]
             },
             {
+                "name": "Silver Chrome, 1000LBS, No Center Knurl",
                 "weight": 453.592,
                 "price": 139.99,
-                "remaining_products": 36,
+                "remaining_products": 89,
                 "color": "Silver, Chrome",
                 "img": [
                     {
@@ -1699,9 +1721,10 @@
                 ]
             },
             {
+                "name": "Black E-coating, 1500LBS, No Center Knurl",
                 "weight": 680.388,
                 "price": 139.99,
-                "remaining_products": 96,
+                "remaining_products": 59,
                 "color": "Black",
                 "img": [
                     {
@@ -1743,9 +1766,10 @@
                 ]
             },
             {
+                "name": "Silver Chrome, 1500LBS, No Center Knurl",
                 "weight": 680.388,
                 "price": 139.99,
-                "remaining_products": 77,
+                "remaining_products": 29,
                 "color": "Silver, Chrome",
                 "img": [
                     {
@@ -1932,9 +1956,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2.5 Kilograms 95",
                 "weight": "2.5 Kilograms",
                 "price": 95,
-                "remaining_products": 17,
+                "remaining_products": 12,
                 "color": "Balck",
                 "img": [
                     {
@@ -2120,6 +2145,7 @@
         ],
         "equipment_options": [
             {
+                "name": "Chrome w/Rubber Grips",
                 "weight": 4.4452016,
                 "price": 30.6,
                 "remaining_products": 24,
@@ -2144,9 +2170,10 @@
                 ]
             },
             {
+                "name": "Black No Collars",
                 "weight": 4.4452016,
                 "price": 30.6,
-                "remaining_products": 11,
+                "remaining_products": 82,
                 "color": "Black",
                 "img": [
                     {
@@ -2176,9 +2203,10 @@
                 ]
             },
             {
+                "name": "Chrome No Collars",
                 "weight": 4.4452016,
                 "price": 30.6,
-                "remaining_products": 5,
+                "remaining_products": 39,
                 "color": "Chrome",
                 "img": [
                     {
@@ -2220,9 +2248,10 @@
                 ]
             },
             {
+                "name": "Black",
                 "weight": 4.4452016,
                 "price": 30.6,
-                "remaining_products": 42,
+                "remaining_products": 65,
                 "color": "Black",
                 "img": [
                     {
@@ -2252,9 +2281,10 @@
                 ]
             },
             {
+                "name": "Chrome",
                 "weight": 4.4452016,
                 "price": 30.6,
-                "remaining_products": 96,
+                "remaining_products": 7,
                 "color": "Chrome",
                 "img": [
                     {
@@ -2421,9 +2451,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black",
                 "weight": 5.6,
                 "price": 49.99,
-                "remaining_products": 56,
+                "remaining_products": 47,
                 "color": "Black",
                 "img": [
                     {
@@ -2461,9 +2492,10 @@
                 ]
             },
             {
+                "name": "Silver",
                 "weight": 5.6,
                 "price": 49.99,
-                "remaining_products": 65,
+                "remaining_products": 48,
                 "color": "Silver",
                 "img": [
                     {
@@ -2637,9 +2669,10 @@
         ],
         "equipment_options": [
             {
+                "name": "2-inch, 6FT",
                 "weight": 9.07184,
                 "price": 148.96,
-                "remaining_products": 59,
+                "remaining_products": 36,
                 "color": "Chrome",
                 "img": [
                     {
@@ -2665,9 +2698,10 @@
                 ]
             },
             {
+                "name": "2-inch, 7FT",
                 "weight": 9.07184,
                 "price": 188.41,
-                "remaining_products": 40,
+                "remaining_products": 10,
                 "color": "Chrome",
                 "img": [
                     {
@@ -2693,9 +2727,10 @@
                 ]
             },
             {
+                "name": "1-inch, 6FT",
                 "weight": 9.07184,
                 "price": 84.63,
-                "remaining_products": 20,
+                "remaining_products": 54,
                 "color": "Chrome",
                 "img": [
                     {
@@ -2717,9 +2752,10 @@
                 ]
             },
             {
+                "name": "2-inch, 5FT",
                 "weight": 9.07184,
                 "price": 37.42,
-                "remaining_products": 28,
+                "remaining_products": 87,
                 "color": "Chrome",
                 "img": [
                     {
@@ -2745,9 +2781,10 @@
                 ]
             },
             {
+                "name": "1-inch, 5FT",
                 "weight": 9.07184,
                 "price": 48.5,
-                "remaining_products": 97,
+                "remaining_products": 42,
                 "color": "Chrome",
                 "img": [
                     {
@@ -2933,9 +2970,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 15 Pounds 129.99",
                 "weight": "15 Pounds",
                 "price": 129.99,
-                "remaining_products": 56,
+                "remaining_products": 59,
                 "color": "Chrome",
                 "img": [
                     {
@@ -3117,9 +3155,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 44 Pounds 59.88",
                 "weight": "44 Pounds",
                 "price": 59.88,
-                "remaining_products": 91,
+                "remaining_products": 12,
                 "color": "Chrome - 28mm Grip",
                 "img": [
                     {
@@ -3281,9 +3320,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 110 Pounds 499.99",
                 "weight": "110 Pounds",
                 "price": 499.99,
-                "remaining_products": 17,
+                "remaining_products": 84,
                 "color": "Black",
                 "img": [
                     {
@@ -3449,9 +3489,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 44 Pounds 59.99",
                 "weight": "44 Pounds",
                 "price": 59.99,
-                "remaining_products": 13,
+                "remaining_products": 84,
                 "color": "white",
                 "img": [
                     {
@@ -3641,9 +3682,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Red - 15kg",
                 "weight": 15.0,
                 "price": 199.95,
-                "remaining_products": 70,
+                "remaining_products": 54,
                 "color": "Red",
                 "img": [
                     {
@@ -3677,9 +3719,10 @@
                 ]
             },
             {
+                "name": "Black - 15kg",
                 "weight": 15.0,
                 "price": 199.95,
-                "remaining_products": 16,
+                "remaining_products": 31,
                 "color": "Black",
                 "img": [
                     {
@@ -3717,9 +3760,10 @@
                 ]
             },
             {
+                "name": "Pink - 15kg",
                 "weight": 15.0,
                 "price": 189.95,
-                "remaining_products": 3,
+                "remaining_products": 74,
                 "color": "Pink",
                 "img": [
                     {
@@ -3757,9 +3801,10 @@
                 ]
             },
             {
+                "name": "Red - 20kg",
                 "weight": 20.0,
                 "price": 199.95,
-                "remaining_products": 90,
+                "remaining_products": 85,
                 "color": "Red",
                 "img": [
                     {
@@ -3793,9 +3838,10 @@
                 ]
             },
             {
+                "name": "Black - 20kg",
                 "weight": 20.0,
                 "price": 199.95,
-                "remaining_products": 99,
+                "remaining_products": 89,
                 "color": "Black",
                 "img": [
                     {
@@ -3974,9 +4020,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black Chrome, 6.6ft,1000lbs",
                 "weight": 453.592,
                 "price": 99.99,
-                "remaining_products": 89,
+                "remaining_products": 30,
                 "color": "Black, Chrome",
                 "img": [
                     {
@@ -4010,9 +4057,10 @@
                 ]
             },
             {
+                "name": "Pink Cerakote, 6.6ft, 1500lbs",
                 "weight": 680.388,
                 "price": 99.99,
-                "remaining_products": 41,
+                "remaining_products": 17,
                 "color": "Pink",
                 "img": [
                     {
@@ -4046,9 +4094,10 @@
                 ]
             },
             {
+                "name": "Silver Chrome, 7ft, 1000lbs",
                 "weight": 453.592,
                 "price": 99.99,
-                "remaining_products": 43,
+                "remaining_products": 86,
                 "color": "Silver, Chrome",
                 "img": [
                     {
@@ -4094,9 +4143,10 @@
                 ]
             },
             {
+                "name": "Red Cerakote, 7ft, 1500lbs",
                 "weight": 680.388,
                 "price": 99.99,
-                "remaining_products": 23,
+                "remaining_products": 81,
                 "color": "Red",
                 "img": [
                     {
@@ -4130,9 +4180,10 @@
                 ]
             },
             {
+                "name": "Black Zinc, 7ft, 1200lbs",
                 "weight": 544.3104,
                 "price": 99.99,
-                "remaining_products": 71,
+                "remaining_products": 62,
                 "color": "Black",
                 "img": [
                     {
@@ -4298,9 +4349,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Silver(with 85LB Weights)",
                 "weight": 38.55532,
                 "price": 89.99,
-                "remaining_products": 19,
+                "remaining_products": 29,
                 "color": "Silver",
                 "img": [
                     {
@@ -4338,9 +4390,10 @@
                 ]
             },
             {
+                "name": "Full Black 28mm",
                 "weight": 9.07184,
                 "price": 89.99,
-                "remaining_products": 11,
+                "remaining_products": 61,
                 "color": "Black",
                 "img": [
                     {
@@ -4378,9 +4431,10 @@
                 ]
             },
             {
+                "name": "Silver 28mm",
                 "weight": 9.07184,
                 "price": 89.99,
-                "remaining_products": 82,
+                "remaining_products": 65,
                 "color": "Silver",
                 "img": [
                     {
@@ -4418,9 +4472,10 @@
                 ]
             },
             {
+                "name": "Silver(with 155LB Weights)",
                 "weight": 70.30676,
                 "price": 89.99,
-                "remaining_products": 16,
+                "remaining_products": 11,
                 "color": "Silver",
                 "img": [
                     {
@@ -4454,9 +4509,10 @@
                 ]
             },
             {
+                "name": "Black(with 85LB Weights)",
                 "weight": 38.55532,
                 "price": 89.99,
-                "remaining_products": 73,
+                "remaining_products": 99,
                 "color": "Black",
                 "img": [
                     {
@@ -4494,9 +4550,10 @@
                 ]
             },
             {
+                "name": "Silver(with 35LB Weights)",
                 "weight": 15.87572,
                 "price": 89.99,
-                "remaining_products": 58,
+                "remaining_products": 36,
                 "color": "Silver",
                 "img": [
                     {
@@ -4530,9 +4587,10 @@
                 ]
             },
             {
+                "name": "Black(with 35LB Weights)",
                 "weight": 15.87572,
                 "price": 89.99,
-                "remaining_products": 2,
+                "remaining_products": 86,
                 "color": "Black",
                 "img": [
                     {
@@ -4570,9 +4628,10 @@
                 ]
             },
             {
+                "name": "Black(with 155LB Weights)",
                 "weight": 70.30676,
                 "price": 89.99,
-                "remaining_products": 70,
+                "remaining_products": 77,
                 "color": "Black",
                 "img": [
                     {
@@ -4754,9 +4813,10 @@
         ],
         "equipment_options": [
             {
+                "name": "7 FT",
                 "weight": 7.0760352,
                 "price": 69.99,
-                "remaining_products": 81,
+                "remaining_products": 24,
                 "color": "Chrome",
                 "img": [
                     {
@@ -4790,9 +4850,10 @@
                 ]
             },
             {
+                "name": "6 FT",
                 "weight": 7.0760352,
                 "price": 69.99,
-                "remaining_products": 97,
+                "remaining_products": 34,
                 "color": "Chrome",
                 "img": [
                     {
@@ -4826,9 +4887,10 @@
                 ]
             },
             {
+                "name": "5 FT",
                 "weight": 7.0760352,
                 "price": 69.99,
-                "remaining_products": 20,
+                "remaining_products": 61,
                 "color": "Chrome",
                 "img": [
                     {
@@ -5002,9 +5064,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 45 Pounds 119.99",
                 "weight": "45 Pounds",
                 "price": 119.99,
-                "remaining_products": 100,
+                "remaining_products": 5,
                 "color": "2 Inch, 7FT",
                 "img": [
                     {
@@ -5161,9 +5224,10 @@
         ],
         "equipment_options": [
             {
+                "name": "RedCarbon",
                 "weight": 28.0,
                 "price": 189.98,
-                "remaining_products": 72,
+                "remaining_products": 95,
                 "color": "Red",
                 "img": [
                     {
@@ -5209,9 +5273,10 @@
                 ]
             },
             {
+                "name": "Red",
                 "weight": 28.0,
                 "price": 99.98,
-                "remaining_products": 90,
+                "remaining_products": 27,
                 "color": "Red",
                 "img": [
                     {
@@ -5417,9 +5482,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 12 Pounds 41.34",
                 "weight": "12 Pounds",
                 "price": 41.34,
-                "remaining_products": 39,
+                "remaining_products": 52,
                 "color": "Metallic",
                 "img": [
                     {
@@ -5573,9 +5639,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 51.8 Pounds 141.78",
                 "weight": "51.8 Pounds",
                 "price": 141.78,
-                "remaining_products": 14,
+                "remaining_products": 41,
                 "color": "Black",
                 "img": [
                     {
@@ -5753,9 +5820,10 @@
         ],
         "equipment_options": [
             {
+                "name": "7ft-Black(700LBS)",
                 "weight": 317.5144,
                 "price": 135.99,
-                "remaining_products": 5,
+                "remaining_products": 64,
                 "color": "Black",
                 "img": [
                     {
@@ -5793,9 +5861,10 @@
                 ]
             },
             {
+                "name": "7ft-Red and Black(700LBS)",
                 "weight": 317.5144,
                 "price": 135.99,
-                "remaining_products": 73,
+                "remaining_products": 100,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -5961,9 +6030,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 12.3 Pounds 113.19",
                 "weight": "12.3 Pounds",
                 "price": 113.19,
-                "remaining_products": 97,
+                "remaining_products": 11,
                 "color": "Black",
                 "img": [
                     {
@@ -6133,9 +6203,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 8.3 Pounds 59.99",
                 "weight": "8.3 Pounds",
                 "price": 59.99,
-                "remaining_products": 14,
+                "remaining_products": 32,
                 "color": "silver",
                 "img": [
                     {
@@ -6279,9 +6350,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.353 ounces 14.99",
                 "weight": "0.353 ounces",
                 "price": 14.99,
-                "remaining_products": 32,
+                "remaining_products": 69,
                 "color": "Black Mate",
                 "img": [
                     {
@@ -6447,9 +6519,10 @@
         ],
         "equipment_options": [
             {
+                "name": "9 Pcs Barbell Pad Set Pink",
                 "weight": 0.907184,
                 "price": 21.99,
-                "remaining_products": 36,
+                "remaining_products": 60,
                 "color": "Pink",
                 "img": [
                     {
@@ -6495,9 +6568,10 @@
                 ]
             },
             {
+                "name": "9 Pcs Barbell Pad Set Black",
                 "weight": 0.907184,
                 "price": 21.99,
-                "remaining_products": 99,
+                "remaining_products": 6,
                 "color": "Black",
                 "img": [
                     {
@@ -6695,9 +6769,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Weight Barbell, 7-FT, Chrome",
                 "weight": 2.26796,
                 "price": 59.99,
-                "remaining_products": 82,
+                "remaining_products": 90,
                 "color": "Chrome",
                 "img": [
                     {
@@ -6723,9 +6798,10 @@
                 ]
             },
             {
+                "name": "Olympic Barbell, 6FT",
                 "weight": 2.26796,
                 "price": 55.79,
-                "remaining_products": 91,
+                "remaining_products": 37,
                 "color": "Black, Chrome",
                 "img": [
                     {
@@ -6751,9 +6827,10 @@
                 ]
             },
             {
+                "name": "Chrome 5FT",
                 "weight": 2.26796,
                 "price": 69.99,
-                "remaining_products": 3,
+                "remaining_products": 68,
                 "color": "Chrome",
                 "img": [
                     {
@@ -6900,9 +6977,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Orange",
                 "weight": 0.0,
                 "price": 9.99,
-                "remaining_products": 2,
+                "remaining_products": 83,
                 "color": "Orange",
                 "img": [
                     {
@@ -6940,9 +7018,10 @@
                 ]
             },
             {
+                "name": "Black (Nylon + Rubber Lining)",
                 "weight": 0.0,
                 "price": 9.99,
-                "remaining_products": 77,
+                "remaining_products": 43,
                 "color": "Black",
                 "img": [
                     {
@@ -6988,9 +7067,10 @@
                 ]
             },
             {
+                "name": "Dark Green",
                 "weight": 0.0,
                 "price": 9.99,
-                "remaining_products": 30,
+                "remaining_products": 87,
                 "color": "Green, Dark Green",
                 "img": [
                     {
@@ -7028,9 +7108,10 @@
                 ]
             },
             {
+                "name": "Grey",
                 "weight": 0.0,
                 "price": 9.99,
-                "remaining_products": 16,
+                "remaining_products": 36,
                 "color": "Black (Nylon + Rubber Lining)",
                 "img": [
                     {
@@ -7068,9 +7149,10 @@
                 ]
             },
             {
+                "name": "Apple Green",
                 "weight": 0.0,
                 "price": 9.99,
-                "remaining_products": 68,
+                "remaining_products": 73,
                 "color": "Green",
                 "img": [
                     {
@@ -7108,9 +7190,10 @@
                 ]
             },
             {
+                "name": "Blue",
                 "weight": 0.0,
                 "price": 9.99,
-                "remaining_products": 40,
+                "remaining_products": 85,
                 "color": "Blue",
                 "img": [
                     {
@@ -7284,9 +7367,10 @@
         ],
         "equipment_options": [
             {
+                "name": "B. Multigrip Barbell & Cable Attachment 600lbs",
                 "weight": 272.1552,
                 "price": 138.78,
-                "remaining_products": 66,
+                "remaining_products": 78,
                 "color": "B. Multigrip Barbell & Cable Attachment 600lbs",
                 "img": [
                     {
@@ -7320,9 +7404,10 @@
                 ]
             },
             {
+                "name": "A. Multigrip Barbell 400lbs",
                 "weight": 181.4368,
                 "price": 138.78,
-                "remaining_products": 79,
+                "remaining_products": 15,
                 "color": "B. Multigrip Barbell & Cable Attachment 600lbs",
                 "img": [
                     {
@@ -7360,9 +7445,10 @@
                 ]
             },
             {
+                "name": "C. Squat Bar",
                 "weight": 10.886208,
                 "price": 138.78,
-                "remaining_products": 48,
+                "remaining_products": 8,
                 "color": "B. Multigrip Barbell & Cable Attachment 600lbs",
                 "img": [
                     {
@@ -7543,9 +7629,10 @@
         ],
         "equipment_options": [
             {
+                "name": "40LB-Black",
                 "weight": 18.14368,
                 "price": 129.99,
-                "remaining_products": 41,
+                "remaining_products": 73,
                 "color": "Black",
                 "img": [
                     {
@@ -7583,9 +7670,10 @@
                 ]
             },
             {
+                "name": "30LB-Black",
                 "weight": 13.607759999999999,
                 "price": 109.99,
-                "remaining_products": 54,
+                "remaining_products": 99,
                 "color": "Black",
                 "img": [
                     {
@@ -7623,9 +7711,10 @@
                 ]
             },
             {
+                "name": "70LB-Black",
                 "weight": 31.75144,
                 "price": 219.99,
-                "remaining_products": 11,
+                "remaining_products": 71,
                 "color": "Black",
                 "img": [
                     {
@@ -7663,9 +7752,10 @@
                 ]
             },
             {
+                "name": "50LB-Black",
                 "weight": 22.6796,
                 "price": 149.99,
-                "remaining_products": 51,
+                "remaining_products": 21,
                 "color": "Black",
                 "img": [
                     {
@@ -7703,9 +7793,10 @@
                 ]
             },
             {
+                "name": "90LB-Black",
                 "weight": 40.82328,
                 "price": 279.99,
-                "remaining_products": 84,
+                "remaining_products": 20,
                 "color": "Black",
                 "img": [
                     {
@@ -7888,9 +7979,10 @@
         ],
         "equipment_options": [
             {
+                "name": "J)48lbs",
                 "weight": 21.772416,
                 "price": 89.99,
-                "remaining_products": 42,
+                "remaining_products": 37,
                 "color": "BLACK",
                 "img": [
                     {
@@ -7928,9 +8020,10 @@
                 ]
             },
             {
+                "name": "E)21lbs",
                 "weight": 9.525432,
                 "price": 89.99,
-                "remaining_products": 72,
+                "remaining_products": 45,
                 "color": "BLACK",
                 "img": [
                     {
@@ -7968,9 +8061,10 @@
                 ]
             },
             {
+                "name": "A)15lbs",
                 "weight": 6.8038799999999995,
                 "price": 89.99,
-                "remaining_products": 47,
+                "remaining_products": 53,
                 "color": "BLACK",
                 "img": [
                     {
@@ -8016,9 +8110,10 @@
                 ]
             },
             {
+                "name": "H)46lbs",
                 "weight": 20.865232,
                 "price": 89.99,
-                "remaining_products": 86,
+                "remaining_products": 95,
                 "color": "BLACK",
                 "img": [
                     {
@@ -8056,9 +8151,10 @@
                 ]
             },
             {
+                "name": "I)47lbs",
                 "weight": 21.318824,
                 "price": 89.99,
-                "remaining_products": 9,
+                "remaining_products": 2,
                 "color": "BLACK",
                 "img": [
                     {
@@ -8232,9 +8328,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 5.7 Pounds 26.99",
                 "weight": "5.7 Pounds",
                 "price": 26.99,
-                "remaining_products": 65,
+                "remaining_products": 48,
                 "color": "Black",
                 "img": [
                     {
@@ -8390,9 +8487,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 3.15 Kilograms 35.14",
                 "weight": "3.15 Kilograms",
                 "price": 35.14,
-                "remaining_products": 3,
+                "remaining_products": 9,
                 "color": "Barbell Holder",
                 "img": [
                     {
@@ -8558,9 +8656,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Silver",
                 "weight": 0.56,
                 "price": 39.99,
-                "remaining_products": 51,
+                "remaining_products": 84,
                 "color": "Silver",
                 "img": [
                     {
@@ -8598,9 +8697,10 @@
                 ]
             },
             {
+                "name": "Black",
                 "weight": 0.56,
                 "price": 39.99,
-                "remaining_products": 19,
+                "remaining_products": 18,
                 "color": "Black",
                 "img": [
                     {
@@ -8774,9 +8874,10 @@
         ],
         "equipment_options": [
             {
+                "name": "20KG Dumbbell",
                 "weight": 20.0,
                 "price": 85.97,
-                "remaining_products": 86,
+                "remaining_products": 18,
                 "color": "20KG Dumbbell",
                 "img": [
                     {
@@ -8814,9 +8915,10 @@
                 ]
             },
             {
+                "name": "20KG kettlebell",
                 "weight": 20.0,
                 "price": 104.99,
-                "remaining_products": 40,
+                "remaining_products": 19,
                 "color": "20KG Dumbbell",
                 "img": [
                     {
@@ -8858,9 +8960,10 @@
                 ]
             },
             {
+                "name": "10KG Dumbbell",
                 "weight": 10.0,
                 "price": 69.99,
-                "remaining_products": 46,
+                "remaining_products": 62,
                 "color": "20KG Dumbbell",
                 "img": [
                     {
@@ -9070,9 +9173,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 61 Pounds 139.99",
                 "weight": "61 Pounds",
                 "price": 139.99,
-                "remaining_products": 33,
+                "remaining_products": 58,
                 "color": "Black",
                 "img": [
                     {
@@ -9238,9 +9342,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2.68 Kilograms 99.99",
                 "weight": "2.68 Kilograms",
                 "price": 99.99,
-                "remaining_products": 7,
+                "remaining_products": 77,
                 "color": "BLACK",
                 "img": [
                     {
@@ -9438,9 +9543,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Green",
                 "weight": 19.050864,
                 "price": 94.21,
-                "remaining_products": 36,
+                "remaining_products": 101,
                 "color": "Green",
                 "img": [
                     {
@@ -9474,9 +9580,10 @@
                 ]
             },
             {
+                "name": "Red",
                 "weight": 19.050864,
                 "price": 84.68,
-                "remaining_products": 84,
+                "remaining_products": 75,
                 "color": "Red",
                 "img": [
                     {
@@ -9514,9 +9621,10 @@
                 ]
             },
             {
+                "name": "Blue",
                 "weight": 19.050864,
                 "price": 88.52,
-                "remaining_products": 87,
+                "remaining_products": 52,
                 "color": "Blue",
                 "img": [
                     {
@@ -9686,9 +9794,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Sliver/5ft/400lbs",
                 "weight": 181.4368,
                 "price": 69.99,
-                "remaining_products": 91,
+                "remaining_products": 4,
                 "color": "Sliver/5ft/400lbs",
                 "img": [
                     {
@@ -9726,9 +9835,10 @@
                 ]
             },
             {
+                "name": "Sliver/4ft/300lbs",
                 "weight": 136.0776,
                 "price": 69.99,
-                "remaining_products": 83,
+                "remaining_products": 91,
                 "color": "Sliver/5ft/400lbs",
                 "img": [
                     {
@@ -9766,9 +9876,10 @@
                 ]
             },
             {
+                "name": "Black/4ft/300lbs",
                 "weight": 136.0776,
                 "price": 69.99,
-                "remaining_products": 94,
+                "remaining_products": 33,
                 "color": "Black",
                 "img": [
                     {
@@ -9806,9 +9917,10 @@
                 ]
             },
             {
+                "name": "Black/7ft/600lbs",
                 "weight": 272.1552,
                 "price": 69.99,
-                "remaining_products": 70,
+                "remaining_products": 50,
                 "color": "Black",
                 "img": [
                     {
@@ -9846,9 +9958,10 @@
                 ]
             },
             {
+                "name": "Sliver/6ft/500lbs",
                 "weight": 226.796,
                 "price": 69.99,
-                "remaining_products": 92,
+                "remaining_products": 90,
                 "color": "Sliver/5ft/400lbs",
                 "img": [
                     {
@@ -9886,9 +9999,10 @@
                 ]
             },
             {
+                "name": "Sliver/7ft/600lbs",
                 "weight": 272.1552,
                 "price": 69.99,
-                "remaining_products": 0,
+                "remaining_products": 48,
                 "color": "Sliver/5ft/400lbs",
                 "img": [
                     {
@@ -10042,9 +10156,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Red",
                 "weight": 27.215519999999998,
                 "price": 192.99,
-                "remaining_products": 1,
+                "remaining_products": 78,
                 "color": "Red",
                 "img": [
                     {
@@ -10090,9 +10205,10 @@
                 ]
             },
             {
+                "name": "Yellow",
                 "weight": 27.215519999999998,
                 "price": 192.99,
-                "remaining_products": 37,
+                "remaining_products": 32,
                 "color": "Yellow",
                 "img": [
                     {
@@ -10138,9 +10254,10 @@
                 ]
             },
             {
+                "name": "White",
                 "weight": 27.215519999999998,
                 "price": 192.99,
-                "remaining_products": 42,
+                "remaining_products": 73,
                 "color": "White",
                 "img": [
                     {
@@ -10322,9 +10439,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black Chrome, 6.6ft,1000lbs",
                 "weight": 453.592,
                 "price": 109.99,
-                "remaining_products": 60,
+                "remaining_products": 51,
                 "color": "Black, Chrome",
                 "img": [
                     {
@@ -10358,9 +10476,10 @@
                 ]
             },
             {
+                "name": "Pink Cerakote, 6.6ft, 1500lbs",
                 "weight": 680.388,
                 "price": 169.99,
-                "remaining_products": 63,
+                "remaining_products": 14,
                 "color": "Pink",
                 "img": [
                     {
@@ -10394,9 +10513,10 @@
                 ]
             },
             {
+                "name": "Silver Chrome, 7ft, 1000lbs",
                 "weight": 453.592,
                 "price": 99.99,
-                "remaining_products": 45,
+                "remaining_products": 71,
                 "color": "Silver, Chrome",
                 "img": [
                     {
@@ -10442,9 +10562,10 @@
                 ]
             },
             {
+                "name": "Red Cerakote, 7ft, 1500lbs",
                 "weight": 680.388,
                 "price": 259.99,
-                "remaining_products": 28,
+                "remaining_products": 70,
                 "color": "Red",
                 "img": [
                     {
@@ -10478,9 +10599,10 @@
                 ]
             },
             {
+                "name": "Black Zinc, 7ft, 1200lbs",
                 "weight": 544.3104,
                 "price": 109.99,
-                "remaining_products": 71,
+                "remaining_products": 100,
                 "color": "Black",
                 "img": [
                     {
@@ -10618,9 +10740,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.9 Pounds 19.99",
                 "weight": "0.9 Pounds",
                 "price": 19.99,
-                "remaining_products": 68,
+                "remaining_products": 45,
                 "color": "Deep Black",
                 "img": [
                     {
@@ -10803,9 +10926,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 4.64 ounces 49.99",
                 "weight": "4.64 ounces",
                 "price": 49.99,
-                "remaining_products": 15,
+                "remaining_products": 44,
                 "color": "Black",
                 "img": [
                     {
@@ -10971,9 +11095,10 @@
         ],
         "equipment_options": [
             {
+                "name": "150bs Set - Comfort Handles White",
                 "weight": 10.477975200000001,
                 "price": 229.99,
-                "remaining_products": 12,
+                "remaining_products": 41,
                 "color": "White",
                 "img": [
                     {
@@ -11007,9 +11132,10 @@
                 ]
             },
             {
+                "name": "150bs Set - Chrome Handles White",
                 "weight": 10.477975200000001,
                 "price": 229.99,
-                "remaining_products": 61,
+                "remaining_products": 73,
                 "color": "White, Chrome",
                 "img": [
                     {
@@ -11185,9 +11311,10 @@
         ],
         "equipment_options": [
             {
+                "name": "40LB (20.0LB Pair)",
                 "weight": 18.14368,
                 "price": 68.53,
-                "remaining_products": 38,
+                "remaining_products": 68,
                 "color": "3 in 1 55LB (27.5LB Pair)",
                 "img": [
                     {
@@ -11233,9 +11360,10 @@
                 ]
             },
             {
+                "name": "70LB (35.0LB Pair)",
                 "weight": 31.75144,
                 "price": 129.99,
-                "remaining_products": 1,
+                "remaining_products": 44,
                 "color": "3 in 1 55LB (27.5LB Pair)",
                 "img": [
                     {
@@ -11277,9 +11405,10 @@
                 ]
             },
             {
+                "name": "30LB (15.0LB Pair)",
                 "weight": 13.607759999999999,
                 "price": 59.99,
-                "remaining_products": 11,
+                "remaining_products": 100,
                 "color": "3 in 1 55LB (27.5LB Pair)",
                 "img": [
                     {
@@ -11325,9 +11454,10 @@
                 ]
             },
             {
+                "name": "54LB (27.0LB Pair)",
                 "weight": 24.493968,
                 "price": 94.99,
-                "remaining_products": 58,
+                "remaining_products": 24,
                 "color": "3 in 1 55LB (27.5LB Pair)",
                 "img": [
                     {
@@ -11369,9 +11499,10 @@
                 ]
             },
             {
+                "name": "55LB (27.5LB Pair)",
                 "weight": 24.94756,
                 "price": 99.99,
-                "remaining_products": 41,
+                "remaining_products": 44,
                 "color": "3 in 1 55LB (27.5LB Pair)",
                 "img": [
                     {
@@ -11413,9 +11544,10 @@
                 ]
             },
             {
+                "name": "90LB (45.0LB Pair)",
                 "weight": 40.82328,
                 "price": 179.99,
-                "remaining_products": 99,
+                "remaining_products": 79,
                 "color": "3 in 1 55LB (27.5LB Pair)",
                 "img": [
                     {
@@ -11461,6 +11593,7 @@
                 ]
             },
             {
+                "name": "20LB (10.0LB Pair)",
                 "weight": 9.07184,
                 "price": 48.08,
                 "remaining_products": 44,
@@ -11509,9 +11642,10 @@
                 ]
             },
             {
+                "name": "80LB (40.0LB Pair)",
                 "weight": 36.28736,
                 "price": 149.99,
-                "remaining_products": 46,
+                "remaining_products": 16,
                 "color": "3 in 1 55LB (27.5LB Pair)",
                 "img": [
                     {
@@ -11685,9 +11819,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 66 Pounds 135.99",
                 "weight": "66 Pounds",
                 "price": 135.99,
-                "remaining_products": 82,
+                "remaining_products": 21,
                 "color": "Black",
                 "img": [
                     {
@@ -11848,9 +11983,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 600 Grams 23.99",
                 "weight": "600 Grams",
                 "price": 23.99,
-                "remaining_products": 47,
+                "remaining_products": 94,
                 "color": "gray",
                 "img": [
                     {
@@ -12012,9 +12148,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Pink",
                 "weight": 0.0,
                 "price": 12.99,
-                "remaining_products": 57,
+                "remaining_products": 45,
                 "color": "Pink",
                 "img": [
                     {
@@ -12052,9 +12189,10 @@
                 ]
             },
             {
+                "name": "Blue",
                 "weight": 0.0,
                 "price": 12.99,
-                "remaining_products": 47,
+                "remaining_products": 67,
                 "color": "Blue",
                 "img": [
                     {
@@ -12092,9 +12230,10 @@
                 ]
             },
             {
+                "name": "Black",
                 "weight": 0.0,
                 "price": 12.99,
-                "remaining_products": 37,
+                "remaining_products": 2,
                 "color": "Black",
                 "img": [
                     {
@@ -12132,9 +12271,10 @@
                 ]
             },
             {
+                "name": "Red",
                 "weight": 0.0,
                 "price": 12.99,
-                "remaining_products": 6,
+                "remaining_products": 8,
                 "color": "Red",
                 "img": [
                     {
@@ -12333,9 +12473,10 @@
         ],
         "equipment_options": [
             {
+                "name": "OB-HEX",
                 "weight": 9.979023999999999,
                 "price": 116.99,
-                "remaining_products": 95,
+                "remaining_products": 24,
                 "color": "Black",
                 "img": [
                     {
@@ -12381,9 +12522,10 @@
                 ]
             },
             {
+                "name": "OB-TRAP",
                 "weight": 9.979023999999999,
                 "price": 99.99,
-                "remaining_products": 93,
+                "remaining_products": 95,
                 "color": "Black",
                 "img": [
                     {
@@ -12569,9 +12711,10 @@
         ],
         "equipment_options": [
             {
+                "name": "B. Multigrip Barbell & Cable Attachment 600lbs",
                 "weight": 272.1552,
                 "price": 138.78,
-                "remaining_products": 12,
+                "remaining_products": 31,
                 "color": "A. Multigrip Barbell 400lbs",
                 "img": [
                     {
@@ -12605,9 +12748,10 @@
                 ]
             },
             {
+                "name": "A. Multigrip Barbell 400lbs",
                 "weight": 181.4368,
                 "price": 92.99,
-                "remaining_products": 51,
+                "remaining_products": 22,
                 "color": "A. Multigrip Barbell 400lbs",
                 "img": [
                     {
@@ -12645,9 +12789,10 @@
                 ]
             },
             {
+                "name": "C. Squat Bar",
                 "weight": 10.91,
                 "price": 259.99,
-                "remaining_products": 26,
+                "remaining_products": 71,
                 "color": "A. Multigrip Barbell 400lbs",
                 "img": [
                     {
@@ -12813,9 +12958,10 @@
         ],
         "equipment_options": [
             {
+                "name": "44.0 Pounds",
                 "weight": 19.958047999999998,
                 "price": 104.5,
-                "remaining_products": 11,
+                "remaining_products": 92,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -12845,9 +12991,10 @@
                 ]
             },
             {
+                "name": "88.0 Pounds",
                 "weight": 39.916095999999996,
                 "price": 104.5,
-                "remaining_products": 20,
+                "remaining_products": 40,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -12873,9 +13020,10 @@
                 ]
             },
             {
+                "name": "66.0 Pounds",
                 "weight": 29.937072,
                 "price": 104.5,
-                "remaining_products": 28,
+                "remaining_products": 1,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -13045,9 +13193,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black",
                 "weight": 6.8038799999999995,
                 "price": 45.99,
-                "remaining_products": 97,
+                "remaining_products": 18,
                 "color": "Black",
                 "img": [
                     {
@@ -13085,9 +13234,10 @@
                 ]
             },
             {
+                "name": "Silver",
                 "weight": 6.8038799999999995,
                 "price": 45.99,
-                "remaining_products": 28,
+                "remaining_products": 74,
                 "color": "Silver",
                 "img": [
                     {
@@ -13265,9 +13415,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black Chrome, 6.6ft,1000lbs",
                 "weight": 453.592,
                 "price": 109.99,
-                "remaining_products": 46,
+                "remaining_products": 60,
                 "color": "Black, Chrome",
                 "img": [
                     {
@@ -13301,9 +13452,10 @@
                 ]
             },
             {
+                "name": "Pink Cerakote, 6.6ft, 1500lbs",
                 "weight": 680.388,
                 "price": 169.99,
-                "remaining_products": 80,
+                "remaining_products": 1,
                 "color": "Pink",
                 "img": [
                     {
@@ -13337,9 +13489,10 @@
                 ]
             },
             {
+                "name": "Silver Chrome, 7ft, 1000lbs",
                 "weight": 453.592,
                 "price": 99.99,
-                "remaining_products": 66,
+                "remaining_products": 31,
                 "color": "Silver, Chrome",
                 "img": [
                     {
@@ -13385,9 +13538,10 @@
                 ]
             },
             {
+                "name": "Red Cerakote, 7ft, 1500lbs",
                 "weight": 680.388,
                 "price": 259.99,
-                "remaining_products": 96,
+                "remaining_products": 67,
                 "color": "Red",
                 "img": [
                     {
@@ -13421,9 +13575,10 @@
                 ]
             },
             {
+                "name": "Black Zinc, 7ft, 1200lbs",
                 "weight": 544.3104,
                 "price": 109.99,
-                "remaining_products": 59,
+                "remaining_products": 72,
                 "color": "Black",
                 "img": [
                     {
@@ -13604,9 +13759,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 30 Pounds 199.99",
                 "weight": "30 Pounds",
                 "price": 199.99,
-                "remaining_products": 83,
+                "remaining_products": 93,
                 "color": "Black",
                 "img": [
                     {
@@ -13772,9 +13928,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black",
                 "weight": 20.0034072,
                 "price": 79.99,
-                "remaining_products": 82,
+                "remaining_products": 83,
                 "color": "Black",
                 "img": [
                     {
@@ -13820,9 +13977,10 @@
                 ]
             },
             {
+                "name": "Pink",
                 "weight": 20.0034072,
                 "price": 99.99,
-                "remaining_products": 13,
+                "remaining_products": 96,
                 "color": "Pink",
                 "img": [
                     {
@@ -13868,9 +14026,10 @@
                 ]
             },
             {
+                "name": "Red",
                 "weight": 20.0034072,
                 "price": 99.99,
-                "remaining_products": 23,
+                "remaining_products": 98,
                 "color": "Red",
                 "img": [
                     {
@@ -13916,9 +14075,10 @@
                 ]
             },
             {
+                "name": "Silver",
                 "weight": 20.0034072,
                 "price": 79.99,
-                "remaining_products": 98,
+                "remaining_products": 90,
                 "color": "Silver",
                 "img": [
                     {
@@ -13964,9 +14124,10 @@
                 ]
             },
             {
+                "name": "Green",
                 "weight": 20.0034072,
                 "price": 99.99,
-                "remaining_products": 95,
+                "remaining_products": 88,
                 "color": "Green",
                 "img": [
                     {
@@ -14152,9 +14313,10 @@
         ],
         "equipment_options": [
             {
+                "name": "1 Inch, 5FT",
                 "weight": 5.9,
                 "price": 69.99,
-                "remaining_products": 36,
+                "remaining_products": 13,
                 "color": "1 Inch, 5FT",
                 "img": [
                     {
@@ -14176,9 +14338,10 @@
                 ]
             },
             {
+                "name": "1 Inch, 6FT",
                 "weight": 5.9,
                 "price": 89.99,
-                "remaining_products": 8,
+                "remaining_products": 69,
                 "color": "1 Inch, 5FT",
                 "img": [
                     {
@@ -14312,9 +14475,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black",
                 "weight": 1.14,
                 "price": 28.99,
-                "remaining_products": 65,
+                "remaining_products": 63,
                 "color": "Black",
                 "img": [
                     {
@@ -14356,9 +14520,10 @@
                 ]
             },
             {
+                "name": "Graphite Black",
                 "weight": 1.14,
                 "price": 28.99,
-                "remaining_products": 73,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -14396,9 +14561,10 @@
                 ]
             },
             {
+                "name": "Fresh Pink",
                 "weight": 1.14,
                 "price": 28.99,
-                "remaining_products": 20,
+                "remaining_products": 11,
                 "color": "Pink",
                 "img": [
                     {
@@ -14432,9 +14598,10 @@
                 ]
             },
             {
+                "name": "Pink",
                 "weight": 1.14,
                 "price": 28.99,
-                "remaining_products": 30,
+                "remaining_products": 66,
                 "color": "Pink",
                 "img": [
                     {
@@ -14608,9 +14775,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 7 Pounds 95.99",
                 "weight": "7 Pounds",
                 "price": 95.99,
-                "remaining_products": 75,
+                "remaining_products": 6,
                 "color": "Black",
                 "img": [
                     {
@@ -14781,9 +14949,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Kettlebell",
                 "weight": 3.628736,
                 "price": 119.99,
-                "remaining_products": 56,
+                "remaining_products": 18,
                 "color": "Black",
                 "img": [
                     {
@@ -14817,9 +14986,10 @@
                 ]
             },
             {
+                "name": "Barbell+Kettlebell",
                 "weight": 3.628736,
                 "price": 119.99,
-                "remaining_products": 38,
+                "remaining_products": 97,
                 "color": "Black",
                 "img": [
                     {
@@ -14853,9 +15023,10 @@
                 ]
             },
             {
+                "name": "Barbell",
                 "weight": 3.628736,
                 "price": 119.99,
-                "remaining_products": 27,
+                "remaining_products": 94,
                 "color": "Black",
                 "img": [
                     {
@@ -15001,9 +15172,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.96 Kilograms 17.28",
                 "weight": "0.96 Kilograms",
                 "price": 17.28,
-                "remaining_products": 24,
+                "remaining_products": 84,
                 "color": "Black",
                 "img": [
                     {
@@ -15163,9 +15335,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Red",
                 "weight": 0.0,
                 "price": 42.99,
-                "remaining_products": 0,
+                "remaining_products": 72,
                 "color": "Red",
                 "img": [
                     {
@@ -15207,9 +15380,10 @@
                 ]
             },
             {
+                "name": "Black",
                 "weight": 0.0,
                 "price": 42.99,
-                "remaining_products": 47,
+                "remaining_products": 63,
                 "color": "Black",
                 "img": [
                     {
@@ -15247,9 +15421,10 @@
                 ]
             },
             {
+                "name": "Blue",
                 "weight": 0.0,
                 "price": 42.99,
-                "remaining_products": 32,
+                "remaining_products": 14,
                 "color": "Blue",
                 "img": [
                     {
@@ -15287,9 +15462,10 @@
                 ]
             },
             {
+                "name": "Grey",
                 "weight": 0.0,
                 "price": 42.99,
-                "remaining_products": 3,
+                "remaining_products": 73,
                 "color": "Red",
                 "img": [
                     {
@@ -15471,9 +15647,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 11 Pounds 29.99",
                 "weight": "11 Pounds",
                 "price": 29.99,
-                "remaining_products": 66,
+                "remaining_products": 99,
                 "color": "A. (Black) Viking Press Handle",
                 "img": [
                     {
@@ -15653,9 +15830,10 @@
         ],
         "equipment_options": [
             {
+                "name": "40LB (20.0LB Pair)",
                 "weight": 18.14368,
                 "price": 48.08,
-                "remaining_products": 43,
+                "remaining_products": 86,
                 "color": "2 in 1 20LB (10.0LB Pair)",
                 "img": [
                     {
@@ -15701,9 +15879,10 @@
                 ]
             },
             {
+                "name": "70LB (35.0LB Pair)",
                 "weight": 31.75144,
                 "price": 48.08,
-                "remaining_products": 51,
+                "remaining_products": 9,
                 "color": "2 in 1 20LB (10.0LB Pair)",
                 "img": [
                     {
@@ -15745,9 +15924,10 @@
                 ]
             },
             {
+                "name": "30LB (15.0LB Pair)",
                 "weight": 13.607759999999999,
                 "price": 48.08,
-                "remaining_products": 88,
+                "remaining_products": 11,
                 "color": "2 in 1 20LB (10.0LB Pair)",
                 "img": [
                     {
@@ -15793,9 +15973,10 @@
                 ]
             },
             {
+                "name": "54LB (27.0LB Pair)",
                 "weight": 24.493968,
                 "price": 48.08,
-                "remaining_products": 44,
+                "remaining_products": 46,
                 "color": "2 in 1 20LB (10.0LB Pair)",
                 "img": [
                     {
@@ -15837,9 +16018,10 @@
                 ]
             },
             {
+                "name": "55LB (27.5LB Pair)",
                 "weight": 24.94756,
                 "price": 48.08,
-                "remaining_products": 98,
+                "remaining_products": 12,
                 "color": "2 in 1 20LB (10.0LB Pair)",
                 "img": [
                     {
@@ -15881,9 +16063,10 @@
                 ]
             },
             {
+                "name": "90LB (45.0LB Pair)",
                 "weight": 40.82328,
                 "price": 48.08,
-                "remaining_products": 64,
+                "remaining_products": 36,
                 "color": "2 in 1 20LB (10.0LB Pair)",
                 "img": [
                     {
@@ -15929,9 +16112,10 @@
                 ]
             },
             {
+                "name": "20LB (10.0LB Pair)",
                 "weight": 9.07184,
                 "price": 48.08,
-                "remaining_products": 18,
+                "remaining_products": 56,
                 "color": "2 in 1 20LB (10.0LB Pair)",
                 "img": [
                     {
@@ -15977,9 +16161,10 @@
                 ]
             },
             {
+                "name": "80LB (40.0LB Pair)",
                 "weight": 36.28736,
                 "price": 48.08,
-                "remaining_products": 57,
+                "remaining_products": 19,
                 "color": "2 in 1 20LB (10.0LB Pair)",
                 "img": [
                     {
@@ -16173,9 +16358,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.44 Kilograms 8.99",
                 "weight": "0.44 Kilograms",
                 "price": 8.99,
-                "remaining_products": 75,
+                "remaining_products": 9,
                 "color": "Black/Silver",
                 "img": [
                     {
@@ -16349,9 +16535,10 @@
         ],
         "equipment_options": [
             {
+                "name": "EZ Curl",
                 "weight": 2.26796,
                 "price": 129,
-                "remaining_products": 0,
+                "remaining_products": 43,
                 "color": "Barbell",
                 "img": [
                     {
@@ -16385,9 +16572,10 @@
                 ]
             },
             {
+                "name": "Bar+Kettlebell",
                 "weight": 2.26796,
                 "price": 148.2,
-                "remaining_products": 15,
+                "remaining_products": 56,
                 "color": "Barbell",
                 "img": [
                     {
@@ -16421,9 +16609,10 @@
                 ]
             },
             {
+                "name": "Barbell",
                 "weight": 2.26796,
                 "price": 119,
-                "remaining_products": 72,
+                "remaining_products": 58,
                 "color": "Barbell",
                 "img": [
                     {
@@ -16457,9 +16646,10 @@
                 ]
             },
             {
+                "name": "Kettlebell",
                 "weight": 2.26796,
                 "price": 39,
-                "remaining_products": 36,
+                "remaining_products": 25,
                 "color": "Barbell",
                 "img": [
                     {
@@ -16609,9 +16799,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Pink03",
                 "weight": 1.1,
                 "price": 23.99,
-                "remaining_products": 71,
+                "remaining_products": 34,
                 "color": "Pink",
                 "img": [
                     {
@@ -16649,9 +16840,10 @@
                 ]
             },
             {
+                "name": "Black03",
                 "weight": 1.1,
                 "price": 23.99,
-                "remaining_products": 47,
+                "remaining_products": 39,
                 "color": "Black",
                 "img": [
                     {
@@ -16689,9 +16881,10 @@
                 ]
             },
             {
+                "name": "Pink",
                 "weight": 1.1,
                 "price": 27.99,
-                "remaining_products": 17,
+                "remaining_products": 95,
                 "color": "Pink",
                 "img": [
                     {
@@ -16725,9 +16918,10 @@
                 ]
             },
             {
+                "name": "Black",
                 "weight": 1.1,
                 "price": 27.99,
-                "remaining_products": 80,
+                "remaining_products": 62,
                 "color": "Black",
                 "img": [
                     {
@@ -16885,9 +17079,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 44.1 Pounds 42.3",
                 "weight": "44.1 Pounds",
                 "price": 42.3,
-                "remaining_products": 2,
+                "remaining_products": 90,
                 "color": "silver",
                 "img": [
                     {
@@ -17065,9 +17260,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Red-500LBS",
                 "weight": 226.796,
                 "price": 139.94,
-                "remaining_products": 97,
+                "remaining_products": 84,
                 "color": "Red",
                 "img": [
                     {
@@ -17113,9 +17309,10 @@
                 ]
             },
             {
+                "name": "Green-500LBS",
                 "weight": 226.796,
                 "price": 139.94,
-                "remaining_products": 31,
+                "remaining_products": 53,
                 "color": "Green",
                 "img": [
                     {
@@ -17161,9 +17358,10 @@
                 ]
             },
             {
+                "name": "Pink-700LBS",
                 "weight": 317.5144,
                 "price": 146.44,
-                "remaining_products": 77,
+                "remaining_products": 79,
                 "color": "Pink",
                 "img": [
                     {
@@ -17209,9 +17407,10 @@
                 ]
             },
             {
+                "name": "Green-700LBS",
                 "weight": 317.5144,
                 "price": 146.44,
-                "remaining_products": 26,
+                "remaining_products": 95,
                 "color": "Green",
                 "img": [
                     {
@@ -17257,9 +17456,10 @@
                 ]
             },
             {
+                "name": "Blue-500LBS",
                 "weight": 226.796,
                 "price": 139.94,
-                "remaining_products": 84,
+                "remaining_products": 61,
                 "color": "Blue",
                 "img": [
                     {
@@ -17305,9 +17505,10 @@
                 ]
             },
             {
+                "name": "1000LBS-Blue",
                 "weight": 453.592,
                 "price": 159.94,
-                "remaining_products": 50,
+                "remaining_products": 74,
                 "color": "Blue",
                 "img": [
                     {
@@ -17353,9 +17554,10 @@
                 ]
             },
             {
+                "name": "Blue-700LBS",
                 "weight": 317.5144,
                 "price": 149.94,
-                "remaining_products": 11,
+                "remaining_products": 32,
                 "color": "Blue",
                 "img": [
                     {
@@ -17552,9 +17754,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 12 Pounds 34.99",
                 "weight": "12 Pounds",
                 "price": 34.99,
-                "remaining_products": 7,
+                "remaining_products": 99,
                 "color": "Black",
                 "img": [
                     {
@@ -17739,9 +17942,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 19 Pounds 53.34",
                 "weight": "19 Pounds",
                 "price": 53.34,
-                "remaining_products": 49,
+                "remaining_products": 98,
                 "color": "Color #5",
                 "img": [
                     {
@@ -17903,9 +18107,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.3 Pounds 22.99",
                 "weight": "1.3 Pounds",
                 "price": 22.99,
-                "remaining_products": 69,
+                "remaining_products": 89,
                 "color": "A. Barbell Bomb",
                 "img": [
                     {
@@ -18091,9 +18296,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 554 Pounds 1525.5",
                 "weight": "554 Pounds",
                 "price": 1525.5,
-                "remaining_products": 99,
+                "remaining_products": 29,
                 "color": "Grey Rack, Blue / Green / Red Weight Plates",
                 "img": [
                     {
@@ -18285,9 +18491,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black, 60 LB Pair",
                 "weight": 27.215519999999998,
                 "price": 76.82,
-                "remaining_products": 49,
+                "remaining_products": 60,
                 "color": "Black",
                 "img": [
                     {
@@ -18329,9 +18536,10 @@
                 ]
             },
             {
+                "name": "Black, 52.5 LB, Single",
                 "weight": 23.813579999999998,
                 "price": 76.82,
-                "remaining_products": 0,
+                "remaining_products": 69,
                 "color": "Black",
                 "img": [
                     {
@@ -18377,9 +18585,10 @@
                 ]
             },
             {
+                "name": "Black, 25 LB, Single",
                 "weight": 11.3398,
                 "price": 76.82,
-                "remaining_products": 93,
+                "remaining_products": 56,
                 "color": "Black",
                 "img": [
                     {
@@ -18401,9 +18610,10 @@
                 ]
             },
             {
+                "name": "Black,40 LB, Pair",
                 "weight": 18.14368,
                 "price": 76.82,
-                "remaining_products": 7,
+                "remaining_products": 6,
                 "color": "Black",
                 "img": [
                     {
@@ -18433,9 +18643,10 @@
                 ]
             },
             {
+                "name": "Black, 105 LB, Pair",
                 "weight": 47.627159999999996,
                 "price": 76.82,
-                "remaining_products": 54,
+                "remaining_products": 84,
                 "color": "Black",
                 "img": [
                     {
@@ -18473,9 +18684,10 @@
                 ]
             },
             {
+                "name": "Black, 50 LB, Pair",
                 "weight": 22.6796,
                 "price": 76.82,
-                "remaining_products": 11,
+                "remaining_products": 60,
                 "color": "Black",
                 "img": [
                     {
@@ -18513,9 +18725,10 @@
                 ]
             },
             {
+                "name": "Black, 200 LB, Pair",
                 "weight": 90.7184,
                 "price": 76.82,
-                "remaining_products": 24,
+                "remaining_products": 13,
                 "color": "Black",
                 "img": [
                     {
@@ -18557,9 +18770,10 @@
                 ]
             },
             {
+                "name": "Black, 40 LB w/Case, Pair",
                 "weight": 18.14368,
                 "price": 76.82,
-                "remaining_products": 33,
+                "remaining_products": 24,
                 "color": "Black",
                 "img": [
                     {

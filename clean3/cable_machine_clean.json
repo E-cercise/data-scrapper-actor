@@ -104,9 +104,10 @@
         ],
         "equipment_options": [
             {
+                "name": "WSMS025B2",
                 "weight": 12.7912944,
                 "price": 175.5,
-                "remaining_products": 7,
+                "remaining_products": 49,
                 "color": "Blue, Yellow, Black",
                 "img": [
                     {
@@ -152,9 +153,10 @@
                 ]
             },
             {
+                "name": "For 11/0-18 Gauge Wires",
                 "weight": 12.7912944,
                 "price": 269.99,
-                "remaining_products": 20,
+                "remaining_products": 6,
                 "color": "Blue, Yellow, Black",
                 "img": [
                     {
@@ -298,9 +300,10 @@
         ],
         "equipment_options": [
             {
+                "name": "0.06\"-1.5\"",
                 "weight": 23.586784,
                 "price": 346.99,
-                "remaining_products": 34,
+                "remaining_products": 98,
                 "color": "Blue",
                 "img": [
                     {
@@ -346,9 +349,10 @@
                 ]
             },
             {
+                "name": "0.06\"-1.18\"",
                 "weight": 23.586784,
                 "price": 167.99,
-                "remaining_products": 26,
+                "remaining_products": 49,
                 "color": "Blue",
                 "img": [
                     {
@@ -485,9 +489,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.36 Kilograms 14.99",
                 "weight": "0.36 Kilograms",
                 "price": 14.99,
-                "remaining_products": 97,
+                "remaining_products": 57,
                 "color": "Black",
                 "img": [
                     {
@@ -615,9 +620,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Detachable Carabiner",
                 "weight": 0.453592,
                 "price": 25.88,
-                "remaining_products": 27,
+                "remaining_products": 54,
                 "color": "Detachable Carabiner",
                 "img": [
                     {
@@ -651,9 +657,10 @@
                 ]
             },
             {
+                "name": "Integrated Carabiner",
                 "weight": 0.453592,
                 "price": 29.99,
-                "remaining_products": 3,
+                "remaining_products": 19,
                 "color": "Detachable Carabiner",
                 "img": [
                     {
@@ -761,9 +768,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Single-Orange",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 80,
+                "remaining_products": 34,
                 "color": "Orange",
                 "img": [
                     {
@@ -773,9 +781,10 @@
                 ]
             },
             {
+                "name": "1Pair-Orange",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 72,
+                "remaining_products": 59,
                 "color": "Orange",
                 "img": [
                     {
@@ -785,9 +794,10 @@
                 ]
             },
             {
+                "name": "1Pair-Pink",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 6,
+                "remaining_products": 1,
                 "color": "Pink",
                 "img": [
                     {
@@ -797,9 +807,10 @@
                 ]
             },
             {
+                "name": "1Pair-Black",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 75,
+                "remaining_products": 69,
                 "color": "Black",
                 "img": [
                     {
@@ -809,9 +820,10 @@
                 ]
             },
             {
+                "name": "Single-Yellow",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 79,
+                "remaining_products": 53,
                 "color": "Yellow",
                 "img": [
                     {
@@ -909,9 +921,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 17.2 Kilograms 149.99",
                 "weight": "17.2 Kilograms",
                 "price": 149.99,
-                "remaining_products": 11,
+                "remaining_products": 66,
                 "color": "Black, Red",
                 "img": [
                     {
@@ -1003,57 +1016,23 @@
         ],
         "equipment_options": [
             {
+                "name": "Upgraded Red Package(with BP & Bar & Bench)",
                 "weight": 68.0388,
                 "price": 1449.99,
-                "remaining_products": 66,
-                "color": "Red",
-                "img": [
-                    {
-                        "link": null,
-                        "is_primary": true
-                    }
-                ]
-            },
-            {
-                "weight": 68.0388,
-                "price": 1449.99,
-                "remaining_products": 13,
-                "color": "Black",
-                "img": [
-                    {
-                        "link": null,
-                        "is_primary": true
-                    }
-                ]
-            },
-            {
-                "weight": 68.0388,
-                "price": 424.99,
-                "remaining_products": 89,
-                "color": "Black",
-                "img": [
-                    {
-                        "link": null,
-                        "is_primary": true
-                    }
-                ]
-            },
-            {
-                "weight": 68.0388,
-                "price": 424.99,
-                "remaining_products": 23,
-                "color": "Red",
-                "img": [
-                    {
-                        "link": null,
-                        "is_primary": true
-                    }
-                ]
-            },
-            {
-                "weight": 68.0388,
-                "price": 849.99,
                 "remaining_products": 80,
+                "color": "Red",
+                "img": [
+                    {
+                        "link": null,
+                        "is_primary": true
+                    }
+                ]
+            },
+            {
+                "name": "Upgraded Black Package(with BP & Bar & Bench)",
+                "weight": 68.0388,
+                "price": 1449.99,
+                "remaining_products": 64,
                 "color": "Black",
                 "img": [
                     {
@@ -1063,9 +1042,49 @@
                 ]
             },
             {
+                "name": "Black Power Rack",
+                "weight": 68.0388,
+                "price": 424.99,
+                "remaining_products": 49,
+                "color": "Black",
+                "img": [
+                    {
+                        "link": null,
+                        "is_primary": true
+                    }
+                ]
+            },
+            {
+                "name": "Red Power Rack",
+                "weight": 68.0388,
+                "price": 424.99,
+                "remaining_products": 18,
+                "color": "Red",
+                "img": [
+                    {
+                        "link": null,
+                        "is_primary": true
+                    }
+                ]
+            },
+            {
+                "name": "Black Package(with Bar & Bench)",
                 "weight": 68.0388,
                 "price": 849.99,
-                "remaining_products": 81,
+                "remaining_products": 65,
+                "color": "Black",
+                "img": [
+                    {
+                        "link": null,
+                        "is_primary": true
+                    }
+                ]
+            },
+            {
+                "name": "Red Package(with Bar & Bench)",
+                "weight": 68.0388,
+                "price": 849.99,
+                "remaining_products": 61,
                 "color": "Red",
                 "img": [
                     {
@@ -1149,9 +1168,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 50,
+                "remaining_products": 20,
                 "color": "Black",
                 "img": [
                     {
@@ -1185,9 +1205,10 @@
                 ]
             },
             {
+                "name": "Black Blue",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 23,
+                "remaining_products": 2,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -1221,9 +1242,10 @@
                 ]
             },
             {
+                "name": "Black Orange",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 18,
+                "remaining_products": 22,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -1257,9 +1279,10 @@
                 ]
             },
             {
+                "name": "Black Red",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 43,
+                "remaining_products": 45,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -1396,9 +1419,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.24 Pounds 9.99",
                 "weight": "0.24 Pounds",
                 "price": 9.99,
-                "remaining_products": 77,
+                "remaining_products": 47,
                 "color": "Black 2 pack",
                 "img": [
                     {
@@ -1510,9 +1534,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 118 Pounds 459",
                 "weight": "118 Pounds",
                 "price": 459,
-                "remaining_products": 63,
+                "remaining_products": 91,
                 "color": "Black",
                 "img": [
                     {
@@ -1636,9 +1661,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Abyss Blue",
                 "weight": 0.7,
                 "price": 229,
-                "remaining_products": 35,
+                "remaining_products": 63,
                 "color": "Blue",
                 "img": [
                     {
@@ -1672,9 +1698,10 @@
                 ]
             },
             {
+                "name": "Youthful Pink",
                 "weight": 0.7,
                 "price": 229,
-                "remaining_products": 81,
+                "remaining_products": 12,
                 "color": "Pink",
                 "img": [
                     {
@@ -1708,9 +1735,10 @@
                 ]
             },
             {
+                "name": "Dynamic White",
                 "weight": 0.7,
                 "price": 229,
-                "remaining_products": 40,
+                "remaining_products": 99,
                 "color": "White",
                 "img": [
                     {
@@ -1744,9 +1772,10 @@
                 ]
             },
             {
+                "name": "Energetic Blue",
                 "weight": 0.7,
                 "price": 229,
-                "remaining_products": 83,
+                "remaining_products": 28,
                 "color": "Blue",
                 "img": [
                     {
@@ -1862,9 +1891,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Pair Black",
                 "weight": 0.26,
                 "price": 7.99,
-                "remaining_products": 52,
+                "remaining_products": 47,
                 "color": "Black",
                 "img": [
                     {
@@ -1906,9 +1936,10 @@
                 ]
             },
             {
+                "name": "Pair Mint",
                 "weight": 0.26,
                 "price": 7.99,
-                "remaining_products": 22,
+                "remaining_products": 87,
                 "color": "Mint",
                 "img": [
                     {
@@ -1942,9 +1973,10 @@
                 ]
             },
             {
+                "name": "Pair Pink",
                 "weight": 0.26,
                 "price": 8.99,
-                "remaining_products": 47,
+                "remaining_products": 20,
                 "color": "Pink",
                 "img": [
                     {
@@ -1978,9 +2010,10 @@
                 ]
             },
             {
+                "name": "Pair Purple blue",
                 "weight": 0.26,
                 "price": 8.99,
-                "remaining_products": 18,
+                "remaining_products": 39,
                 "color": "Blue, Purple",
                 "img": [
                     {
@@ -2088,9 +2121,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 330 Pounds 647.99",
                 "weight": "330 Pounds",
                 "price": 647.99,
-                "remaining_products": 88,
+                "remaining_products": 67,
                 "color": "Black",
                 "img": [
                     {
@@ -2234,9 +2268,10 @@
         ],
         "equipment_options": [
             {
+                "name": "M",
                 "weight": 0.3,
                 "price": 49.95,
-                "remaining_products": 97,
+                "remaining_products": 95,
                 "color": "30 Inch",
                 "img": [
                     {
@@ -2270,9 +2305,10 @@
                 ]
             },
             {
+                "name": "30 Inch Chrome",
                 "weight": 0.3,
                 "price": 48.85,
-                "remaining_products": 76,
+                "remaining_products": 40,
                 "color": "Chrome",
                 "img": [
                     {
@@ -2314,9 +2350,10 @@
                 ]
             },
             {
+                "name": "30 Inch Ball Hand",
                 "weight": 0.3,
                 "price": 48.85,
-                "remaining_products": 50,
+                "remaining_products": 9,
                 "color": "30 Inch",
                 "img": [
                     {
@@ -2354,9 +2391,10 @@
                 ]
             },
             {
+                "name": "20 Inch",
                 "weight": 0.3,
                 "price": 26.98,
-                "remaining_products": 71,
+                "remaining_products": 27,
                 "color": "30 Inch",
                 "img": [
                     {
@@ -2398,9 +2436,10 @@
                 ]
             },
             {
+                "name": "30 Inch",
                 "weight": 0.3,
                 "price": 34.85,
-                "remaining_products": 43,
+                "remaining_products": 96,
                 "color": "30 Inch",
                 "img": [
                     {
@@ -2438,9 +2477,10 @@
                 ]
             },
             {
+                "name": "36 Inch",
                 "weight": 0.3,
                 "price": 62.85,
-                "remaining_products": 79,
+                "remaining_products": 94,
                 "color": "30 Inch",
                 "img": [
                     {
@@ -2541,9 +2581,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Pink - Set",
                 "weight": 0.36,
                 "price": 23.99,
-                "remaining_products": 78,
+                "remaining_products": 24,
                 "color": "Pink",
                 "img": [
                     {
@@ -2585,6 +2626,7 @@
                 ]
             },
             {
+                "name": "Black - Pair",
                 "weight": 0.36,
                 "price": 23.99,
                 "remaining_products": 17,
@@ -2629,9 +2671,10 @@
                 ]
             },
             {
+                "name": "Black - Set",
                 "weight": 0.36,
                 "price": 23.99,
-                "remaining_products": 66,
+                "remaining_products": 91,
                 "color": "Black",
                 "img": [
                     {
@@ -2673,9 +2716,10 @@
                 ]
             },
             {
+                "name": "Black - Single",
                 "weight": 0.36,
                 "price": 23.99,
-                "remaining_products": 77,
+                "remaining_products": 36,
                 "color": "Black",
                 "img": [
                     {
@@ -2713,9 +2757,10 @@
                 ]
             },
             {
+                "name": "Pink - Single",
                 "weight": 0.36,
                 "price": 23.99,
-                "remaining_products": 90,
+                "remaining_products": 72,
                 "color": "Pink",
                 "img": [
                     {
@@ -2753,9 +2798,10 @@
                 ]
             },
             {
+                "name": "Pink - Pair",
                 "weight": 0.36,
                 "price": 23.99,
-                "remaining_products": 58,
+                "remaining_products": 12,
                 "color": "Pink",
                 "img": [
                     {
@@ -2867,9 +2913,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 18.6 Pounds 299.99",
                 "weight": "18.6 Pounds",
                 "price": 299.99,
-                "remaining_products": 28,
+                "remaining_products": 101,
                 "color": "White",
                 "img": [
                     {
@@ -2950,9 +2997,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Red Home Gym Station",
                 "weight": 181.4368,
                 "price": 1299.99,
-                "remaining_products": 26,
+                "remaining_products": 9,
                 "color": "Red",
                 "img": [
                     {
@@ -2990,9 +3038,10 @@
                 ]
             },
             {
+                "name": "Red Home Gym Station with Weight Bench Combo",
                 "weight": 181.4368,
                 "price": 1699.99,
-                "remaining_products": 6,
+                "remaining_products": 57,
                 "color": "Red",
                 "img": [
                     {
@@ -3038,9 +3087,10 @@
                 ]
             },
             {
+                "name": "Black Home Gym Station",
                 "weight": 181.4368,
                 "price": 1299.99,
-                "remaining_products": 34,
+                "remaining_products": 7,
                 "color": "Black",
                 "img": [
                     {
@@ -3078,9 +3128,10 @@
                 ]
             },
             {
+                "name": "Black Home Gym Station with Weight Bench Combo",
                 "weight": 181.4368,
                 "price": 1699.99,
-                "remaining_products": 23,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -3216,9 +3267,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 4.2 Pounds 142",
                 "weight": "4.2 Pounds",
                 "price": 142,
-                "remaining_products": 61,
+                "remaining_products": 38,
                 "color": "Silver",
                 "img": [
                     {
@@ -3350,9 +3402,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 3 Kilograms 33.89",
                 "weight": "3 Kilograms",
                 "price": 33.89,
-                "remaining_products": 26,
+                "remaining_products": 5,
                 "color": "Silver",
                 "img": [
                     {
@@ -3480,9 +3533,10 @@
         ],
         "equipment_options": [
             {
+                "name": "1 Channel-for1.5-23mm Wires",
                 "weight": 7.8,
                 "price": 159.99,
-                "remaining_products": 17,
+                "remaining_products": 24,
                 "color": "Grey",
                 "img": [
                     {
@@ -3528,9 +3582,10 @@
                 ]
             },
             {
+                "name": "5 Channel-for1.5-25mm Wires",
                 "weight": 7.8,
                 "price": 59.99,
-                "remaining_products": 80,
+                "remaining_products": 62,
                 "color": "Grey",
                 "img": [
                     {
@@ -3646,9 +3701,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Yellow Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 17,
+                "remaining_products": 58,
                 "color": "Yellow",
                 "img": [
                     {
@@ -3686,9 +3742,10 @@
                 ]
             },
             {
+                "name": "1-Red Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 20,
+                "remaining_products": 16,
                 "color": "Red",
                 "img": [
                     {
@@ -3734,9 +3791,10 @@
                 ]
             },
             {
+                "name": "Black Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 10,
+                "remaining_products": 9,
                 "color": "Black",
                 "img": [
                     {
@@ -3778,9 +3836,10 @@
                 ]
             },
             {
+                "name": "Blue Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 69,
+                "remaining_products": 70,
                 "color": "Blue",
                 "img": [
                     {
@@ -3818,9 +3877,10 @@
                 ]
             },
             {
+                "name": "Orange Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 83,
+                "remaining_products": 33,
                 "color": "Orange",
                 "img": [
                     {
@@ -3858,9 +3918,10 @@
                 ]
             },
             {
+                "name": "All Blue Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 67,
+                "remaining_products": 13,
                 "color": "Blue",
                 "img": [
                     {
@@ -3898,9 +3959,10 @@
                 ]
             },
             {
+                "name": "Grey Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 35,
+                "remaining_products": 4,
                 "color": "1-Red Handles",
                 "img": [
                     {
@@ -4019,9 +4081,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Pair Green",
                 "weight": 0.4082328,
                 "price": 11.99,
-                "remaining_products": 69,
+                "remaining_products": 44,
                 "color": "Green",
                 "img": [
                     {
@@ -4067,9 +4130,10 @@
                 ]
             },
             {
+                "name": "Pair Lavender",
                 "weight": 0.4082328,
                 "price": 11.99,
-                "remaining_products": 88,
+                "remaining_products": 8,
                 "color": "Lavender",
                 "img": [
                     {
@@ -4119,9 +4183,10 @@
                 ]
             },
             {
+                "name": "Pair Blue",
                 "weight": 0.4082328,
                 "price": 11.99,
-                "remaining_products": 42,
+                "remaining_products": 73,
                 "color": "Blue",
                 "img": [
                     {
@@ -4167,9 +4232,10 @@
                 ]
             },
             {
+                "name": "Pair Matte Black",
                 "weight": 0.4082328,
                 "price": 11.99,
-                "remaining_products": 66,
+                "remaining_products": 46,
                 "color": "Black",
                 "img": [
                     {
@@ -4281,9 +4347,10 @@
         ],
         "equipment_options": [
             {
+                "name": "18\" & 22\" Rotating Straight Bar",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 44,
+                "remaining_products": 3,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4321,9 +4388,10 @@
                 ]
             },
             {
+                "name": "18\" Rotating Straight Bar W/ Flat Rubber Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 53,
+                "remaining_products": 65,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4361,9 +4429,10 @@
                 ]
             },
             {
+                "name": "22\" Rotating Straight Bar W/ Flat Rubber Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 39,
+                "remaining_products": 70,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4401,9 +4470,10 @@
                 ]
             },
             {
+                "name": "B. Tricep Rope + Double D Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 34,
+                "remaining_products": 80,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4441,9 +4511,10 @@
                 ]
             },
             {
+                "name": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 95,
+                "remaining_products": 75,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4485,9 +4556,10 @@
                 ]
             },
             {
+                "name": "E. Straight Bar + Tricep Rope + Double D Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 15,
+                "remaining_products": 78,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4529,9 +4601,10 @@
                 ]
             },
             {
+                "name": "22\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 5,
+                "remaining_products": 20,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4569,9 +4642,10 @@
                 ]
             },
             {
+                "name": "D. Double D Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 5,
+                "remaining_products": 49,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4692,9 +4766,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 700 Grams 29.99",
                 "weight": "700 Grams",
                 "price": 29.99,
-                "remaining_products": 70,
+                "remaining_products": 57,
                 "color": "Black",
                 "img": [
                     {

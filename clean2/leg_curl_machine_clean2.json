@@ -112,9 +112,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Two-Piece Black/Red",
                 "weight": 42.184056,
                 "price": 279.99,
-                "remaining_products": 0,
+                "remaining_products": 50,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -156,9 +157,10 @@
                 ]
             },
             {
+                "name": "Standard B/W",
                 "weight": 42.184056,
                 "price": 309.99,
-                "remaining_products": 91,
+                "remaining_products": 80,
                 "color": "Tan",
                 "img": [
                     {
@@ -196,9 +198,10 @@
                 ]
             },
             {
+                "name": "Standard",
                 "weight": 42.184056,
                 "price": 299.98,
-                "remaining_products": 23,
+                "remaining_products": 7,
                 "color": "Tan",
                 "img": [
                     {
@@ -236,9 +239,10 @@
                 ]
             },
             {
+                "name": "Two-piece",
                 "weight": 42.184056,
                 "price": 197.97,
-                "remaining_products": 7,
+                "remaining_products": 98,
                 "color": "Two-Piece Black/White",
                 "img": [
                     {
@@ -347,9 +351,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 15.42 Kilograms 159.99",
                 "weight": "15.42 Kilograms",
                 "price": 159.99,
-                "remaining_products": 54,
+                "remaining_products": 94,
                 "color": "Black&Red",
                 "img": [
                     {
@@ -498,9 +503,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.1 Kilograms 19.97",
                 "weight": "0.1 Kilograms",
                 "price": 19.97,
-                "remaining_products": 65,
+                "remaining_products": 75,
                 "color": "blue - pair",
                 "img": [
                     {
@@ -620,9 +626,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Curl Bench",
                 "weight": 16.011797599999998,
                 "price": 186.99,
-                "remaining_products": 63,
+                "remaining_products": 27,
                 "color": "Black",
                 "img": [
                     {
@@ -668,9 +675,10 @@
                 ]
             },
             {
+                "name": "Ankle Bar",
                 "weight": 16.011797599999998,
                 "price": 186.99,
-                "remaining_products": 52,
+                "remaining_products": 23,
                 "color": "Black",
                 "img": [
                     {
@@ -790,9 +798,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 57.3 Pounds 129.99",
                 "weight": "57.3 Pounds",
                 "price": 129.99,
-                "remaining_products": 99,
+                "remaining_products": 95,
                 "color": "Black",
                 "img": [
                     {
@@ -940,9 +949,10 @@
         ],
         "equipment_options": [
             {
+                "name": "T-Shape",
                 "weight": 15.5128464,
                 "price": 116.99,
-                "remaining_products": 50,
+                "remaining_products": 10,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -980,9 +990,10 @@
                 ]
             },
             {
+                "name": "D-Shape",
                 "weight": 15.5128464,
                 "price": 151.11,
-                "remaining_products": 72,
+                "remaining_products": 30,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -1012,9 +1023,10 @@
                 ]
             },
             {
+                "name": "U-Shape",
                 "weight": 15.5128464,
                 "price": 135.63,
-                "remaining_products": 56,
+                "remaining_products": 66,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -1114,9 +1126,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 88 Pounds 259.99",
                 "weight": "88 Pounds",
                 "price": 259.99,
-                "remaining_products": 28,
+                "remaining_products": 14,
                 "color": "Black",
                 "img": [
                     {
@@ -1240,9 +1253,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Beige-8300",
                 "weight": 12.020188,
                 "price": 149.99,
-                "remaining_products": 57,
+                "remaining_products": 51,
                 "color": "Beige",
                 "img": [
                     {
@@ -1280,9 +1294,10 @@
                 ]
             },
             {
+                "name": "Black-8300",
                 "weight": 12.020188,
                 "price": 149.99,
-                "remaining_products": 43,
+                "remaining_products": 72,
                 "color": "Black",
                 "img": [
                     {
@@ -1398,9 +1413,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black with Chain Handle (Upgraded Version)",
                 "weight": 15.0,
                 "price": 129.99,
-                "remaining_products": 0,
+                "remaining_products": 52,
                 "color": "Black",
                 "img": [
                     {
@@ -1438,9 +1454,10 @@
                 ]
             },
             {
+                "name": "Black (Upgraded Version)",
                 "weight": 15.0,
                 "price": 149.99,
-                "remaining_products": 11,
+                "remaining_products": 51,
                 "color": "Black",
                 "img": [
                     {
@@ -1554,9 +1571,10 @@
         ],
         "equipment_options": [
             {
+                "name": "black&red",
                 "weight": 20.41164,
                 "price": 179.99,
-                "remaining_products": 78,
+                "remaining_products": 90,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -1594,9 +1612,10 @@
                 ]
             },
             {
+                "name": "orange",
                 "weight": 20.41164,
                 "price": 179.99,
-                "remaining_products": 65,
+                "remaining_products": 37,
                 "color": "Orange",
                 "img": [
                     {
@@ -1700,9 +1719,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Pair-Black",
                 "weight": 0.39916096,
                 "price": 13.99,
-                "remaining_products": 21,
+                "remaining_products": 90,
                 "color": "Black",
                 "img": [
                     {
@@ -1740,9 +1760,10 @@
                 ]
             },
             {
+                "name": "Single-Green",
                 "weight": 0.39916096,
                 "price": 7.98,
-                "remaining_products": 97,
+                "remaining_products": 38,
                 "color": "Green",
                 "img": [
                     {
@@ -1780,9 +1801,10 @@
                 ]
             },
             {
+                "name": "Single-black",
                 "weight": 0.39916096,
                 "price": 6.58,
-                "remaining_products": 12,
+                "remaining_products": 75,
                 "color": "Black",
                 "img": [
                     {
@@ -1820,9 +1842,10 @@
                 ]
             },
             {
+                "name": "Pair-Blue",
                 "weight": 0.39916096,
                 "price": 13.99,
-                "remaining_products": 7,
+                "remaining_products": 52,
                 "color": "Blue",
                 "img": [
                     {
@@ -1860,9 +1883,10 @@
                 ]
             },
             {
+                "name": "Single-Brown",
                 "weight": 0.39916096,
                 "price": 7.98,
-                "remaining_products": 101,
+                "remaining_products": 67,
                 "color": "Brown",
                 "img": [
                     {
@@ -1900,9 +1924,10 @@
                 ]
             },
             {
+                "name": "Single-Army green",
                 "weight": 0.39916096,
                 "price": 7.98,
-                "remaining_products": 27,
+                "remaining_products": 17,
                 "color": "Green",
                 "img": [
                     {
@@ -1940,9 +1965,10 @@
                 ]
             },
             {
+                "name": "Single-Blue",
                 "weight": 0.39916096,
                 "price": 7.98,
-                "remaining_products": 81,
+                "remaining_products": 13,
                 "color": "Blue",
                 "img": [
                     {
@@ -2070,9 +2096,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 35.3 Pounds 219.99",
                 "weight": "35.3 Pounds",
                 "price": 219.99,
-                "remaining_products": 13,
+                "remaining_products": 80,
                 "color": "Jet Black",
                 "img": [
                     {
@@ -2213,9 +2240,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 14 Pounds 89.98",
                 "weight": "14 Pounds",
                 "price": 89.98,
-                "remaining_products": 68,
+                "remaining_products": 0,
                 "color": "Multi",
                 "img": [
                     {
@@ -2331,9 +2359,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 85 Pounds 499.99",
                 "weight": "85 Pounds",
                 "price": 499.99,
-                "remaining_products": 44,
+                "remaining_products": 20,
                 "color": "Black",
                 "img": [
                     {
@@ -2472,9 +2501,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 51 Pounds 169.99",
                 "weight": "51 Pounds",
                 "price": 169.99,
-                "remaining_products": 4,
+                "remaining_products": 72,
                 "color": "black",
                 "img": [
                     {
@@ -2654,9 +2684,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Grey",
                 "weight": 11.113004,
                 "price": 90.85,
-                "remaining_products": 15,
+                "remaining_products": 37,
                 "color": "Grey",
                 "img": [
                     {
@@ -2702,9 +2733,10 @@
                 ]
             },
             {
+                "name": "Green",
                 "weight": 11.113004,
                 "price": 90.85,
-                "remaining_products": 42,
+                "remaining_products": 67,
                 "color": "Green",
                 "img": [
                     {
@@ -2758,9 +2790,10 @@
                 ]
             },
             {
+                "name": "2 - Pink",
                 "weight": 11.113004,
                 "price": 90.85,
-                "remaining_products": 54,
+                "remaining_products": 48,
                 "color": "Pink",
                 "img": [
                     {
@@ -2915,9 +2948,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 79 Pounds 209.99",
                 "weight": "79 Pounds",
                 "price": 209.99,
-                "remaining_products": 10,
+                "remaining_products": 81,
                 "color": "Dark Gray/Black",
                 "img": [
                     {
@@ -3005,9 +3039,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Black Red",
                 "weight": 37.0,
                 "price": 249.99,
-                "remaining_products": 70,
+                "remaining_products": 38,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -3045,9 +3080,10 @@
                 ]
             },
             {
+                "name": "Vermeil",
                 "weight": 37.0,
                 "price": 249.99,
-                "remaining_products": 61,
+                "remaining_products": 6,
                 "color": "Black Red",
                 "img": [
                     {
@@ -3159,9 +3195,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2.15 Kilograms 29.99",
                 "weight": "2.15 Kilograms",
                 "price": 29.99,
-                "remaining_products": 86,
+                "remaining_products": 32,
                 "color": "Black",
                 "img": [
                     {
@@ -3265,9 +3302,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Single-Orange",
                 "weight": 0.1360776,
                 "price": 5.89,
-                "remaining_products": 83,
+                "remaining_products": 66,
                 "color": "Orange",
                 "img": [
                     {
@@ -3277,9 +3315,10 @@
                 ]
             },
             {
+                "name": "1Pair-Orange",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 46,
+                "remaining_products": 1,
                 "color": "Orange",
                 "img": [
                     {
@@ -3289,9 +3328,10 @@
                 ]
             },
             {
+                "name": "1Pair-Pink",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 86,
+                "remaining_products": 18,
                 "color": "Pink",
                 "img": [
                     {
@@ -3301,9 +3341,10 @@
                 ]
             },
             {
+                "name": "1Pair-Black",
                 "weight": 0.1360776,
                 "price": 11.99,
-                "remaining_products": 16,
+                "remaining_products": 57,
                 "color": "Black",
                 "img": [
                     {
@@ -3313,9 +3354,10 @@
                 ]
             },
             {
+                "name": "Single-Yellow",
                 "weight": 0.1360776,
                 "price": 5.89,
-                "remaining_products": 101,
+                "remaining_products": 95,
                 "color": "Yellow",
                 "img": [
                     {
@@ -3399,9 +3441,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 47.4 Pounds 259",
                 "weight": "47.4 Pounds",
                 "price": 259,
-                "remaining_products": 7,
+                "remaining_products": 22,
                 "color": "Black",
                 "img": [
                     {
@@ -3524,9 +3567,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 12 Kilograms 149.99",
                 "weight": "12 Kilograms",
                 "price": 149.99,
-                "remaining_products": 59,
+                "remaining_products": 12,
                 "color": "800LBS",
                 "img": [
                     {
@@ -3636,9 +3680,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 24 Kilograms 89.99",
                 "weight": "24 Kilograms",
                 "price": 89.99,
-                "remaining_products": 70,
+                "remaining_products": 12,
                 "color": "Red",
                 "img": [
                     {

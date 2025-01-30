@@ -72,9 +72,10 @@
         ],
         "equipment_options": [
             {
+                "name": "1-1/2 Inch x 50 Feet",
                 "weight": 10.0243832,
                 "price": 72.89,
-                "remaining_products": 66,
+                "remaining_products": 48,
                 "color": "Black",
                 "img": [
                     {
@@ -112,9 +113,10 @@
                 ]
             },
             {
+                "name": "2 Inch x 30 Feet",
                 "weight": 10.0243832,
                 "price": 68.89,
-                "remaining_products": 33,
+                "remaining_products": 69,
                 "color": "Black",
                 "img": [
                     {
@@ -152,9 +154,10 @@
                 ]
             },
             {
+                "name": "1-1/2 Inch x 40 Feet",
                 "weight": 10.0243832,
                 "price": 59.89,
-                "remaining_products": 60,
+                "remaining_products": 68,
                 "color": "Black",
                 "img": [
                     {
@@ -192,9 +195,10 @@
                 ]
             },
             {
+                "name": "2 Inch x 50 Feet",
                 "weight": 10.0243832,
                 "price": 89.89,
-                "remaining_products": 4,
+                "remaining_products": 63,
                 "color": "Black",
                 "img": [
                     {
@@ -335,9 +339,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.7 Pounds 179.95",
                 "weight": "1.7 Pounds",
                 "price": 179.95,
-                "remaining_products": 67,
+                "remaining_products": 56,
                 "color": "Black",
                 "img": [
                     {
@@ -445,9 +450,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.27 Pounds 24.9",
                 "weight": "0.27 Pounds",
                 "price": 24.9,
-                "remaining_products": 39,
+                "remaining_products": 51,
                 "color": "B. Black Set Of 3 Hook",
                 "img": [
                     {
@@ -579,6 +585,7 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2 Pounds 49.99",
                 "weight": "2 Pounds",
                 "price": 49.99,
                 "remaining_products": 46,
@@ -733,9 +740,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 16 ounces 230.65",
                 "weight": "16 ounces",
                 "price": 230.65,
-                "remaining_products": 48,
+                "remaining_products": 86,
                 "color": "Silver",
                 "img": [
                     {
@@ -843,9 +851,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 16 Pounds 39.59",
                 "weight": "16 Pounds",
                 "price": 39.59,
-                "remaining_products": 78,
+                "remaining_products": 47,
                 "color": "Black",
                 "img": [
                     {
@@ -953,9 +962,10 @@
         ],
         "equipment_options": [
             {
+                "name": "1 inch 10.5ft",
                 "weight": 7.711064,
                 "price": 59.99,
-                "remaining_products": 22,
+                "remaining_products": 98,
                 "color": "Black",
                 "img": [
                     {
@@ -993,9 +1003,10 @@
                 ]
             },
             {
+                "name": "1.26 inch 30ft",
                 "weight": 7.711064,
                 "price": 59.99,
-                "remaining_products": 48,
+                "remaining_products": 99,
                 "color": "Black",
                 "img": [
                     {
@@ -1037,9 +1048,10 @@
                 ]
             },
             {
+                "name": "1 inch 9.2ft",
                 "weight": 7.711064,
                 "price": 59.99,
-                "remaining_products": 84,
+                "remaining_products": 61,
                 "color": "Black",
                 "img": [
                     {
@@ -1077,9 +1089,10 @@
                 ]
             },
             {
+                "name": "1.5 inch 40ft",
                 "weight": 7.711064,
                 "price": 59.99,
-                "remaining_products": 95,
+                "remaining_products": 69,
                 "color": "Black",
                 "img": [
                     {
@@ -1223,9 +1236,10 @@
         ],
         "equipment_options": [
             {
+                "name": "1.5-Inch, 10FT",
                 "weight": 3.64,
                 "price": 39.99,
-                "remaining_products": 74,
+                "remaining_products": 30,
                 "color": "Black",
                 "img": [
                     {
@@ -1271,9 +1285,10 @@
                 ]
             },
             {
+                "name": "1.5-inch, 25ft",
                 "weight": 3.64,
                 "price": 69.99,
-                "remaining_products": 81,
+                "remaining_products": 60,
                 "color": "Black",
                 "img": [
                     {
@@ -1319,9 +1334,10 @@
                 ]
             },
             {
+                "name": "1.5-inch, 30ft",
                 "weight": 3.64,
                 "price": 79.99,
-                "remaining_products": 27,
+                "remaining_products": 20,
                 "color": "Black",
                 "img": [
                     {
@@ -1367,9 +1383,10 @@
                 ]
             },
             {
+                "name": "1.5-Inch, 20FT",
                 "weight": 3.64,
                 "price": 59.99,
-                "remaining_products": 49,
+                "remaining_products": 34,
                 "color": "Black",
                 "img": [
                     {
@@ -1415,9 +1432,10 @@
                 ]
             },
             {
+                "name": "1.5-Inch, 15FT",
                 "weight": 3.64,
                 "price": 49.99,
-                "remaining_products": 2,
+                "remaining_products": 88,
                 "color": "Black",
                 "img": [
                     {
@@ -1525,9 +1543,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 4.69 pounds 35.99",
                 "weight": "4.69 pounds",
                 "price": 35.99,
-                "remaining_products": 54,
+                "remaining_products": 30,
                 "color": "Black",
                 "img": [
                     {
@@ -1627,9 +1646,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 3.78 pounds 87.99",
                 "weight": "3.78 pounds",
                 "price": 87.99,
-                "remaining_products": 55,
+                "remaining_products": 34,
                 "color": "Black",
                 "img": [
                     {
@@ -1737,9 +1757,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 14.5 pounds 58.99",
                 "weight": "14.5 pounds",
                 "price": 58.99,
-                "remaining_products": 83,
+                "remaining_products": 81,
                 "color": "Black",
                 "img": [
                     {
@@ -1859,9 +1880,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.96 pounds 19.99",
                 "weight": "1.96 pounds",
                 "price": 19.99,
-                "remaining_products": 4,
+                "remaining_products": 91,
                 "color": "White",
                 "img": [
                     {
@@ -1961,9 +1983,10 @@
         ],
         "equipment_options": [
             {
+                "name": "12 m (40 ft)",
                 "weight": 7.711064,
                 "price": 56.41,
-                "remaining_products": 7,
+                "remaining_products": 37,
                 "color": "Multi",
                 "img": [
                     {
@@ -2001,9 +2024,10 @@
                 ]
             },
             {
+                "name": "9m (30 ft)",
                 "weight": 7.711064,
                 "price": 56.41,
-                "remaining_products": 45,
+                "remaining_products": 28,
                 "color": "Multi",
                 "img": [
                     {
@@ -2125,9 +2149,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 410 Grams 28.99",
                 "weight": "410 Grams",
                 "price": 28.99,
-                "remaining_products": 14,
+                "remaining_products": 29,
                 "color": "Black & Green",
                 "img": [
                     {
@@ -2221,9 +2246,10 @@
         ],
         "equipment_options": [
             {
+                "name": "30",
                 "weight": 4.53592,
                 "price": 87.49,
-                "remaining_products": 82,
+                "remaining_products": 55,
                 "color": "Black",
                 "img": [
                     {
@@ -2241,9 +2267,10 @@
                 ]
             },
             {
+                "name": "40",
                 "weight": 4.53592,
                 "price": 87.49,
-                "remaining_products": 44,
+                "remaining_products": 75,
                 "color": "Black",
                 "img": [
                     {
@@ -2257,9 +2284,10 @@
                 ]
             },
             {
+                "name": "50",
                 "weight": 4.53592,
                 "price": 87.49,
-                "remaining_products": 30,
+                "remaining_products": 36,
                 "color": "Black",
                 "img": [
                     {
@@ -2379,9 +2407,10 @@
         ],
         "equipment_options": [
             {
+                "name": "C.Climbing Rope 20ft",
                 "weight": 2.4947559999999998,
                 "price": 34.19,
-                "remaining_products": 101,
+                "remaining_products": 24,
                 "color": "A.Climbing Rope 10ft",
                 "img": [
                     {
@@ -2391,9 +2420,10 @@
                 ]
             },
             {
+                "name": "A.Climbing Rope 10ft",
                 "weight": 2.4947559999999998,
                 "price": 34.19,
-                "remaining_products": 0,
+                "remaining_products": 26,
                 "color": "A.Climbing Rope 10ft",
                 "img": [
                     {
@@ -2403,9 +2433,10 @@
                 ]
             },
             {
+                "name": "B.climbing Rope 15ft",
                 "weight": 2.4947559999999998,
                 "price": 34.19,
-                "remaining_products": 62,
+                "remaining_products": 17,
                 "color": "A.Climbing Rope 10ft",
                 "img": [
                     {
@@ -2482,9 +2513,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Pink",
                 "weight": 8.014970640000001,
                 "price": 67.99,
-                "remaining_products": 78,
+                "remaining_products": 73,
                 "color": "Pink",
                 "img": [
                     {
@@ -2522,9 +2554,10 @@
                 ]
             },
             {
+                "name": "Green",
                 "weight": 8.014970640000001,
                 "price": 67.99,
-                "remaining_products": 67,
+                "remaining_products": 93,
                 "color": "Green",
                 "img": [
                     {
@@ -2562,9 +2595,10 @@
                 ]
             },
             {
+                "name": "Black",
                 "weight": 8.014970640000001,
                 "price": 67.99,
-                "remaining_products": 25,
+                "remaining_products": 43,
                 "color": "Black",
                 "img": [
                     {
@@ -2602,9 +2636,10 @@
                 ]
             },
             {
+                "name": "Red",
                 "weight": 8.014970640000001,
                 "price": 67.99,
-                "remaining_products": 21,
+                "remaining_products": 14,
                 "color": "Red",
                 "img": [
                     {
@@ -2642,9 +2677,10 @@
                 ]
             },
             {
+                "name": "Gray",
                 "weight": 8.014970640000001,
                 "price": 67.99,
-                "remaining_products": 41,
+                "remaining_products": 75,
                 "color": "Gray",
                 "img": [
                     {
@@ -2780,9 +2816,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 15 Pounds 82.99",
                 "weight": "15 Pounds",
                 "price": 82.99,
-                "remaining_products": 21,
+                "remaining_products": 27,
                 "color": "Black",
                 "img": [
                     {
@@ -2902,9 +2939,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 11 Pounds 56.77",
                 "weight": "11 Pounds",
                 "price": 56.77,
-                "remaining_products": 93,
+                "remaining_products": 63,
                 "color": "Black",
                 "img": [
                     {
@@ -3008,9 +3046,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 14.99 pounds 29.99",
                 "weight": "14.99 pounds",
                 "price": 29.99,
-                "remaining_products": 56,
+                "remaining_products": 34,
                 "color": "Black",
                 "img": [
                     {
@@ -3113,9 +3152,10 @@
         ],
         "equipment_options": [
             {
+                "name": "16x16",
                 "weight": 0.49895120000000004,
                 "price": 21.99,
-                "remaining_products": 31,
+                "remaining_products": 90,
                 "color": "Multicolor",
                 "img": [
                     {
@@ -3137,9 +3177,10 @@
                 ]
             },
             {
+                "name": "18x18",
                 "weight": 0.49895120000000004,
                 "price": 21.99,
-                "remaining_products": 56,
+                "remaining_products": 52,
                 "color": "Multicolor",
                 "img": [
                     {
@@ -3251,9 +3292,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 33 Pounds 119.99",
                 "weight": "33 Pounds",
                 "price": 119.99,
-                "remaining_products": 90,
+                "remaining_products": 73,
                 "color": "Black",
                 "img": [
                     {
@@ -3373,9 +3415,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 3 Pounds 23.99",
                 "weight": "3 Pounds",
                 "price": 23.99,
-                "remaining_products": 67,
+                "remaining_products": 19,
                 "color": "1.5*30''",
                 "img": [
                     {
@@ -3491,9 +3534,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 1.35 Kilograms 18.99",
                 "weight": "1.35 Kilograms",
                 "price": 18.99,
-                "remaining_products": 89,
+                "remaining_products": 93,
                 "color": "Black",
                 "img": [
                     {
@@ -3599,9 +3643,10 @@
         ],
         "equipment_options": [
             {
+                "name": "50'",
                 "weight": 8.164656,
                 "price": 149.99,
-                "remaining_products": 7,
+                "remaining_products": 42,
                 "color": "Black",
                 "img": [
                     {
@@ -3611,9 +3656,10 @@
                 ]
             },
             {
+                "name": "30'",
                 "weight": 8.164656,
                 "price": 99.99,
-                "remaining_products": 19,
+                "remaining_products": 87,
                 "color": "Black",
                 "img": [
                     {
@@ -3623,9 +3669,10 @@
                 ]
             },
             {
+                "name": "40'",
                 "weight": 8.164656,
                 "price": 127.49,
-                "remaining_products": 69,
+                "remaining_products": 12,
                 "color": "Black",
                 "img": [
                     {
@@ -3704,9 +3751,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 15.27 pounds 79.99",
                 "weight": "15.27 pounds",
                 "price": 79.99,
-                "remaining_products": 97,
+                "remaining_products": 68,
                 "color": "Black",
                 "img": [
                     {
@@ -3818,9 +3866,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Vertical Barbell Storage - Black",
                 "weight": 1.4061352,
                 "price": 23.04,
-                "remaining_products": 80,
+                "remaining_products": 96,
                 "color": "Black",
                 "img": [
                     {
@@ -3850,9 +3899,10 @@
                 ]
             },
             {
+                "name": "Lat Pulldown - Black",
                 "weight": 1.4061352,
                 "price": 23.04,
-                "remaining_products": 53,
+                "remaining_products": 28,
                 "color": "Black",
                 "img": [
                     {
@@ -3882,9 +3932,10 @@
                 ]
             },
             {
+                "name": "Weight Plate Holder - Black",
                 "weight": 1.4061352,
                 "price": 23.04,
-                "remaining_products": 78,
+                "remaining_products": 38,
                 "color": "Black",
                 "img": [
                     {
@@ -3914,9 +3965,10 @@
                 ]
             },
             {
+                "name": "Battle Rope Anchor - Black",
                 "weight": 1.4061352,
                 "price": 23.04,
-                "remaining_products": 27,
+                "remaining_products": 101,
                 "color": "Black",
                 "img": [
                     {
@@ -4044,9 +4096,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 7.87 Kilograms 40.49",
                 "weight": "7.87 Kilograms",
                 "price": 40.49,
-                "remaining_products": 101,
+                "remaining_products": 63,
                 "color": "Black",
                 "img": [
                     {
@@ -4150,9 +4203,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 14.17 pounds 33.99",
                 "weight": "14.17 pounds",
                 "price": 33.99,
-                "remaining_products": 60,
+                "remaining_products": 85,
                 "color": "Black Green Blue",
                 "img": [
                     {
@@ -4280,9 +4334,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 19.8 Pounds 98.99",
                 "weight": "19.8 Pounds",
                 "price": 98.99,
-                "remaining_products": 16,
+                "remaining_products": 93,
                 "color": "Black",
                 "img": [
                     {
@@ -4408,9 +4463,10 @@
         ],
         "equipment_options": [
             {
+                "name": "3LB",
                 "weight": 1.360776,
                 "price": 29.97,
-                "remaining_products": 11,
+                "remaining_products": 14,
                 "color": "jump rope",
                 "img": [
                     {
@@ -4448,9 +4504,10 @@
                 ]
             },
             {
+                "name": "2LB",
                 "weight": 0.907184,
                 "price": 14.37,
-                "remaining_products": 40,
+                "remaining_products": 20,
                 "color": "jump rope",
                 "img": [
                     {
@@ -4492,9 +4549,10 @@
                 ]
             },
             {
+                "name": "4LB",
                 "weight": 1.814368,
                 "price": 32.97,
-                "remaining_products": 80,
+                "remaining_products": 14,
                 "color": "jump rope",
                 "img": [
                     {
@@ -4610,9 +4668,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 14 pounds 35.98",
                 "weight": "14 pounds",
                 "price": 35.98,
-                "remaining_products": 67,
+                "remaining_products": 91,
                 "color": "Black",
                 "img": [
                     {
@@ -4700,9 +4759,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Pink",
                 "weight": 0.35,
                 "price": 17.99,
-                "remaining_products": 32,
+                "remaining_products": 36,
                 "color": "Pink",
                 "img": [
                     {
@@ -4740,9 +4800,10 @@
                 ]
             },
             {
+                "name": "Green",
                 "weight": 0.35,
                 "price": 17.99,
-                "remaining_products": 63,
+                "remaining_products": 77,
                 "color": "Green",
                 "img": [
                     {
@@ -4776,9 +4837,10 @@
                 ]
             },
             {
+                "name": "Blue",
                 "weight": 0.35,
                 "price": 17.99,
-                "remaining_products": 24,
+                "remaining_products": 17,
                 "color": "Blue",
                 "img": [
                     {
@@ -4812,9 +4874,10 @@
                 ]
             },
             {
+                "name": "Black",
                 "weight": 0.35,
                 "price": 17.99,
-                "remaining_products": 79,
+                "remaining_products": 36,
                 "color": "Black",
                 "img": [
                     {
@@ -4938,9 +5001,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 8 Pounds 59.94",
                 "weight": "8 Pounds",
                 "price": 59.94,
-                "remaining_products": 85,
+                "remaining_products": 40,
                 "color": "Natural",
                 "img": [
                     {
@@ -5072,9 +5136,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 24.7 Pounds 103.99",
                 "weight": "24.7 Pounds",
                 "price": 103.99,
-                "remaining_products": 64,
+                "remaining_products": 76,
                 "color": "Black",
                 "img": [
                     {
@@ -5199,9 +5264,10 @@
         ],
         "equipment_options": [
             {
+                "name": "A-Black cordless ball 1 pack & Steel wire rope 1 pc",
                 "weight": 0.48,
                 "price": 29.99,
-                "remaining_products": 1,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -5247,9 +5313,10 @@
                 ]
             },
             {
+                "name": "B-Grey cordless ball 1 pack & Steel wire rope 1 pc",
                 "weight": 0.48,
                 "price": 33.99,
-                "remaining_products": 26,
+                "remaining_products": 79,
                 "color": "A-Black cordless ball 1 pack & Steel wire rope 1 pc",
                 "img": [
                     {
@@ -5373,9 +5440,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 0.14 Kilograms 6.99",
                 "weight": "0.14 Kilograms",
                 "price": 6.99,
-                "remaining_products": 89,
+                "remaining_products": 85,
                 "color": "Black",
                 "img": [
                     {
@@ -5503,9 +5571,10 @@
         ],
         "equipment_options": [
             {
+                "name": "1.5\" Thick, 40' Long",
                 "weight": 5.9874144,
                 "price": 57.7,
-                "remaining_products": 53,
+                "remaining_products": 91,
                 "color": "Black",
                 "img": [
                     {
@@ -5515,9 +5584,10 @@
                 ]
             },
             {
+                "name": "2\" Thick, 40' Long",
                 "weight": 5.9874144,
                 "price": 57.7,
-                "remaining_products": 9,
+                "remaining_products": 52,
                 "color": "Black",
                 "img": [
                     {
@@ -5527,9 +5597,10 @@
                 ]
             },
             {
+                "name": "1.5\" Thick, 30' Long",
                 "weight": 5.9874144,
                 "price": 57.7,
-                "remaining_products": 60,
+                "remaining_products": 41,
                 "color": "Black",
                 "img": [
                     {
@@ -5539,9 +5610,10 @@
                 ]
             },
             {
+                "name": "2\" Thick, 30' Long",
                 "weight": 5.9874144,
                 "price": 57.7,
-                "remaining_products": 10,
+                "remaining_products": 46,
                 "color": "Black",
                 "img": [
                     {
@@ -5551,9 +5623,10 @@
                 ]
             },
             {
+                "name": "1.5\" Thick, 50' Long",
                 "weight": 5.9874144,
                 "price": 57.7,
-                "remaining_products": 86,
+                "remaining_products": 49,
                 "color": "Black",
                 "img": [
                     {
@@ -5563,9 +5636,10 @@
                 ]
             },
             {
+                "name": "2\" Thick, 50' Long",
                 "weight": 5.9874144,
                 "price": 57.7,
-                "remaining_products": 48,
+                "remaining_products": 20,
                 "color": "Black",
                 "img": [
                     {
@@ -5665,9 +5739,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Crimson Red - 9FT",
                 "weight": 0.5443104,
                 "price": 29.99,
-                "remaining_products": 43,
+                "remaining_products": 16,
                 "color": "Red",
                 "img": [
                     {
@@ -5713,9 +5788,10 @@
                 ]
             },
             {
+                "name": "Blue - 8FT",
                 "weight": 0.5443104,
                 "price": 29.99,
-                "remaining_products": 57,
+                "remaining_products": 28,
                 "color": "Blue",
                 "img": [
                     {
@@ -5761,9 +5837,10 @@
                 ]
             },
             {
+                "name": "Matte Black - 10FT",
                 "weight": 0.5443104,
                 "price": 29.99,
-                "remaining_products": 93,
+                "remaining_products": 41,
                 "color": "Black",
                 "img": [
                     {
@@ -5869,9 +5946,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Item 2.39 ounces 9.99",
                 "weight": "2.39 ounces",
                 "price": 9.99,
-                "remaining_products": 76,
+                "remaining_products": 17,
                 "color": "Anchor Strap Kit",
                 "img": [
                     {
@@ -6016,9 +6094,10 @@
         ],
         "equipment_options": [
             {
+                "name": "1.5 inch diameter x 30 ft length",
                 "weight": 7.1667536,
                 "price": 35.64,
-                "remaining_products": 11,
+                "remaining_products": 47,
                 "color": "Black",
                 "img": [
                     {
@@ -6056,9 +6135,10 @@
                 ]
             },
             {
+                "name": "2 inch diameter x 30 ft length",
                 "weight": 7.1667536,
                 "price": 35.64,
-                "remaining_products": 10,
+                "remaining_products": 75,
                 "color": "Black",
                 "img": [
                     {
@@ -6178,9 +6258,10 @@
         ],
         "equipment_options": [
             {
+                "name": "Red & Blue",
                 "weight": 0.0,
                 "price": 7.99,
-                "remaining_products": 97,
+                "remaining_products": 32,
                 "color": "Red, Blue",
                 "img": [
                     {
@@ -6234,9 +6315,10 @@
                 ]
             },
             {
+                "name": "Red & Black",
                 "weight": 0.0,
                 "price": 7.99,
-                "remaining_products": 45,
+                "remaining_products": 64,
                 "color": "Red, Black",
                 "img": [
                     {
