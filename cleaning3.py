@@ -2,6 +2,7 @@ import os
 import re
 import json
 
+
 def remove_keys(attributes, keys_to_remove):
     """
     Removes specified keys from a list of attribute dictionaries.
@@ -22,6 +23,9 @@ def value_of_attribute(attr_list, key: str):
 
 
 def process_data(json_file):
+    
+    new_data = []
+    
     with open(json_file, "r") as file:
         data = json.load(file)
 
@@ -61,9 +65,10 @@ def process_data(json_file):
         product["weight"] = weight
         
         product["attributes"] = remove_keys(product["attributes"], ["Brand", "Model Name", "Material", "Color", "Item Weight"])
+        
+        new_data.append(product)
 
-
-    return data
+    return new_data
 
 
 def main():
