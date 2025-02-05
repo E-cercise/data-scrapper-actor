@@ -74,10 +74,6 @@
                 "value": "Compact"
             },
             {
-                "key": "ASIN",
-                "value": "B0DDKKWB56"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 19, 2024"
             }
@@ -87,7 +83,7 @@
                 "name": "Item 11.2 Pounds 62.9",
                 "weight": "11.2 Pounds",
                 "price": 62.9,
-                "remaining_products": 31,
+                "remaining_products": 37,
                 "color": "Red and Black",
                 "img": [
                     {
@@ -198,10 +194,6 @@
                 "value": "16 x 12.5 x 12 inches"
             },
             {
-                "key": "ASIN",
-                "value": "B095K9ZGY5"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 21, 2021"
             }
@@ -211,7 +203,7 @@
                 "name": "Slant Board Exercise Kit",
                 "weight": 3.85,
                 "price": 42.99,
-                "remaining_products": 80,
+                "remaining_products": 29,
                 "color": "Slant Board",
                 "img": [
                     {
@@ -224,7 +216,7 @@
                 "name": "Slant Board",
                 "weight": 3.85,
                 "price": 39.99,
-                "remaining_products": 15,
+                "remaining_products": 5,
                 "color": "Slant Board",
                 "img": [
                     {
@@ -304,10 +296,6 @@
                 "value": "Tibialis Bar for 2\" Olympic Plates"
             },
             {
-                "key": "ASIN",
-                "value": "B0CKQZ28R3"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 9, 2023"
             }
@@ -317,7 +305,7 @@
                 "name": "Item 5.2 Pounds 26.95",
                 "weight": "5.2 Pounds",
                 "price": 26.95,
-                "remaining_products": 4,
+                "remaining_products": 62,
                 "color": "Black, Fits 2\" Olympic Plates",
                 "img": [
                     {
@@ -433,10 +421,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0BG682CTH"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 22, 2022"
             }
@@ -446,7 +430,7 @@
                 "name": "Item 1.6 Pounds 20.89",
                 "weight": "1.6 Pounds",
                 "price": 20.89,
-                "remaining_products": 99,
+                "remaining_products": 78,
                 "color": "Brown",
                 "img": [
                     {
@@ -550,10 +534,6 @@
                 "value": "tib bar, clamp, two foams"
             },
             {
-                "key": "ASIN",
-                "value": "B0CTFDK1P8"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 27, 2024"
             }
@@ -563,7 +543,7 @@
                 "name": "Item 4.4 Pounds 27.99",
                 "weight": "4.4 Pounds",
                 "price": 27.99,
-                "remaining_products": 21,
+                "remaining_products": 80,
                 "color": "Black",
                 "img": [
                     {
@@ -659,10 +639,6 @@
                 "value": "1"
             },
             {
-                "key": "ASIN",
-                "value": "B0D1RFQSPV"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 15, 2024"
             }
@@ -672,7 +648,7 @@
                 "name": "Item 3.9 Pounds 23.99",
                 "weight": "3.9 Pounds",
                 "price": 23.99,
-                "remaining_products": 92,
+                "remaining_products": 61,
                 "color": "Black",
                 "img": [
                     {
@@ -776,10 +752,6 @@
                 "value": "Tib Bar"
             },
             {
-                "key": "ASIN",
-                "value": "B0D1QMKBXD"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 15, 2024"
             }
@@ -789,7 +761,7 @@
                 "name": "Item 2.27 Kilograms 25.99",
                 "weight": "2.27 Kilograms",
                 "price": 25.99,
-                "remaining_products": 23,
+                "remaining_products": 96,
                 "color": "Black",
                 "img": [
                     {
@@ -893,10 +865,6 @@
                 "value": "calf raise block"
             },
             {
-                "key": "ASIN",
-                "value": "B0D7BJBM4S"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 18, 2024"
             }
@@ -906,7 +874,7 @@
                 "name": "Large",
                 "weight": 3.45,
                 "price": 59.99,
-                "remaining_products": 49,
+                "remaining_products": 77,
                 "color": "Black",
                 "img": [
                     {
@@ -919,7 +887,7 @@
                 "name": "Small",
                 "weight": 3.45,
                 "price": 49.99,
-                "remaining_products": 36,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -991,10 +959,6 @@
                 "value": "Squat Wedge and elastic"
             },
             {
-                "key": "ASIN",
-                "value": "B0CDGCTBD4"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 26, 2023"
             }
@@ -1004,7 +968,7 @@
                 "name": "Item 1.1 Kilograms 12.99",
                 "weight": "1.1 Kilograms",
                 "price": 12.99,
-                "remaining_products": 6,
+                "remaining_products": 54,
                 "color": "beige",
                 "img": [
                     {
@@ -1104,10 +1068,6 @@
                 "value": "2\" Tibialis Bar"
             },
             {
-                "key": "ASIN",
-                "value": "B0BWJ49PQG"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 22, 2023"
             }
@@ -1117,7 +1077,7 @@
                 "name": "Black, \u200eFits 2\" Weight Plates",
                 "weight": 2.8,
                 "price": 34.99,
-                "remaining_products": 46,
+                "remaining_products": 3,
                 "color": "Black",
                 "img": [
                     {
@@ -1154,7 +1114,7 @@
                 "name": "Black, \u200eFits 1\" Weight Plates",
                 "weight": 2.8,
                 "price": 34.99,
-                "remaining_products": 23,
+                "remaining_products": 65,
                 "color": "Black",
                 "img": [
                     {
@@ -1254,10 +1214,6 @@
                 "value": "calf raise block"
             },
             {
-                "key": "ASIN",
-                "value": "B0D7BXY13D"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 18, 2024"
             }
@@ -1267,7 +1223,7 @@
                 "name": "Large",
                 "weight": 4.89,
                 "price": 59.99,
-                "remaining_products": 38,
+                "remaining_products": 62,
                 "color": "Black",
                 "img": [
                     {
@@ -1279,8 +1235,8 @@
             {
                 "name": "Small",
                 "weight": 4.89,
-                "price": 59.99,
-                "remaining_products": 37,
+                "price": 49.99,
+                "remaining_products": 38,
                 "color": "Black",
                 "img": [
                     {
@@ -1356,10 +1312,6 @@
                 "value": "tib bar"
             },
             {
-                "key": "ASIN",
-                "value": "B0BM4F6J4Q"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 11, 2022"
             }
@@ -1369,7 +1321,7 @@
                 "name": "Portable",
                 "weight": 2.3,
                 "price": 34.98,
-                "remaining_products": 84,
+                "remaining_products": 48,
                 "color": "black",
                 "img": [
                     {
@@ -1406,7 +1358,7 @@
                 "name": "All-season",
                 "weight": 2.3,
                 "price": 33.98,
-                "remaining_products": 17,
+                "remaining_products": 100,
                 "color": "black",
                 "img": [
                     {
@@ -1510,10 +1462,6 @@
                 "value": "Standard"
             },
             {
-                "key": "ASIN",
-                "value": "B0CSZ9GWZN"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 22, 2024"
             }
@@ -1523,7 +1471,7 @@
                 "name": "Item 2.79 Kilograms 29.9",
                 "weight": "2.79 Kilograms",
                 "price": 29.9,
-                "remaining_products": 28,
+                "remaining_products": 23,
                 "color": "Black",
                 "img": [
                     {
@@ -1627,10 +1575,6 @@
                 "value": "12.25\""
             },
             {
-                "key": "ASIN",
-                "value": "B0DK3C4GSF"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 10, 2024"
             }
@@ -1640,7 +1584,7 @@
                 "name": "Item 1.9 Pounds 26.21",
                 "weight": "1.9 Pounds",
                 "price": 26.21,
-                "remaining_products": 62,
+                "remaining_products": 91,
                 "color": "black",
                 "img": [
                     {
@@ -1744,10 +1688,6 @@
                 "value": "12.25\""
             },
             {
-                "key": "ASIN",
-                "value": "B0DK3B8WRK"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 1, 2024"
             }
@@ -1757,7 +1697,7 @@
                 "name": "Item 1.9 Pounds 26.21",
                 "weight": "1.9 Pounds",
                 "price": 26.21,
-                "remaining_products": 66,
+                "remaining_products": 78,
                 "color": "black",
                 "img": [
                     {
@@ -1870,10 +1810,6 @@
                 "value": "Weightlifting, squat, Exercise & Fitness, deadlift, crossfit"
             },
             {
-                "key": "ASIN",
-                "value": "B0BC8HCC6V"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 29, 2022"
             }
@@ -1883,7 +1819,7 @@
                 "name": "B: Black-Metal-5Heights",
                 "weight": 3.5,
                 "price": 49.62,
-                "remaining_products": 18,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -1920,7 +1856,7 @@
                 "name": "A: Dark-Rubber-3Heights",
                 "weight": 3.5,
                 "price": 49.62,
-                "remaining_products": 70,
+                "remaining_products": 46,
                 "color": "B: Black-Metal-5Heights",
                 "img": [
                     {
@@ -2044,10 +1980,6 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0CSNSHGBG"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 18, 2024"
             }
@@ -2057,7 +1989,7 @@
                 "name": "Black",
                 "weight": 2.5401152,
                 "price": 29.99,
-                "remaining_products": 50,
+                "remaining_products": 82,
                 "color": "Black",
                 "img": [
                     {
@@ -2098,7 +2030,7 @@
                 "name": "Green",
                 "weight": 2.5401152,
                 "price": 24.99,
-                "remaining_products": 37,
+                "remaining_products": 72,
                 "color": "Green",
                 "img": [
                     {
@@ -2199,10 +2131,6 @@
                 "value": "10 Degree"
             },
             {
-                "key": "ASIN",
-                "value": "B09WMQ5GD6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 28, 2022"
             }
@@ -2212,7 +2140,7 @@
                 "name": "10-Degree Elevation",
                 "weight": 3.04,
                 "price": 39.97,
-                "remaining_products": 98,
+                "remaining_products": 89,
                 "color": "Black",
                 "img": [
                     {
@@ -2249,7 +2177,7 @@
                 "name": "20-Degree Non-Slip",
                 "weight": 3.04,
                 "price": 39.97,
-                "remaining_products": 24,
+                "remaining_products": 64,
                 "color": "Black",
                 "img": [
                     {
@@ -2373,10 +2301,6 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0CT61R1Z6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 24, 2024"
             }
@@ -2386,7 +2310,7 @@
                 "name": "Item 5.4 Pounds 59",
                 "weight": "5.4 Pounds",
                 "price": 59,
-                "remaining_products": 96,
+                "remaining_products": 6,
                 "color": "Orange",
                 "img": [
                     {
@@ -2494,10 +2418,6 @@
                 "value": "Black, Fits 1\" Dumbbell Pieces"
             },
             {
-                "key": "ASIN",
-                "value": "B0BM4DVS6S"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 11, 2022"
             }
@@ -2507,7 +2427,7 @@
                 "name": "Black, Fits 1\" Dumbbell Pieces",
                 "weight": 2.1772416,
                 "price": 39.99,
-                "remaining_products": 19,
+                "remaining_products": 29,
                 "color": "Black",
                 "img": [
                     {
@@ -2548,7 +2468,7 @@
                 "name": "Black, Fits 2\" Weight Plates",
                 "weight": 2.1772416,
                 "price": 39.99,
-                "remaining_products": 48,
+                "remaining_products": 36,
                 "color": "Black",
                 "img": [
                     {
@@ -2589,7 +2509,7 @@
                 "name": "Green, Fits 2\" Weight Plates",
                 "weight": 2.1772416,
                 "price": 39.99,
-                "remaining_products": 33,
+                "remaining_products": 2,
                 "color": "Green",
                 "img": [
                     {
@@ -2630,7 +2550,7 @@
                 "name": "Yellow, Fits 2\" Weight Plates",
                 "weight": 2.1772416,
                 "price": 39.99,
-                "remaining_products": 98,
+                "remaining_products": 41,
                 "color": "Yellow",
                 "img": [
                     {

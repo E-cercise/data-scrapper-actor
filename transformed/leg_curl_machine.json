@@ -86,10 +86,6 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0090OKF52"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 22, 2012"
             }
@@ -99,7 +95,7 @@
                 "name": "Two-Piece Black/Red",
                 "weight": 42.184056,
                 "price": 279.99,
-                "remaining_products": 53,
+                "remaining_products": 32,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -144,7 +140,7 @@
                 "name": "Standard B/W",
                 "weight": 42.184056,
                 "price": 309.99,
-                "remaining_products": 72,
+                "remaining_products": 90,
                 "color": "Tan",
                 "img": [
                     {
@@ -185,7 +181,7 @@
                 "name": "Standard",
                 "weight": 42.184056,
                 "price": 299.98,
-                "remaining_products": 46,
+                "remaining_products": 32,
                 "color": "Tan",
                 "img": [
                     {
@@ -226,7 +222,7 @@
                 "name": "Two-piece",
                 "weight": 42.184056,
                 "price": 197.97,
-                "remaining_products": 40,
+                "remaining_products": 1,
                 "color": "Two-Piece Black/White",
                 "img": [
                     {
@@ -367,10 +363,6 @@
                 "value": "Both"
             },
             {
-                "key": "ASIN",
-                "value": "B01LYEAO9B"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 3, 2016"
             }
@@ -380,7 +372,7 @@
                 "name": "Item 0.1 Kilograms 19.97",
                 "weight": "0.1 Kilograms",
                 "price": 19.97,
-                "remaining_products": 28,
+                "remaining_products": 72,
                 "color": "blue - pair",
                 "img": [
                     {
@@ -512,10 +504,6 @@
                 "value": "Stadard"
             },
             {
-                "key": "ASIN",
-                "value": "B0BSFWKLVZ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 16, 2023"
             }
@@ -525,7 +513,7 @@
                 "name": "T-Shape",
                 "weight": 15.5128464,
                 "price": 116.99,
-                "remaining_products": 55,
+                "remaining_products": 60,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -566,7 +554,7 @@
                 "name": "D-Shape",
                 "weight": 15.5128464,
                 "price": 151.11,
-                "remaining_products": 41,
+                "remaining_products": 77,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -599,7 +587,7 @@
                 "name": "U-Shape",
                 "weight": 15.5128464,
                 "price": 135.63,
-                "remaining_products": 48,
+                "remaining_products": 67,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -711,10 +699,6 @@
                 "value": "1 Deep Sissy Squat Bench"
             },
             {
-                "key": "ASIN",
-                "value": "B07RB4MVT3"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 1, 2024"
             }
@@ -724,7 +708,7 @@
                 "name": "Beige-8300",
                 "weight": 12.020188,
                 "price": 149.99,
-                "remaining_products": 73,
+                "remaining_products": 43,
                 "color": "Beige",
                 "img": [
                     {
@@ -765,7 +749,7 @@
                 "name": "Black-8300",
                 "weight": 12.020188,
                 "price": 149.99,
-                "remaining_products": 29,
+                "remaining_products": 39,
                 "color": "Black",
                 "img": [
                     {
@@ -857,10 +841,6 @@
                 "value": "AS001"
             },
             {
-                "key": "ASIN",
-                "value": "B0CT2XBHH3"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 23, 2024"
             }
@@ -870,7 +850,7 @@
                 "name": "Pair-Black",
                 "weight": 0.39916096,
                 "price": 13.99,
-                "remaining_products": 56,
+                "remaining_products": 61,
                 "color": "Black",
                 "img": [
                     {
@@ -911,7 +891,7 @@
                 "name": "Single-Green",
                 "weight": 0.39916096,
                 "price": 7.98,
-                "remaining_products": 77,
+                "remaining_products": 57,
                 "color": "Green",
                 "img": [
                     {
@@ -952,7 +932,7 @@
                 "name": "Single-black",
                 "weight": 0.39916096,
                 "price": 6.58,
-                "remaining_products": 40,
+                "remaining_products": 16,
                 "color": "Black",
                 "img": [
                     {
@@ -993,7 +973,7 @@
                 "name": "Pair-Blue",
                 "weight": 0.39916096,
                 "price": 13.99,
-                "remaining_products": 53,
+                "remaining_products": 65,
                 "color": "Blue",
                 "img": [
                     {
@@ -1034,7 +1014,7 @@
                 "name": "Single-Brown",
                 "weight": 0.39916096,
                 "price": 7.98,
-                "remaining_products": 81,
+                "remaining_products": 39,
                 "color": "Brown",
                 "img": [
                     {
@@ -1075,7 +1055,7 @@
                 "name": "Single-Army green",
                 "weight": 0.39916096,
                 "price": 7.98,
-                "remaining_products": 15,
+                "remaining_products": 12,
                 "color": "Green",
                 "img": [
                     {
@@ -1116,7 +1096,7 @@
                 "name": "Single-Blue",
                 "weight": 0.39916096,
                 "price": 7.98,
-                "remaining_products": 85,
+                "remaining_products": 40,
                 "color": "Blue",
                 "img": [
                     {
@@ -1249,10 +1229,6 @@
                 "value": "Leg Curl/Extension Attachment"
             },
             {
-                "key": "ASIN",
-                "value": "B0069U8U9I"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 18, 2011"
             }
@@ -1262,7 +1238,7 @@
                 "name": "Item 14 Pounds 89.98",
                 "weight": "14 Pounds",
                 "price": 89.98,
-                "remaining_products": 37,
+                "remaining_products": 87,
                 "color": "Multi",
                 "img": [
                     {
@@ -1434,10 +1410,6 @@
                 "value": "Ambidextrous"
             },
             {
-                "key": "ASIN",
-                "value": "B074B3B22G"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 27, 2017"
             }
@@ -1447,7 +1419,7 @@
                 "name": "Grey",
                 "weight": 11.113004,
                 "price": 90.85,
-                "remaining_products": 2,
+                "remaining_products": 42,
                 "color": "Grey",
                 "img": [
                     {
@@ -1496,7 +1468,7 @@
                 "name": "Green",
                 "weight": 11.113004,
                 "price": 90.85,
-                "remaining_products": 55,
+                "remaining_products": 65,
                 "color": "Green",
                 "img": [
                     {
@@ -1553,7 +1525,7 @@
                 "name": "2 - Pink",
                 "weight": 11.113004,
                 "price": 90.85,
-                "remaining_products": 48,
+                "remaining_products": 35,
                 "color": "Pink",
                 "img": [
                     {
@@ -1669,10 +1641,6 @@
                 "value": "1"
             },
             {
-                "key": "ASIN",
-                "value": "B0C4NFYBGQ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 9, 2023"
             }
@@ -1682,7 +1650,7 @@
                 "name": "Item 2.15 Kilograms 29.99",
                 "weight": "2.15 Kilograms",
                 "price": 29.99,
-                "remaining_products": 15,
+                "remaining_products": 84,
                 "color": "Black",
                 "img": [
                     {
@@ -1797,10 +1765,6 @@
                 "value": "FITNESS"
             },
             {
-                "key": "ASIN",
-                "value": "B07DNYSJ8W"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 12, 2018"
             }
@@ -1810,7 +1774,7 @@
                 "name": "Item 12 Kilograms 149.99",
                 "weight": "12 Kilograms",
                 "price": 149.99,
-                "remaining_products": 20,
+                "remaining_products": 46,
                 "color": "800LBS",
                 "img": [
                     {

@@ -82,10 +82,6 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B000VLMOP2"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 9, 2008"
             }
@@ -95,7 +91,7 @@
                 "name": "Item 60 Pounds 231.18",
                 "weight": "60 Pounds",
                 "price": 231.18,
-                "remaining_products": 14,
+                "remaining_products": 76,
                 "color": "Red / Black",
                 "img": [
                     {
@@ -213,10 +209,6 @@
                 "value": "Bench and Rack"
             },
             {
-                "key": "ASIN",
-                "value": "B08M8SZNDS"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 29, 2020"
             }
@@ -226,7 +218,7 @@
                 "name": "Item 38.56 Kilograms 121.61",
                 "weight": "38.56 Kilograms",
                 "price": 121.61,
-                "remaining_products": 53,
+                "remaining_products": 30,
                 "color": "Grey",
                 "img": [
                     {
@@ -360,10 +352,6 @@
                 "value": "Weightlifting"
             },
             {
-                "key": "ASIN",
-                "value": "B003O3SFG6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 26, 2010"
             }
@@ -373,7 +361,7 @@
                 "name": "Item 60 Pounds 179.99",
                 "weight": "60 Pounds",
                 "price": 179.99,
-                "remaining_products": 65,
+                "remaining_products": 43,
                 "color": "Multi Colored",
                 "img": [
                     {
@@ -491,10 +479,6 @@
                 "value": "Bench"
             },
             {
-                "key": "ASIN",
-                "value": "B08M63TSNG"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 28, 2020"
             }
@@ -504,7 +488,7 @@
                 "name": "Black/White",
                 "weight": 14.528551760000001,
                 "price": 61.99,
-                "remaining_products": 82,
+                "remaining_products": 17,
                 "color": "White, Black",
                 "img": [
                     {
@@ -553,7 +537,7 @@
                 "name": "Black/Red",
                 "weight": 14.528551760000001,
                 "price": 61.99,
-                "remaining_products": 86,
+                "remaining_products": 88,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -695,10 +679,6 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B00FN9M7LS"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 4, 2013"
             }
@@ -708,7 +688,7 @@
                 "name": "Black - 80 lbs",
                 "weight": 36.28736,
                 "price": 149.99,
-                "remaining_products": 83,
+                "remaining_products": 64,
                 "color": "Black",
                 "img": [
                     {
@@ -757,7 +737,7 @@
                 "name": "Black - 100 lbs",
                 "weight": 45.3592,
                 "price": 149.99,
-                "remaining_products": 20,
+                "remaining_products": 32,
                 "color": "Black",
                 "img": [
                     {
@@ -798,7 +778,7 @@
                 "name": "Black/Red - 100 lbs",
                 "weight": 45.3592,
                 "price": 149.99,
-                "remaining_products": 53,
+                "remaining_products": 49,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -940,10 +920,6 @@
                 "value": "Powerlifting, Bodybuilding"
             },
             {
-                "key": "ASIN",
-                "value": "B07YXMP152"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 11, 2019"
             }
@@ -953,7 +929,7 @@
                 "name": "Item 11.02 Pounds 29.99",
                 "weight": "11.02 Pounds",
                 "price": 29.99,
-                "remaining_products": 89,
+                "remaining_products": 22,
                 "color": "A. (Black) Viking Press Handle",
                 "img": [
                     {
@@ -1092,10 +1068,6 @@
                 "value": "Intermediate"
             },
             {
-                "key": "ASIN",
-                "value": "B002YRB35I"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 24, 2008"
             }
@@ -1105,7 +1077,7 @@
                 "name": "Item 1.7 Pounds 179.95",
                 "weight": "1.7 Pounds",
                 "price": 179.95,
-                "remaining_products": 65,
+                "remaining_products": 7,
                 "color": "Black",
                 "img": [
                     {
@@ -1247,10 +1219,6 @@
                 "value": "Rowing machine, console"
             },
             {
-                "key": "ASIN",
-                "value": "B0844GP7QP"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 14, 2020"
             }
@@ -1260,7 +1228,7 @@
                 "name": "Item 145 Pounds 1794.99",
                 "weight": "145 Pounds",
                 "price": 1794.99,
-                "remaining_products": 31,
+                "remaining_products": 15,
                 "color": "Black/ Silver",
                 "img": [
                     {
@@ -1366,10 +1334,6 @@
                 "value": "HCK_b4onwcijfLvBfCCs4WoCWANAhzNeT"
             },
             {
-                "key": "ASIN",
-                "value": "B0DP4HKNHP"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 27, 2024"
             }
@@ -1379,7 +1343,7 @@
                 "name": "Red",
                 "weight": 37.648136,
                 "price": 199.99,
-                "remaining_products": 36,
+                "remaining_products": 68,
                 "color": "Red",
                 "img": [
                     {
@@ -1428,7 +1392,7 @@
                 "name": "Black",
                 "weight": 37.648136,
                 "price": 199.99,
-                "remaining_products": 16,
+                "remaining_products": 59,
                 "color": "Black",
                 "img": [
                     {
@@ -1563,10 +1527,6 @@
                 "value": "One Size"
             },
             {
-                "key": "ASIN",
-                "value": "B0C8C3999S"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 16, 2023"
             }
@@ -1576,7 +1536,7 @@
                 "name": "Half Rack",
                 "weight": 17.4179328,
                 "price": 149.99,
-                "remaining_products": 71,
+                "remaining_products": 61,
                 "color": "Half Rack",
                 "img": [
                     {
@@ -1613,7 +1573,7 @@
                 "name": "Incline Bench",
                 "weight": 17.4179328,
                 "price": 199.99,
-                "remaining_products": 30,
+                "remaining_products": 91,
                 "color": "Half Rack",
                 "img": [
                     {
@@ -1654,7 +1614,7 @@
                 "name": "Power Cage",
                 "weight": 17.4179328,
                 "price": 229.99,
-                "remaining_products": 80,
+                "remaining_products": 73,
                 "color": "Half Rack",
                 "img": [
                     {
@@ -1707,7 +1667,7 @@
                 "name": "Essential Rack",
                 "weight": 17.4179328,
                 "price": 161.47,
-                "remaining_products": 67,
+                "remaining_products": 21,
                 "color": "Half Rack",
                 "img": [
                     {
@@ -1752,7 +1712,7 @@
                 "name": "Multifunctional Home Gym",
                 "weight": 17.4179328,
                 "price": 719.95,
-                "remaining_products": 33,
+                "remaining_products": 89,
                 "color": "Half Rack",
                 "img": [
                     {
@@ -1882,10 +1842,6 @@
                 "value": "Weightlifting, Exercise and Fitness, Bodybuilding"
             },
             {
-                "key": "ASIN",
-                "value": "B004SBAWMI"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 16, 2011"
             }
@@ -1895,7 +1851,7 @@
                 "name": "Item 83 Pounds 348.98",
                 "weight": "83 Pounds",
                 "price": 348.98,
-                "remaining_products": 10,
+                "remaining_products": 37,
                 "color": "Metallic Grey and Black",
                 "img": [
                     {

@@ -71,10 +71,6 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0D7C98SSZ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 18, 2024"
             }
@@ -84,7 +80,7 @@
                 "name": "Item 12.98 Pounds 49.99",
                 "weight": "12.98 Pounds",
                 "price": 49.99,
-                "remaining_products": 87,
+                "remaining_products": 37,
                 "color": "black",
                 "img": [
                     {
@@ -162,10 +158,6 @@
                 "value": "BU013"
             },
             {
-                "key": "ASIN",
-                "value": "B0DCW64VMJ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 13, 2024"
             }
@@ -175,7 +167,7 @@
                 "name": "Item 10 Pounds 72.99",
                 "weight": "10 Pounds",
                 "price": 72.99,
-                "remaining_products": 54,
+                "remaining_products": 36,
                 "color": "Black",
                 "img": [
                     {
@@ -273,10 +265,6 @@
                 "value": "1 x Storage Rack"
             },
             {
-                "key": "ASIN",
-                "value": "B0CSF7C9TF"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 16, 2024"
             }
@@ -286,7 +274,7 @@
                 "name": "Item 2.72 Kilograms 47.59",
                 "weight": "2.72 Kilograms",
                 "price": 47.59,
-                "remaining_products": 81,
+                "remaining_products": 97,
                 "color": "Black",
                 "img": [
                     {
@@ -400,10 +388,6 @@
                 "value": "48 inches"
             },
             {
-                "key": "ASIN",
-                "value": "B07P9S4383"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 4, 2019"
             }
@@ -413,7 +397,7 @@
                 "name": "Item 4.41 Pounds 54.95",
                 "weight": "4.41 Pounds",
                 "price": 54.95,
-                "remaining_products": 2,
+                "remaining_products": 101,
                 "color": "Silver",
                 "img": [
                     {
@@ -483,10 +467,6 @@
                 "value": "Alloy Steel"
             },
             {
-                "key": "ASIN",
-                "value": "B001AYNBM4"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 17, 2008"
             }
@@ -496,7 +476,7 @@
                 "name": "Item 182 Pounds 1335",
                 "weight": "182 Pounds",
                 "price": 1335,
-                "remaining_products": 60,
+                "remaining_products": 81,
                 "color": "Black",
                 "img": [
                     {
@@ -594,10 +574,6 @@
                 "value": "Best Fitness Functional Trainer"
             },
             {
-                "key": "ASIN",
-                "value": "B0063NCDLM"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 5, 2011"
             }
@@ -607,7 +583,7 @@
                 "name": "Item 330 Pounds 647.99",
                 "weight": "330 Pounds",
                 "price": 647.99,
-                "remaining_products": 44,
+                "remaining_products": 91,
                 "color": "Black",
                 "img": [
                     {
@@ -721,10 +697,6 @@
                 "value": "Stadard"
             },
             {
-                "key": "ASIN",
-                "value": "B0BSHW9FJC"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 17, 2023"
             }
@@ -734,7 +706,7 @@
                 "name": "Item 5.1 Pounds 20.69",
                 "weight": "5.1 Pounds",
                 "price": 20.69,
-                "remaining_products": 24,
+                "remaining_products": 89,
                 "color": "Black",
                 "img": [
                     {
@@ -830,10 +802,6 @@
                 "value": "ellipticaltrainer"
             },
             {
-                "key": "ASIN",
-                "value": "B098JWJQMW"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 2, 2021"
             }
@@ -843,7 +811,7 @@
                 "name": "Orange",
                 "weight": 6.8038799999999995,
                 "price": 129.99,
-                "remaining_products": 52,
+                "remaining_products": 99,
                 "color": "Orange",
                 "img": [
                     {
@@ -880,7 +848,7 @@
                 "name": "Black",
                 "weight": 6.8038799999999995,
                 "price": 129.99,
-                "remaining_products": 64,
+                "remaining_products": 66,
                 "color": "Black",
                 "img": [
                     {
@@ -982,10 +950,6 @@
                 "value": "7pcs"
             },
             {
-                "key": "ASIN",
-                "value": "B0CL5XNBQP"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 12, 2023"
             }
@@ -995,7 +959,7 @@
                 "name": "Item 40 Pounds 119.99",
                 "weight": "40 Pounds",
                 "price": 119.99,
-                "remaining_products": 83,
+                "remaining_products": 29,
                 "color": "Black",
                 "img": [
                     {
@@ -1097,10 +1061,6 @@
                 "value": "Extra Large"
             },
             {
-                "key": "ASIN",
-                "value": "B0DMNC16NT"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 11, 2024"
             }
@@ -1110,7 +1070,7 @@
                 "name": "Item 11.8 Pounds 85.99",
                 "weight": "11.8 Pounds",
                 "price": 85.99,
-                "remaining_products": 98,
+                "remaining_products": 52,
                 "color": "Silver",
                 "img": [
                     {
@@ -1216,10 +1176,6 @@
                 "value": "TR002"
             },
             {
-                "key": "ASIN",
-                "value": "B07WNJSY2B"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 6, 2016"
             }
@@ -1229,7 +1185,7 @@
                 "name": "Red&Black",
                 "weight": 0.3,
                 "price": 14.98,
-                "remaining_products": 91,
+                "remaining_products": 12,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -1274,7 +1230,7 @@
                 "name": "Yellow&Black",
                 "weight": 0.3,
                 "price": 14.98,
-                "remaining_products": 54,
+                "remaining_products": 1,
                 "color": "Yellow, Black",
                 "img": [
                     {
@@ -1315,7 +1271,7 @@
                 "name": "Green&Black",
                 "weight": 0.3,
                 "price": 14.98,
-                "remaining_products": 98,
+                "remaining_products": 20,
                 "color": "Green, Black",
                 "img": [
                     {
@@ -1356,7 +1312,7 @@
                 "name": "Red",
                 "weight": 0.3,
                 "price": 14.98,
-                "remaining_products": 75,
+                "remaining_products": 19,
                 "color": "Red",
                 "img": [
                     {
@@ -1462,10 +1418,6 @@
                 "value": "39.37'' Lat PullDown Bar"
             },
             {
-                "key": "ASIN",
-                "value": "B0D7NRG965"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 21, 2024"
             }
@@ -1475,7 +1427,7 @@
                 "name": "Item 2.6 Pounds 20.98",
                 "weight": "2.6 Pounds",
                 "price": 20.98,
-                "remaining_products": 35,
+                "remaining_products": 28,
                 "color": "BLACK",
                 "img": [
                     {
@@ -1569,10 +1521,6 @@
                 "value": "Lat Attachment"
             },
             {
-                "key": "ASIN",
-                "value": "B07ZQX5DXX"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 29, 2019"
             }
@@ -1582,7 +1530,7 @@
                 "name": "Item 36 Kilograms 458.25",
                 "weight": "36 Kilograms",
                 "price": 458.25,
-                "remaining_products": 94,
+                "remaining_products": 92,
                 "color": "Black",
                 "img": [
                     {
@@ -1676,10 +1624,6 @@
                 "value": "Power Rack"
             },
             {
-                "key": "ASIN",
-                "value": "B0D5QRV87Y"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 31, 2024"
             }
@@ -1689,7 +1633,7 @@
                 "name": "Upgraded Red Package(with BP & Bar & Bench)",
                 "weight": 68.0388,
                 "price": 1449.99,
-                "remaining_products": 4,
+                "remaining_products": 59,
                 "color": "Red",
                 "img": [
                     {
@@ -1702,7 +1646,7 @@
                 "name": "Upgraded Black Package(with BP & Bar & Bench)",
                 "weight": 68.0388,
                 "price": 1449.99,
-                "remaining_products": 10,
+                "remaining_products": 25,
                 "color": "Black",
                 "img": [
                     {
@@ -1715,7 +1659,7 @@
                 "name": "Black Power Rack",
                 "weight": 68.0388,
                 "price": 499.99,
-                "remaining_products": 94,
+                "remaining_products": 54,
                 "color": "Black",
                 "img": [
                     {
@@ -1728,7 +1672,7 @@
                 "name": "Red Power Rack",
                 "weight": 68.0388,
                 "price": 499.99,
-                "remaining_products": 79,
+                "remaining_products": 40,
                 "color": "Red",
                 "img": [
                     {
@@ -1741,7 +1685,7 @@
                 "name": "Black Package(with Bar & Bench)",
                 "weight": 68.0388,
                 "price": 849.99,
-                "remaining_products": 55,
+                "remaining_products": 39,
                 "color": "Black",
                 "img": [
                     {
@@ -1754,7 +1698,7 @@
                 "name": "Red Package(with Bar & Bench)",
                 "weight": 68.0388,
                 "price": 849.99,
-                "remaining_products": 66,
+                "remaining_products": 65,
                 "color": "Red",
                 "img": [
                     {
@@ -1812,10 +1756,6 @@
                 "value": "THE BEST V BAR ON THE MARKET, Hook, and Full Back day workout book"
             },
             {
-                "key": "ASIN",
-                "value": "B0CWNF976Y"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 28, 2024"
             }
@@ -1825,7 +1765,7 @@
                 "name": "Item 2.3 Kilograms 38.99",
                 "weight": "2.3 Kilograms",
                 "price": 38.99,
-                "remaining_products": 99,
+                "remaining_products": 63,
                 "color": "Black",
                 "img": [
                     {
@@ -1931,10 +1871,6 @@
                 "value": "Pulldown bar"
             },
             {
-                "key": "ASIN",
-                "value": "B0D5LZMGWX"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 30, 2024"
             }
@@ -1944,7 +1880,7 @@
                 "name": "Item 500 Grams 15.99",
                 "weight": "500 Grams",
                 "price": 15.99,
-                "remaining_products": 95,
+                "remaining_products": 3,
                 "color": "Black",
                 "img": [
                     {
@@ -2042,10 +1978,6 @@
                 "value": "1-1"
             },
             {
-                "key": "ASIN",
-                "value": "B0D6YQ1CLM"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 13, 2024"
             }
@@ -2055,7 +1987,7 @@
                 "name": "Item 1.65 Kilograms 19.99",
                 "weight": "1.65 Kilograms",
                 "price": 19.99,
-                "remaining_products": 57,
+                "remaining_products": 50,
                 "color": "black",
                 "img": [
                     {
@@ -2177,10 +2109,6 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B07PD6GWQ9"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 4, 2019"
             }
@@ -2190,7 +2118,7 @@
                 "name": "Item 0.9 Kilograms 47.99",
                 "weight": "0.9 Kilograms",
                 "price": 47.99,
-                "remaining_products": 13,
+                "remaining_products": 93,
                 "color": "Silver",
                 "img": [
                     {

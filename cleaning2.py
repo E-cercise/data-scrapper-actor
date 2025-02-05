@@ -171,10 +171,23 @@ def value_of_attribute(attr_list, key: str):
     return None
 
 
+def fill_variant_prices(data):
+    asin_to_price = {item["asin"]: item.get("price", 0.0) for item in data}
+    
+    for item in data:
+        for variant in item.get("variantDetails", []):
+            variant_asin = variant.get("asin")
+            if variant_asin in asin_to_price and (variant.get("price") is None or variant.get("price").get("value") is None):
+                variant["price"] = {"value": asin_to_price[variant_asin], "currency": "$"}
+    
+    return data
+
 def process_variant_data(json_file):
     with open(json_file, "r") as file:
         data = json.load(file)
         
+    data = fill_variant_prices(data)
+
     new_data = []
 
     for product in data:
@@ -272,8 +285,8 @@ def main():
             output_filename = base_name + "_clean2.json"
             output_path = os.path.join(output_directory, output_filename)
 
-            with open(output_path, "w") as outfile:
-                json.dump(processed_data, outfile, indent=4)
+            with open(output_path, "w", encoding="utf-8") as outfile:
+                json.dump(processed_data, outfile, indent=4, ensure_ascii=False)
 
             print(f"Processed {input_path} -> {output_path}")
 

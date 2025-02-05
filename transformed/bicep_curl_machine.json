@@ -62,10 +62,6 @@
                 "value": "CB-5 Standing Preacher Curl Station"
             },
             {
-                "key": "ASIN",
-                "value": "B01N0D9FS3"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 14, 2016"
             }
@@ -75,7 +71,7 @@
                 "name": "CB-5 Standing Preacher Curl Station",
                 "weight": 47.173568,
                 "price": 490.98,
-                "remaining_products": 23,
+                "remaining_products": 17,
                 "color": "Tan",
                 "img": [
                     {
@@ -124,7 +120,7 @@
                 "name": "CB-6 Adjustable Arm Curl Bench",
                 "weight": 47.173568,
                 "price": 490.98,
-                "remaining_products": 63,
+                "remaining_products": 31,
                 "color": "CB-5 Standing Preacher Curl Station",
                 "img": [
                     {
@@ -177,7 +173,7 @@
                 "name": "CB-11 Standing Arm Station w/ Saddled Seat Pad",
                 "weight": 47.173568,
                 "price": 490.98,
-                "remaining_products": 70,
+                "remaining_products": 90,
                 "color": "Tan",
                 "img": [
                     {
@@ -317,10 +313,6 @@
                 "value": "47\""
             },
             {
-                "key": "ASIN",
-                "value": "B0C4BXCC5W"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 4, 2023"
             }
@@ -330,7 +322,7 @@
                 "name": "Item 4.19 Pounds 49.99",
                 "weight": "4.19 Pounds",
                 "price": 49.99,
-                "remaining_products": 80,
+                "remaining_products": 89,
                 "color": "Black",
                 "img": [
                     {
@@ -442,10 +434,6 @@
                 "value": "Exercise and Fitness, Bodybuilding"
             },
             {
-                "key": "ASIN",
-                "value": "B0C4DX7R6V"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 5, 2023"
             }
@@ -455,7 +443,7 @@
                 "name": "Item 1.75 Kilograms 64.99",
                 "weight": "1.75 Kilograms",
                 "price": 64.99,
-                "remaining_products": 26,
+                "remaining_products": 36,
                 "color": "black",
                 "img": [
                     {
@@ -571,10 +559,6 @@
                 "value": "Black\uff08No Resistance Band\uff09"
             },
             {
-                "key": "ASIN",
-                "value": "B07RKW5H68"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 6, 2019"
             }
@@ -584,7 +568,7 @@
                 "name": "Lake Blue And Black",
                 "weight": 0.63956472,
                 "price": 25.99,
-                "remaining_products": 54,
+                "remaining_products": 88,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -621,7 +605,7 @@
                 "name": "Black",
                 "weight": 0.63956472,
                 "price": 25.99,
-                "remaining_products": 91,
+                "remaining_products": 81,
                 "color": "Black",
                 "img": [
                     {
@@ -721,10 +705,6 @@
                 "value": "A. Arm blaster"
             },
             {
-                "key": "ASIN",
-                "value": "B0B5V2B4FT"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 5, 2022"
             }
@@ -734,7 +714,7 @@
                 "name": "Item 1.5 Pounds 23.99",
                 "weight": "1.5 Pounds",
                 "price": 23.99,
-                "remaining_products": 28,
+                "remaining_products": 100,
                 "color": "A. Arm Blaster",
                 "img": [
                     {
@@ -830,10 +810,6 @@
                 "value": "Fat Grip Cable Bar"
             },
             {
-                "key": "ASIN",
-                "value": "B0DD78K9BF"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 15, 2024"
             }
@@ -843,7 +819,7 @@
                 "name": "Item 5.3 Pounds 45",
                 "weight": "5.3 Pounds",
                 "price": 45,
-                "remaining_products": 87,
+                "remaining_products": 13,
                 "color": "Black",
                 "img": [
                     {
@@ -939,10 +915,6 @@
                 "value": "39.37'' Lat PullDown Bar"
             },
             {
-                "key": "ASIN",
-                "value": "B0D7NRG965"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 21, 2024"
             }
@@ -952,7 +924,7 @@
                 "name": "Item 2.6 Pounds 20.98",
                 "weight": "2.6 Pounds",
                 "price": 20.98,
-                "remaining_products": 61,
+                "remaining_products": 44,
                 "color": "BLACK",
                 "img": [
                     {
@@ -1052,10 +1024,6 @@
                 "value": "Lat Attachment"
             },
             {
-                "key": "ASIN",
-                "value": "B07ZQX5DXX"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 29, 2019"
             }
@@ -1065,7 +1033,7 @@
                 "name": "Item 36 Kilograms 470",
                 "weight": "36 Kilograms",
                 "price": 470,
-                "remaining_products": 16,
+                "remaining_products": 85,
                 "color": "Black",
                 "img": [
                     {
@@ -1193,10 +1161,6 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B000VLMOP2"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 9, 2008"
             }
@@ -1206,7 +1170,7 @@
                 "name": "Item 60 Pounds 233.97",
                 "weight": "60 Pounds",
                 "price": 233.97,
-                "remaining_products": 91,
+                "remaining_products": 39,
                 "color": "Red / Black",
                 "img": [
                     {
@@ -1326,10 +1290,6 @@
                 "value": "manual"
             },
             {
-                "key": "ASIN",
-                "value": "B0D3DL33QM"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 6, 2024"
             }
@@ -1339,7 +1299,7 @@
                 "name": "Item 168 Pounds 399.99",
                 "weight": "168 Pounds",
                 "price": 399.99,
-                "remaining_products": 93,
+                "remaining_products": 94,
                 "color": "black",
                 "img": [
                     {
@@ -1463,10 +1423,6 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B07PD6GWQ9"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 4, 2019"
             }
@@ -1476,7 +1432,7 @@
                 "name": "Item 0.9 Kilograms 47.99",
                 "weight": "0.9 Kilograms",
                 "price": 47.99,
-                "remaining_products": 43,
+                "remaining_products": 65,
                 "color": "Silver",
                 "img": [
                     {
@@ -1576,10 +1532,6 @@
                 "value": "1-1"
             },
             {
-                "key": "ASIN",
-                "value": "B0D6YQ1CLM"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 13, 2024"
             }
@@ -1589,7 +1541,7 @@
                 "name": "Item 1.65 Kilograms 19.99",
                 "weight": "1.65 Kilograms",
                 "price": 19.99,
-                "remaining_products": 54,
+                "remaining_products": 92,
                 "color": "black",
                 "img": [
                     {
@@ -1729,10 +1681,6 @@
                 "value": "Bodybuilding"
             },
             {
-                "key": "ASIN",
-                "value": "B0013ZAHDQ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 9, 2003"
             }
@@ -1742,7 +1690,7 @@
                 "name": "Item 8 Pounds 44.74",
                 "weight": "8 Pounds",
                 "price": 44.74,
-                "remaining_products": 29,
+                "remaining_products": 82,
                 "color": "Silver",
                 "img": [
                     {
@@ -1850,10 +1798,6 @@
                 "value": "Six-level elbow cushion, Five-level seat"
             },
             {
-                "key": "ASIN",
-                "value": "B0DPPXDQN1"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 5, 2024"
             }
@@ -1863,7 +1807,7 @@
                 "name": "Black",
                 "weight": 13.154168,
                 "price": 99.99,
-                "remaining_products": 98,
+                "remaining_products": 71,
                 "color": "Black",
                 "img": [
                     {
@@ -1912,7 +1856,7 @@
                 "name": "Red",
                 "weight": 13.154168,
                 "price": 99.99,
-                "remaining_products": 35,
+                "remaining_products": 24,
                 "color": "Red",
                 "img": [
                     {
@@ -1961,7 +1905,7 @@
                 "name": "White",
                 "weight": 13.154168,
                 "price": 99.99,
-                "remaining_products": 30,
+                "remaining_products": 84,
                 "color": "White",
                 "img": [
                     {

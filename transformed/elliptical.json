@@ -71,10 +71,6 @@
                 "value": "Lubrication Oil, User Manual, Remote Control, Pvc Mat, Brush"
             },
             {
-                "key": "ASIN",
-                "value": "B0CPPT9CND"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 7, 2023"
             }
@@ -84,7 +80,7 @@
                 "name": "White",
                 "weight": 5.443104,
                 "price": 139.99,
-                "remaining_products": 20,
+                "remaining_products": 58,
                 "color": "White",
                 "img": [
                     {
@@ -125,7 +121,7 @@
                 "name": "Black",
                 "weight": 5.443104,
                 "price": 139.99,
-                "remaining_products": 77,
+                "remaining_products": 100,
                 "color": "Black",
                 "img": [
                     {
@@ -256,10 +252,6 @@
                 "value": "User Manual, Equipment"
             },
             {
-                "key": "ASIN",
-                "value": "B0DK61ZL1L"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 16, 2024"
             }
@@ -269,7 +261,7 @@
                 "name": "12\" Stride / 300LB Capacity",
                 "weight": 136.0776,
                 "price": 399.99,
-                "remaining_products": 17,
+                "remaining_products": 68,
                 "color": "Black",
                 "img": [
                     {
@@ -306,7 +298,7 @@
                 "name": "16\" Stride / 330LB Capacity",
                 "weight": 149.68536,
                 "price": 399.99,
-                "remaining_products": 73,
+                "remaining_products": 38,
                 "color": "Black",
                 "img": [
                     {
@@ -437,10 +429,6 @@
                 "value": "elliptical and console"
             },
             {
-                "key": "ASIN",
-                "value": "B00PCCBY6K"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 1, 2014"
             }
@@ -450,7 +438,7 @@
                 "name": "Item 251 Pounds 5589",
                 "weight": "251 Pounds",
                 "price": 5589,
-                "remaining_products": 42,
+                "remaining_products": 81,
                 "color": "Titanium",
                 "img": [
                     {
@@ -607,10 +595,6 @@
                 "value": "Ambidextrous"
             },
             {
-                "key": "ASIN",
-                "value": "B07XTQ6SRG"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 12, 2019"
             }
@@ -620,7 +604,7 @@
                 "name": "Black",
                 "weight": 43.0005216,
                 "price": 356.3,
-                "remaining_products": 55,
+                "remaining_products": 34,
                 "color": "Black",
                 "img": [
                     {
@@ -673,7 +657,7 @@
                 "name": "Classic",
                 "weight": 43.0005216,
                 "price": 248.99,
-                "remaining_products": 47,
+                "remaining_products": 48,
                 "color": "Black",
                 "img": [
                     {
@@ -819,10 +803,6 @@
                 "value": "1x Under Desk EllipticaI,1x Power Cord,1x User Manual,2x Foots Straps, 2x Auxiliary elastic ropes, 1x Remote Control"
             },
             {
-                "key": "ASIN",
-                "value": "B0D43WCV3R"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 10, 2024"
             }
@@ -832,7 +812,7 @@
                 "name": "orange",
                 "weight": 6.8038799999999995,
                 "price": 169.99,
-                "remaining_products": 73,
+                "remaining_products": 57,
                 "color": "Orange",
                 "img": [
                     {
@@ -877,7 +857,7 @@
                 "name": "pink",
                 "weight": 6.8038799999999995,
                 "price": 169.99,
-                "remaining_products": 53,
+                "remaining_products": 66,
                 "color": "Pink",
                 "img": [
                     {
@@ -1015,10 +995,6 @@
                 "value": "cross trainer and console"
             },
             {
-                "key": "ASIN",
-                "value": "B00PCCBY7Y"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 1, 2014"
             }
@@ -1028,7 +1004,7 @@
                 "name": "Item 211 Pounds 2889.78",
                 "weight": "211 Pounds",
                 "price": 2889.78,
-                "remaining_products": 92,
+                "remaining_products": 68,
                 "color": "Titanium",
                 "img": [
                     {
@@ -1159,10 +1135,6 @@
                 "value": "User Manual, Elliptical, Assembly Tools"
             },
             {
-                "key": "ASIN",
-                "value": "B0CPQPT848"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 7, 2023"
             }
@@ -1172,7 +1144,7 @@
                 "name": "Item 89.3 Pounds 399.99",
                 "weight": "89.3 Pounds",
                 "price": 399.99,
-                "remaining_products": 14,
+                "remaining_products": 55,
                 "color": "Dark Grey",
                 "img": [
                     {
@@ -1290,10 +1262,6 @@
                 "value": "Elliptical"
             },
             {
-                "key": "ASIN",
-                "value": "B0B8W7BWD6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 6, 2022"
             }
@@ -1303,7 +1271,7 @@
                 "name": "Item 104 Pounds 279",
                 "weight": "104 Pounds",
                 "price": 279,
-                "remaining_products": 90,
+                "remaining_products": 67,
                 "color": "Gray",
                 "img": [
                     {
@@ -1442,10 +1410,6 @@
                 "value": "Recumbent Bike, User Manual"
             },
             {
-                "key": "ASIN",
-                "value": "B09X23WFF5"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 1, 2022"
             }
@@ -1455,7 +1419,7 @@
                 "name": "Electromagnetic",
                 "weight": 51.3012552,
                 "price": 699.99,
-                "remaining_products": 13,
+                "remaining_products": 80,
                 "color": "Black",
                 "img": [
                     {
@@ -1504,7 +1468,7 @@
                 "name": "Magnetic",
                 "weight": 51.3012552,
                 "price": 599.99,
-                "remaining_products": 89,
+                "remaining_products": 32,
                 "color": "Black",
                 "img": [
                     {
@@ -1636,10 +1600,6 @@
                 "value": "Small"
             },
             {
-                "key": "ASIN",
-                "value": "B0DFBGX9VN"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 27, 2024"
             }
@@ -1649,7 +1609,7 @@
                 "name": "Orange",
                 "weight": 4.309124,
                 "price": 119,
-                "remaining_products": 0,
+                "remaining_products": 61,
                 "color": "Orange",
                 "img": [
                     {
@@ -1694,7 +1654,7 @@
                 "name": "Blue",
                 "weight": 4.309124,
                 "price": 149,
-                "remaining_products": 22,
+                "remaining_products": 32,
                 "color": "Blue",
                 "img": [
                     {
@@ -1840,10 +1800,6 @@
                 "value": "Elliptical, User Manual"
             },
             {
-                "key": "ASIN",
-                "value": "B07NSD7L77"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 15, 2019"
             }
@@ -1853,7 +1809,7 @@
                 "name": "Classic",
                 "weight": 86.0010432,
                 "price": 604.26,
-                "remaining_products": 74,
+                "remaining_products": 62,
                 "color": "Black",
                 "img": [
                     {
@@ -1902,7 +1858,7 @@
                 "name": "Smart",
                 "weight": 86.0010432,
                 "price": 599.99,
-                "remaining_products": 34,
+                "remaining_products": 87,
                 "color": "Black",
                 "img": [
                     {
@@ -1951,7 +1907,7 @@
                 "name": "Premium Smart",
                 "weight": 86.0010432,
                 "price": 601.98,
-                "remaining_products": 41,
+                "remaining_products": 75,
                 "color": "Black",
                 "img": [
                     {
@@ -2094,10 +2050,6 @@
                 "value": "elliptical trainer"
             },
             {
-                "key": "ASIN",
-                "value": "B0CNCS7KFL"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 15, 2023"
             }
@@ -2107,7 +2059,7 @@
                 "name": "Purple",
                 "weight": 6.350288,
                 "price": 99,
-                "remaining_products": 74,
+                "remaining_products": 31,
                 "color": "Purple",
                 "img": [
                     {
@@ -2120,7 +2072,7 @@
                 "name": "Training Green",
                 "weight": 6.350288,
                 "price": 95,
-                "remaining_products": 93,
+                "remaining_products": 34,
                 "color": "Green",
                 "img": [
                     {
@@ -2133,7 +2085,7 @@
                 "name": "Black",
                 "weight": 6.350288,
                 "price": 95,
-                "remaining_products": 70,
+                "remaining_products": 69,
                 "color": "Black",
                 "img": [
                     {
@@ -2146,7 +2098,7 @@
                 "name": "Orange",
                 "weight": 6.350288,
                 "price": 95,
-                "remaining_products": 52,
+                "remaining_products": 90,
                 "color": "Orange",
                 "img": [
                     {
@@ -2277,10 +2229,6 @@
                 "value": "Exercise Bike, User Manual"
             },
             {
-                "key": "ASIN",
-                "value": "B09X22XLGS"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 1, 2022"
             }
@@ -2290,7 +2238,7 @@
                 "name": "Smart Cross Trainer",
                 "weight": 39.008912,
                 "price": 399.99,
-                "remaining_products": 18,
+                "remaining_products": 4,
                 "color": "Gray",
                 "img": [
                     {
@@ -2331,7 +2279,7 @@
                 "name": "Smart Recumbent Elliptical",
                 "weight": 39.008912,
                 "price": 469.99,
-                "remaining_products": 63,
+                "remaining_products": 25,
                 "color": "Gray",
                 "img": [
                     {
@@ -2457,10 +2405,6 @@
                 "value": "Cycling"
             },
             {
-                "key": "ASIN",
-                "value": "B0CF4LM43J"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 22, 2023"
             }
@@ -2470,7 +2414,7 @@
                 "name": "Item 15.2 Pounds 122.87",
                 "weight": "15.2 Pounds",
                 "price": 122.87,
-                "remaining_products": 16,
+                "remaining_products": 31,
                 "color": "Blue",
                 "img": [
                     {
@@ -2576,10 +2520,6 @@
                 "value": "EFX 425"
             },
             {
-                "key": "ASIN",
-                "value": "B00LJWR8Y4"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 5, 2014"
             }
@@ -2589,7 +2529,7 @@
                 "name": "Item 240 Pounds 2999",
                 "weight": "240 Pounds",
                 "price": 2999,
-                "remaining_products": 11,
+                "remaining_products": 94,
                 "color": "Black",
                 "img": [
                     {
@@ -2710,10 +2650,6 @@
                 "value": "Elliptical machine"
             },
             {
-                "key": "ASIN",
-                "value": "B0C9CPT6BS"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 26, 2023"
             }
@@ -2723,7 +2659,7 @@
                 "name": "Smart Elliptical CT11PRO",
                 "weight": 45.3592,
                 "price": 799.99,
-                "remaining_products": 40,
+                "remaining_products": 19,
                 "color": "Brown",
                 "img": [
                     {
@@ -2772,7 +2708,7 @@
                 "name": "Smart Elliptical CT11",
                 "weight": 45.3592,
                 "price": 599.99,
-                "remaining_products": 45,
+                "remaining_products": 97,
                 "color": "Brown",
                 "img": [
                     {
@@ -2817,7 +2753,7 @@
                 "name": "Classic Elliptical CT11S",
                 "weight": 45.3592,
                 "price": 499.99,
-                "remaining_products": 62,
+                "remaining_products": 77,
                 "color": "Brown",
                 "img": [
                     {
@@ -2980,10 +2916,6 @@
                 "value": "Mudguard"
             },
             {
-                "key": "ASIN",
-                "value": "B09KNDGPPQ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 31, 2021"
             }
@@ -2993,7 +2925,7 @@
                 "name": "Blue",
                 "weight": 23.7,
                 "price": 2299,
-                "remaining_products": 81,
+                "remaining_products": 35,
                 "color": "Blue",
                 "img": [
                     {
@@ -3042,7 +2974,7 @@
                 "name": "Black",
                 "weight": 23.7,
                 "price": 2299,
-                "remaining_products": 91,
+                "remaining_products": 25,
                 "color": "Black",
                 "img": [
                     {
@@ -3091,7 +3023,7 @@
                 "name": "Orange",
                 "weight": 23.7,
                 "price": 2299,
-                "remaining_products": 68,
+                "remaining_products": 16,
                 "color": "Orange",
                 "img": [
                     {
@@ -3140,7 +3072,7 @@
                 "name": "Green",
                 "weight": 23.7,
                 "price": 2299,
-                "remaining_products": 77,
+                "remaining_products": 50,
                 "color": "Green",
                 "img": [
                     {
@@ -3275,10 +3207,6 @@
                 "value": "Remote Control, Leg Exerciser"
             },
             {
-                "key": "ASIN",
-                "value": "B0CKQN7BPW"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 8, 2023"
             }
@@ -3288,7 +3216,7 @@
                 "name": "Item 2.2 Pounds 109",
                 "weight": "2.2 Pounds",
                 "price": 109,
-                "remaining_products": 87,
+                "remaining_products": 21,
                 "color": "Black",
                 "img": [
                     {
@@ -3404,10 +3332,6 @@
                 "value": "P82 Console"
             },
             {
-                "key": "ASIN",
-                "value": "B00CSAJ2TA"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 6, 2013"
             }
@@ -3417,7 +3341,7 @@
                 "name": "Item 190 Kilograms 3795",
                 "weight": "190 Kilograms",
                 "price": 3795,
-                "remaining_products": 47,
+                "remaining_products": 43,
                 "color": "Multicolor",
                 "img": [
                     {
@@ -3547,10 +3471,6 @@
                 "value": "1\u00d7 Under Desk Elliptical, 1\u00d7 User Manual Product Description, 1\u00d7 Remote Control, 1\u00d7 Power Cord"
             },
             {
-                "key": "ASIN",
-                "value": "B0DDKY8S4R"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 10, 2024"
             }
@@ -3560,7 +3480,7 @@
                 "name": "\u200eWarm Orange",
                 "weight": 5.5791816,
                 "price": 139.99,
-                "remaining_products": 65,
+                "remaining_products": 16,
                 "color": "Orange",
                 "img": [
                     {
@@ -3601,7 +3521,7 @@
                 "name": "Emerald Green",
                 "weight": 5.5791816,
                 "price": 139.99,
-                "remaining_products": 84,
+                "remaining_products": 24,
                 "color": "Green",
                 "img": [
                     {
@@ -3642,7 +3562,7 @@
                 "name": "Blue",
                 "weight": 5.5791816,
                 "price": 139.99,
-                "remaining_products": 51,
+                "remaining_products": 16,
                 "color": "Blue",
                 "img": [
                     {
@@ -3767,10 +3687,6 @@
                 "value": "Charging Cord, Remote Control, Elliptical Machine, Instruction Manual"
             },
             {
-                "key": "ASIN",
-                "value": "B0CQK15SZT"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 18, 2023"
             }
@@ -3780,7 +3696,7 @@
                 "name": "Green",
                 "weight": 7.5,
                 "price": 129.99,
-                "remaining_products": 18,
+                "remaining_products": 7,
                 "color": "Green",
                 "img": [
                     {
@@ -3793,7 +3709,7 @@
                 "name": "Orange",
                 "weight": 7.5,
                 "price": 129.99,
-                "remaining_products": 39,
+                "remaining_products": 48,
                 "color": "Orange",
                 "img": [
                     {
@@ -3891,10 +3807,6 @@
                 "value": "forward and reverse"
             },
             {
-                "key": "ASIN",
-                "value": "B07MBQ19Z2"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 3, 2019"
             }
@@ -3904,7 +3816,7 @@
                 "name": "Item 13.68 Kilograms 179.99",
                 "weight": "13.68 Kilograms",
                 "price": 179.99,
-                "remaining_products": 74,
+                "remaining_products": 17,
                 "color": "Black",
                 "img": [
                     {
@@ -4038,10 +3950,6 @@
                 "value": "Endurance Elliptical"
             },
             {
-                "key": "ASIN",
-                "value": "B00HAUVECQ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 7, 2009"
             }
@@ -4051,7 +3959,7 @@
                 "name": "Item 280 Pounds 2725",
                 "weight": "280 Pounds",
                 "price": 2725,
-                "remaining_products": 90,
+                "remaining_products": 7,
                 "color": "Black",
                 "img": [
                     {
@@ -4161,10 +4069,6 @@
                 "value": "1"
             },
             {
-                "key": "ASIN",
-                "value": "B0DSFW65NT"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 7, 2025"
             }
@@ -4174,7 +4078,7 @@
                 "name": "White",
                 "weight": 11.3398,
                 "price": 109.99,
-                "remaining_products": 47,
+                "remaining_products": 56,
                 "color": "White",
                 "img": [
                     {
@@ -4211,7 +4115,7 @@
                 "name": "Black",
                 "weight": 11.3398,
                 "price": 109.99,
-                "remaining_products": 14,
+                "remaining_products": 95,
                 "color": "Black",
                 "img": [
                     {
@@ -4345,10 +4249,6 @@
                 "value": "One Size"
             },
             {
-                "key": "ASIN",
-                "value": "B09FDX1P2V"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 7, 2021"
             }
@@ -4358,7 +4258,7 @@
                 "name": "Item 93 Kilograms 2749.99",
                 "weight": "93 Kilograms",
                 "price": 2749.99,
-                "remaining_products": 71,
+                "remaining_products": 84,
                 "color": "Black",
                 "img": [
                     {
@@ -4499,10 +4399,6 @@
                 "value": "Ambidextrous"
             },
             {
-                "key": "ASIN",
-                "value": "B08GYQFT5W"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 28, 2020"
             }
@@ -4512,7 +4408,7 @@
                 "name": "Smart Advanced",
                 "weight": 7.3481904,
                 "price": 39.98,
-                "remaining_products": 75,
+                "remaining_products": 64,
                 "color": "Grey",
                 "img": [
                     {
@@ -4553,7 +4449,7 @@
                 "name": "Classic",
                 "weight": 7.3481904,
                 "price": 39.98,
-                "remaining_products": 9,
+                "remaining_products": 65,
                 "color": "Grey",
                 "img": [
                     {
@@ -4602,7 +4498,7 @@
                 "name": "Pink Smart",
                 "weight": 7.3481904,
                 "price": 39.98,
-                "remaining_products": 60,
+                "remaining_products": 34,
                 "color": "Pink",
                 "img": [
                     {
@@ -4712,10 +4608,6 @@
                 "value": "Precor"
             },
             {
-                "key": "ASIN",
-                "value": "B00PISO2UI"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 12, 2014"
             }
@@ -4725,7 +4617,7 @@
                 "name": "Item 338 Pounds 2399",
                 "weight": "338 Pounds",
                 "price": 2399,
-                "remaining_products": 87,
+                "remaining_products": 43,
                 "color": "silver, grey",
                 "img": [
                     {
@@ -4839,10 +4731,6 @@
                 "value": "Eliptical"
             },
             {
-                "key": "ASIN",
-                "value": "B0C2QKBWLS"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 17, 2023"
             }
@@ -4852,7 +4740,7 @@
                 "name": "Item 15 Pounds 279",
                 "weight": "15 Pounds",
                 "price": 279,
-                "remaining_products": 14,
+                "remaining_products": 8,
                 "color": "Silver",
                 "img": [
                     {
@@ -4974,10 +4862,6 @@
                 "value": "P30 Console, Treadmill"
             },
             {
-                "key": "ASIN",
-                "value": "B07F45N1VK"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 28, 2018"
             }
@@ -4987,7 +4871,7 @@
                 "name": "Black",
                 "weight": 153.314096,
                 "price": 3595,
-                "remaining_products": 60,
+                "remaining_products": 90,
                 "color": "Black",
                 "img": [
                     {
@@ -5016,7 +4900,7 @@
                 "name": "Silver",
                 "weight": 153.314096,
                 "price": 3595,
-                "remaining_products": 75,
+                "remaining_products": 6,
                 "color": "Silver",
                 "img": [
                     {
@@ -5115,10 +4999,6 @@
                 "value": "Elliptical Machine"
             },
             {
-                "key": "ASIN",
-                "value": "B0DCNWTJ18"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 9, 2024"
             }
@@ -5128,7 +5008,7 @@
                 "name": "Item 38 Kilograms 399.99",
                 "weight": "38 Kilograms",
                 "price": 399.99,
-                "remaining_products": 94,
+                "remaining_products": 0,
                 "color": "Black/orange",
                 "img": [
                     {
@@ -5246,10 +5126,6 @@
                 "value": "Under Desk Elliptical*1, Power Cord*1, User Manual Product Description*1, Remote Control*1"
             },
             {
-                "key": "ASIN",
-                "value": "B0DF2WS15J"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 23, 2024"
             }
@@ -5259,7 +5135,7 @@
                 "name": "Item 13.7 Pounds 129.99",
                 "weight": "13.7 Pounds",
                 "price": 129.99,
-                "remaining_products": 92,
+                "remaining_products": 95,
                 "color": "orange",
                 "img": [
                     {
@@ -5409,10 +5285,6 @@
                 "value": "One Size"
             },
             {
-                "key": "ASIN",
-                "value": "B0C4ZB3WT5"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 11, 2023"
             }
@@ -5422,7 +5294,7 @@
                 "name": "Original Peloton Bike",
                 "weight": 61.23492,
                 "price": 1145,
-                "remaining_products": 2,
+                "remaining_products": 17,
                 "color": "Black",
                 "img": [
                     {
@@ -5451,7 +5323,7 @@
                 "name": "Peloton Bike+",
                 "weight": 61.23492,
                 "price": 1145,
-                "remaining_products": 47,
+                "remaining_products": 50,
                 "color": "Black",
                 "img": [
                     {
@@ -5573,10 +5445,6 @@
                 "value": "exercise_&_fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0053O3Y4W"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 1, 2011"
             }
@@ -5586,7 +5454,7 @@
                 "name": "Item 394 Pounds 2595",
                 "weight": "394 Pounds",
                 "price": 2595,
-                "remaining_products": 95,
+                "remaining_products": 28,
                 "color": "black, silver",
                 "img": [
                     {
@@ -5690,10 +5558,6 @@
                 "value": "Remote Control, Non-Slip Pad"
             },
             {
-                "key": "ASIN",
-                "value": "B0DBL56337"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 30, 2024"
             }
@@ -5703,7 +5567,7 @@
                 "name": "Black",
                 "weight": 5.4,
                 "price": 89.99,
-                "remaining_products": 101,
+                "remaining_products": 18,
                 "color": "Black",
                 "img": [
                     {
@@ -5748,7 +5612,7 @@
                 "name": "Black/Orange",
                 "weight": 5.4,
                 "price": 89.99,
-                "remaining_products": 57,
+                "remaining_products": 34,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -5879,10 +5743,6 @@
                 "value": "wireless heart rate chest strap"
             },
             {
-                "key": "ASIN",
-                "value": "B0CVJSWJR8"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 13, 2024"
             }
@@ -5892,7 +5752,7 @@
                 "name": "Item 143 Pounds 1999",
                 "weight": "143 Pounds",
                 "price": 1999,
-                "remaining_products": 51,
+                "remaining_products": 20,
                 "color": "Black",
                 "img": [
                     {
@@ -6010,10 +5870,6 @@
                 "value": "Excercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0029KOD66"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 11, 2009"
             }
@@ -6023,7 +5879,7 @@
                 "name": "Item 318 Pounds 2295",
                 "weight": "318 Pounds",
                 "price": 2295,
-                "remaining_products": 69,
+                "remaining_products": 12,
                 "color": "black, silver",
                 "img": [
                     {
@@ -6121,10 +5977,6 @@
                 "value": "1 x Elliptical Machine, 1x Lubricant 2 x Resistance Bands, 1 x Power Cord 2 x Foot Straps, 2 x AAA Batteries 1 x Remote Controller, 1 x PVC Pad 1 x User Manual"
             },
             {
-                "key": "ASIN",
-                "value": "B0CRYSX4X3"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 10, 2024"
             }
@@ -6134,7 +5986,7 @@
                 "name": "Black",
                 "weight": 8.8,
                 "price": 149.99,
-                "remaining_products": 39,
+                "remaining_products": 62,
                 "color": "Black",
                 "img": [
                     {
@@ -6183,7 +6035,7 @@
                 "name": "White",
                 "weight": 8.8,
                 "price": 149.99,
-                "remaining_products": 6,
+                "remaining_products": 99,
                 "color": "White",
                 "img": [
                     {
@@ -6322,10 +6174,6 @@
                 "value": "Teeter FreeStep Recumbent Cross Trainer Stepper, Zero-Impact Exercise Bike Alternative w/Patented Physical Therapy Stride, Up to 350lb, Free App w/Trainer Workouts"
             },
             {
-                "key": "ASIN",
-                "value": "B08MVG81P6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 15, 2019"
             }
@@ -6335,7 +6183,7 @@
                 "name": "LT3",
                 "weight": 49.9858384,
                 "price": 849,
-                "remaining_products": 40,
+                "remaining_products": 85,
                 "color": "Black",
                 "img": [
                     {
@@ -6383,8 +6231,8 @@
             {
                 "name": "LT7",
                 "weight": 49.9858384,
-                "price": 849,
-                "remaining_products": 28,
+                "price": 1449,
+                "remaining_products": 58,
                 "color": "Black",
                 "img": [
                     {
@@ -6421,7 +6269,7 @@
                 "name": "LT1",
                 "weight": 49.9858384,
                 "price": 849,
-                "remaining_products": 10,
+                "remaining_products": 96,
                 "color": "Black",
                 "img": [
                     {
@@ -6547,10 +6395,6 @@
                 "value": "Excercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B07DVMJCTM"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 19, 2018"
             }
@@ -6560,7 +6404,7 @@
                 "name": "Item 318 Pounds 4179",
                 "weight": "318 Pounds",
                 "price": 4179,
-                "remaining_products": 17,
+                "remaining_products": 69,
                 "color": "Black",
                 "img": [
                     {
@@ -6713,10 +6557,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B06WW5XXJL"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 22, 2017"
             }
@@ -6726,7 +6566,7 @@
                 "name": "2 - SMART",
                 "weight": 14.968536,
                 "price": 116.2,
-                "remaining_products": 46,
+                "remaining_products": 71,
                 "color": "Silver",
                 "img": [
                     {
@@ -6763,7 +6603,7 @@
                 "name": "1 - Classic",
                 "weight": 14.968536,
                 "price": 116.2,
-                "remaining_products": 81,
+                "remaining_products": 85,
                 "color": "Silver",
                 "img": [
                     {
@@ -6840,7 +6680,7 @@
                 "name": "3 - Row-N-Ride SMART",
                 "weight": 14.968536,
                 "price": 116.2,
-                "remaining_products": 13,
+                "remaining_products": 7,
                 "color": "Silver",
                 "img": [
                     {
@@ -6881,7 +6721,7 @@
                 "name": "4 - Premium Magnetic SMART",
                 "weight": 14.968536,
                 "price": 116.2,
-                "remaining_products": 21,
+                "remaining_products": 73,
                 "color": "Silver",
                 "img": [
                     {
@@ -7016,10 +6856,6 @@
                 "value": "User Manual, Equipment"
             },
             {
-                "key": "ASIN",
-                "value": "B0D216VS11"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 17, 2024"
             }
@@ -7029,7 +6865,7 @@
                 "name": "Long Stride",
                 "weight": 28.0319856,
                 "price": 349.99,
-                "remaining_products": 44,
+                "remaining_products": 4,
                 "color": "Gray",
                 "img": [
                     {
@@ -7074,7 +6910,7 @@
                 "name": "Advanced",
                 "weight": 28.0319856,
                 "price": 349.99,
-                "remaining_products": 27,
+                "remaining_products": 101,
                 "color": "Gray",
                 "img": [
                     {
@@ -7111,7 +6947,7 @@
                 "name": "Compact",
                 "weight": 28.0319856,
                 "price": 349.99,
-                "remaining_products": 72,
+                "remaining_products": 19,
                 "color": "Gray",
                 "img": [
                     {
@@ -7291,10 +7127,6 @@
                 "value": "1"
             },
             {
-                "key": "ASIN",
-                "value": "B0CFR8GWYR"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 10, 2024"
             }
@@ -7304,7 +7136,7 @@
                 "name": "Item 250 Pounds 2995",
                 "weight": "250 Pounds",
                 "price": 2995,
-                "remaining_products": 18,
+                "remaining_products": 2,
                 "color": "Black",
                 "img": [
                     {
@@ -7426,10 +7258,6 @@
                 "value": "NTEL71418"
             },
             {
-                "key": "ASIN",
-                "value": "B07HQ164VM"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 26, 2018"
             }
@@ -7439,7 +7267,7 @@
                 "name": "Item 210 Pounds 3249.99",
                 "weight": "210 Pounds",
                 "price": 3249.99,
-                "remaining_products": 76,
+                "remaining_products": 22,
                 "color": "black, silver",
                 "img": [
                     {
@@ -7610,10 +7438,6 @@
                 "value": "Ambidextrous"
             },
             {
-                "key": "ASIN",
-                "value": "B0C8342FMM"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 14, 2023"
             }
@@ -7623,7 +7447,7 @@
                 "name": "Classic",
                 "weight": 10.1604608,
                 "price": 119.99,
-                "remaining_products": 15,
+                "remaining_products": 28,
                 "color": "Black",
                 "img": [
                     {
@@ -7664,7 +7488,7 @@
                 "name": "Smart",
                 "weight": 10.1604608,
                 "price": 119.99,
-                "remaining_products": 20,
+                "remaining_products": 73,
                 "color": "Black",
                 "img": [
                     {
@@ -7790,10 +7614,6 @@
                 "value": "Remote Control"
             },
             {
-                "key": "ASIN",
-                "value": "B0CMXYLXQQ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 27, 2023"
             }
@@ -7803,7 +7623,7 @@
                 "name": "Orange",
                 "weight": 7.8,
                 "price": 149.99,
-                "remaining_products": 57,
+                "remaining_products": 33,
                 "color": "Orange",
                 "img": [
                     {
@@ -7816,7 +7636,7 @@
                 "name": "White",
                 "weight": 7.8,
                 "price": 169.99,
-                "remaining_products": 20,
+                "remaining_products": 98,
                 "color": "White",
                 "img": [
                     {
@@ -7829,7 +7649,7 @@
                 "name": "Bule Gray",
                 "weight": 7.8,
                 "price": 169.99,
-                "remaining_products": 0,
+                "remaining_products": 54,
                 "color": "Gray",
                 "img": [
                     {
@@ -7948,10 +7768,6 @@
                 "value": "One Size"
             },
             {
-                "key": "ASIN",
-                "value": "B0C833W5C3"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 14, 2023"
             }
@@ -7961,7 +7777,7 @@
                 "name": "Climber",
                 "weight": 16.5107488,
                 "price": 199.99,
-                "remaining_products": 30,
+                "remaining_products": 95,
                 "color": "Gray",
                 "img": [
                     {
@@ -7998,7 +7814,7 @@
                 "name": "Stepper",
                 "weight": 16.5107488,
                 "price": 199.99,
-                "remaining_products": 85,
+                "remaining_products": 92,
                 "color": "Gray",
                 "img": [
                     {
@@ -8117,10 +7933,6 @@
                 "value": "Lubrication Oil, Foot Straps, Power Cord, Remote Control, Brush"
             },
             {
-                "key": "ASIN",
-                "value": "B0CNTC2SDQ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 22, 2023"
             }
@@ -8130,7 +7942,7 @@
                 "name": "White",
                 "weight": 5.443104,
                 "price": 104.49,
-                "remaining_products": 12,
+                "remaining_products": 92,
                 "color": "White",
                 "img": [
                     {
@@ -8171,7 +7983,7 @@
                 "name": "Black",
                 "weight": 5.443104,
                 "price": 104.49,
-                "remaining_products": 78,
+                "remaining_products": 3,
                 "color": "Black",
                 "img": [
                     {
@@ -8212,7 +8024,7 @@
                 "name": "Orange",
                 "weight": 5.443104,
                 "price": 104.49,
-                "remaining_products": 90,
+                "remaining_products": 16,
                 "color": "Orange",
                 "img": [
                     {
@@ -8369,10 +8181,6 @@
                 "value": "Walking, Cycling, Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B07MWV1JD7"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 17, 2019"
             }
@@ -8382,7 +8190,7 @@
                 "name": "Classic",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 83,
+                "remaining_products": 45,
                 "color": "Gray-Magnetic",
                 "img": [
                     {
@@ -8431,7 +8239,7 @@
                 "name": "Smart & Motorized",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 27,
+                "remaining_products": 96,
                 "color": "Gray-Magnetic",
                 "img": [
                     {
@@ -8468,7 +8276,7 @@
                 "name": "Smart Pink",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 82,
+                "remaining_products": 1,
                 "color": "Pink",
                 "img": [
                     {
@@ -8505,7 +8313,7 @@
                 "name": "Smart",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 74,
+                "remaining_products": 7,
                 "color": "Gray-Magnetic",
                 "img": [
                     {
@@ -8546,7 +8354,7 @@
                 "name": "Classic Pink",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 91,
+                "remaining_products": 58,
                 "color": "Pink",
                 "img": [
                     {
@@ -8681,10 +8489,6 @@
                 "value": "Teeter FreeStep Recumbent Cross Trainer Stepper, Zero-Impact Exercise Bike Alternative w/Patented Physical Therapy Stride, Up to 350lb, Free App w/Trainer Workouts"
             },
             {
-                "key": "ASIN",
-                "value": "B0CX33CPR2"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 4, 2024"
             }
@@ -8694,7 +8498,7 @@
                 "name": "LT3",
                 "weight": 68.0388,
                 "price": 849,
-                "remaining_products": 98,
+                "remaining_products": 48,
                 "color": "Black",
                 "img": [
                     {
@@ -8743,7 +8547,7 @@
                 "name": "LT7",
                 "weight": 68.0388,
                 "price": 1449,
-                "remaining_products": 54,
+                "remaining_products": 29,
                 "color": "Black",
                 "img": [
                     {
@@ -8780,7 +8584,7 @@
                 "name": "LT1",
                 "weight": 68.0388,
                 "price": 779,
-                "remaining_products": 27,
+                "remaining_products": 8,
                 "color": "Black",
                 "img": [
                     {
@@ -8914,10 +8718,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0BLFNN6JR"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 30, 2023"
             }
@@ -8927,7 +8727,7 @@
                 "name": "Item 17.6 Pounds 161.99",
                 "weight": "17.6 Pounds",
                 "price": 161.99,
-                "remaining_products": 77,
+                "remaining_products": 91,
                 "color": "Aqua",
                 "img": [
                     {
@@ -9073,10 +8873,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B01LYRNITC"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 7, 2016"
             }
@@ -9086,7 +8882,7 @@
                 "name": "EU100",
                 "weight": 33.520448800000004,
                 "price": 149,
-                "remaining_products": 80,
+                "remaining_products": 79,
                 "color": "Black",
                 "img": [
                     {
@@ -9135,7 +8931,7 @@
                 "name": "EU150",
                 "weight": 33.520448800000004,
                 "price": 149,
-                "remaining_products": 67,
+                "remaining_products": 99,
                 "color": "Black",
                 "img": [
                     {
@@ -9298,10 +9094,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B07SRDFKQR"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 6, 2019"
             }
@@ -9311,7 +9103,7 @@
                 "name": "Classic",
                 "weight": 47.536441599999996,
                 "price": 239.98,
-                "remaining_products": 51,
+                "remaining_products": 74,
                 "color": "Silver",
                 "img": [
                     {
@@ -9360,7 +9152,7 @@
                 "name": "Smart Ellitpical",
                 "weight": 47.536441599999996,
                 "price": 239.98,
-                "remaining_products": 22,
+                "remaining_products": 79,
                 "color": "Silver",
                 "img": [
                     {
@@ -9492,10 +9284,6 @@
                 "value": "Medium"
             },
             {
-                "key": "ASIN",
-                "value": "B0D8W68VGZ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 5, 2024"
             }
@@ -9505,7 +9293,7 @@
                 "name": "Item 6.53 Kilograms 129.99",
                 "weight": "6.53 Kilograms",
                 "price": 129.99,
-                "remaining_products": 32,
+                "remaining_products": 87,
                 "color": "Black",
                 "img": [
                     {
@@ -9635,10 +9423,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B088P6TKQB"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 15, 2020"
             }
@@ -9648,7 +9432,7 @@
                 "name": "Elliptical Trainer 708",
                 "weight": 29.937072,
                 "price": 240.83,
-                "remaining_products": 88,
+                "remaining_products": 1,
                 "color": "Black",
                 "img": [
                     {
@@ -9701,7 +9485,7 @@
                 "name": "Elliptical Trainer 1704",
                 "weight": 29.937072,
                 "price": 259,
-                "remaining_products": 39,
+                "remaining_products": 24,
                 "color": "Black",
                 "img": [
                     {
@@ -9834,10 +9618,6 @@
                 "value": "Elliptical*1; Tool Kit*1;Manual*1"
             },
             {
-                "key": "ASIN",
-                "value": "B0D3BVXD8J"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 5, 2024"
             }
@@ -9846,8 +9626,8 @@
             {
                 "name": "07-Basic Black Elliptical",
                 "weight": 46.27,
-                "price": 569.99,
-                "remaining_products": 73,
+                "price": 399.99,
+                "remaining_products": 29,
                 "color": "Black",
                 "img": [
                     {
@@ -9888,7 +9668,7 @@
                 "name": "03-Smart Orange Elliptical",
                 "weight": 46.27,
                 "price": 569.99,
-                "remaining_products": 101,
+                "remaining_products": 34,
                 "color": "Orange",
                 "img": [
                     {
@@ -9933,7 +9713,7 @@
                 "name": "04-Smart Elliptical",
                 "weight": 46.27,
                 "price": 569.99,
-                "remaining_products": 71,
+                "remaining_products": 48,
                 "color": "Black",
                 "img": [
                     {
@@ -10045,10 +9825,6 @@
                 "value": "elliptical machine\uff0cRemote control\uff0cInstructions for use\uff0cPower Cord\uff0cLubricant"
             },
             {
-                "key": "ASIN",
-                "value": "B0DDXP7GRW"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 22, 2024"
             }
@@ -10058,7 +9834,7 @@
                 "name": "Item 14 Pounds 109.99",
                 "weight": "14 Pounds",
                 "price": 109.99,
-                "remaining_products": 76,
+                "remaining_products": 61,
                 "color": "Orange",
                 "img": [
                     {
@@ -10176,10 +9952,6 @@
                 "value": "Black"
             },
             {
-                "key": "ASIN",
-                "value": "B0DBDSXMJG"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 27, 2024"
             }
@@ -10189,7 +9961,7 @@
                 "name": "Item 14 Pounds 99.99",
                 "weight": "14 Pounds",
                 "price": 99.99,
-                "remaining_products": 14,
+                "remaining_products": 3,
                 "color": "Black",
                 "img": [
                     {
@@ -10343,10 +10115,6 @@
                 "value": "Complete bike"
             },
             {
-                "key": "ASIN",
-                "value": "B09KHG8D8V"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 31, 2021"
             }
@@ -10356,7 +10124,7 @@
                 "name": "Red",
                 "weight": 29.6,
                 "price": 1999,
-                "remaining_products": 100,
+                "remaining_products": 27,
                 "color": "Red",
                 "img": [
                     {
@@ -10405,7 +10173,7 @@
                 "name": "Blue",
                 "weight": 29.6,
                 "price": 1999,
-                "remaining_products": 35,
+                "remaining_products": 19,
                 "color": "Blue",
                 "img": [
                     {
@@ -10454,7 +10222,7 @@
                 "name": "Black",
                 "weight": 29.6,
                 "price": 1999,
-                "remaining_products": 55,
+                "remaining_products": 10,
                 "color": "Black",
                 "img": [
                     {
@@ -10591,10 +10359,6 @@
                 "value": "Under Desk Elliptical"
             },
             {
-                "key": "ASIN",
-                "value": "B0D2XCM21M"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 29, 2024"
             }
@@ -10604,7 +10368,7 @@
                 "name": "Item 14.56 Kilograms 108.95",
                 "weight": "14.56 Kilograms",
                 "price": 108.95,
-                "remaining_products": 17,
+                "remaining_products": 48,
                 "color": "Black",
                 "img": [
                     {
@@ -10732,10 +10496,6 @@
                 "value": "Instructions"
             },
             {
-                "key": "ASIN",
-                "value": "B0B81FKZVJ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 29, 2022"
             }
@@ -10745,7 +10505,7 @@
                 "name": "Item 94.6 Pounds 489.99",
                 "weight": "94.6 Pounds",
                 "price": 489.99,
-                "remaining_products": 50,
+                "remaining_products": 29,
                 "color": "Black",
                 "img": [
                     {
@@ -10883,10 +10643,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B00BDMH10Q"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 10, 2012"
             }
@@ -10896,7 +10652,7 @@
                 "name": "Black Cords",
                 "weight": 10.886208,
                 "price": 131.99,
-                "remaining_products": 9,
+                "remaining_products": 44,
                 "color": "Black",
                 "img": [
                     {
@@ -10949,7 +10705,7 @@
                 "name": "Black/Green Cords",
                 "weight": 10.886208,
                 "price": 131.99,
-                "remaining_products": 37,
+                "remaining_products": 10,
                 "color": "Green, Black",
                 "img": [
                     {

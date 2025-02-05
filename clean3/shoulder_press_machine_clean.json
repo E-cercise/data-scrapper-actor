@@ -107,10 +107,6 @@
                 "value": "Weightlifting"
             },
             {
-                "key": "ASIN",
-                "value": "B07N4M53DC"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 24, 2019"
             }
@@ -120,7 +116,7 @@
                 "name": "White",
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 88,
+                "remaining_products": 92,
                 "color": "White",
                 "img": [
                     {
@@ -153,7 +149,7 @@
                 "name": "Green",
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 23,
+                "remaining_products": 57,
                 "color": "Green",
                 "img": [
                     {
@@ -182,7 +178,7 @@
                 "name": "Black",
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 70,
+                "remaining_products": 18,
                 "color": "Black",
                 "img": [
                     {
@@ -235,7 +231,7 @@
                 "name": "Blue",
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 44,
+                "remaining_products": 79,
                 "color": "Blue",
                 "img": [
                     {
@@ -365,10 +361,6 @@
                 "value": "Sporting Goods"
             },
             {
-                "key": "ASIN",
-                "value": "B01HM4Z8AI"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 27, 2016"
             }
@@ -378,7 +370,7 @@
                 "name": "C. Orange",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 63,
+                "remaining_products": 99,
                 "color": "Orange",
                 "img": [
                     {
@@ -415,7 +407,7 @@
                 "name": "B. American Pride",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 3,
+                "remaining_products": 76,
                 "color": "H. Combo T bar Row + Double Grip Row",
                 "img": [
                     {
@@ -452,7 +444,7 @@
                 "name": "D. Black - T-Bar Row Platform + Lock Jaw 1inch & 2inch",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 7,
+                "remaining_products": 76,
                 "color": "Black",
                 "img": [
                     {
@@ -489,7 +481,7 @@
                 "name": "A. Black",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 48,
+                "remaining_products": 12,
                 "color": "Black",
                 "img": [
                     {
@@ -530,7 +522,7 @@
                 "name": "H. Combo T bar Row + Double Grip Row",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 1,
+                "remaining_products": 4,
                 "color": "H. Combo T bar Row + Double Grip Row",
                 "img": [
                     {
@@ -563,7 +555,7 @@
                 "name": "F. Premium T Bar Row Multifunction",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 99,
+                "remaining_products": 58,
                 "color": "H. Combo T bar Row + Double Grip Row",
                 "img": [
                     {
@@ -604,7 +596,7 @@
                 "name": "M. Rubber Handle for 2inch",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 21,
+                "remaining_products": 85,
                 "color": "H. Combo T bar Row + Double Grip Row",
                 "img": [
                     {
@@ -641,7 +633,7 @@
                 "name": "L. T-Bar Lat Blaster Handle",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 73,
+                "remaining_products": 20,
                 "color": "H. Combo T bar Row + Double Grip Row",
                 "img": [
                     {
@@ -739,10 +731,6 @@
                 "value": "Knurled"
             },
             {
-                "key": "ASIN",
-                "value": "B07PD84RXL"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 4, 2019"
             }
@@ -752,7 +740,7 @@
                 "name": "Item 5 Pounds 58.09",
                 "weight": "5 Pounds",
                 "price": 58.09,
-                "remaining_products": 44,
+                "remaining_products": 47,
                 "color": "Silver",
                 "img": [
                     {
@@ -846,10 +834,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0BD5G3CVN"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 27, 2022"
             }
@@ -859,7 +843,7 @@
                 "name": "Black Rotate",
                 "weight": 0.3,
                 "price": 20.98,
-                "remaining_products": 16,
+                "remaining_products": 6,
                 "color": "Black",
                 "img": [
                     {
@@ -896,7 +880,7 @@
                 "name": "Rotate Rubber",
                 "weight": 0.3,
                 "price": 20.98,
-                "remaining_products": 50,
+                "remaining_products": 72,
                 "color": "Black Rotate",
                 "img": [
                     {
@@ -941,7 +925,7 @@
                 "name": "Rubber",
                 "weight": 0.3,
                 "price": 20.98,
-                "remaining_products": 55,
+                "remaining_products": 18,
                 "color": "Black Rotate",
                 "img": [
                     {
@@ -978,7 +962,7 @@
                 "name": "Black Chrome",
                 "weight": 0.3,
                 "price": 20.98,
-                "remaining_products": 10,
+                "remaining_products": 16,
                 "color": "Black, Chrome",
                 "img": [
                     {
@@ -1070,10 +1054,6 @@
                 "value": "Powerlifting, Bodybuilding"
             },
             {
-                "key": "ASIN",
-                "value": "B0CKVH73T4"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 11, 2023"
             }
@@ -1083,7 +1063,7 @@
                 "name": "Item 5.44 Kilograms 42.99",
                 "weight": "5.44 Kilograms",
                 "price": 42.99,
-                "remaining_products": 38,
+                "remaining_products": 13,
                 "color": "Viking Press Landmine Handle",
                 "img": [
                     {
@@ -1234,10 +1214,6 @@
                 "value": "Rower, User Manual, 1 AA Battery"
             },
             {
-                "key": "ASIN",
-                "value": "B09FFSQBJ6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 3, 2021"
             }
@@ -1247,7 +1223,7 @@
                 "name": "Item 37.9 Pounds 199.99",
                 "weight": "37.9 Pounds",
                 "price": 199.99,
-                "remaining_products": 44,
+                "remaining_products": 95,
                 "color": "Black",
                 "img": [
                     {
@@ -1369,10 +1345,6 @@
                 "value": "Dip Bar Fitness Station"
             },
             {
-                "key": "ASIN",
-                "value": "B000ICHPIK"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 6, 2006"
             }
@@ -1382,7 +1354,7 @@
                 "name": "Item 18.5 Pounds 89.95",
                 "weight": "18.5 Pounds",
                 "price": 89.95,
-                "remaining_products": 65,
+                "remaining_products": 67,
                 "color": "White/Black",
                 "img": [
                     {
@@ -1502,10 +1474,6 @@
                 "value": "Stretching"
             },
             {
-                "key": "ASIN",
-                "value": "B09MSYJYCV"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 1, 2021"
             }
@@ -1515,7 +1483,7 @@
                 "name": "Inversion Table",
                 "weight": 13.6,
                 "price": 224.98,
-                "remaining_products": 84,
+                "remaining_products": 62,
                 "color": "Black",
                 "img": [
                     {
@@ -1552,7 +1520,7 @@
                 "name": "Stretch Machine",
                 "weight": 13.6,
                 "price": 239.98,
-                "remaining_products": 77,
+                "remaining_products": 46,
                 "color": "Black",
                 "img": [
                     {
@@ -1670,10 +1638,6 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0CQ4KWJ5R"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 13, 2023"
             }
@@ -1683,7 +1647,7 @@
                 "name": "30-90lbs",
                 "weight": 40.82328,
                 "price": 38.99,
-                "remaining_products": 59,
+                "remaining_products": 91,
                 "color": "black\u3001blue",
                 "img": [
                     {
@@ -1696,7 +1660,7 @@
                 "name": "65-110lbs",
                 "weight": 49.89512,
                 "price": 39.99,
-                "remaining_products": 81,
+                "remaining_products": 72,
                 "color": "black\u3001blue",
                 "img": [
                     {
@@ -1770,10 +1734,6 @@
                 "value": "39.37'' Lat PullDown Bar"
             },
             {
-                "key": "ASIN",
-                "value": "B0D7NRG965"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 21, 2024"
             }
@@ -1783,7 +1743,7 @@
                 "name": "Item 2.6 Pounds 20.98",
                 "weight": "2.6 Pounds",
                 "price": 20.98,
-                "remaining_products": 84,
+                "remaining_products": 69,
                 "color": "BLACK",
                 "img": [
                     {
@@ -1909,10 +1869,6 @@
                 "value": "Weightlifting, Exercise and Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0031PZXG2"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 22, 2009"
             }
@@ -1922,7 +1878,7 @@
                 "name": "Item 35 Pounds 159.98",
                 "weight": "35 Pounds",
                 "price": 159.98,
-                "remaining_products": 16,
+                "remaining_products": 39,
                 "color": "Silver",
                 "img": [
                     {
@@ -2032,10 +1988,6 @@
                 "value": "Anti-slip Foot Bases, Padded Seat, Backrest"
             },
             {
-                "key": "ASIN",
-                "value": "B0DQSRXK2N"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 17, 2024"
             }
@@ -2045,7 +1997,7 @@
                 "name": "Yellow",
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 88,
+                "remaining_products": 19,
                 "color": "Yellow",
                 "img": [
                     {
@@ -2094,7 +2046,7 @@
                 "name": "Red",
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 24,
+                "remaining_products": 91,
                 "color": "Red",
                 "img": [
                     {
@@ -2224,10 +2176,6 @@
                 "value": "one stationary exercise bench"
             },
             {
-                "key": "ASIN",
-                "value": "B004RXNZBW"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 6, 2011"
             }
@@ -2237,7 +2185,7 @@
                 "name": "Item 0.01 Ounces 128.98",
                 "weight": "0.01 Ounces",
                 "price": 128.98,
-                "remaining_products": 100,
+                "remaining_products": 71,
                 "color": "Grey",
                 "img": [
                     {
@@ -2347,10 +2295,6 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0BPRXHTRC"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 12, 2022"
             }
@@ -2360,7 +2304,7 @@
                 "name": "Blue",
                 "weight": 0.3628736,
                 "price": 31.99,
-                "remaining_products": 22,
+                "remaining_products": 68,
                 "color": "Blue",
                 "img": [
                     {
@@ -2373,7 +2317,7 @@
                 "name": "Red",
                 "weight": 0.3628736,
                 "price": 31.99,
-                "remaining_products": 58,
+                "remaining_products": 82,
                 "color": "Red",
                 "img": [
                     {
@@ -2386,7 +2330,7 @@
                 "name": "Black",
                 "weight": 0.3628736,
                 "price": 31.99,
-                "remaining_products": 12,
+                "remaining_products": 51,
                 "color": "Black",
                 "img": [
                     {
@@ -2399,7 +2343,7 @@
                 "name": "Green",
                 "weight": 0.3628736,
                 "price": 31.99,
-                "remaining_products": 10,
+                "remaining_products": 16,
                 "color": "Green",
                 "img": [
                     {
@@ -2412,7 +2356,7 @@
                 "name": "Gray",
                 "weight": 0.3628736,
                 "price": 31.99,
-                "remaining_products": 91,
+                "remaining_products": 10,
                 "color": "Gray",
                 "img": [
                     {
@@ -2510,10 +2454,6 @@
                 "value": "Weightlifting, Exercise and Fitness, Bodybuilding"
             },
             {
-                "key": "ASIN",
-                "value": "B004SBAWMI"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 16, 2011"
             }
@@ -2523,7 +2463,7 @@
                 "name": "Item 83 Pounds 348.98",
                 "weight": "83 Pounds",
                 "price": 348.98,
-                "remaining_products": 101,
+                "remaining_products": 44,
                 "color": "Metallic Grey and Black",
                 "img": [
                     {

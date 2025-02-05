@@ -42,10 +42,6 @@
                 "value": "freestanding machine"
             },
             {
-                "key": "ASIN",
-                "value": "B0DM8WB93V"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 7, 2024"
             }
@@ -55,7 +51,7 @@
                 "name": "Red",
                 "weight": 5.97,
                 "price": 99.99,
-                "remaining_products": 65,
+                "remaining_products": 101,
                 "color": "Red",
                 "img": [
                     {
@@ -96,7 +92,7 @@
                 "name": "Blue",
                 "weight": 5.97,
                 "price": 99.99,
-                "remaining_products": 31,
+                "remaining_products": 1,
                 "color": "Blue",
                 "img": [
                     {
@@ -254,10 +250,6 @@
                 "value": "Rower, User Manual, 1 AA Battery"
             },
             {
-                "key": "ASIN",
-                "value": "B09FFSQBJ6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 3, 2021"
             }
@@ -267,7 +259,7 @@
                 "name": "Item 37.9 Pounds 199.99",
                 "weight": "37.9 Pounds",
                 "price": 199.99,
-                "remaining_products": 90,
+                "remaining_products": 22,
                 "color": "Black",
                 "img": [
                     {
@@ -421,10 +413,6 @@
                 "value": "3 - Row-N-Ride SMART"
             },
             {
-                "key": "ASIN",
-                "value": "B0BZQJLVBH"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 27, 2023"
             }
@@ -434,7 +422,7 @@
                 "name": "2 - SMART",
                 "weight": 17.8261656,
                 "price": 199.99,
-                "remaining_products": 64,
+                "remaining_products": 51,
                 "color": "5 - Full Motion Smart",
                 "img": [
                     {
@@ -471,7 +459,7 @@
                 "name": "1 - Classic",
                 "weight": 17.8261656,
                 "price": 116.2,
-                "remaining_products": 51,
+                "remaining_products": 4,
                 "color": "5 - Full Motion Smart",
                 "img": [
                     {
@@ -548,7 +536,7 @@
                 "name": "3 - Row-N-Ride SMART",
                 "weight": 17.8261656,
                 "price": 227.49,
-                "remaining_products": 75,
+                "remaining_products": 11,
                 "color": "5 - Full Motion Smart",
                 "img": [
                     {
@@ -589,7 +577,7 @@
                 "name": "4 - Premium Magnetic SMART",
                 "weight": 17.8261656,
                 "price": 565.24,
-                "remaining_products": 67,
+                "remaining_products": 98,
                 "color": "5 - Full Motion Smart",
                 "img": [
                     {
@@ -726,10 +714,6 @@
                 "value": "XL Doorway Pull Up Bar with Elevated Bar and Adjustable Width, Hardware and Instruction Manual"
             },
             {
-                "key": "ASIN",
-                "value": "B01NCP3S71"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 23, 2016"
             }
@@ -739,7 +723,7 @@
                 "name": "Item 10.2 Pounds 69.95",
                 "weight": "10.2 Pounds",
                 "price": 69.95,
-                "remaining_products": 54,
+                "remaining_products": 86,
                 "color": "Metallic Gray",
                 "img": [
                     {
@@ -868,10 +852,6 @@
                 "value": "Dip Bar Fitness Station"
             },
             {
-                "key": "ASIN",
-                "value": "B000ICHPIK"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 6, 2006"
             }
@@ -881,7 +861,7 @@
                 "name": "Item 18.5 Pounds 89.95",
                 "weight": "18.5 Pounds",
                 "price": 89.95,
-                "remaining_products": 44,
+                "remaining_products": 5,
                 "color": "White/Black",
                 "img": [
                     {
@@ -986,10 +966,6 @@
                 "value": "Large"
             },
             {
-                "key": "ASIN",
-                "value": "B0DJX3DG3W"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 12, 2024"
             }
@@ -999,7 +975,7 @@
                 "name": "Item 10.5 Kilograms 139.99",
                 "weight": "10.5 Kilograms",
                 "price": 139.99,
-                "remaining_products": 3,
+                "remaining_products": 16,
                 "color": "Purple",
                 "img": [
                     {
@@ -1152,10 +1128,6 @@
                 "value": "One Size"
             },
             {
-                "key": "ASIN",
-                "value": "B003KNC1MO"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 10, 2010"
             }
@@ -1165,7 +1137,7 @@
                 "name": "Item 0.5 Kilograms 28.75",
                 "weight": "0.5 Kilograms",
                 "price": 28.75,
-                "remaining_products": 53,
+                "remaining_products": 2,
                 "color": "Red",
                 "img": [
                     {
@@ -1278,10 +1250,6 @@
                 "value": "3"
             },
             {
-                "key": "ASIN",
-                "value": "B0BLJVSN41"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 5, 2022"
             }
@@ -1291,7 +1259,7 @@
                 "name": "Black",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 8,
+                "remaining_products": 53,
                 "color": "Black",
                 "img": [
                     {
@@ -1340,7 +1308,7 @@
                 "name": "Army Green",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 74,
+                "remaining_products": 92,
                 "color": "Green",
                 "img": [
                     {
@@ -1389,7 +1357,7 @@
                 "name": "Yellow",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 34,
+                "remaining_products": 5,
                 "color": "Yellow",
                 "img": [
                     {
@@ -1434,7 +1402,7 @@
                 "name": "1-Orange",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 31,
+                "remaining_products": 26,
                 "color": "Orange",
                 "img": [
                     {
@@ -1483,7 +1451,7 @@
                 "name": "Rose Red",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 15,
+                "remaining_products": 77,
                 "color": "Red, Rose",
                 "img": [
                     {
@@ -1613,10 +1581,6 @@
                 "value": "Pull Up Assistance Set"
             },
             {
-                "key": "ASIN",
-                "value": "B0D7CH9T6K"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 18, 2024"
             }
@@ -1626,7 +1590,7 @@
                 "name": "Item 0.97 Kilograms 17.99",
                 "weight": "0.97 Kilograms",
                 "price": 17.99,
-                "remaining_products": 38,
+                "remaining_products": 70,
                 "color": "Black and Yellow",
                 "img": [
                     {
@@ -1751,10 +1715,6 @@
                 "value": "manual"
             },
             {
-                "key": "ASIN",
-                "value": "B0D3DL33QM"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 6, 2024"
             }
@@ -1764,7 +1724,7 @@
                 "name": "Item 168 Pounds 399.99",
                 "weight": "168 Pounds",
                 "price": 399.99,
-                "remaining_products": 81,
+                "remaining_products": 4,
                 "color": "black",
                 "img": [
                     {
@@ -1899,10 +1859,6 @@
                 "value": "BesBiu -pull003"
             },
             {
-                "key": "ASIN",
-                "value": "B0D53G4W4M"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 24, 2024"
             }
@@ -1912,7 +1868,7 @@
                 "name": "Blue",
                 "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 97,
+                "remaining_products": 35,
                 "color": "Blue",
                 "img": [
                     {
@@ -1953,7 +1909,7 @@
                 "name": "Orange",
                 "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 0,
+                "remaining_products": 2,
                 "color": "Orange",
                 "img": [
                     {
@@ -1994,7 +1950,7 @@
                 "name": "Black",
                 "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 10,
+                "remaining_products": 25,
                 "color": "Black",
                 "img": [
                     {
@@ -2035,7 +1991,7 @@
                 "name": "Rose Red",
                 "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 89,
+                "remaining_products": 6,
                 "color": "Red, Rose",
                 "img": [
                     {
@@ -2076,7 +2032,7 @@
                 "name": "army green",
                 "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 63,
+                "remaining_products": 29,
                 "color": "Green",
                 "img": [
                     {
@@ -2117,7 +2073,7 @@
                 "name": "Yellow",
                 "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 4,
+                "remaining_products": 45,
                 "color": "Yellow",
                 "img": [
                     {
@@ -2242,10 +2198,6 @@
                 "value": "1NHS"
             },
             {
-                "key": "ASIN",
-                "value": "B07JC43D2P"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 12, 2018"
             }
@@ -2255,7 +2207,7 @@
                 "name": "Item 2.24 Kilograms 19.99",
                 "weight": "2.24 Kilograms",
                 "price": 19.99,
-                "remaining_products": 8,
+                "remaining_products": 28,
                 "color": "Rotating Pull Up Handles",
                 "img": [
                     {
@@ -2356,10 +2308,6 @@
                 "value": "20201022"
             },
             {
-                "key": "ASIN",
-                "value": "B0818T77J3"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 10, 2019"
             }
@@ -2369,7 +2317,7 @@
                 "name": "ab machine with resistance bands",
                 "weight": 10.432616,
                 "price": 117.99,
-                "remaining_products": 52,
+                "remaining_products": 67,
                 "color": "Tan",
                 "img": [
                     {
@@ -2406,7 +2354,7 @@
                 "name": "ab machine",
                 "weight": 10.432616,
                 "price": 105.99,
-                "remaining_products": 87,
+                "remaining_products": 1,
                 "color": "Black",
                 "img": [
                     {
@@ -2529,10 +2477,6 @@
                 "value": "unisex-adult"
             },
             {
-                "key": "ASIN",
-                "value": "B0D52ZXND5"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 24, 2024"
             }
@@ -2542,7 +2486,7 @@
                 "name": "Blue",
                 "weight": 0.907184,
                 "price": 35.89,
-                "remaining_products": 21,
+                "remaining_products": 36,
                 "color": "Blue",
                 "img": [
                     {
@@ -2591,7 +2535,7 @@
                 "name": "Black",
                 "weight": 0.907184,
                 "price": 35.89,
-                "remaining_products": 48,
+                "remaining_products": 8,
                 "color": "Black",
                 "img": [
                     {
@@ -2636,7 +2580,7 @@
                 "name": "Orange",
                 "weight": 0.907184,
                 "price": 35.99,
-                "remaining_products": 77,
+                "remaining_products": 39,
                 "color": "Orange",
                 "img": [
                     {
@@ -2782,10 +2726,6 @@
                 "value": "Intermediate"
             },
             {
-                "key": "ASIN",
-                "value": "B002YRB35I"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 24, 2008"
             }
@@ -2795,7 +2735,7 @@
                 "name": "Item 1.7 Pounds 179.95",
                 "weight": "1.7 Pounds",
                 "price": 179.95,
-                "remaining_products": 64,
+                "remaining_products": 41,
                 "color": "Black",
                 "img": [
                     {
@@ -2931,10 +2871,6 @@
                 "value": "1/4\" 5-15 lbs."
             },
             {
-                "key": "ASIN",
-                "value": "B0D382DMPW"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 3, 2024"
             }
@@ -2944,7 +2880,7 @@
                 "name": "Blue 1/4\" 5-15 lbs.",
                 "weight": 6.8038799999999995,
                 "price": 20.95,
-                "remaining_products": 42,
+                "remaining_products": 82,
                 "color": "Blue",
                 "img": [
                     {
@@ -2989,7 +2925,7 @@
                 "name": "Black 7/8\" 30-50 lbs. 1/4\" 5-15 lbs.",
                 "weight": 22.6796,
                 "price": 20.95,
-                "remaining_products": 80,
+                "remaining_products": 66,
                 "color": "Black",
                 "img": [
                     {
@@ -3026,7 +2962,7 @@
                 "name": "Gray 1/4\" 5-15 lbs.",
                 "weight": 6.8038799999999995,
                 "price": 20.95,
-                "remaining_products": 14,
+                "remaining_products": 19,
                 "color": "Gray",
                 "img": [
                     {
@@ -3071,7 +3007,7 @@
                 "name": "Purple, Pink 1/4\" 5-15 lbs.",
                 "weight": 6.8038799999999995,
                 "price": 20.95,
-                "remaining_products": 15,
+                "remaining_products": 70,
                 "color": "Purple, Pink",
                 "img": [
                     {
@@ -3116,7 +3052,7 @@
                 "name": "Green 1/4\" 5-15 lbs.",
                 "weight": 6.8038799999999995,
                 "price": 20.95,
-                "remaining_products": 101,
+                "remaining_products": 38,
                 "color": "Green",
                 "img": [
                     {
@@ -3161,7 +3097,7 @@
                 "name": "Red 1/2\" 20-35 lbs 1/4\" 5-15 lbs.",
                 "weight": 15.87572,
                 "price": 20.95,
-                "remaining_products": 55,
+                "remaining_products": 80,
                 "color": "Red",
                 "img": [
                     {
@@ -3206,7 +3142,7 @@
                 "name": "Orange 1/4\" 5-15 lbs. 1/4\" 5-15 lbs.",
                 "weight": 6.8038799999999995,
                 "price": 20.95,
-                "remaining_products": 31,
+                "remaining_products": 28,
                 "color": "Orange",
                 "img": [
                     {
@@ -3355,10 +3291,6 @@
                 "value": "23\"L x 9.25\"W x 3.5\"H"
             },
             {
-                "key": "ASIN",
-                "value": "B002YQUP7Q"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 16, 2008"
             }
@@ -3368,7 +3300,7 @@
                 "name": "Multi Grip Light",
                 "weight": 3.9462504,
                 "price": 34.99,
-                "remaining_products": 69,
+                "remaining_products": 79,
                 "color": "Black",
                 "img": [
                     {
@@ -3405,7 +3337,7 @@
                 "name": "Doorway",
                 "weight": 3.9462504,
                 "price": 34.99,
-                "remaining_products": 16,
+                "remaining_products": 15,
                 "color": "Black",
                 "img": [
                     {
@@ -3442,7 +3374,7 @@
                 "name": "Multi Grip",
                 "weight": 3.9462504,
                 "price": 34.99,
-                "remaining_products": 55,
+                "remaining_products": 39,
                 "color": "Black",
                 "img": [
                     {
@@ -3479,7 +3411,7 @@
                 "name": "Wall Mount",
                 "weight": 3.9462504,
                 "price": 34.99,
-                "remaining_products": 88,
+                "remaining_products": 93,
                 "color": "Black",
                 "img": [
                     {
@@ -3512,7 +3444,7 @@
                 "name": "Foldable",
                 "weight": 3.9462504,
                 "price": 34.99,
-                "remaining_products": 37,
+                "remaining_products": 54,
                 "color": "Black",
                 "img": [
                     {
@@ -3654,10 +3586,6 @@
                 "value": "NO SIZE"
             },
             {
-                "key": "ASIN",
-                "value": "B0016BNDXI"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 27, 2004"
             }
@@ -3667,7 +3595,7 @@
                 "name": "Item 3 Pounds 34.08",
                 "weight": "3 Pounds",
                 "price": 34.08,
-                "remaining_products": 64,
+                "remaining_products": 91,
                 "color": "Steel",
                 "img": [
                     {
@@ -3787,10 +3715,6 @@
                 "value": "muscle stimulator muscle stimulator muscle stimula"
             },
             {
-                "key": "ASIN",
-                "value": "B00MBEW0CO"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 1, 2014"
             }
@@ -3800,7 +3724,7 @@
                 "name": "Item 7 Pounds 30.77",
                 "weight": "7 Pounds",
                 "price": 30.77,
-                "remaining_products": 95,
+                "remaining_products": 89,
                 "color": "Original",
                 "img": [
                     {
@@ -3905,10 +3829,6 @@
                 "value": "One Size"
             },
             {
-                "key": "ASIN",
-                "value": "B00GP4UODI"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 9, 2014"
             }
@@ -3918,7 +3838,7 @@
                 "name": "Item 77 Kilograms 399.99",
                 "weight": "77 Kilograms",
                 "price": 399.99,
-                "remaining_products": 6,
+                "remaining_products": 85,
                 "color": "Gray",
                 "img": [
                     {

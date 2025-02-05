@@ -107,7 +107,7 @@
                 "name": "Yellow",
                 "weight": 0.0,
                 "price": 9.95,
-                "remaining_products": 66,
+                "remaining_products": 72,
                 "color": "Yellow",
                 "img": [
                     {
@@ -156,7 +156,7 @@
                 "name": "Rose",
                 "weight": 0.0,
                 "price": 9.95,
-                "remaining_products": 66,
+                "remaining_products": 76,
                 "color": "Rose",
                 "img": [
                     {
@@ -273,7 +273,7 @@
                 "name": "Blue",
                 "weight": 0.0,
                 "price": 13.99,
-                "remaining_products": 21,
+                "remaining_products": 55,
                 "color": "Blue",
                 "img": [
                     {
@@ -286,7 +286,7 @@
                 "name": "Sea blue",
                 "weight": 0.0,
                 "price": 13.99,
-                "remaining_products": 91,
+                "remaining_products": 94,
                 "color": "Blue",
                 "img": [
                     {
@@ -299,7 +299,7 @@
                 "name": "Green",
                 "weight": 0.0,
                 "price": 13.99,
-                "remaining_products": 100,
+                "remaining_products": 18,
                 "color": "Green",
                 "img": [
                     {
@@ -382,7 +382,7 @@
                 "name": "Black",
                 "weight": 1.40159928,
                 "price": 34.99,
-                "remaining_products": 21,
+                "remaining_products": 41,
                 "color": "Black",
                 "img": [
                     {
@@ -423,7 +423,7 @@
                 "name": "White",
                 "weight": 1.40159928,
                 "price": 34.99,
-                "remaining_products": 92,
+                "remaining_products": 61,
                 "color": "White",
                 "img": [
                     {
@@ -582,7 +582,7 @@
                 "name": "Red (75 cm)",
                 "weight": 0.907184,
                 "price": 21.99,
-                "remaining_products": 94,
+                "remaining_products": 28,
                 "color": "Red",
                 "img": [
                     {
@@ -631,7 +631,7 @@
                 "name": "Teal (85 cm)",
                 "weight": 0.907184,
                 "price": 23.99,
-                "remaining_products": 75,
+                "remaining_products": 31,
                 "color": "Teal",
                 "img": [
                     {
@@ -668,7 +668,7 @@
                 "name": "Purple (45 cm)",
                 "weight": 0.907184,
                 "price": 14.99,
-                "remaining_products": 69,
+                "remaining_products": 33,
                 "color": "Purple",
                 "img": [
                     {
@@ -713,7 +713,7 @@
                 "name": "Green (55 cm)",
                 "weight": 0.907184,
                 "price": 17.99,
-                "remaining_products": 86,
+                "remaining_products": 54,
                 "color": "Green",
                 "img": [
                     {
@@ -762,7 +762,7 @@
                 "name": "Yellow (65 cm)",
                 "weight": 0.907184,
                 "price": 19.99,
-                "remaining_products": 25,
+                "remaining_products": 93,
                 "color": "Yellow",
                 "img": [
                     {
@@ -873,7 +873,7 @@
                 "name": "Item 19.8 Pounds 79.99",
                 "weight": "19.8 Pounds",
                 "price": 79.99,
-                "remaining_products": 100,
+                "remaining_products": 40,
                 "color": "Black",
                 "img": [
                     {
@@ -916,7 +916,7 @@
         "description": null,
         "features": [
             "Space-saving design: Designed to maximize your space, this wall mounted fitness ball holder can handle up to 40 lbs. of weight. It was made to provide convenient, space-saving storage for home gyms, for optimal home gym organization.",
-            "Multipurpose storage: With an inside diameter of 8.5\u201d, this holder can be used for slam balls, medicine balls, wall balls and other exercise balls.",
+            "Multipurpose storage: With an inside diameter of 8.5”, this holder can be used for slam balls, medicine balls, wall balls and other exercise balls.",
             "Solid steel build: Featuring solid steel construction and finished in a smooth, black powder-coated finish, this is a highly durable system that will easily hold your fitness balls while keeping them out of the way.",
             "Protect your equipment: Not only is this fitness ball holder a convenient option for storage, but it is also an excellent system for safely holding your fitness balls without subjecting them to damage as well as keeping them from rolling underfoot.",
             "Easy installation: This fitness ball holder is mounted easily onto studs located behind your wall, onto concrete, or onto wood stringers for security and stability. Install it anywhere you do your workouts, whether in your garage or home gym!"
@@ -996,7 +996,7 @@
                 "name": "Item 6.5 Pounds 44.99",
                 "weight": "6.5 Pounds",
                 "price": 44.99,
-                "remaining_products": 79,
+                "remaining_products": 17,
                 "color": "Black",
                 "img": [
                     {
@@ -1033,16 +1033,16 @@
     },
     {
         "asin": "B01LYELY3G",
-        "title": "Valor Fitness Exercise Ball Storage - BG-53 Adjustable Wall Mounted Ball Rack, Basketball Rack for Basketballs, Wall Balls, Medicine Balls, and Slam Balls, Stability Balls, etc.\u201d",
+        "title": "Valor Fitness Exercise Ball Storage - BG-53 Adjustable Wall Mounted Ball Rack, Basketball Rack for Basketballs, Wall Balls, Medicine Balls, and Slam Balls, Stability Balls, etc.”",
         "price": 139.98,
         "brand": "Valor Fitness",
         "description": null,
         "features": [
-            "A NEW WAY TO ORGANIZE YOUR GYM \u2013 Discover a new and improved way to organize your home gym. No more clutter and scattered fitness balls. Place your fitness balls on this wall ball rack and feel the satisfaction of a neat, clean home gym.",
-            "PERFECT SPACE SAVER \u2013 Free up your gym floor and allow more space for your workouts. This is the perfect solution and a permanent home for basketball storage, wall balls, medicine balls, and slam balls that take up space on the gym floor.",
-            "STURDY SUPPORT \u2013 This ball holder is just what your garage needs. It's more than durable, it can hold the heaviest of exercise balls with a max weight load 250 lb! Constructed of heavy-duty steel with a powder coat finish for strength and durability.",
+            "A NEW WAY TO ORGANIZE YOUR GYM – Discover a new and improved way to organize your home gym. No more clutter and scattered fitness balls. Place your fitness balls on this wall ball rack and feel the satisfaction of a neat, clean home gym.",
+            "PERFECT SPACE SAVER – Free up your gym floor and allow more space for your workouts. This is the perfect solution and a permanent home for basketball storage, wall balls, medicine balls, and slam balls that take up space on the gym floor.",
+            "STURDY SUPPORT – This ball holder is just what your garage needs. It's more than durable, it can hold the heaviest of exercise balls with a max weight load 250 lb! Constructed of heavy-duty steel with a powder coat finish for strength and durability.",
             "ADJUST IT TO YOUR PREFERENCE- This medicine ball rack has 5 positions to accommodate all different exercise ball sizes. Middle bracket can be positioned at different points on the rack to maximize space on the bar.",
-            "SIZE & ADDITIONAL INFO- Measures 16.25\u201d front to back, and 103\u201d wide to accommodate a high number of exercise balls. Easy to put together. Support poles are locked into place with fixed rings (6 total). Ships in one box."
+            "SIZE & ADDITIONAL INFO- Measures 16.25” front to back, and 103” wide to accommodate a high number of exercise balls. Easy to put together. Support poles are locked into place with fixed rings (6 total). Ships in one box."
         ],
         "attributes": [
             {
@@ -1151,7 +1151,7 @@
                 "name": "Item 25 Pounds 139.98",
                 "weight": "25 Pounds",
                 "price": 139.98,
-                "remaining_products": 100,
+                "remaining_products": 63,
                 "color": "Black",
                 "img": [
                     {
@@ -1196,7 +1196,7 @@
             "IMPROVE WORKOUT: The half balance ball with base that improve your workout, making it perfect for stretching, rehabilitation, squats, sit-ups, planks and weight training. With two detachable exercise bands included, this half exercise ball helps you target your arms and core muscles more effectively.",
             "NON-SLIP & STABLE: The balance ball features a textured half-sphere surface provides a secure, non-slip grip and easy to clean. With a 23-inch wide flat base and 8 anti-slip gaskets, the exercise half ball offers excellent stability and safety during workouts.",
             "SAFE & DURABLE MATERIAL: Experience the perfect combination of durability and stability with our premium PVC yoga ball and robust ABS base. With an impressive weight capacity of 1200 lb, the balance trainer offers exceptional stability and resilience even during intense workouts.",
-            "WIDELY APPLICABLE: The exercise ball is a versatile fitness tool suitable for all fitness levels\u2014from beginners to advanced athletes. Lightweight and portable, the stability ball can be used at home, gym, office, or outdoors. Great for core training, high-intensity cardio, and even rehabilitation, the balance ball trainer is the ideal choice for enhance daily exercise routine.",
+            "WIDELY APPLICABLE: The exercise ball is a versatile fitness tool suitable for all fitness levels—from beginners to advanced athletes. Lightweight and portable, the stability ball can be used at home, gym, office, or outdoors. Great for core training, high-intensity cardio, and even rehabilitation, the balance ball trainer is the ideal choice for enhance daily exercise routine.",
             "EASE TO USE: The 23\" training ball designed with convenient handles for easy transport to the gym, outdoors, office and various place. Inflating the balance ball is quick with the included foot pump. And the thoughtfully designed inflation port minimizes wear and tear, ensuring long-lasting use."
         ],
         "attributes": [
@@ -1274,7 +1274,7 @@
                 "name": "Star-Blue",
                 "weight": 5.24,
                 "price": 49.99,
-                "remaining_products": 45,
+                "remaining_products": 54,
                 "color": "Blue",
                 "img": [
                     {
@@ -1311,7 +1311,7 @@
                 "name": "Star-Black",
                 "weight": 5.24,
                 "price": 49.99,
-                "remaining_products": 62,
+                "remaining_products": 47,
                 "color": "Black",
                 "img": [
                     {
@@ -1348,7 +1348,7 @@
                 "name": "Lw-Black",
                 "weight": 5.24,
                 "price": 49.99,
-                "remaining_products": 33,
+                "remaining_products": 26,
                 "color": "Black",
                 "img": [
                     {
@@ -1385,10 +1385,10 @@
     },
     {
         "asin": "B018UFV0KK",
-        "title": "Therapist's Choice\u00ae Hand Exercise 3 Ball Kit: 3 Color Coded Resistance Levels",
+        "title": "Therapist's Choice® Hand Exercise 3 Ball Kit: 3 Color Coded Resistance Levels",
         "price": 9.98,
         "brand": "Therapist's Choice",
-        "description": "Therapist\u2019s Choice Hand Exercise 3 Ball Kit: 3 Color Coded Resistance Levels Develop and strengthen hands, fingers, wrists and forearms with a few simple, do anywhere squeezing exercises. They come in a set of three resistance levels, so you can gradually build strength and stamina to achieve a stronger grip. The balls can be heated or chilled for different applications. Set includes soft, medium, and firm resistances balls. Features: Made from TPR: Phthaletes-Free and Latex-Free 3 Color Coded Resistance Levels: Soft (Yellow), Medium (Blue), Firm (Black) Perfect for progressive resistance training Improves Strength, Prevents Stiffness and Relieves Joint Pain Reduces Stress and Eases Muscle Tension Size: Balls are 2\" Round CAUTION: CHOKING HAZARD. Keep away from small children!",
+        "description": "Therapist’s Choice Hand Exercise 3 Ball Kit: 3 Color Coded Resistance Levels Develop and strengthen hands, fingers, wrists and forearms with a few simple, do anywhere squeezing exercises. They come in a set of three resistance levels, so you can gradually build strength and stamina to achieve a stronger grip. The balls can be heated or chilled for different applications. Set includes soft, medium, and firm resistances balls. Features: Made from TPR: Phthaletes-Free and Latex-Free 3 Color Coded Resistance Levels: Soft (Yellow), Medium (Blue), Firm (Black) Perfect for progressive resistance training Improves Strength, Prevents Stiffness and Relieves Joint Pain Reduces Stress and Eases Muscle Tension Size: Balls are 2\" Round CAUTION: CHOKING HAZARD. Keep away from small children!",
         "features": [
             "3 Ball Kit: 3 Color Coded Resistance Levels: Soft (Yellow), Medium (Blue), Firm (Black) 2\" Diameter(Slightly Larger than Golf Ball, Smaller than Tennis Ball)",
             "Perfect for progressive training: Improves Strength, Prevents Stiffness and Relieves Joint Pain",
@@ -1431,7 +1431,7 @@
             },
             {
                 "key": "Manufacturer",
-                "value": "Therapist\u2019s Choice\u00ae"
+                "value": "Therapist’s Choice®"
             },
             {
                 "key": "Item Package Dimensions L x W x H",
@@ -1475,7 +1475,7 @@
                 "name": "Item 7.36 ounces 9.98",
                 "weight": "7.36 ounces",
                 "price": 9.98,
-                "remaining_products": 75,
+                "remaining_products": 21,
                 "color": "Black,Blue",
                 "img": [
                     {
@@ -1492,7 +1492,7 @@
     },
     {
         "asin": "B000K7I5ZK",
-        "title": "GoFit ProBall Stability Ball \u2013 Printed Exercise Ball for Yoga, Workout, Balance - Blue 55 cm,GF-55PRO",
+        "title": "GoFit ProBall Stability Ball – Printed Exercise Ball for Yoga, Workout, Balance - Blue 55 cm,GF-55PRO",
         "price": 29.99,
         "brand": "GoFit",
         "description": null,
@@ -1503,7 +1503,7 @@
             "PRINTED EXERCISE: The Professional Grade Stability Ball has exercises printed directly onto the ball, making this stability ball a fun, yet challenging way to stretch, tone, and tighten your body!",
             "TOTAL WORKOUT: The GoFit Pro Professional Grade Stability Ball and Training DVD plus manual is very efficient, allowing you to see the results you want in a much quicker period of time.",
             "INCLUDES: Included with the Professional Grade Stability Ball is a Brook Benten Training DVD, training manual, ball plugs, ball plug remover, foot pump, bicycle pump adapter, and measuring tape.",
-            "SIZES: The 55cm (blue) Professional Grade Stability Ball is recommended for persons 5\u2019 to 5\u20195\u201d, the 65cm (red) ball for persons 5\u20195\u201d to 6\u2019, and the 75cm (silver) ball for persons 6\u2019 and over.",
+            "SIZES: The 55cm (blue) Professional Grade Stability Ball is recommended for persons 5’ to 5’5”, the 65cm (red) ball for persons 5’5” to 6’, and the 75cm (silver) ball for persons 6’ and over.",
             "Included components: product, manual",
             "Sport type: Exercise & Fitness"
         ],
@@ -1610,7 +1610,7 @@
                 "name": "Item 1 Pounds 29.99",
                 "weight": "1 Pounds",
                 "price": 29.99,
-                "remaining_products": 4,
+                "remaining_products": 15,
                 "color": "Blue",
                 "img": [
                     {
@@ -1745,7 +1745,7 @@
                 "name": "15 Pounds",
                 "weight": 6.8038799999999995,
                 "price": 24.99,
-                "remaining_products": 63,
+                "remaining_products": 16,
                 "color": "Gray",
                 "img": [
                     {
@@ -1758,7 +1758,7 @@
                 "name": "20 Pounds",
                 "weight": 9.07184,
                 "price": 29.99,
-                "remaining_products": 65,
+                "remaining_products": 56,
                 "color": "Gray",
                 "img": [
                     {
@@ -1778,9 +1778,9 @@
         "features": [
             "PREMIERE TRAINING TOOL: Maximize your workouts with the ZIVA Premium Virgin Rubber Medicine Ball. Perfect for endurance training, cross or core training, this sturdy medicine ball boasts a pure rubber orderless design and non-slick greasy shell.",
             "EASY-TO-USE: Get a grip, literally, when you have this ZIVA rubber medicine ball in your hands. The durable rubber and easy-grip textured finish is easy to handle and allows for a secure grip, even during the most strenuous workouts.",
-            "AGILE MEDICINE BALL: When you need to take your core training to a new level, you can\u2019t go wrong with this rubber medicine ball designed for agility and balance. Each medicine ball undergoes testing to ensure the internal weight distributes evenly.",
+            "AGILE MEDICINE BALL: When you need to take your core training to a new level, you can’t go wrong with this rubber medicine ball designed for agility and balance. Each medicine ball undergoes testing to ensure the internal weight distributes evenly.",
             "COLORFUL OPTIONS: Make a bold statement when enhancing your workout with a ZIVA rubber medicine ball. Choose from black and yellow to turquoise color schemes.",
-            "THE ZIVA DIFFERENCE: It\u2019s the ZIVA difference stemming from a bold dream, a mountain of Taoist philosophy and so much love and dedication that has expanded our global fitness brand into more than 80 countries. Experience the Zen now."
+            "THE ZIVA DIFFERENCE: It’s the ZIVA difference stemming from a bold dream, a mountain of Taoist philosophy and so much love and dedication that has expanded our global fitness brand into more than 80 countries. Experience the Zen now."
         ],
         "attributes": [
             {
@@ -1857,7 +1857,7 @@
                 "name": "8lb Black",
                 "weight": 3.628736,
                 "price": 39.99,
-                "remaining_products": 7,
+                "remaining_products": 49,
                 "color": "Black",
                 "img": [
                     {
@@ -1902,7 +1902,7 @@
                 "name": "6lb Black",
                 "weight": 2.721552,
                 "price": 35.99,
-                "remaining_products": 67,
+                "remaining_products": 49,
                 "color": "Black",
                 "img": [
                     {
@@ -1947,7 +1947,7 @@
                 "name": "10lb Black",
                 "weight": 4.53592,
                 "price": 44.99,
-                "remaining_products": 89,
+                "remaining_products": 57,
                 "color": "Black",
                 "img": [
                     {
@@ -1992,7 +1992,7 @@
                 "name": "12lb Black",
                 "weight": 5.443104,
                 "price": 53.99,
-                "remaining_products": 88,
+                "remaining_products": 66,
                 "color": "Black",
                 "img": [
                     {
@@ -2037,7 +2037,7 @@
                 "name": "4lb Black",
                 "weight": 1.814368,
                 "price": 29.99,
-                "remaining_products": 57,
+                "remaining_products": 63,
                 "color": "Black",
                 "img": [
                     {
@@ -2175,7 +2175,7 @@
                 "name": "Item 16.5 Pounds 46.6",
                 "weight": "16.5 Pounds",
                 "price": 46.6,
-                "remaining_products": 8,
+                "remaining_products": 64,
                 "color": "Black",
                 "img": [
                     {
@@ -2330,7 +2330,7 @@
                 "name": "Item 16 ounces 400.74",
                 "weight": "16 ounces",
                 "price": 400.74,
-                "remaining_products": 12,
+                "remaining_products": 97,
                 "color": "Black",
                 "img": [
                     {
@@ -2461,7 +2461,7 @@
                 "name": "Green",
                 "weight": 0.113398,
                 "price": 22.48,
-                "remaining_products": 64,
+                "remaining_products": 15,
                 "color": "Green",
                 "img": [
                     {
@@ -2494,7 +2494,7 @@
                 "name": "Purple",
                 "weight": 0.113398,
                 "price": 16.98,
-                "remaining_products": 88,
+                "remaining_products": 14,
                 "color": "Purple",
                 "img": [
                     {
@@ -2527,7 +2527,7 @@
                 "name": "Blue",
                 "weight": 0.113398,
                 "price": 17.98,
-                "remaining_products": 49,
+                "remaining_products": 95,
                 "color": "Blue",
                 "img": [
                     {
@@ -2561,11 +2561,11 @@
         "brand": "Tone Fitness",
         "description": null,
         "features": [
-            "FEATURES \u2013 Soft, durable weighted ball that can be used as an alternative to dumbbell weights; Available in lime green (6-pounds), teal (8-pounds) and gray (10-pounds)",
-            "BENEFITS \u2013 Improve strength, core muscles, balance, hand-eye coordination, posture and more; Get a slimmer waistline by performing weighted ab exercises",
-            "FUNCTIONAL \u2013 Weighted balls can be used for strengthening exercises, HIIT workouts, targeting isolated muscle groups, balancing exercises, core exercises, leg exercises and more.",
-            "VERSATILE \u2013 Use to increase the intensity of your workouts; Get a full-body workout or target specific muscle groups",
-            "DIMENSIONS \u2013 SIX pound weight: 6.1\u201d x 6.1\u201d x 6.1\u201d; EIGHT pound weight 6.7\u201d x 6.7\u201d x 6.7\u201d; TEN pound weight 7.1\u201d x 7.1\u201d x 7.1\u201d; Each sold individually"
+            "FEATURES – Soft, durable weighted ball that can be used as an alternative to dumbbell weights; Available in lime green (6-pounds), teal (8-pounds) and gray (10-pounds)",
+            "BENEFITS – Improve strength, core muscles, balance, hand-eye coordination, posture and more; Get a slimmer waistline by performing weighted ab exercises",
+            "FUNCTIONAL – Weighted balls can be used for strengthening exercises, HIIT workouts, targeting isolated muscle groups, balancing exercises, core exercises, leg exercises and more.",
+            "VERSATILE – Use to increase the intensity of your workouts; Get a full-body workout or target specific muscle groups",
+            "DIMENSIONS – SIX pound weight: 6.1” x 6.1” x 6.1”; EIGHT pound weight 6.7” x 6.7” x 6.7”; TEN pound weight 7.1” x 7.1” x 7.1”; Each sold individually"
         ],
         "attributes": [
             {
@@ -2670,7 +2670,7 @@
                 "name": "Green - 6LBS",
                 "weight": 2.721552,
                 "price": 9.98,
-                "remaining_products": 23,
+                "remaining_products": 12,
                 "color": "Green",
                 "img": [
                     {
@@ -2695,7 +2695,7 @@
                 "name": "Gray - 10LBS",
                 "weight": 4.53592,
                 "price": 9.98,
-                "remaining_products": 40,
+                "remaining_products": 20,
                 "color": "Gray",
                 "img": [
                     {
@@ -2778,7 +2778,7 @@
                 "name": "Item 50 Pounds 93.99",
                 "weight": "50 Pounds",
                 "price": 93.99,
-                "remaining_products": 88,
+                "remaining_products": 42,
                 "color": "White",
                 "img": [
                     {
@@ -2916,7 +2916,7 @@
                 "name": "4-Pound - Purple",
                 "weight": 0.5,
                 "price": 20.99,
-                "remaining_products": 73,
+                "remaining_products": 76,
                 "color": "Purple",
                 "img": [
                     {
@@ -2949,7 +2949,7 @@
                 "name": "12-Pound - Gray",
                 "weight": 0.5,
                 "price": 35.99,
-                "remaining_products": 41,
+                "remaining_products": 81,
                 "color": "Gray",
                 "img": [
                     {
@@ -2982,7 +2982,7 @@
                 "name": "10-Pound - Red",
                 "weight": 0.5,
                 "price": 34.99,
-                "remaining_products": 57,
+                "remaining_products": 28,
                 "color": "Red",
                 "img": [
                     {
@@ -3015,7 +3015,7 @@
                 "name": "2-Pound - Teal",
                 "weight": 0.5,
                 "price": 17.99,
-                "remaining_products": 96,
+                "remaining_products": 70,
                 "color": "Teal",
                 "img": [
                     {
@@ -3040,7 +3040,7 @@
                 "name": "6-Pound - Blue",
                 "weight": 0.5,
                 "price": 25.99,
-                "remaining_products": 88,
+                "remaining_products": 66,
                 "color": "Blue",
                 "img": [
                     {
@@ -3061,7 +3061,7 @@
                 "name": "8-Pound - Yellow",
                 "weight": 0.5,
                 "price": 20.99,
-                "remaining_products": 58,
+                "remaining_products": 78,
                 "color": "Yellow",
                 "img": [
                     {
@@ -3188,7 +3188,7 @@
                 "name": "20.0 Pounds",
                 "weight": 9.07184,
                 "price": 69.99,
-                "remaining_products": 53,
+                "remaining_products": 25,
                 "color": "Black",
                 "img": [
                     {
@@ -3237,7 +3237,7 @@
                 "name": "10.0 Pounds",
                 "weight": 4.53592,
                 "price": 69.99,
-                "remaining_products": 21,
+                "remaining_products": 33,
                 "color": "Black",
                 "img": [
                     {
@@ -3286,16 +3286,16 @@
     },
     {
         "asin": "B0921D2LHC",
-        "title": "Body-Solid Tools Dynamax Premium Soft Medicine Ball \u2013 Non Bouncing Wall Balls for Strength Training, Weight Loss Workout, Core Exercise and Home Gym Fitness, Black",
+        "title": "Body-Solid Tools Dynamax Premium Soft Medicine Ball – Non Bouncing Wall Balls for Strength Training, Weight Loss Workout, Core Exercise and Home Gym Fitness, Black",
         "price": 104.41,
         "brand": "Body-Solid",
         "description": null,
         "features": [
-            "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
+            "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life……Your Life.",
             "BOOST YOUR WORKOUT: Improve your cardio, strength training and core fitness with our soft medicine balls. Ideal for exercises like dumbbell swings, kettlebell workouts, balance ball exercises and sandbag training routines, our light weighted medicine balls will help you build muscle, improve endurance and increase overall fitness.",
             "SOFT & NON-BOUNCING: Body-Solid Tools Premium Dynamax Soft Medicine Balls are non-bouncing, impact-absorbing, soft-feel medicine balls designed to excel in heavy-use and group fitness facilities. The soft-shell design is constructed to absorb impact for a comfortable and friendly feel during high-velocity workouts.",
             "VERSATILE WEIGHT OPTIONS: Our soft and nylon made medicine balls is available in a variety of weight options, ranging from a light 4lb to a heavy 30lb ball, perfect for all levels of performance. Mixed weight medicine balls create an efficient and versatile way to progress exercises and challenge your body.",
-            "MADE in the USA: These Body-Solid Exercise Tools Premium Dynamax Soft Medicine Balls are made in the USA and carry a two-year commercial warranty. Ideal for use in group and commercial fitness facilities as well as home/garage gyms, Body-Solid Tools Premium Dynamax Soft Medicine Balls will help improve user\u2019s cardio endurance, speed, power, agility, coordination, stamina, strength and more!"
+            "MADE in the USA: These Body-Solid Exercise Tools Premium Dynamax Soft Medicine Balls are made in the USA and carry a two-year commercial warranty. Ideal for use in group and commercial fitness facilities as well as home/garage gyms, Body-Solid Tools Premium Dynamax Soft Medicine Balls will help improve user’s cardio endurance, speed, power, agility, coordination, stamina, strength and more!"
         ],
         "attributes": [
             {
@@ -3376,7 +3376,7 @@
                 "name": "18lbs.",
                 "weight": 8.164656,
                 "price": 104.41,
-                "remaining_products": 81,
+                "remaining_products": 72,
                 "color": "Black",
                 "img": [
                     {
@@ -3413,7 +3413,7 @@
                 "name": "30lbs.",
                 "weight": 13.607759999999999,
                 "price": 104.41,
-                "remaining_products": 31,
+                "remaining_products": 71,
                 "color": "Black",
                 "img": [
                     {
@@ -3450,7 +3450,7 @@
                 "name": "6lbs.",
                 "weight": 2.721552,
                 "price": 104.41,
-                "remaining_products": 45,
+                "remaining_products": 100,
                 "color": "Black",
                 "img": [
                     {
@@ -3483,7 +3483,7 @@
                 "name": "16lbs.",
                 "weight": 7.257472,
                 "price": 104.41,
-                "remaining_products": 37,
+                "remaining_products": 17,
                 "color": "Black",
                 "img": [
                     {
@@ -3520,7 +3520,7 @@
                 "name": "10lbs.",
                 "weight": 4.53592,
                 "price": 104.41,
-                "remaining_products": 38,
+                "remaining_products": 34,
                 "color": "Black",
                 "img": [
                     {
@@ -3557,7 +3557,7 @@
                 "name": "20lbs.",
                 "weight": 9.07184,
                 "price": 104.41,
-                "remaining_products": 74,
+                "remaining_products": 27,
                 "color": "Black",
                 "img": [
                     {
@@ -3668,7 +3668,7 @@
                 "name": "Item 3.84 Ounces 7.96",
                 "weight": "3.84 Ounces",
                 "price": 7.96,
-                "remaining_products": 2,
+                "remaining_products": 91,
                 "color": "Silver",
                 "img": [
                     {
@@ -3811,7 +3811,7 @@
                 "name": "Item 2.3 Kilograms 36.99",
                 "weight": "2.3 Kilograms",
                 "price": 36.99,
-                "remaining_products": 32,
+                "remaining_products": 4,
                 "color": "Multi-Color",
                 "img": [
                     {
@@ -3856,7 +3856,7 @@
             "POWERFUL SOLUTION FOR CORE AND ROTATIONAL STRENGTH: Our Aeromat medicine ball with rope combines the functionality of a traditional medicine ball with a durable power rope, creating a versatile tool for targeted core and rotational exercises. This 12 lb medicine ball is ideal for adding resistance, helping you work multiple muscle groups while enhancing stability with every movement, making it a valuable addition to your workout balls for exercise collection.",
             "ENHANCES CORE STRENGTH AND BALANCE: The weighted medicine ball design supports a full range of exercises that improve coordination and stability. Our weighted exercise ball works as both a shoulder exerciser ball rope and a toning ball for greater control and balance. With options ranging from med balls to workout balls for exercise, this versatile piece is great for anyone looking to increase strength with a weight ball or heavy ball.",
             "ENGAGING AND REWARDING FITNESS EXPERIENCE: Our Aeromat medicine balls for exercise with rope encourage active participation and mind-muscle connection, fostering an enjoyable and rewarding workout routine. Using our rope medicine ball, you can build power and endurance with challenging wall balls or engage in functional movements, adding dynamic variety to your fitness routine with weighted balls for exercise that fit all fitness levels.",
-            "MULTIPLE WEIGHTS AND QUALITY MATERIALS: Made with premium natural rubber, our medicine ball set offers weights like the 12 pound medicine balls for exercise, ideal for all fitness levels. Options include our green medicine ball or 12lb ball, available with and without ropes for customized training. Whether you\u2019re looking for an 12lb medicine ball or larger workout balls for exercise, our weighted workout ball options are built for durability and ease of use.",
+            "MULTIPLE WEIGHTS AND QUALITY MATERIALS: Made with premium natural rubber, our medicine ball set offers weights like the 12 pound medicine balls for exercise, ideal for all fitness levels. Options include our green medicine ball or 12lb ball, available with and without ropes for customized training. Whether you’re looking for an 12lb medicine ball or larger workout balls for exercise, our weighted workout ball options are built for durability and ease of use.",
             "SPACE-SAVING DESIGN WITH VERSATILITY: Combining two fitness tools in one, our weighted ball set for exercise includes a weighted medicine ball with rope, saving space and adding versatility to your workout. Perfect for exercises from wall balls for exercise to stability-focused medball training, this work out ball offers varied intensity with weighted balls, med balls for exercise, and toning options all in one convenient setup."
         ],
         "attributes": [
@@ -3930,7 +3930,7 @@
                 "name": "Item 5.44 Kilograms 78.41",
                 "weight": "5.44 Kilograms",
                 "price": 78.41,
-                "remaining_products": 48,
+                "remaining_products": 39,
                 "color": "Green",
                 "img": [
                     {
@@ -3963,16 +3963,16 @@
     },
     {
         "asin": "B0DK6HFFFJ",
-        "title": "AQQHSAIN Medicine Ball Rack Exercise Ball Holder Wall Mount Large Stability Yoga Ball Holder Exercise Ball Rack with Storage Hook Industrial Metal Ball Storage for Home\uff0c Yoga Studios\uff0c Commercial Gyms",
+        "title": "AQQHSAIN Medicine Ball Rack Exercise Ball Holder Wall Mount Large Stability Yoga Ball Holder Exercise Ball Rack with Storage Hook Industrial Metal Ball Storage for Home， Yoga Studios， Commercial Gyms",
         "price": 29.99,
         "brand": "AQQHSAIN",
         "description": "1",
         "features": [
-            "\u3010Hook Design\u3011This hanging gym equipment holder comes with a non-fixed hook, convenient for you to move, you can use it to hang resistance bands, jump ropes, towels and other sporting goods, so that your space becomes more organized",
-            "\u3010Space Saving\u3011This exercise ball wall mount can provide safe and reliable storage space for your yoga ball, let your gym floor to avoid unnecessary clutter, let the yoga ball away from the ground, saving floor space, convenient for you to access at any time while also providing you with a neat space",
-            "\u3010Widely Used\u3011This ball storage rack is simple and generous in appearance, either for home or commercial use, suitable for storing yoga balls, Pilates balls, stability balls and their accessories, beautiful with the ball, you can use it in the gym, storage room, yoga room, etc., not only can be used as a display rack or decorations, but also provide you with a good storage space",
-            "\u3010Package Included\u3011Buy this product, you can get 2 sports ball storage rack, each rack size is 16.5inch*12inch*2.7inch, the hook size is 3.54inch/1.38inch, the right size and enough quantity can meet your daily use requirements",
-            "\u3010Sturdy and Durable\u3011This exercise ball equipment organizer is made of high quality metal, not easy to rust, sturdy and durable, equipped with screws and pre-drilled holes to make your installation process easy and convenient, stable and reliable performance can withstand the weight of yoga balls, so that your yoga ball storage becomes a breeze"
+            "【Hook Design】This hanging gym equipment holder comes with a non-fixed hook, convenient for you to move, you can use it to hang resistance bands, jump ropes, towels and other sporting goods, so that your space becomes more organized",
+            "【Space Saving】This exercise ball wall mount can provide safe and reliable storage space for your yoga ball, let your gym floor to avoid unnecessary clutter, let the yoga ball away from the ground, saving floor space, convenient for you to access at any time while also providing you with a neat space",
+            "【Widely Used】This ball storage rack is simple and generous in appearance, either for home or commercial use, suitable for storing yoga balls, Pilates balls, stability balls and their accessories, beautiful with the ball, you can use it in the gym, storage room, yoga room, etc., not only can be used as a display rack or decorations, but also provide you with a good storage space",
+            "【Package Included】Buy this product, you can get 2 sports ball storage rack, each rack size is 16.5inch*12inch*2.7inch, the hook size is 3.54inch/1.38inch, the right size and enough quantity can meet your daily use requirements",
+            "【Sturdy and Durable】This exercise ball equipment organizer is made of high quality metal, not easy to rust, sturdy and durable, equipped with screws and pre-drilled holes to make your installation process easy and convenient, stable and reliable performance can withstand the weight of yoga balls, so that your yoga ball storage becomes a breeze"
         ],
         "attributes": [
             {
@@ -4037,7 +4037,7 @@
                 "name": "1",
                 "weight": 0.0,
                 "price": 19.99,
-                "remaining_products": 88,
+                "remaining_products": 92,
                 "color": "Black",
                 "img": [
                     {
@@ -4050,7 +4050,7 @@
                 "name": "2",
                 "weight": 0.0,
                 "price": 29.99,
-                "remaining_products": 71,
+                "remaining_products": 49,
                 "color": "Black",
                 "img": [
                     {
@@ -4068,7 +4068,7 @@
         "brand": "Body-Solid",
         "description": "Body Solid",
         "features": [
-            "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
+            "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life……Your Life.",
             "VERTICAL & STABLE STAND: This vertical medicine balls rack heavy-duty, fully-welded foot caps ensure it's both durable and reliable, while the product's overall weight of 46 pounds means it's portable and lightweight. As a commercially approved product, it is an excellent choice for small and large fitness facilities and gyms.",
             "OPTIMIZE GYM SPACE: Maximize your gym organization with this Medicine Ball & Wall Ball Rack. This rack accommodates up to 10 medicine balls with a diameter of up to 16\", ideal for storing wall balls, soft medicine balls, regular medicine balls, slam balls, dual-grip medicine balls, and more.",
             "EASY ACCESS AND VISIBILITY: With its vertical design, this rack provides easy access to your medicine balls and wall balls, making it easier to switch between different weights during your workout. Its open design also allows for clear visibility of weight types, helping you keep your workout area organized and safe. Ideal for both home and commercial use.",
@@ -4161,7 +4161,7 @@
                 "name": "Item 46 Pounds 125",
                 "weight": "46 Pounds",
                 "price": 125,
-                "remaining_products": 58,
+                "remaining_products": 74,
                 "color": "Black",
                 "img": [
                     {
@@ -4189,7 +4189,7 @@
         "features": [
             "The weight toning ball (often called medicine ball) is utilized in performing pilates, fitness, strength, yoga and in rehabilitation. More flexible product replaces any big heavy old-day weight.",
             "Most comfortable design for anyone: This medicine ball is designed with a proportion of fitting your one hand palm: conveniently small, easy to grab, made of durable soft PVC shell, filled with natural Sand creates instability to activate different muscle of your workouts",
-            "A variety of choices of COLORS and distinct sizes: Blue (2lbs) - 4.72 inches, Yellow (3lbs) - 5.12 inches, Green (4lbs) - 5.51 inches, Orange (5lbs) - 5.91 inches, Red (6lbs) - 6.3 inches, Pink (7lbs), Purple (8lbs) \u2013 7.09 inches and Turquoise (10lbs) - 8.2 inches. Easy for you to decide an item suitable for your practice frequency. NOTE: Choosing the right ball is very important to get the most effective exercise result. We advise you to read and look carefully the dimension of the items.",
+            "A variety of choices of COLORS and distinct sizes: Blue (2lbs) - 4.72 inches, Yellow (3lbs) - 5.12 inches, Green (4lbs) - 5.51 inches, Orange (5lbs) - 5.91 inches, Red (6lbs) - 6.3 inches, Pink (7lbs), Purple (8lbs) – 7.09 inches and Turquoise (10lbs) - 8.2 inches. Easy for you to decide an item suitable for your practice frequency. NOTE: Choosing the right ball is very important to get the most effective exercise result. We advise you to read and look carefully the dimension of the items.",
             "Be a brilliant alternative to dumbbells to improve self -balance, strength and flexibility. NOTE: You can completely leave the toning ball on wooden floors/tables but make sure that your floors/tables do not get any wetness. Please keep the product in dry place, away from direct sunlight.",
             "Warranty: 30-Day Free Return and 6-Month Warranty. WARNING: These mini weighted balls are not a bouncing ball. We do NOT recommend using it on a mini-trampoline (rebounder) or slam it on the floor."
         ],
@@ -4288,7 +4288,7 @@
                 "name": "A. Blue (2lbs)",
                 "weight": 0.907184,
                 "price": 12.75,
-                "remaining_products": 4,
+                "remaining_products": 64,
                 "color": "Blue",
                 "img": [
                     {
@@ -4333,7 +4333,7 @@
                 "name": "G. Purple (8lbs)",
                 "weight": 3.628736,
                 "price": 21.95,
-                "remaining_products": 88,
+                "remaining_products": 90,
                 "color": "Purple",
                 "img": [
                     {
@@ -4381,7 +4381,7 @@
         "title": "Ringside Hercules Medicine Ball",
         "price": 59.99,
         "brand": "Ringside",
-        "description": "Develop massive power and incredible explosiveness from plyometric drills with this huge medicine ball. Unmatched for testing your heavyweight's true athletic ability and endurance. At a solid 25lbs. this is the heaviest Medicine Ball ever produced. Additional shipping charges apply for this item.\u00a0 The exact amount is quoted at the checkout or by selecting to estimate your shipping charges in your shopping cart.",
+        "description": "Develop massive power and incredible explosiveness from plyometric drills with this huge medicine ball. Unmatched for testing your heavyweight's true athletic ability and endurance. At a solid 25lbs. this is the heaviest Medicine Ball ever produced. Additional shipping charges apply for this item.  The exact amount is quoted at the checkout or by selecting to estimate your shipping charges in your shopping cart.",
         "features": [
             "Durable leather construction",
             "Simple easy to catch spherical design promotes various exercise positions",
@@ -4464,7 +4464,7 @@
                 "name": "Item 25 Pounds 59.99",
                 "weight": "25 Pounds",
                 "price": 59.99,
-                "remaining_products": 39,
+                "remaining_products": 78,
                 "color": "Brown black",
                 "img": [
                     {
@@ -4563,7 +4563,7 @@
                 "name": "Item 16 ounces 8.66",
                 "weight": "16 ounces",
                 "price": 8.66,
-                "remaining_products": 70,
+                "remaining_products": 3,
                 "color": "['Red', 'Blue']",
                 "img": [
                     {
@@ -4607,7 +4607,7 @@
         "title": "Titan Fitness Slam Spike Ball, Rubber Exercise Equipment, 60 lb. Gym Weight",
         "price": 119.99,
         "brand": "Titan Fitness",
-        "description": "Titan Fitness 60-pound Slam Balls are available to enhance your workout routine by simply holding it while performing exercises. Examples of exercises that can be enhanced with slam balls include sit-ups, squats, lunges, and overhead presses. When working with a partner, you can do chest passes, overhead passes, and abdominal work through rotation variations. Slam balls can also be used for athletic training by enhancing cardiovascular endurance, increasing muscle mass, and improving hand-eye coordination. They\u00e2\u20acre also perfect for getting rid of excess energy and pent-up frustration. This 60-pound ball features a textured rubberized exterior shell that prevents blowouts when it\u00e2\u20acs slammed to the ground, an easy-grip texture, and designed perfectly for throwing, slamming, and catching.FEATURES:- Hard Rubber Shell that prevents blowouts when slammed to the ground- Non-Bouncing functional training ball- Textured for easy grip- Workout designed to release energy- Designed for throwing, slamming, and catchingSPECIFICATIONS:- Diameter: 11-in.- Color: Black with White logo and weight- Material: Rubber- Product Weight: 60 lb.",
+        "description": "Titan Fitness 60-pound Slam Balls are available to enhance your workout routine by simply holding it while performing exercises. Examples of exercises that can be enhanced with slam balls include sit-ups, squats, lunges, and overhead presses. When working with a partner, you can do chest passes, overhead passes, and abdominal work through rotation variations. Slam balls can also be used for athletic training by enhancing cardiovascular endurance, increasing muscle mass, and improving hand-eye coordination. Theyâ€re also perfect for getting rid of excess energy and pent-up frustration. This 60-pound ball features a textured rubberized exterior shell that prevents blowouts when itâ€s slammed to the ground, an easy-grip texture, and designed perfectly for throwing, slamming, and catching.FEATURES:- Hard Rubber Shell that prevents blowouts when slammed to the ground- Non-Bouncing functional training ball- Textured for easy grip- Workout designed to release energy- Designed for throwing, slamming, and catchingSPECIFICATIONS:- Diameter: 11-in.- Color: Black with White logo and weight- Material: Rubber- Product Weight: 60 lb.",
         "features": [
             "TEXTURED GRIP: As your hands' sweat throughout a workout, the textured rubberized exterior shell of the med ball ensures a steady grip and helps prevent slips and mishaps. The outer shell also includes the Titan Fitness logo molded into the texture of the surface as well as the weight indication in white."
         ],
@@ -4670,7 +4670,7 @@
                 "name": "Item 60 Pounds 119.99",
                 "weight": "60 Pounds",
                 "price": 119.99,
-                "remaining_products": 61,
+                "remaining_products": 91,
                 "color": "White",
                 "img": [
                     {
@@ -4799,7 +4799,7 @@
                 "name": "BLUE",
                 "weight": 0.0,
                 "price": 17.99,
-                "remaining_products": 51,
+                "remaining_products": 67,
                 "color": "Blue",
                 "img": [
                     {
@@ -4848,7 +4848,7 @@
                 "name": "BLACK",
                 "weight": 0.0,
                 "price": 17.99,
-                "remaining_products": 59,
+                "remaining_products": 80,
                 "color": "Black",
                 "img": [
                     {
@@ -4897,7 +4897,7 @@
                 "name": "Silver-Metal",
                 "weight": 0.0,
                 "price": 17.99,
-                "remaining_products": 46,
+                "remaining_products": 65,
                 "color": "Silver",
                 "img": [
                     {
@@ -4946,7 +4946,7 @@
                 "name": "Red",
                 "weight": 0.0,
                 "price": 17.99,
-                "remaining_products": 81,
+                "remaining_products": 7,
                 "color": "Red",
                 "img": [
                     {
@@ -4995,7 +4995,7 @@
                 "name": "BLACK Without Light",
                 "weight": 0.0,
                 "price": 17.99,
-                "remaining_products": 12,
+                "remaining_products": 32,
                 "color": "Black",
                 "img": [
                     {
@@ -5040,7 +5040,7 @@
                 "name": "Blue Without Light",
                 "weight": 0.0,
                 "price": 17.99,
-                "remaining_products": 91,
+                "remaining_products": 59,
                 "color": "Blue",
                 "img": [
                     {
@@ -5082,11 +5082,11 @@
         "brand": "Body-Solid",
         "description": null,
         "features": [
-            "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
+            "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life……Your Life.",
             "BOOST YOUR WORKOUT: Improve your cardio, strength training and core fitness with our heavy rubber medicine balls. Ideal for exercises like dumbbell swings, kettlebell workouts, balance ball exercises and sandbag training routines, our light weighted medicine balls will help you build muscle, improve endurance and increase overall fitness.",
             "SOFT & NON-BOUNCING: Body-Solid Tools Premium Dynamax Medicine Balls are non-bouncing, impact-absorbing, soft-feel medicine balls designed to excel in heavy-use and group fitness facilities. The soft-shell design is constructed to absorb impact for a comfortable and friendly feel during high-velocity workouts.",
             "PERFECT FOR ALL FITNESS LEVELS: Whether you are a beginner or a seasoned athlete, our training slam balls offer a complete training solution. Our medicine balls are perfect for various exercises such as wall balls, weight balls and medicine ball sets. These balls are non-bouncing, non-rolling balls designed to add some cardio to your regular strength training routine.",
-            "VERSATILE WEIGHT OPTIONS: They are the perfect tool for exercises typical medicine balls can\u2019t do including: wood chops, slams and overhead throws. Beneficial to athletes of all size and skill levels, Body-Solid Tools soft shell Balls are available in weights between 20lb to 70lb. All Balls have a 13.6\" diameter."
+            "VERSATILE WEIGHT OPTIONS: They are the perfect tool for exercises typical medicine balls can’t do including: wood chops, slams and overhead throws. Beneficial to athletes of all size and skill levels, Body-Solid Tools soft shell Balls are available in weights between 20lb to 70lb. All Balls have a 13.6\" diameter."
         ],
         "attributes": [
             {
@@ -5175,7 +5175,7 @@
                 "name": "20lbs.",
                 "weight": 9.07184,
                 "price": 107.1,
-                "remaining_products": 28,
+                "remaining_products": 82,
                 "color": "Black / Green",
                 "img": [
                     {
@@ -5216,7 +5216,7 @@
                 "name": "30lbs.",
                 "weight": 13.607759999999999,
                 "price": 107.1,
-                "remaining_products": 61,
+                "remaining_products": 85,
                 "color": "Black / Green",
                 "img": [
                     {
@@ -5253,7 +5253,7 @@
                 "name": "40lbs.",
                 "weight": 18.14368,
                 "price": 107.1,
-                "remaining_products": 82,
+                "remaining_products": 1,
                 "color": "Black / Green",
                 "img": [
                     {
@@ -5294,7 +5294,7 @@
                 "name": "60lbs.",
                 "weight": 27.215519999999998,
                 "price": 107.1,
-                "remaining_products": 30,
+                "remaining_products": 95,
                 "color": "Black / Green",
                 "img": [
                     {
@@ -5341,7 +5341,7 @@
         "description": "URBNFit Small Exercise Ball - 9-inch Mini Pilates Ball with Fitness Guide for Yoga, Barre, Physical Therapy, Stretching & Core Stability Workout",
         "features": [
             "ANTI-BURST - Never worry about your workout ball bursting or losing its shape during rigorous exercise. Our small yoga ball is made with durable PVC material and supports up to 600lbs of weight.",
-            "ANTI-SLIP - The surface of each 9\u201d fitness ball is coated in a non-slip glaze to ensure you have a proper and safe grip when working out, seeking back pain relief, or soothing aches during pregnancy.",
+            "ANTI-SLIP - The surface of each 9” fitness ball is coated in a non-slip glaze to ensure you have a proper and safe grip when working out, seeking back pain relief, or soothing aches during pregnancy.",
             "VERSATILE - Use this small yoga ball for exercise and beyond! Stretch before a HIIT session, build core strength and flexibility on the mat, or place behind you while sitting in a chair for lumbar support.",
             "CONVENIENT - These exercise balls for working out are quick to inflate/deflate for easy use. Just pump with air using the straw provided to inflate or remove the plug to deflate after use.",
             "REINVENT YOURSELF - Fitness goals are only good if you're willing to follow through with them. Luckily, our exercise balls are a surefire way to help you become a happier, healthier you!"
@@ -5413,7 +5413,7 @@
                 "name": "Blue",
                 "weight": 0.0,
                 "price": 6.75,
-                "remaining_products": 48,
+                "remaining_products": 10,
                 "color": "Blue",
                 "img": [
                     {
@@ -5450,7 +5450,7 @@
                 "name": "Blue Massager",
                 "weight": 0.0,
                 "price": 7.99,
-                "remaining_products": 63,
+                "remaining_products": 81,
                 "color": "Blue",
                 "img": [
                     {
@@ -5483,7 +5483,7 @@
                 "name": "Aqua",
                 "weight": 0.0,
                 "price": 8.99,
-                "remaining_products": 94,
+                "remaining_products": 87,
                 "color": "Aqua",
                 "img": [
                     {
@@ -5520,7 +5520,7 @@
                 "name": "Pink",
                 "weight": 0.0,
                 "price": 6.99,
-                "remaining_products": 57,
+                "remaining_products": 92,
                 "color": "Pink",
                 "img": [
                     {
@@ -5557,7 +5557,7 @@
                 "name": "Black",
                 "weight": 0.0,
                 "price": 6.99,
-                "remaining_products": 46,
+                "remaining_products": 91,
                 "color": "Black",
                 "img": [
                     {
@@ -5684,7 +5684,7 @@
                 "name": "Item 2.82 Kilograms 39.99",
                 "weight": "2.82 Kilograms",
                 "price": 39.99,
-                "remaining_products": 80,
+                "remaining_products": 11,
                 "color": "black",
                 "img": [
                     {
@@ -5851,7 +5851,7 @@
                 "name": "Item 52 Pounds 310.98",
                 "weight": "52 Pounds",
                 "price": 310.98,
-                "remaining_products": 23,
+                "remaining_products": 22,
                 "color": "Black",
                 "img": [
                     {
@@ -5893,7 +5893,7 @@
         "brand": "Body-Solid",
         "description": "The Body-Solid Medicine Ball Rack (GMR10) features a vertical, space-efficient design that keeps your medicine balls secure and organized. This exercise ball stand's curved design gives you easy access to six standard or dual-grip medicine balls, so you can easily switch them out as you move through your workout routine.This medicine ball tree is designed for standard medicine balls weighing between 2 and 30 pounds and dual-grip medicine balls weighing between 6 and 25 pounds. It is made with heavy-gauge steel that will stand up to years of everyday use in a home or professional gym, and it is sturdy and compact enough to be placed freestanding in the center of a room or in a corner amongst other workout equipment.When assembled, the Body-Solid Medicine Ball Rack measures 22.5 by 19.5 by 63 inches (L x W x H) and weighs 29 pounds. It is backed by the Body-Solid Lifetime In-Home Warranty, which fully covers all parts of the ball rack organizer for as long as you own it. Use this medicine ball storage rack with Body-Solid Medicine Balls (BSTMB) or Dual-Grip Medicine Balls (BSTDMB).",
         "features": [
-            "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
+            "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life……Your Life.",
             "VERSATILE AND CONVENIENT: This Body-Solid Vertical Medicine Ball Stand is ideal for storing medicine balls, slam balls, or yoga balls. With its compact footprint, it is perfect for home gyms, garages, and fitness centers.",
             "DURABLE AND STURDY: Constructed with heavy gauge steel, this medicine ball rack provides a stable and durable frame. The black powder coat finish not only gives it a stylish look but also adds to its longevity.",
             "EASY ACCESS AND ORGANIZATION: The curved oval upright design of this rack allows for easy access to every tier. It can hold up to 6 balls, from 2 to 16 lbs, providing an organized space for your exercise balls.",
@@ -5982,7 +5982,7 @@
                 "name": "Item 0.01 Ounces 145",
                 "weight": "0.01 Ounces",
                 "price": 145,
-                "remaining_products": 59,
+                "remaining_products": 53,
                 "color": "gray",
                 "img": [
                     {
@@ -6081,7 +6081,7 @@
             },
             {
                 "key": "Warranty Description",
-                "value": "1 YEAR WARR \u2013 30 DAY RETURN"
+                "value": "1 YEAR WARR – 30 DAY RETURN"
             },
             {
                 "key": "Model Name",
@@ -6125,7 +6125,7 @@
                 "name": "B. Upgrade Combo - Full Black",
                 "weight": 6.9,
                 "price": 74.99,
-                "remaining_products": 41,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -6162,7 +6162,7 @@
                 "name": "C. Upgrade Combo - Black/Blue",
                 "weight": 6.9,
                 "price": 75.99,
-                "remaining_products": 76,
+                "remaining_products": 28,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -6199,7 +6199,7 @@
                 "name": "A. Matte Black",
                 "weight": 6.9,
                 "price": 59.99,
-                "remaining_products": 19,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -6244,7 +6244,7 @@
                 "name": "D. Half Peanut Pro Version - Black/Orange",
                 "weight": 6.9,
                 "price": 99,
-                "remaining_products": 73,
+                "remaining_products": 8,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -6288,13 +6288,13 @@
         "title": "ProsourceFit Weighted Medicine Ball for Full Body Workouts",
         "price": 29.99,
         "brand": "ProsourceFit",
-        "description": "ProsourceFit Rubber Medicine Balls are a convenient and versatile piece of training equipment for improving strength, coordination and conditioning. The textured rubber surface provides a stable grip, ideal when tossing and catching the ball with a partner or against a wall. When your hands get sweaty from an intense workout, it offers a more secure grip during exercises to prevent slipping. Each ball is super durable, providing a moderate amount of bounce and withstanding heavy use, ideal for boot camps, group fitness instructors, personal trainers, or coaches. Available in five different weights, medicine balls can replace dumbbells in many exercises like squats, presses and various core exercises. They are perfect for beginners to working out for building strength and coordination and equally ideal for athletes and anyone working on explosive power. They\u2019re a great exercise tool for training athletes of any level, building core strength, cardio conditioning and multi-joint exercises. Their compact size and affordability are a perfect fit for home gyms and taking your workout outside. Plus, they add variety and make workouts more fun!",
+        "description": "ProsourceFit Rubber Medicine Balls are a convenient and versatile piece of training equipment for improving strength, coordination and conditioning. The textured rubber surface provides a stable grip, ideal when tossing and catching the ball with a partner or against a wall. When your hands get sweaty from an intense workout, it offers a more secure grip during exercises to prevent slipping. Each ball is super durable, providing a moderate amount of bounce and withstanding heavy use, ideal for boot camps, group fitness instructors, personal trainers, or coaches. Available in five different weights, medicine balls can replace dumbbells in many exercises like squats, presses and various core exercises. They are perfect for beginners to working out for building strength and coordination and equally ideal for athletes and anyone working on explosive power. They’re a great exercise tool for training athletes of any level, building core strength, cardio conditioning and multi-joint exercises. Their compact size and affordability are a perfect fit for home gyms and taking your workout outside. Plus, they add variety and make workouts more fun!",
         "features": [
-            "MUSCLE TONE & POWER\u2013 Great for dynamic exercises to increase muscle power, and for developing core strength.",
-            "DURABLE \u2013 Textured rubber is built to last for bouncing and throwing against hard surfaces and provides a stable grip.",
-            "IMPROVED FITNESS \u2013 Excellent for building strength and stamina while challenging coordination and balance.",
-            "VARIETY \u2013 Available from 4-12 lb. for gradual progression. Ideal for various strength levels and muscle groups.",
-            "FULL-BODY WORKOUTS \u2013 Great for core exercises, partner workouts, squats, overhead presses, balance, and more."
+            "MUSCLE TONE & POWER– Great for dynamic exercises to increase muscle power, and for developing core strength.",
+            "DURABLE – Textured rubber is built to last for bouncing and throwing against hard surfaces and provides a stable grip.",
+            "IMPROVED FITNESS – Excellent for building strength and stamina while challenging coordination and balance.",
+            "VARIETY – Available from 4-12 lb. for gradual progression. Ideal for various strength levels and muscle groups.",
+            "FULL-BODY WORKOUTS – Great for core exercises, partner workouts, squats, overhead presses, balance, and more."
         ],
         "attributes": [
             {
@@ -6403,7 +6403,7 @@
                 "name": "6 LB - Yellow/Black",
                 "weight": 2.721552,
                 "price": 29.99,
-                "remaining_products": 79,
+                "remaining_products": 52,
                 "color": "Yellow, Black",
                 "img": [
                     {
@@ -6436,7 +6436,7 @@
                 "name": "10 LB - Red/Black",
                 "weight": 4.53592,
                 "price": 29.99,
-                "remaining_products": 30,
+                "remaining_products": 17,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -6473,7 +6473,7 @@
                 "name": "8 LB - Green/Black",
                 "weight": 3.628736,
                 "price": 29.99,
-                "remaining_products": 64,
+                "remaining_products": 58,
                 "color": "Green, Black",
                 "img": [
                     {
@@ -6506,7 +6506,7 @@
                 "name": "4 LB - Blue/Black",
                 "weight": 1.814368,
                 "price": 29.99,
-                "remaining_products": 13,
+                "remaining_products": 8,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -6547,7 +6547,7 @@
                 "name": "12 LB - Purple/Black",
                 "weight": 5.443104,
                 "price": 29.99,
-                "remaining_products": 27,
+                "remaining_products": 83,
                 "color": "Purple, Black",
                 "img": [
                     {
@@ -6589,11 +6589,11 @@
         "brand": "ProsourceFit",
         "description": null,
         "features": [
-            "FUNCTIONAL EXERCISE \u2013 Versatile for cross-training workouts, power and agility training, core exercises, functional fitness and strength",
-            "SOFT SHELL \u2013 PU leather exterior is soft to the touch, with a padded interior with slight give to catch and grip comfortably",
-            "IMPACT-ABSORBING \u2013 Cushioned design absorbs impact during strength and power exercises, and is held together with heavy duty double-stitched seams",
-            "LONG-LASTING \u2013 Durable PU leather material is water resistant and scuff resistant for a long-lasting ball that is perfect for home or gym",
-            "CONSISTENT SIZE \u2013 Constructed to maintain a balanced weight and is 14\u201d in diameter, making it easy to hold and toss against a wall or with a partner"
+            "FUNCTIONAL EXERCISE – Versatile for cross-training workouts, power and agility training, core exercises, functional fitness and strength",
+            "SOFT SHELL – PU leather exterior is soft to the touch, with a padded interior with slight give to catch and grip comfortably",
+            "IMPACT-ABSORBING – Cushioned design absorbs impact during strength and power exercises, and is held together with heavy duty double-stitched seams",
+            "LONG-LASTING – Durable PU leather material is water resistant and scuff resistant for a long-lasting ball that is perfect for home or gym",
+            "CONSISTENT SIZE – Constructed to maintain a balanced weight and is 14” in diameter, making it easy to hold and toss against a wall or with a partner"
         ],
         "attributes": [
             {
@@ -6698,7 +6698,7 @@
                 "name": "Red 6 LB",
                 "weight": 2.721552,
                 "price": 42.99,
-                "remaining_products": 84,
+                "remaining_products": 58,
                 "color": "Red",
                 "img": [
                     {
@@ -6735,7 +6735,7 @@
                 "name": "Aqua 8 LB",
                 "weight": 3.628736,
                 "price": 49.99,
-                "remaining_products": 94,
+                "remaining_products": 58,
                 "color": "Aqua",
                 "img": [
                     {
@@ -6772,7 +6772,7 @@
                 "name": "Blue 14 LB",
                 "weight": 6.350288,
                 "price": 54.99,
-                "remaining_products": 49,
+                "remaining_products": 58,
                 "color": "Blue",
                 "img": [
                     {
@@ -6809,7 +6809,7 @@
                 "name": "Gray 25 LB",
                 "weight": 11.3398,
                 "price": 69.99,
-                "remaining_products": 72,
+                "remaining_products": 4,
                 "color": "Gray",
                 "img": [
                     {
@@ -6846,7 +6846,7 @@
                 "name": "Green 10 LB",
                 "weight": 4.53592,
                 "price": 49.99,
-                "remaining_products": 15,
+                "remaining_products": 101,
                 "color": "Green",
                 "img": [
                     {
@@ -6891,7 +6891,7 @@
                 "name": "Black 20 LB",
                 "weight": 9.07184,
                 "price": 59.39,
-                "remaining_products": 79,
+                "remaining_products": 23,
                 "color": "Black",
                 "img": [
                     {
@@ -6927,12 +6927,12 @@
         "title": "HomeoPet Feline Furball, Safe and Natural Hairball Medicine for Cats, Natural Pet Medicine, 15 Milliliters",
         "price": 17.99,
         "brand": "HomeoPet",
-        "description": "HomeoPet Feline Furball is a homeopathic medicine that can help address signs of furballs, including lack of appetite, gagging, and vomiting brought on by hair stuck in the digestive tract due to grooming. It is safe and gentle enough to use for senior cats, adult cats, and kittens. Dose this hairball-management medicine directly into your cat\u2019s mouth, in water, or at meal/snack time 3 times a day. Once improvement is seen, reduce the frequency of doses, and stop using once improvement is maintained. This product is made from natural ingredients and is well-tolerated with no known side effects. HomeoPet is a family business committed to helping pets live long, healthy lives with safe, natural, and gentle treatments and supplements. Daniel H. Farrington and his veterinarian brother Thomas Farrington work to develop the highest-quality homeopathic medicines and supplements to support your furry, feathered, and fuzzy friends' health and wellness. HomeoPet is dedicated to healthy and happy pets worldwide.",
+        "description": "HomeoPet Feline Furball is a homeopathic medicine that can help address signs of furballs, including lack of appetite, gagging, and vomiting brought on by hair stuck in the digestive tract due to grooming. It is safe and gentle enough to use for senior cats, adult cats, and kittens. Dose this hairball-management medicine directly into your cat’s mouth, in water, or at meal/snack time 3 times a day. Once improvement is seen, reduce the frequency of doses, and stop using once improvement is maintained. This product is made from natural ingredients and is well-tolerated with no known side effects. HomeoPet is a family business committed to helping pets live long, healthy lives with safe, natural, and gentle treatments and supplements. Daniel H. Farrington and his veterinarian brother Thomas Farrington work to develop the highest-quality homeopathic medicines and supplements to support your furry, feathered, and fuzzy friends' health and wellness. HomeoPet is dedicated to healthy and happy pets worldwide.",
         "features": [
             "HAIRBALL MEDICINE FOR CATS: Help support healthy digestion and grooming for your cat with HomeoPet Feline Furball. This cat-care medicine may help provide temporary relief from the effects of furballs, including gagging and vomiting.",
             "SAFE INGREDIENTS: A safe option for cat hairballs, our gentle homeopathic medication for hairballs is made from natural ingredients. This safe and gentle cat medicine may help reduce retching and loss of appetite due to hairballs.",
-            "FOR CATS OF ALL AGES: HomeoPet\u2019s oral cat furball supplement is well tolerated, safe, gentle, and natural with no known side effects. It may help relieve hairball issues for cats of all ages, from kittens to senior cats.",
-            "EASY TO USE: Dose this furball medicine for cats directly into your pet\u2019s mouth, in their water, or at meal or snack time 3 times per day. For acute cases, give 1 dose every 15 minutes for up to 6\u201310 doses. Discontinue use once symptoms improve.",
+            "FOR CATS OF ALL AGES: HomeoPet’s oral cat furball supplement is well tolerated, safe, gentle, and natural with no known side effects. It may help relieve hairball issues for cats of all ages, from kittens to senior cats.",
+            "EASY TO USE: Dose this furball medicine for cats directly into your pet’s mouth, in their water, or at meal or snack time 3 times per day. For acute cases, give 1 dose every 15 minutes for up to 6–10 doses. Discontinue use once symptoms improve.",
             "SIMPLE, SAFE & PURE: Daniel H. Farrington and his veterinarian brother, Thomas Farrington, created HomeoPet to bring high-quality, safe, natural, and affordable treatments and supplements to pets and pet parents worldwide."
         ],
         "attributes": [
@@ -7030,7 +7030,7 @@
                 "name": "Item 0.8 ounces 17.99",
                 "weight": "0.8 ounces",
                 "price": 17.99,
-                "remaining_products": 58,
+                "remaining_products": 97,
                 "color": "multi",
                 "img": [
                     {
@@ -7072,7 +7072,7 @@
         "brand": "Champion Sports",
         "description": "The Champion Sports FitPro Training and Exercise Ball is a premium tool for core strength and stability. Designed for users 6' and up\", this ball features a soft, high-quality Italian resin surface that provides durability and comfort. Ideal for daily exercise, rehabilitation, or group fitness, this burst-resistant ball effectively targets and strengthens hard-to-reach core muscles, providing a foundation for overall fitness improvement. Available in multiple sizes and colors: 75 cm (yellow - FP75), 85 cm (green - FP85), and 95 cm (blue - FP95). Each sold separately.",
         "features": [
-            "THE \u201cYOU CAN ACCOMPLISH ANYTHING\u201d BALL: The only person that can get in your way to optimal health and a great physique is yourself. By including our multi-dynamic exercise ball into every workout, the only thing you need to bring is determination.",
+            "THE “YOU CAN ACCOMPLISH ANYTHING” BALL: The only person that can get in your way to optimal health and a great physique is yourself. By including our multi-dynamic exercise ball into every workout, the only thing you need to bring is determination.",
             "PREMIUM CRAFTSMANSHIP: The Champion Sports balls are ISO 9001 certified and extensively tested using thorough certification processes. Made of italian resin material, these stability balls are comfortable yet tough and puncture-resistant.",
             "EFFECTIVE FOR CORE TRAINING: Whether you are aspiring for a six-pack, need to strengthen your stabilizing muscles and abdomen, or just improve balance and posture, using these balancing balls in your routine can significantly improve all the above.",
             "IDEAL FOR PAIN RELIEF: Great for functional strength training, our therapy ball can also be employed for post-op rehab, recovery, and physical or occupational therapy as a result of sports injury or chronic pain. Use it for stretching or massage.",
@@ -7177,7 +7177,7 @@
                 "name": "Item 16 ounces 33.25",
                 "weight": "16 ounces",
                 "price": 33.25,
-                "remaining_products": 21,
+                "remaining_products": 62,
                 "color": "Yellow",
                 "img": [
                     {
@@ -7213,7 +7213,7 @@
         "title": "Titan Fitness 18 LB-30 LB Composite Wall Balls, Soft Shell Poly-Composite Laminate Cross Texture Non-Slip Grip, Tight Stitching, Medicine Ball for Core, Full-Body, Functional Workouts, Exercise Ball",
         "price": 356.99,
         "brand": "Titan Fitness",
-        "description": "Built with durable poly-composite laminate and a PP Fiberfill interior, these wall balls deliver a soft feel and a smooth, grippable texture. Tough and ready for action, they\u00e2\u20acre crafted with tight double stitching for long-lasting performance. Offered individually in 6 to 30 LB weights, as well as in sets of 6 to 14 LB, 18 to 30 LB, and 6 to 30 LB to suit your fitness level, each ball measures 13\" in diameter, making it perfect for a variety of exercises. You can throw it against the wall, toss it overhead, or pass it to a buddy. This versatile design targets multiple muscle groups and joints for core training, endurance building, and functional fitness workouts. The large, balanced build is easy-to-grip - whether you\u00e2\u20acre using it solo or with a partner. Plus, the sturdy loops on each side make it even easier to keep a solid grip during those tough sets.Note: These wall balls are not designed for slam ball exercises.FEATURES:- Non-slip poly-composite laminate exterior- PP Fiberfill interior- Tight double stitching- Two grip-loops- Stitched logo and weight- Pack of 4 wall ballsSPECIFICATIONS:- Overall Diameter: 13-in.- Color: Black\u00c2 - Outside Material: Poly-Composite Laminate- Inside Material: PP Fiberfill- Product Weight: 18 lb. - 30 lb.",
+        "description": "Built with durable poly-composite laminate and a PP Fiberfill interior, these wall balls deliver a soft feel and a smooth, grippable texture. Tough and ready for action, theyâ€re crafted with tight double stitching for long-lasting performance. Offered individually in 6 to 30 LB weights, as well as in sets of 6 to 14 LB, 18 to 30 LB, and 6 to 30 LB to suit your fitness level, each ball measures 13\" in diameter, making it perfect for a variety of exercises. You can throw it against the wall, toss it overhead, or pass it to a buddy. This versatile design targets multiple muscle groups and joints for core training, endurance building, and functional fitness workouts. The large, balanced build is easy-to-grip - whether youâ€re using it solo or with a partner. Plus, the sturdy loops on each side make it even easier to keep a solid grip during those tough sets.Note: These wall balls are not designed for slam ball exercises.FEATURES:- Non-slip poly-composite laminate exterior- PP Fiberfill interior- Tight double stitching- Two grip-loops- Stitched logo and weight- Pack of 4 wall ballsSPECIFICATIONS:- Overall Diameter: 13-in.- Color: BlackÂ - Outside Material: Poly-Composite Laminate- Inside Material: PP Fiberfill- Product Weight: 18 lb. - 30 lb.",
         "features": [],
         "attributes": [
             {
@@ -7294,7 +7294,7 @@
                 "name": "Item 93 Pounds 356.99",
                 "weight": "93 Pounds",
                 "price": 356.99,
-                "remaining_products": 18,
+                "remaining_products": 62,
                 "color": "Black",
                 "img": [
                     {
@@ -7413,7 +7413,7 @@
                 "name": "Item 6.6 Pounds 395.4",
                 "weight": "6.6 Pounds",
                 "price": 395.4,
-                "remaining_products": 8,
+                "remaining_products": 57,
                 "color": "Multicolor",
                 "img": [
                     {
@@ -7453,7 +7453,7 @@
         "title": "Philosophy Gym Slam Ball - Weighted Fitness Medicine Ball with Easy Grip Tread",
         "price": 26.99,
         "brand": "Philosophy Gym",
-        "description": "Kick your workout up a few notches with a slam ball! Whether you train in MMA, or do conditioning workouts, if you want something new to incorporate into your general athletic exercise routine, a slam medicine ball offers an incredible way to work out with weights. Made to slam and get your body into serious action mode, a weighted slam ball can be used for a wide array of targeted and full body exercises. Our slam medicine ball is excellent for such exercises as lateral throws, overhead slams, squat throws, broad jump to passes, and chest passes - among many more!The Philosophy Gym slam ball was made for extreme usage. It features a cutting-edge, highly durable design to handle whatever you\u2019re going to put it through. Constructed of a PVC shell and filled with iron sand, this ball is heavy-duty, inside, and out. It features a raised tread pattern and a seamless design, which offers excellent grip while ensuring comfort and longevity. It has a no-bounce design to ensure it gets the job done when slamming. If you are searching for an affordable yet top-quality weighted slam ball, this is the one you need in your rotation. Available in the following size options: 10LB, 15LB, 20LB, 25LB, 30LB, or 40LB.Philosophy Gym provides quality fitness equipment with exceptional durability to meet all your workout needs.",
+        "description": "Kick your workout up a few notches with a slam ball! Whether you train in MMA, or do conditioning workouts, if you want something new to incorporate into your general athletic exercise routine, a slam medicine ball offers an incredible way to work out with weights. Made to slam and get your body into serious action mode, a weighted slam ball can be used for a wide array of targeted and full body exercises. Our slam medicine ball is excellent for such exercises as lateral throws, overhead slams, squat throws, broad jump to passes, and chest passes - among many more!The Philosophy Gym slam ball was made for extreme usage. It features a cutting-edge, highly durable design to handle whatever you’re going to put it through. Constructed of a PVC shell and filled with iron sand, this ball is heavy-duty, inside, and out. It features a raised tread pattern and a seamless design, which offers excellent grip while ensuring comfort and longevity. It has a no-bounce design to ensure it gets the job done when slamming. If you are searching for an affordable yet top-quality weighted slam ball, this is the one you need in your rotation. Available in the following size options: 10LB, 15LB, 20LB, 25LB, 30LB, or 40LB.Philosophy Gym provides quality fitness equipment with exceptional durability to meet all your workout needs.",
         "features": [
             "Highly durable construction: Our Philosophy Gym weighted slam balls are made to handle everything you throw it at. A slam ball can be used in conditioning to improve muscle mass, increase aerobic activity, enhance hand-eye coordination, and more.",
             "Made for performance: This slam medicine ball has a seamless design with a raised tread pattern. Construction features a durable PVC shell and is filled with iron sand for ensuring it does not roll or bounce in use.",
@@ -7528,7 +7528,7 @@
                 "name": "25 LB",
                 "weight": 11.3398,
                 "price": 34.99,
-                "remaining_products": 73,
+                "remaining_products": 62,
                 "color": "Black",
                 "img": [
                     {
@@ -7569,7 +7569,7 @@
                 "name": "15 LB",
                 "weight": 6.8038799999999995,
                 "price": 26.99,
-                "remaining_products": 21,
+                "remaining_products": 100,
                 "color": "Black",
                 "img": [
                     {
@@ -7610,7 +7610,7 @@
                 "name": "30 LB",
                 "weight": 13.607759999999999,
                 "price": 46.49,
-                "remaining_products": 100,
+                "remaining_products": 19,
                 "color": "Black",
                 "img": [
                     {
@@ -7651,7 +7651,7 @@
                 "name": "10 LB",
                 "weight": 4.53592,
                 "price": 24.99,
-                "remaining_products": 50,
+                "remaining_products": 47,
                 "color": "Black",
                 "img": [
                     {
@@ -7762,7 +7762,7 @@
                 "name": "1",
                 "weight": 2.58,
                 "price": 57.99,
-                "remaining_products": 49,
+                "remaining_products": 57,
                 "color": "Black",
                 "img": [
                     {
@@ -7775,7 +7775,7 @@
                 "name": "2",
                 "weight": 2.58,
                 "price": 57.99,
-                "remaining_products": 47,
+                "remaining_products": 98,
                 "color": "Black",
                 "img": [
                     {
@@ -7793,11 +7793,11 @@
         "brand": "primasole",
         "description": "Primasole Exercise Ball has excellent durability, because it is made of a highly-stretchable material that resists bursting. European toy safety standard tested. Accessories: Inflator, cap, cap opener, paper tape measure",
         "features": [
-            "\u3010TRUSTED BRAND Amazon.com Limited Brand\u3011Primasole is a fitness brand established in April 2019. Our lineup includes a yoga mat, exercise & balance ball , balance disc, and foam roller. We are here to help you incorporate fitness into your daily life.",
-            "\u3010CHOICE OF4 SIZES & 5 COLORS\u3011Choose from 45, 55, 65, or 75\u2011cm size to suit your height and purpose. Wide range of sizes helps you find the ideal ball for yoga, ab work, Pilates , core training, pregnancy exercise, or office chair. Five different colors to coordinate with any mood, style, or preference. Choose from indigo blue, silver gray, nail pink, pale gray and blue.",
-            "\u3010Secure Grip and Safety\u3011Burst-proof construction ensures air will escape slowly. European toy safety standard tested and made from high-stretch material.",
-            "\u3010Strength core and flexibility \u3011Balance balls are perfect for all types of training at the gym or in your home. You can comfortably work almost every major muscle group. Stability work is great for your core and can also help improve overall flexibility, balance, and coordination. It even does your posture a solid.",
-            "\u3010Accessories\u3011Inflator, cap, cap opener, paper tape measure"
+            "【TRUSTED BRAND Amazon.com Limited Brand】Primasole is a fitness brand established in April 2019. Our lineup includes a yoga mat, exercise & balance ball , balance disc, and foam roller. We are here to help you incorporate fitness into your daily life.",
+            "【CHOICE OF4 SIZES & 5 COLORS】Choose from 45, 55, 65, or 75‑cm size to suit your height and purpose. Wide range of sizes helps you find the ideal ball for yoga, ab work, Pilates , core training, pregnancy exercise, or office chair. Five different colors to coordinate with any mood, style, or preference. Choose from indigo blue, silver gray, nail pink, pale gray and blue.",
+            "【Secure Grip and Safety】Burst-proof construction ensures air will escape slowly. European toy safety standard tested and made from high-stretch material.",
+            "【Strength core and flexibility 】Balance balls are perfect for all types of training at the gym or in your home. You can comfortably work almost every major muscle group. Stability work is great for your core and can also help improve overall flexibility, balance, and coordination. It even does your posture a solid.",
+            "【Accessories】Inflator, cap, cap opener, paper tape measure"
         ],
         "attributes": [
             {
@@ -7894,7 +7894,7 @@
                 "name": "Item 2.6 Pounds 15.29",
                 "weight": "2.6 Pounds",
                 "price": 15.29,
-                "remaining_products": 1,
+                "remaining_products": 20,
                 "color": "Pale Gray",
                 "img": [
                     {
@@ -8009,7 +8009,7 @@
                 "name": "Item 3.5 Ounces 54.95",
                 "weight": "3.5 Ounces",
                 "price": 54.95,
-                "remaining_products": 0,
+                "remaining_products": 90,
                 "color": "Multicolor",
                 "img": [
                     {
@@ -8120,7 +8120,7 @@
                 "name": "Item 16 Pounds 61.99",
                 "weight": "16 Pounds",
                 "price": 61.99,
-                "remaining_products": 76,
+                "remaining_products": 1,
                 "color": "Black",
                 "img": [
                     {
@@ -8255,7 +8255,7 @@
             },
             {
                 "key": "Included Components",
-                "value": "2lb Rhino\u00ae Elite Medicine Ball"
+                "value": "2lb Rhino® Elite Medicine Ball"
             },
             {
                 "key": "Outer Material",
@@ -8279,7 +8279,7 @@
                 "name": "4 Pounds - Red",
                 "weight": 1.814368,
                 "price": 28.76,
-                "remaining_products": 33,
+                "remaining_products": 90,
                 "color": "Red",
                 "img": [
                     {
@@ -8296,7 +8296,7 @@
                 "name": "25 Pounds - Green",
                 "weight": 11.3398,
                 "price": 28.76,
-                "remaining_products": 35,
+                "remaining_products": 33,
                 "color": "Green",
                 "img": [
                     {
@@ -8329,7 +8329,7 @@
                 "name": "8 Pounds - Green",
                 "weight": 3.628736,
                 "price": 28.76,
-                "remaining_products": 63,
+                "remaining_products": 43,
                 "color": "Green",
                 "img": [
                     {
@@ -8362,7 +8362,7 @@
                 "name": "18 Pounds - Red",
                 "weight": 8.164656,
                 "price": 28.76,
-                "remaining_products": 92,
+                "remaining_products": 52,
                 "color": "Red",
                 "img": [
                     {
@@ -8395,7 +8395,7 @@
                 "name": "2 Pounds - Yellow",
                 "weight": 0.907184,
                 "price": 28.76,
-                "remaining_products": 91,
+                "remaining_products": 63,
                 "color": "Yellow",
                 "img": [
                     {
@@ -8428,7 +8428,7 @@
                 "name": "12 Pounds - Purple",
                 "weight": 5.443104,
                 "price": 28.76,
-                "remaining_products": 77,
+                "remaining_products": 82,
                 "color": "Purple",
                 "img": [
                     {
@@ -8574,7 +8574,7 @@
         "title": "Titan Fitness 6 LB-14 LB Composite Wall Balls, Soft Shell Poly-Composite Laminate Cross Texture Non-Slip Grip, Tight Stitching, Medicine Ball for Core, Full-Body, Functional Workouts, Exercise Ball",
         "price": 310.99,
         "brand": "Titan Fitness",
-        "description": "Built with durable poly-composite laminate and a PP Fiberfill interior, these wall balls deliver a soft feel and a smooth, grippable texture. Tough and ready for action, they\u00e2\u20acre crafted with tight double stitching for long-lasting performance. Offered individually in 6 to 30 LB weights, as well as in sets of 6 to 14 LB, 18 to 30 LB, and 6 to 30 LB to suit your fitness level, each ball measures 13\" in diameter, making it perfect for a variety of exercises. You can throw it against the wall, toss it overhead, or pass it to a buddy. This versatile design targets multiple muscle groups and joints for core training, endurance building, and functional fitness workouts. The large, balanced build is easy-to-grip - whether you\u00e2\u20acre using it solo or with a partner. Plus, the sturdy loops on each side make it even easier to keep a solid grip during those tough sets.Note: These wall balls are not designed for slam ball exercises.FEATURES:- Non-slip poly-composite laminate exterior- PP Fiberfill interior- Tight double stitching- Two grip-loops- Stitched logo and weight- Pack of 5 wall ballsSPECIFICATIONS:- Overall Diameter: 13-in.- Color: Black\u00c2 - Outside Material: Poly-Composite Laminate- Inside Material: PP Fiberfill- Product Weight: 6 lb. - 14 lb.",
+        "description": "Built with durable poly-composite laminate and a PP Fiberfill interior, these wall balls deliver a soft feel and a smooth, grippable texture. Tough and ready for action, theyâ€re crafted with tight double stitching for long-lasting performance. Offered individually in 6 to 30 LB weights, as well as in sets of 6 to 14 LB, 18 to 30 LB, and 6 to 30 LB to suit your fitness level, each ball measures 13\" in diameter, making it perfect for a variety of exercises. You can throw it against the wall, toss it overhead, or pass it to a buddy. This versatile design targets multiple muscle groups and joints for core training, endurance building, and functional fitness workouts. The large, balanced build is easy-to-grip - whether youâ€re using it solo or with a partner. Plus, the sturdy loops on each side make it even easier to keep a solid grip during those tough sets.Note: These wall balls are not designed for slam ball exercises.FEATURES:- Non-slip poly-composite laminate exterior- PP Fiberfill interior- Tight double stitching- Two grip-loops- Stitched logo and weight- Pack of 5 wall ballsSPECIFICATIONS:- Overall Diameter: 13-in.- Color: BlackÂ - Outside Material: Poly-Composite Laminate- Inside Material: PP Fiberfill- Product Weight: 6 lb. - 14 lb.",
         "features": [],
         "attributes": [
             {
@@ -8647,7 +8647,7 @@
                 "name": "Item 50 Pounds 310.99",
                 "weight": "50 Pounds",
                 "price": 310.99,
-                "remaining_products": 99,
+                "remaining_products": 94,
                 "color": "Black",
                 "img": [
                     {
@@ -8766,7 +8766,7 @@
                 "name": "Item 2.4 Kilograms 30.99",
                 "weight": "2.4 Kilograms",
                 "price": 30.99,
-                "remaining_products": 3,
+                "remaining_products": 84,
                 "color": "Black, Blue, Pink",
                 "img": [
                     {
@@ -8813,8 +8813,8 @@
         "description": null,
         "features": [
             "ORGANIZE AND PROTECT YOUR GEAR: Exercise Medicine balls are not cheap, so you want to keep them stored securely when not in use. The Champion Sports tree offers a practical solution to holding your workout balls in a safe and attractive fashion",
-            "5-LEVELS, MULTIPLE WIDTHS: Our ball stands feature 5 racks that increase in width as you go down a level. Spanning between 6\u201d- 8\u201d in width, this workout equipment stand can accommodate medicine balls up to 11\u201d in diameter and of varying weights",
-            "DURABLE BUILD: Each medicine ball tree is made of unyielding steel tubing that can be subject to significant weight-bearing and won\u2019t topple over or break.",
+            "5-LEVELS, MULTIPLE WIDTHS: Our ball stands feature 5 racks that increase in width as you go down a level. Spanning between 6”- 8” in width, this workout equipment stand can accommodate medicine balls up to 11” in diameter and of varying weights",
+            "DURABLE BUILD: Each medicine ball tree is made of unyielding steel tubing that can be subject to significant weight-bearing and won’t topple over or break.",
             "SLEEK, COMPACT DESIGN: With shelves on only one side, the Champion Sports tree can be placed against a wall, out of the way of gym-goers and workout machines. The slim line design also offers a space-saving solution for displaying medicine balls",
             "MORE THAN A MEDICINE BALL TREE: While our display stand was designed for storing a medicine ball set, the pegs allow it to accommodate other workout gear and supplies such as holding other weighted balls or hanging jump ropes and exercise bands"
         ],
@@ -8946,7 +8946,7 @@
                 "name": "Medicine Ball Tree",
                 "weight": 0.0,
                 "price": 106.98,
-                "remaining_products": 80,
+                "remaining_products": 14,
                 "color": "Black",
                 "img": [
                     {
@@ -8967,7 +8967,7 @@
                 "name": "Deluxe Medicine Ball Tree",
                 "weight": 0.0,
                 "price": 309.39,
-                "remaining_products": 95,
+                "remaining_products": 81,
                 "color": "Black",
                 "img": [
                     {
@@ -9000,7 +9000,7 @@
                 "name": "Double Medicine Ball Tree",
                 "weight": 0.0,
                 "price": 113.15,
-                "remaining_products": 50,
+                "remaining_products": 42,
                 "color": "Black",
                 "img": [
                     {
@@ -9111,7 +9111,7 @@
                 "name": "Item 8 ounces 24.99",
                 "weight": "8 ounces",
                 "price": 24.99,
-                "remaining_products": 75,
+                "remaining_products": 68,
                 "color": "Black",
                 "img": [
                     {
@@ -9151,7 +9151,7 @@
         "title": "Titan Fitness Rubber Slam Ball 15 lb. Spike Exercise Equipment Gym Weight",
         "price": 46.99,
         "brand": "Titan Fitness",
-        "description": "Titan Fitness 15-pound Slam Balls are available to enhance your workout routine by simply holding it while performing exercises. Examples of exercises that can be enhanced with slam balls include sit-ups, squats, lunges, and overhead presses. When working with a partner, you can do chest passes, overhead passes, and abdominal work through rotation variations. Slam balls can also be used for athletic training by enhancing cardiovascular endurance, increasing muscle mass, and improving hand-eye coordination. They\u00e2\u20acre also perfect for getting rid of excess energy and pent-up frustration. This 15-pound ball features a textured rubberized exterior shell that prevents blowouts when it\u00e2\u20acs slammed to the ground, an easy-grip texture, and designed perfectly for throwing, slamming, and catching.FEATURES:- Hard Rubber Shell that prevents blowouts when slammed to the ground- Non-Bouncing functional training ball- Textured for easy grip- Workout designed to release energy- Designed for throwing, slamming, and catchingSPECIFICATIONS:- Diameter: 9-in.- Color: Black with White logo and weight- Material: Rubber- Product Weight: 15 lb.",
+        "description": "Titan Fitness 15-pound Slam Balls are available to enhance your workout routine by simply holding it while performing exercises. Examples of exercises that can be enhanced with slam balls include sit-ups, squats, lunges, and overhead presses. When working with a partner, you can do chest passes, overhead passes, and abdominal work through rotation variations. Slam balls can also be used for athletic training by enhancing cardiovascular endurance, increasing muscle mass, and improving hand-eye coordination. Theyâ€re also perfect for getting rid of excess energy and pent-up frustration. This 15-pound ball features a textured rubberized exterior shell that prevents blowouts when itâ€s slammed to the ground, an easy-grip texture, and designed perfectly for throwing, slamming, and catching.FEATURES:- Hard Rubber Shell that prevents blowouts when slammed to the ground- Non-Bouncing functional training ball- Textured for easy grip- Workout designed to release energy- Designed for throwing, slamming, and catchingSPECIFICATIONS:- Diameter: 9-in.- Color: Black with White logo and weight- Material: Rubber- Product Weight: 15 lb.",
         "features": [
             "TEXTURED GRIP: As your hands' sweat throughout a workout, the textured rubberized exterior shell of the med ball ensures a steady grip and helps prevent slips and mishaps. The outer shell also includes the Titan Fitness logo molded into the texture of the surface as well as the weight indication in white."
         ],
@@ -9214,7 +9214,7 @@
                 "name": "Item 15 Pounds 46.99",
                 "weight": "15 Pounds",
                 "price": 46.99,
-                "remaining_products": 45,
+                "remaining_products": 28,
                 "color": "White",
                 "img": [
                     {
@@ -9321,7 +9321,7 @@
                 "name": "Item 8 Pounds 41.99",
                 "weight": "8 Pounds",
                 "price": 41.99,
-                "remaining_products": 8,
+                "remaining_products": 89,
                 "color": "Black",
                 "img": [
                     {
@@ -9370,7 +9370,7 @@
             "COMFORTABLE SITTING: Our ball chair is comfortable to sit on and helps you stay focused while relieving your lower back pain. Whether you work at office, home, dorm or spend time with your family, the ergonomic sitting ball is a healthy alternative to standard desk chair that will help you stay in a good mood.",
             "CLEAN DESIGN: The seating ball adds a beautiful decoration to your place as a nice piece of furniture. It is a fine sitting stool solution for your family, children and guests which will take your hosting to the next level. The modern classic look of the active sitting ball chair is a great fit to many places such as office, living room, bedroom, classroom, study room, gym, and wherever life takes you.",
             "BETTER POSTURE & HEALTH: After long time working, driving or sitting still, your core muscles feel stiff and sore, the balance ball chair promotes active sitting posture to potentially relieve body stress for adults. It is also a comfortable substitute for pregnancy birthing ball, labor ball, medicine ball, therapy ball, and exercise ball base.",
-            "MULTIPURPOSE: Besides being a chair, the exercise ball can also be used for yoga, Pilates, abs engagement, posture workout, back stretching, stability, and physio ball balance training. It\u2019s a combination of swiss fitball and ergonomic office chair which promotes flexible joints for healthy lifestyle. The extra thick handle makes it convenient to carry the ball around.",
+            "MULTIPURPOSE: Besides being a chair, the exercise ball can also be used for yoga, Pilates, abs engagement, posture workout, back stretching, stability, and physio ball balance training. It’s a combination of swiss fitball and ergonomic office chair which promotes flexible joints for healthy lifestyle. The extra thick handle makes it convenient to carry the ball around.",
             "100% SATISFACTION GUARANTEED: Package includes anti-burst yoga ball, quality ball cover, air plug, inflator pump and instruction card. Because we stand behind our products, we will provide you with a 12-month guarantee to keep yoga ball and lifetime customer service."
         ],
         "attributes": [
@@ -9428,7 +9428,7 @@
                 "name": "Dark Blue 24 inch",
                 "weight": 1.360776,
                 "price": 69.99,
-                "remaining_products": 61,
+                "remaining_products": 25,
                 "color": "Blue, Dark Blue",
                 "img": [
                     {
@@ -9469,7 +9469,7 @@
                 "name": "Ocean Blue 24 inch",
                 "weight": 1.360776,
                 "price": 69.99,
-                "remaining_products": 10,
+                "remaining_products": 55,
                 "color": "Blue",
                 "img": [
                     {
@@ -9510,7 +9510,7 @@
                 "name": "Snow 24 inch",
                 "weight": 1.360776,
                 "price": 69.99,
-                "remaining_products": 42,
+                "remaining_products": 6,
                 "color": "Snow",
                 "img": [
                     {
@@ -9551,7 +9551,7 @@
                 "name": "Grey 24 inch",
                 "weight": 1.360776,
                 "price": 69.99,
-                "remaining_products": 69,
+                "remaining_products": 37,
                 "color": "Snow",
                 "img": [
                     {
@@ -9592,15 +9592,15 @@
     },
     {
         "asin": "B01N1XU6MB",
-        "title": "Soft Medicine Ball Weighted Slam Wall Ball for Cardio Workout and Core Training \u2013 Ideal for Squat, Lunge, and Partner Toss",
+        "title": "Soft Medicine Ball Weighted Slam Wall Ball for Cardio Workout and Core Training – Ideal for Squat, Lunge, and Partner Toss",
         "price": 54.99,
         "brand": "BIONIC BODY",
-        "description": "Soft Medicine Ball Weighted Slam Wall Ball for Cardio Workout and Core Training \u2013 Ideal for Squat, Lunge, and Partner Toss",
+        "description": "Soft Medicine Ball Weighted Slam Wall Ball for Cardio Workout and Core Training – Ideal for Squat, Lunge, and Partner Toss",
         "features": [
-            "SIZE VARIETY FOR CUSTOMIZED WORKOUTS \u2013 The Bionic Body training ball comes in 6, 10, 14, and 20 lb. varieties, making it perfect for any training program. Every ball size has a 13-inch diameter.",
-            "HEAVY-DUTY CONSTRUCTION \u2013 Featuring a durable yet soft surface, this versatile gear is engineered to withstand the force created when dropped on hard surfaces. The multi-stitched structure ensures that this toning ball will not easily lose its shape.",
-            "IMPACT-ABSORBENT FILLING \u2013 This slam ball is loaded with premium material filling that effectively absorbs impact. The dense interior enables it to maintain its shape during workouts and provides ample cushioning for any exercises.",
-            "IDEAL FOR VARIOUS TRAINING PROGRAMS \u2013 Customize your training with this versatile gym equipment. Ideal for both first-time users and fitness buffs, this gear can be used for cardio, strength, speed, balance, conditioning, and flexibility training."
+            "SIZE VARIETY FOR CUSTOMIZED WORKOUTS – The Bionic Body training ball comes in 6, 10, 14, and 20 lb. varieties, making it perfect for any training program. Every ball size has a 13-inch diameter.",
+            "HEAVY-DUTY CONSTRUCTION – Featuring a durable yet soft surface, this versatile gear is engineered to withstand the force created when dropped on hard surfaces. The multi-stitched structure ensures that this toning ball will not easily lose its shape.",
+            "IMPACT-ABSORBENT FILLING – This slam ball is loaded with premium material filling that effectively absorbs impact. The dense interior enables it to maintain its shape during workouts and provides ample cushioning for any exercises.",
+            "IDEAL FOR VARIOUS TRAINING PROGRAMS – Customize your training with this versatile gym equipment. Ideal for both first-time users and fitness buffs, this gear can be used for cardio, strength, speed, balance, conditioning, and flexibility training."
         ],
         "attributes": [
             {
@@ -9661,7 +9661,7 @@
             },
             {
                 "key": "Warranty Description",
-                "value": "TWO-YEAR MANUFACTURER\u2019S WARRNTY"
+                "value": "TWO-YEAR MANUFACTURER’S WARRNTY"
             },
             {
                 "key": "Model Name",
@@ -9713,7 +9713,7 @@
                 "name": "10LB",
                 "weight": 4.53592,
                 "price": 60.58,
-                "remaining_products": 64,
+                "remaining_products": 80,
                 "color": "Multi",
                 "img": [
                     {
@@ -9762,7 +9762,7 @@
                 "name": "20LB",
                 "weight": 9.07184,
                 "price": 54.99,
-                "remaining_products": 32,
+                "remaining_products": 99,
                 "color": "Multi",
                 "img": [
                     {
@@ -9811,7 +9811,7 @@
                 "name": "14LB",
                 "weight": 6.350288,
                 "price": 55.99,
-                "remaining_products": 88,
+                "remaining_products": 67,
                 "color": "Multi",
                 "img": [
                     {
@@ -9864,12 +9864,12 @@
     },
     {
         "asin": "B004ATVQNW",
-        "title": "Body-Solid (GMR5B) Short Medicine Ball Stand - Compact Vertical Storage Rack for 3 Exercise Balls with 360\u00b0 Pivoting Rings - Home & Commercial Gym Equipment",
+        "title": "Body-Solid (GMR5B) Short Medicine Ball Stand - Compact Vertical Storage Rack for 3 Exercise Balls with 360° Pivoting Rings - Home & Commercial Gym Equipment",
         "price": 72,
         "brand": "Body-Solid",
-        "description": "A great solution to optimize your workout area and organizing your medicine balls. The Body-Solid Medicine Ball Rack (GMR5) is the ideal addition your gym to clean up your space and get the most out of your workouts. The rack provides vertical storage for up to 4 medicine balls and adjustable to fit your set. The rack holds medicine balls from 2 lbs \u2013 30 lbs and dual grip medicine balls from 6 lbs \u2013 25 lbs. With versatility for any commercial gym, high school, college, military, and powerlifting setting.",
+        "description": "A great solution to optimize your workout area and organizing your medicine balls. The Body-Solid Medicine Ball Rack (GMR5) is the ideal addition your gym to clean up your space and get the most out of your workouts. The rack provides vertical storage for up to 4 medicine balls and adjustable to fit your set. The rack holds medicine balls from 2 lbs – 30 lbs and dual grip medicine balls from 6 lbs – 25 lbs. With versatility for any commercial gym, high school, college, military, and powerlifting setting.",
         "features": [
-            "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
+            "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life……Your Life.",
             "VERSATILE BALL STORAGE: This stand is designed to accommodate a variety of weighted balls, including standard medicine balls, dual-grip, and slam balls, making it a perfect fit for any workout space.",
             "360-DEGREE PIVOTING RING: The innovative design of this Short Medicine Ball Stand features 360-degree pivoting rings, allowing for easy access and versatile placement of up to four medicine or dual-grip balls.",
             "SPACE-SAVING DESIGN: This durable medicine ball stand is designed to conserve valuable floor space in your home gym or commercial fitness center, while keeping your exercise area organized and clutter-free.",
@@ -9982,7 +9982,7 @@
                 "name": "Item 9 Pounds 72",
                 "weight": "9 Pounds",
                 "price": 72,
-                "remaining_products": 69,
+                "remaining_products": 98,
                 "color": "Grey/Black",
                 "img": [
                     {
@@ -10006,7 +10006,7 @@
         "features": [
             "Unique Treas Design: The new upgrated larger tread design enhances traction. The weighted exercise ball has feature a grooved and textured PVC shell. Even sweaty hands can grip on the slam ball tightly. No need to worry about slipping caused by sweat from sweaty hands and intense",
             "Sturdy Sphere: The medicine ball can prevent it from bouncing or rolling. It can well meet your needs for strength training. The good sturdiness provides a guarantee for your training quality",
-            "Prefer for Men & Women: This workout ball can be used for home fitness exercises or high-intensity training, whether you\u2019re a beginner or a pro. This is an essential item for strength training. If you are a lover of sports strength, the weight ball can increase your stability and balance, promote and maintain lean muscle mass",
+            "Prefer for Men & Women: This workout ball can be used for home fitness exercises or high-intensity training, whether you’re a beginner or a pro. This is an essential item for strength training. If you are a lover of sports strength, the weight ball can increase your stability and balance, promote and maintain lean muscle mass",
             "Exercise Variety: You can use these slam balls to replace dumbbells for multi-directional physical training. Training methods are more diverse, including sit-ups, squats, and push-ups, overhead lunges and more",
             "Purpose & Effect: Using the exercise ball can improve your physical fitness and strengthen your endurance. It is better for your coordination. After using it for a period of time, all aspects of the body will be significantly improved"
         ],
@@ -10089,7 +10089,7 @@
                 "name": "Dynamic Pink",
                 "weight": 5.443104,
                 "price": 28.99,
-                "remaining_products": 44,
+                "remaining_products": 60,
                 "color": "Pink",
                 "img": [
                     {
@@ -10134,7 +10134,7 @@
                 "name": "Dynamic Black",
                 "weight": 5.443104,
                 "price": 28.99,
-                "remaining_products": 27,
+                "remaining_products": 69,
                 "color": "Black",
                 "img": [
                     {
@@ -10179,7 +10179,7 @@
                 "name": "Dynamic Purple",
                 "weight": 5.443104,
                 "price": 28.99,
-                "remaining_products": 50,
+                "remaining_products": 78,
                 "color": "Purple",
                 "img": [
                     {
@@ -10327,10 +10327,10 @@
         ],
         "equipment_options": [
             {
-                "name": "\u200eTurkis",
+                "name": "‎Turkis",
                 "weight": 0.19958048,
                 "price": 9.99,
-                "remaining_products": 0,
+                "remaining_products": 84,
                 "color": "Turkis",
                 "img": [
                     {
@@ -10343,7 +10343,7 @@
                 "name": "Purple",
                 "weight": 0.19958048,
                 "price": 9.99,
-                "remaining_products": 58,
+                "remaining_products": 5,
                 "color": "Purple",
                 "img": [
                     {
@@ -10356,7 +10356,7 @@
                 "name": "Rose Pink",
                 "weight": 0.19958048,
                 "price": 9.99,
-                "remaining_products": 70,
+                "remaining_products": 8,
                 "color": "Pink, Rose",
                 "img": [
                     {
@@ -10369,7 +10369,7 @@
                 "name": "Black",
                 "weight": 0.19958048,
                 "price": 9.99,
-                "remaining_products": 18,
+                "remaining_products": 25,
                 "color": "Black",
                 "img": [
                     {
@@ -10382,7 +10382,7 @@
                 "name": "Indigo",
                 "weight": 0.19958048,
                 "price": 9.99,
-                "remaining_products": 66,
+                "remaining_products": 42,
                 "color": "Indigo",
                 "img": [
                     {
@@ -10489,7 +10489,7 @@
                 "name": "Blue",
                 "weight": 6.4863656,
                 "price": 76.49,
-                "remaining_products": 5,
+                "remaining_products": 10,
                 "color": "Blue",
                 "img": [
                     {
@@ -10538,7 +10538,7 @@
                 "name": "Gray",
                 "weight": 6.4863656,
                 "price": 76.49,
-                "remaining_products": 42,
+                "remaining_products": 66,
                 "color": "Gray",
                 "img": [
                     {
@@ -10677,7 +10677,7 @@
                 "name": "Item 4.4 Pounds 32.01",
                 "weight": "4.4 Pounds",
                 "price": 32.01,
-                "remaining_products": 23,
+                "remaining_products": 81,
                 "color": "Red",
                 "img": [
                     {
@@ -10694,15 +10694,15 @@
     },
     {
         "asin": "B01MT4L5ST",
-        "title": "Soft Medicine Ball Weighted Slam Wall Ball for Cardio Workout and Core Training \u2013 Ideal for Squat, Lunge, and Partner Toss",
+        "title": "Soft Medicine Ball Weighted Slam Wall Ball for Cardio Workout and Core Training – Ideal for Squat, Lunge, and Partner Toss",
         "price": 60.58,
         "brand": "BIONIC BODY",
-        "description": "Soft Medicine Ball Weighted Slam Wall Ball for Cardio Workout and Core Training \u2013 Ideal for Squat, Lunge, and Partner Toss",
+        "description": "Soft Medicine Ball Weighted Slam Wall Ball for Cardio Workout and Core Training – Ideal for Squat, Lunge, and Partner Toss",
         "features": [
-            "SIZE VARIETY FOR CUSTOMIZED WORKOUTS \u2013 The Bionic Body training ball comes in 6, 10, 14, and 20 lb. varieties, making it perfect for any training program. Every ball size has a 13-inch diameter.",
-            "HEAVY-DUTY CONSTRUCTION \u2013 Featuring a durable yet soft surface, this versatile gear is engineered to withstand the force created when dropped on hard surfaces. The multi-stitched structure ensures that this toning ball will not easily lose its shape.",
-            "IMPACT-ABSORBENT FILLING \u2013 This slam ball is loaded with premium material filling that effectively absorbs impact. The dense interior enables it to maintain its shape during workouts and provides ample cushioning for any exercises.",
-            "IDEAL FOR VARIOUS TRAINING PROGRAMS \u2013 Customize your training with this versatile gym equipment. Ideal for both first-time users and fitness buffs, this gear can be used for cardio, strength, speed, balance, conditioning, and flexibility training."
+            "SIZE VARIETY FOR CUSTOMIZED WORKOUTS – The Bionic Body training ball comes in 6, 10, 14, and 20 lb. varieties, making it perfect for any training program. Every ball size has a 13-inch diameter.",
+            "HEAVY-DUTY CONSTRUCTION – Featuring a durable yet soft surface, this versatile gear is engineered to withstand the force created when dropped on hard surfaces. The multi-stitched structure ensures that this toning ball will not easily lose its shape.",
+            "IMPACT-ABSORBENT FILLING – This slam ball is loaded with premium material filling that effectively absorbs impact. The dense interior enables it to maintain its shape during workouts and provides ample cushioning for any exercises.",
+            "IDEAL FOR VARIOUS TRAINING PROGRAMS – Customize your training with this versatile gym equipment. Ideal for both first-time users and fitness buffs, this gear can be used for cardio, strength, speed, balance, conditioning, and flexibility training."
         ],
         "attributes": [
             {
@@ -10763,7 +10763,7 @@
             },
             {
                 "key": "Warranty Description",
-                "value": "TWO-YEAR MANUFACTURER\u2019S WARRNTY"
+                "value": "TWO-YEAR MANUFACTURER’S WARRNTY"
             },
             {
                 "key": "Model Name",
@@ -10815,7 +10815,7 @@
                 "name": "10LB",
                 "weight": 4.53592,
                 "price": 60.58,
-                "remaining_products": 55,
+                "remaining_products": 12,
                 "color": "Multi",
                 "img": [
                     {
@@ -10863,8 +10863,8 @@
             {
                 "name": "20LB",
                 "weight": 9.07184,
-                "price": 60.58,
-                "remaining_products": 37,
+                "price": 54.99,
+                "remaining_products": 12,
                 "color": "Multi",
                 "img": [
                     {
@@ -10913,7 +10913,7 @@
                 "name": "14LB",
                 "weight": 6.350288,
                 "price": 60.58,
-                "remaining_products": 30,
+                "remaining_products": 75,
                 "color": "Multi",
                 "img": [
                     {
@@ -11084,7 +11084,7 @@
                 "name": "9 lb Ball",
                 "weight": 4.082328,
                 "price": 34.98,
-                "remaining_products": 65,
+                "remaining_products": 48,
                 "color": "3 lb Ball",
                 "img": [
                     {
@@ -11125,7 +11125,7 @@
                 "name": "20 lb Ball",
                 "weight": 9.07184,
                 "price": 34.98,
-                "remaining_products": 98,
+                "remaining_products": 86,
                 "color": "3 lb Ball",
                 "img": [
                     {
@@ -11158,7 +11158,7 @@
                 "name": "25 lb Ball",
                 "weight": 11.3398,
                 "price": 34.98,
-                "remaining_products": 90,
+                "remaining_products": 65,
                 "color": "3 lb Ball",
                 "img": [
                     {
@@ -11191,7 +11191,7 @@
                 "name": "3 lb Ball",
                 "weight": 1.360776,
                 "price": 34.98,
-                "remaining_products": 59,
+                "remaining_products": 12,
                 "color": "3 lb Ball",
                 "img": [
                     {
@@ -11240,7 +11240,7 @@
                 "name": "6 lb Ball",
                 "weight": 2.721552,
                 "price": 34.98,
-                "remaining_products": 55,
+                "remaining_products": 53,
                 "color": "3 lb Ball",
                 "img": [
                     {
@@ -11277,7 +11277,7 @@
                 "name": "12 lb Ball",
                 "weight": 5.443104,
                 "price": 34.98,
-                "remaining_products": 22,
+                "remaining_products": 72,
                 "color": "3 lb Ball",
                 "img": [
                     {
@@ -11322,7 +11322,7 @@
                 "name": "15 lb Ball",
                 "weight": 6.8038799999999995,
                 "price": 34.98,
-                "remaining_products": 9,
+                "remaining_products": 89,
                 "color": "3 lb Ball",
                 "img": [
                     {
@@ -11355,16 +11355,16 @@
     },
     {
         "asin": "B07XMNJ3QK",
-        "title": "Weighted Slam Ball by Day 1 Fitness \u2013 15 lbs RED - No Bounce Medicine Ball - Gym Equipment Accessories for High Intensity Exercise, Functional Strength Training, Cardio",
+        "title": "Weighted Slam Ball by Day 1 Fitness – 15 lbs RED - No Bounce Medicine Ball - Gym Equipment Accessories for High Intensity Exercise, Functional Strength Training, Cardio",
         "price": 21.3,
         "brand": "Day 1 Fitness",
         "description": "Slam Ball New Color Red 15lbs",
         "features": [
             "BUILT TO ENDURE THE TOUGHEST SLAMS: With a thick outer shell that absorbs multiple impacts, slamming or throwing this handheld ball against walls or the ground forces you to utilize more energy and force, resulting in more calorie burning and endurance",
             "EXPAND AND INTENSIFY YOUR WORKOUT PROGRAM: Using these weighted workout balls in place of dumbbells or kettlebells can improve your training significantly and burn more calories by adding extra weight to your sit ups, push ups, squats, and plyo jumps",
-            "PERFECT FOR ANY STAGE OF FITNESS: Whether you\u2019re a beginner on the fitness journey or a seasoned athlete, the weight varieties of these slam balls allow you to slowly and incrementally challenge yourself and provides an assortment of sizes for variety",
+            "PERFECT FOR ANY STAGE OF FITNESS: Whether you’re a beginner on the fitness journey or a seasoned athlete, the weight varieties of these slam balls allow you to slowly and incrementally challenge yourself and provides an assortment of sizes for variety",
             "LOOK LEANER AND STRONGER: Improve your overall body muscle mass, cardiovascular endurance, and hand-eye coordination. Run longer, jump farther, lift more and perform better. Achieve your best shape, whether training alone or with a partner",
-            "STURDY CONSTRUCTION: Comprised of a strong outer shell and a sand-filled core, the dead weight provides challenging resistance, but won\u2019t damage or hurt walls, floors, or your personal trainer\u2019s hands. Our premium slam balls will last you ages"
+            "STURDY CONSTRUCTION: Comprised of a strong outer shell and a sand-filled core, the dead weight provides challenging resistance, but won’t damage or hurt walls, floors, or your personal trainer’s hands. Our premium slam balls will last you ages"
         ],
         "attributes": [
             {
@@ -11469,7 +11469,7 @@
                 "name": "Item 7.19 Kilograms 21.3",
                 "weight": "7.19 Kilograms",
                 "price": 21.3,
-                "remaining_products": 11,
+                "remaining_products": 27,
                 "color": "Red",
                 "img": [
                     {
@@ -11604,7 +11604,7 @@
                 "name": "Yellow - 4LB",
                 "weight": 1.814368,
                 "price": 45.98,
-                "remaining_products": 95,
+                "remaining_products": 55,
                 "color": "Yellow",
                 "img": [
                     {
@@ -11645,7 +11645,7 @@
                 "name": "Red - 12LB",
                 "weight": 5.443104,
                 "price": 45.98,
-                "remaining_products": 44,
+                "remaining_products": 92,
                 "color": "Red",
                 "img": [
                     {
@@ -11686,7 +11686,7 @@
                 "name": "Orange - 6LB",
                 "weight": 2.721552,
                 "price": 45.98,
-                "remaining_products": 23,
+                "remaining_products": 88,
                 "color": "Orange",
                 "img": [
                     {

@@ -62,10 +62,6 @@
                 "value": "100 Lbs Set with Rack"
             },
             {
-                "key": "ASIN",
-                "value": "B0D2Z4XYF5"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 29, 2024"
             }
@@ -75,7 +71,7 @@
                 "name": "Item 51.8 Pounds 131.16",
                 "weight": "51.8 Pounds",
                 "price": 131.16,
-                "remaining_products": 55,
+                "remaining_products": 39,
                 "color": "Black",
                 "img": [
                     {
@@ -255,10 +251,6 @@
                 "value": "Knurled"
             },
             {
-                "key": "ASIN",
-                "value": "B0B1LM7CKB"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 18, 2022"
             }
@@ -268,7 +260,7 @@
                 "name": "Chrome w/Rubber Grips",
                 "weight": 4.4452016,
                 "price": 30.6,
-                "remaining_products": 33,
+                "remaining_products": 94,
                 "color": "Chrome",
                 "img": [
                     {
@@ -293,7 +285,7 @@
                 "name": "Black No Collars",
                 "weight": 4.4452016,
                 "price": 30.6,
-                "remaining_products": 23,
+                "remaining_products": 8,
                 "color": "Black",
                 "img": [
                     {
@@ -326,7 +318,7 @@
                 "name": "Chrome No Collars",
                 "weight": 4.4452016,
                 "price": 30.6,
-                "remaining_products": 14,
+                "remaining_products": 96,
                 "color": "Chrome",
                 "img": [
                     {
@@ -371,7 +363,7 @@
                 "name": "Black",
                 "weight": 4.4452016,
                 "price": 30.6,
-                "remaining_products": 1,
+                "remaining_products": 91,
                 "color": "Black",
                 "img": [
                     {
@@ -404,7 +396,7 @@
                 "name": "Chrome",
                 "weight": 4.4452016,
                 "price": 30.6,
-                "remaining_products": 60,
+                "remaining_products": 27,
                 "color": "Chrome",
                 "img": [
                     {
@@ -560,10 +552,6 @@
                 "value": "Weightlifting"
             },
             {
-                "key": "ASIN",
-                "value": "B08GL1ZFTK"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 24, 2020"
             }
@@ -573,7 +561,7 @@
                 "name": "2-inch, 6FT",
                 "weight": 9.07184,
                 "price": 148.96,
-                "remaining_products": 49,
+                "remaining_products": 95,
                 "color": "Chrome",
                 "img": [
                     {
@@ -602,7 +590,7 @@
                 "name": "2-inch, 7FT",
                 "weight": 9.07184,
                 "price": 188.41,
-                "remaining_products": 54,
+                "remaining_products": 92,
                 "color": "Chrome",
                 "img": [
                     {
@@ -631,7 +619,7 @@
                 "name": "1-inch, 6FT",
                 "weight": 9.07184,
                 "price": 84.63,
-                "remaining_products": 82,
+                "remaining_products": 70,
                 "color": "Chrome",
                 "img": [
                     {
@@ -656,7 +644,7 @@
                 "name": "2-inch, 5FT",
                 "weight": 9.07184,
                 "price": 37.42,
-                "remaining_products": 69,
+                "remaining_products": 57,
                 "color": "Chrome",
                 "img": [
                     {
@@ -685,7 +673,7 @@
                 "name": "1-inch, 5FT",
                 "weight": 9.07184,
                 "price": 48.5,
-                "remaining_products": 36,
+                "remaining_products": 81,
                 "color": "Chrome",
                 "img": [
                     {
@@ -861,10 +849,6 @@
                 "value": "Weightlifting, Exercise and Fitness, Powerlifting, Bodybuilding"
             },
             {
-                "key": "ASIN",
-                "value": "B00R93GJ74"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 19, 2014"
             }
@@ -874,7 +858,7 @@
                 "name": "Item 15 Pounds 129.99",
                 "weight": "15 Pounds",
                 "price": 129.99,
-                "remaining_products": 66,
+                "remaining_products": 35,
                 "color": "Chrome",
                 "img": [
                     {
@@ -1046,10 +1030,6 @@
                 "value": "Powerlifting"
             },
             {
-                "key": "ASIN",
-                "value": "B0BFYKYKCQ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 20, 2022"
             }
@@ -1059,7 +1039,7 @@
                 "name": "Item 44 Pounds 59.88",
                 "weight": "44 Pounds",
                 "price": 59.88,
-                "remaining_products": 42,
+                "remaining_products": 74,
                 "color": "Chrome - 28mm Grip",
                 "img": [
                     {
@@ -1199,10 +1179,6 @@
                 "value": "100 Lbs Set with Rack"
             },
             {
-                "key": "ASIN",
-                "value": "B0D2Z5B5P7"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 29, 2024"
             }
@@ -1212,7 +1188,7 @@
                 "name": "Item 51.8 Pounds 141.78",
                 "weight": "51.8 Pounds",
                 "price": 141.78,
-                "remaining_products": 93,
+                "remaining_products": 0,
                 "color": "Black",
                 "img": [
                     {
@@ -1412,10 +1388,6 @@
                 "value": "Ambidextrous"
             },
             {
-                "key": "ASIN",
-                "value": "B07MFR1VC3"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 8, 2019"
             }
@@ -1425,7 +1397,7 @@
                 "name": "Item 61 Pounds 139.99",
                 "weight": "61 Pounds",
                 "price": 139.99,
-                "remaining_products": 35,
+                "remaining_products": 53,
                 "color": "Black",
                 "img": [
                     {
@@ -1569,10 +1541,6 @@
                 "value": "Built-in Pull Up Bar, J Hooks, Barbell Rack"
             },
             {
-                "key": "ASIN",
-                "value": "B0DQKRHSVJ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 15, 2024"
             }
@@ -1582,7 +1550,7 @@
                 "name": "Red",
                 "weight": 27.215519999999998,
                 "price": 192.99,
-                "remaining_products": 75,
+                "remaining_products": 68,
                 "color": "Red",
                 "img": [
                     {
@@ -1631,7 +1599,7 @@
                 "name": "Yellow",
                 "weight": 27.215519999999998,
                 "price": 192.99,
-                "remaining_products": 68,
+                "remaining_products": 90,
                 "color": "Yellow",
                 "img": [
                     {
@@ -1680,7 +1648,7 @@
                 "name": "White",
                 "weight": 27.215519999999998,
                 "price": 192.99,
-                "remaining_products": 42,
+                "remaining_products": 84,
                 "color": "White",
                 "img": [
                     {
@@ -1824,10 +1792,6 @@
                 "value": "Landmine Attachment for Barbell*1"
             },
             {
-                "key": "ASIN",
-                "value": "B0DJYFC37J"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 12, 2024"
             }
@@ -1837,7 +1801,7 @@
                 "name": "Item 0.9 Pounds 19.99",
                 "weight": "0.9 Pounds",
                 "price": 19.99,
-                "remaining_products": 42,
+                "remaining_products": 97,
                 "color": "Deep Black",
                 "img": [
                     {
@@ -2010,10 +1974,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0013SZC8S"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 26, 2008"
             }
@@ -2023,7 +1983,7 @@
                 "name": "Item 4.64 ounces 49.99",
                 "weight": "4.64 ounces",
                 "price": 49.99,
-                "remaining_products": 78,
+                "remaining_products": 62,
                 "color": "Black",
                 "img": [
                     {
@@ -2171,10 +2131,6 @@
                 "value": "2-inch diameter"
             },
             {
-                "key": "ASIN",
-                "value": "B0D4XSG8PD"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 22, 2024"
             }
@@ -2184,7 +2140,7 @@
                 "name": "Pink",
                 "weight": 0.0,
                 "price": 12.99,
-                "remaining_products": 84,
+                "remaining_products": 4,
                 "color": "Pink",
                 "img": [
                     {
@@ -2225,7 +2181,7 @@
                 "name": "Blue",
                 "weight": 0.0,
                 "price": 12.99,
-                "remaining_products": 8,
+                "remaining_products": 78,
                 "color": "Blue",
                 "img": [
                     {
@@ -2266,7 +2222,7 @@
                 "name": "Black",
                 "weight": 0.0,
                 "price": 12.99,
-                "remaining_products": 2,
+                "remaining_products": 54,
                 "color": "Black",
                 "img": [
                     {
@@ -2307,7 +2263,7 @@
                 "name": "Red",
                 "weight": 0.0,
                 "price": 12.99,
-                "remaining_products": 60,
+                "remaining_products": 39,
                 "color": "Red",
                 "img": [
                     {
@@ -2487,10 +2443,6 @@
                 "value": "Knurled"
             },
             {
-                "key": "ASIN",
-                "value": "B07JB92L9K"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 12, 2018"
             }
@@ -2500,7 +2452,7 @@
                 "name": "B. Multigrip Barbell & Cable Attachment 600lbs",
                 "weight": 272.1552,
                 "price": 138.78,
-                "remaining_products": 94,
+                "remaining_products": 4,
                 "color": "A. Multigrip Barbell 400lbs",
                 "img": [
                     {
@@ -2537,7 +2489,7 @@
                 "name": "A. Multigrip Barbell 400lbs",
                 "weight": 181.4368,
                 "price": 92.99,
-                "remaining_products": 70,
+                "remaining_products": 11,
                 "color": "A. Multigrip Barbell 400lbs",
                 "img": [
                     {
@@ -2578,7 +2530,7 @@
                 "name": "C. Squat Bar",
                 "weight": 10.91,
                 "price": 259.99,
-                "remaining_products": 38,
+                "remaining_products": 83,
                 "color": "A. Multigrip Barbell 400lbs",
                 "img": [
                     {
@@ -2722,10 +2674,6 @@
                 "value": "Workout"
             },
             {
-                "key": "ASIN",
-                "value": "B0BZS3W8YL"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 28, 2023"
             }
@@ -2735,7 +2683,7 @@
                 "name": "Black",
                 "weight": 1.14,
                 "price": 28.99,
-                "remaining_products": 58,
+                "remaining_products": 56,
                 "color": "Black",
                 "img": [
                     {
@@ -2780,7 +2728,7 @@
                 "name": "Graphite Black",
                 "weight": 1.14,
                 "price": 28.99,
-                "remaining_products": 54,
+                "remaining_products": 1,
                 "color": "Black",
                 "img": [
                     {
@@ -2821,7 +2769,7 @@
                 "name": "Fresh Pink",
                 "weight": 1.14,
                 "price": 28.99,
-                "remaining_products": 20,
+                "remaining_products": 2,
                 "color": "Pink",
                 "img": [
                     {
@@ -2858,7 +2806,7 @@
                 "name": "Pink",
                 "weight": 1.14,
                 "price": 28.99,
-                "remaining_products": 25,
+                "remaining_products": 22,
                 "color": "Pink",
                 "img": [
                     {
@@ -3034,10 +2982,6 @@
                 "value": "Powerlifting, Bodybuilding"
             },
             {
-                "key": "ASIN",
-                "value": "B07YXMP152"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 11, 2019"
             }
@@ -3047,7 +2991,7 @@
                 "name": "Item 11 Pounds 29.99",
                 "weight": "11 Pounds",
                 "price": 29.99,
-                "remaining_products": 93,
+                "remaining_products": 0,
                 "color": "A. (Black) Viking Press Handle",
                 "img": [
                     {
@@ -3226,10 +3170,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B07N1JX1F6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 4, 2019"
             }
@@ -3239,7 +3179,7 @@
                 "name": "Item 12 Pounds 34.99",
                 "weight": "12 Pounds",
                 "price": 34.99,
-                "remaining_products": 72,
+                "remaining_products": 65,
                 "color": "Black",
                 "img": [
                     {
@@ -3395,10 +3335,6 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0C4LCDN1K"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 8, 2023"
             }
@@ -3408,7 +3344,7 @@
                 "name": "Item 1.3 Pounds 22.99",
                 "weight": "1.3 Pounds",
                 "price": 22.99,
-                "remaining_products": 31,
+                "remaining_products": 30,
                 "color": "A. Barbell Bomb",
                 "img": [
                     {
@@ -3598,10 +3534,6 @@
                 "value": "Weightlifting"
             },
             {
-                "key": "ASIN",
-                "value": "B07W312KD5"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 1, 2019"
             }
@@ -3611,7 +3543,7 @@
                 "name": "Black, 60 LB Pair",
                 "weight": 27.215519999999998,
                 "price": 76.82,
-                "remaining_products": 81,
+                "remaining_products": 94,
                 "color": "Black",
                 "img": [
                     {
@@ -3656,7 +3588,7 @@
                 "name": "Black, 52.5 LB, Single",
                 "weight": 23.813579999999998,
                 "price": 76.82,
-                "remaining_products": 22,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -3705,7 +3637,7 @@
                 "name": "Black, 25 LB, Single",
                 "weight": 11.3398,
                 "price": 76.82,
-                "remaining_products": 37,
+                "remaining_products": 56,
                 "color": "Black",
                 "img": [
                     {
@@ -3730,7 +3662,7 @@
                 "name": "Black,40 LB, Pair",
                 "weight": 18.14368,
                 "price": 76.82,
-                "remaining_products": 26,
+                "remaining_products": 95,
                 "color": "Black",
                 "img": [
                     {
@@ -3763,7 +3695,7 @@
                 "name": "Black, 105 LB, Pair",
                 "weight": 47.627159999999996,
                 "price": 76.82,
-                "remaining_products": 24,
+                "remaining_products": 7,
                 "color": "Black",
                 "img": [
                     {
@@ -3804,7 +3736,7 @@
                 "name": "Black, 50 LB, Pair",
                 "weight": 22.6796,
                 "price": 76.82,
-                "remaining_products": 26,
+                "remaining_products": 32,
                 "color": "Black",
                 "img": [
                     {
@@ -3845,7 +3777,7 @@
                 "name": "Black, 200 LB, Pair",
                 "weight": 90.7184,
                 "price": 76.82,
-                "remaining_products": 59,
+                "remaining_products": 76,
                 "color": "Black",
                 "img": [
                     {
@@ -3890,7 +3822,7 @@
                 "name": "Black, 40 LB w/Case, Pair",
                 "weight": 18.14368,
                 "price": 76.82,
-                "remaining_products": 74,
+                "remaining_products": 34,
                 "color": "Black",
                 "img": [
                     {

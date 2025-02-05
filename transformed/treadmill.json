@@ -134,10 +134,6 @@
                 "value": "Standard"
             },
             {
-                "key": "ASIN",
-                "value": "B0CWGZHKF4"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 26, 2024"
             }
@@ -147,7 +143,7 @@
                 "name": "Incline",
                 "weight": 17.0097,
                 "price": 152.99,
-                "remaining_products": 29,
+                "remaining_products": 94,
                 "color": "Black",
                 "img": [
                     {
@@ -184,7 +180,7 @@
                 "name": "Standard",
                 "weight": 17.0097,
                 "price": 129.99,
-                "remaining_products": 66,
+                "remaining_products": 95,
                 "color": "Tan",
                 "img": [
                     {
@@ -379,10 +375,6 @@
                 "value": "2-in-1 Treadmill with Handlebars"
             },
             {
-                "key": "ASIN",
-                "value": "B0CGVRSY78"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 29, 2023"
             }
@@ -392,7 +384,7 @@
                 "name": "Flat Desk Treadmill",
                 "weight": 23.133192,
                 "price": 269,
-                "remaining_products": 27,
+                "remaining_products": 48,
                 "color": "Black and Blue",
                 "img": [
                     {
@@ -429,7 +421,7 @@
                 "name": "2-in-1 Treadmill with Handlebars",
                 "weight": 23.133192,
                 "price": 269,
-                "remaining_products": 20,
+                "remaining_products": 51,
                 "color": "Black and Blue",
                 "img": [
                     {
@@ -613,10 +605,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B08GMCK3RR"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 25, 2020"
             }
@@ -626,7 +614,7 @@
                 "name": "Black Medium Large",
                 "weight": 37.0,
                 "price": 329.99,
-                "remaining_products": 28,
+                "remaining_products": 90,
                 "color": "Black",
                 "img": [
                     {
@@ -675,7 +663,7 @@
                 "name": "Black Large",
                 "weight": 37.0,
                 "price": 529.99,
-                "remaining_products": 49,
+                "remaining_products": 85,
                 "color": "Black",
                 "img": [
                     {
@@ -724,7 +712,7 @@
                 "name": "Black Medium",
                 "weight": 37.0,
                 "price": 329.99,
-                "remaining_products": 33,
+                "remaining_products": 76,
                 "color": "Black",
                 "img": [
                     {
@@ -773,7 +761,7 @@
                 "name": "Black",
                 "weight": 37.0,
                 "price": 419.99,
-                "remaining_products": 72,
+                "remaining_products": 62,
                 "color": "Black",
                 "img": [
                     {
@@ -985,10 +973,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0C3QY37Y8"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 9, 2023"
             }
@@ -998,7 +982,7 @@
                 "name": "Item 16.7 Kilograms 119.99",
                 "weight": "16.7 Kilograms",
                 "price": 119.99,
-                "remaining_products": 53,
+                "remaining_products": 31,
                 "color": "Sliver",
                 "img": [
                     {
@@ -1172,10 +1156,6 @@
                 "value": "Without Handle"
             },
             {
-                "key": "ASIN",
-                "value": "B0CPJKBMP5"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 13, 2024"
             }
@@ -1185,7 +1165,7 @@
                 "name": "With Handle",
                 "weight": 18.597272,
                 "price": 189.99,
-                "remaining_products": 44,
+                "remaining_products": 29,
                 "color": "Grey",
                 "img": [
                     {
@@ -1234,7 +1214,7 @@
                 "name": "Without Handle",
                 "weight": 18.597272,
                 "price": 189.99,
-                "remaining_products": 0,
+                "remaining_products": 43,
                 "color": "Grey",
                 "img": [
                     {
@@ -1424,10 +1404,6 @@
                 "value": "1"
             },
             {
-                "key": "ASIN",
-                "value": "B0CFR8GWYR"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 10, 2024"
             }
@@ -1437,7 +1413,7 @@
                 "name": "Item 250 Pounds 2995",
                 "weight": "250 Pounds",
                 "price": 2995,
-                "remaining_products": 38,
+                "remaining_products": 81,
                 "color": "Black",
                 "img": [
                     {
@@ -1623,10 +1599,6 @@
                 "value": "unisex-adult"
             },
             {
-                "key": "ASIN",
-                "value": "B0CQ28DLFX"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 12, 2023"
             }
@@ -1636,7 +1608,7 @@
                 "name": "Black",
                 "weight": 17.236496,
                 "price": 139.99,
-                "remaining_products": 90,
+                "remaining_products": 85,
                 "color": "Black",
                 "img": [
                     {
@@ -1681,7 +1653,7 @@
                 "name": "Cream Black",
                 "weight": 17.236496,
                 "price": 139.99,
-                "remaining_products": 101,
+                "remaining_products": 77,
                 "color": "Black, Cream",
                 "img": [
                     {
@@ -1907,10 +1879,6 @@
                 "value": "M4638"
             },
             {
-                "key": "ASIN",
-                "value": "B0D9VPS7CP"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 31, 2024"
             }
@@ -1920,7 +1888,7 @@
                 "name": "Item 75 Pounds 329.99",
                 "weight": "75 Pounds",
                 "price": 329.99,
-                "remaining_products": 36,
+                "remaining_products": 93,
                 "color": "Black",
                 "img": [
                     {
@@ -2080,10 +2048,6 @@
                 "value": "Yellow Handle"
             },
             {
-                "key": "ASIN",
-                "value": "B0DDSZSY24"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 21, 2024"
             }
@@ -2093,7 +2057,7 @@
                 "name": "Yellow Handle",
                 "weight": 22.52,
                 "price": 154.99,
-                "remaining_products": 70,
+                "remaining_products": 64,
                 "color": "Yellow",
                 "img": [
                     {
@@ -2134,7 +2098,7 @@
                 "name": "Hot Pink Handle",
                 "weight": 22.52,
                 "price": 154.99,
-                "remaining_products": 0,
+                "remaining_products": 101,
                 "color": "Pink",
                 "img": [
                     {
@@ -2175,7 +2139,7 @@
                 "name": "White",
                 "weight": 22.52,
                 "price": 154.99,
-                "remaining_products": 67,
+                "remaining_products": 57,
                 "color": "White",
                 "img": [
                     {
@@ -2216,7 +2180,7 @@
                 "name": "Yellow",
                 "weight": 22.52,
                 "price": 154.99,
-                "remaining_products": 26,
+                "remaining_products": 1,
                 "color": "Yellow",
                 "img": [
                     {
@@ -2257,7 +2221,7 @@
                 "name": "Hot Pink",
                 "weight": 22.52,
                 "price": 154.99,
-                "remaining_products": 79,
+                "remaining_products": 28,
                 "color": "Pink",
                 "img": [
                     {
@@ -2450,10 +2414,6 @@
                 "value": "S"
             },
             {
-                "key": "ASIN",
-                "value": "B0CJJ92JW7"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 25, 2023"
             }
@@ -2463,7 +2423,7 @@
                 "name": "S C1 Silver",
                 "weight": 24.95,
                 "price": 179.99,
-                "remaining_products": 2,
+                "remaining_products": 19,
                 "color": "Silver",
                 "img": [
                     {
@@ -2504,7 +2464,7 @@
                 "name": "S C1 Black",
                 "weight": 24.95,
                 "price": 179.99,
-                "remaining_products": 18,
+                "remaining_products": 35,
                 "color": "Black",
                 "img": [
                     {
@@ -2680,10 +2640,6 @@
                 "value": "1 Year Manufacturer"
             },
             {
-                "key": "ASIN",
-                "value": "B0DKS7LYTC"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 24, 2024"
             }
@@ -2693,7 +2649,7 @@
                 "name": "sliver",
                 "weight": 22.0445712,
                 "price": 169.99,
-                "remaining_products": 101,
+                "remaining_products": 95,
                 "color": "sliver",
                 "img": [
                     {
@@ -2738,7 +2694,7 @@
                 "name": "red",
                 "weight": 22.0445712,
                 "price": 169.99,
-                "remaining_products": 14,
+                "remaining_products": 19,
                 "color": "Red",
                 "img": [
                     {
@@ -2783,7 +2739,7 @@
                 "name": "white",
                 "weight": 22.0445712,
                 "price": 169.99,
-                "remaining_products": 95,
+                "remaining_products": 19,
                 "color": "White",
                 "img": [
                     {
@@ -2828,7 +2784,7 @@
                 "name": "black",
                 "weight": 22.0445712,
                 "price": 169.99,
-                "remaining_products": 78,
+                "remaining_products": 90,
                 "color": "Black",
                 "img": [
                     {
@@ -3012,10 +2968,6 @@
                 "value": "47\" x 22\" x 37\""
             },
             {
-                "key": "ASIN",
-                "value": "B0DSPFJHKV"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 10, 2025"
             }
@@ -3025,7 +2977,7 @@
                 "name": "Item 52 Pounds 369.99",
                 "weight": "52 Pounds",
                 "price": 369.99,
-                "remaining_products": 20,
+                "remaining_products": 68,
                 "color": "White",
                 "img": [
                     {
@@ -3231,10 +3183,6 @@
                 "value": "Extra Large"
             },
             {
-                "key": "ASIN",
-                "value": "B0CNSNLKP6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 29, 2024"
             }
@@ -3244,7 +3192,7 @@
                 "name": "Hand Bar Black",
                 "weight": 22.226008,
                 "price": 299.74,
-                "remaining_products": 75,
+                "remaining_products": 52,
                 "color": "Black",
                 "img": [
                     {
@@ -3289,7 +3237,7 @@
                 "name": "No Handle Bar White",
                 "weight": 22.226008,
                 "price": 299.74,
-                "remaining_products": 29,
+                "remaining_products": 70,
                 "color": "White",
                 "img": [
                     {
@@ -3334,7 +3282,7 @@
                 "name": "Hand Bar White",
                 "weight": 22.226008,
                 "price": 299.74,
-                "remaining_products": 13,
+                "remaining_products": 44,
                 "color": "White",
                 "img": [
                     {
@@ -3547,10 +3495,6 @@
                 "value": "Premium Smart"
             },
             {
-                "key": "ASIN",
-                "value": "B09R95JWZ9"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 27, 2022"
             }
@@ -3560,7 +3504,7 @@
                 "name": "Premium Smart",
                 "weight": 50.802304,
                 "price": 454.3,
-                "remaining_products": 26,
+                "remaining_products": 49,
                 "color": "Black",
                 "img": [
                     {
@@ -3609,7 +3553,7 @@
                 "name": "Smart",
                 "weight": 50.802304,
                 "price": 454.3,
-                "remaining_products": 45,
+                "remaining_products": 82,
                 "color": "Black",
                 "img": [
                     {
@@ -3645,8 +3589,8 @@
             {
                 "name": "Classic",
                 "weight": 50.802304,
-                "price": 454.3,
-                "remaining_products": 41,
+                "price": 347.55,
+                "remaining_products": 23,
                 "color": "Black",
                 "img": [
                     {
@@ -3826,10 +3770,6 @@
                 "value": "unisex-adult"
             },
             {
-                "key": "ASIN",
-                "value": "B0C2XV7BLB"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 11, 2023"
             }
@@ -3839,7 +3779,7 @@
                 "name": "Black Red",
                 "weight": 22.0,
                 "price": 149,
-                "remaining_products": 38,
+                "remaining_products": 91,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -3876,7 +3816,7 @@
                 "name": "Black&Green",
                 "weight": 22.0,
                 "price": 215.88,
-                "remaining_products": 57,
+                "remaining_products": 91,
                 "color": "Green, Black",
                 "img": [
                     {
@@ -3913,7 +3853,7 @@
                 "name": "Red&Black",
                 "weight": 22.0,
                 "price": 159.46,
-                "remaining_products": 81,
+                "remaining_products": 40,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -4049,10 +3989,6 @@
                 "value": "3 months"
             },
             {
-                "key": "ASIN",
-                "value": "B0DT76S9TZ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 16, 2025"
             }
@@ -4062,7 +3998,7 @@
                 "name": "Item 38.6 Pounds 78.99",
                 "weight": "38.6 Pounds",
                 "price": 78.99,
-                "remaining_products": 43,
+                "remaining_products": 2,
                 "color": "Black",
                 "img": [
                     {
@@ -4283,10 +4219,6 @@
                 "value": "Treadmill"
             },
             {
-                "key": "ASIN",
-                "value": "B0C6DTYQ3G"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 31, 2023"
             }
@@ -4296,7 +4228,7 @@
                 "name": "Item 249 Pounds 999",
                 "weight": "249 Pounds",
                 "price": 999,
-                "remaining_products": 30,
+                "remaining_products": 72,
                 "color": "Black",
                 "img": [
                     {
@@ -4488,10 +4420,6 @@
                 "value": "3 months"
             },
             {
-                "key": "ASIN",
-                "value": "B08TG962LG"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 24, 2021"
             }
@@ -4501,7 +4429,7 @@
                 "name": "Navy",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 20,
+                "remaining_products": 55,
                 "color": "Navy",
                 "img": [
                     {
@@ -4550,7 +4478,7 @@
                 "name": "Red",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 32,
+                "remaining_products": 35,
                 "color": "Red",
                 "img": [
                     {
@@ -4599,7 +4527,7 @@
                 "name": "Purple",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 21,
+                "remaining_products": 35,
                 "color": "Purple",
                 "img": [
                     {
@@ -4648,7 +4576,7 @@
                 "name": "Silver",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 59,
+                "remaining_products": 70,
                 "color": "Silver",
                 "img": [
                     {
@@ -4852,10 +4780,6 @@
                 "value": "3 months"
             },
             {
-                "key": "ASIN",
-                "value": "B0B7B731WC"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 22, 2022"
             }
@@ -4865,7 +4789,7 @@
                 "name": "Item 152 Pounds 599.99",
                 "weight": "152 Pounds",
                 "price": 599.99,
-                "remaining_products": 77,
+                "remaining_products": 40,
                 "color": "Black",
                 "img": [
                     {
@@ -5083,10 +5007,6 @@
                 "value": "Exercise & Fitness, Running"
             },
             {
-                "key": "ASIN",
-                "value": "B08JQQHR7R"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 24, 2020"
             }
@@ -5096,7 +5016,7 @@
                 "name": "Item 318 Pounds 1540",
                 "weight": "318 Pounds",
                 "price": 1540,
-                "remaining_products": 22,
+                "remaining_products": 74,
                 "color": "Black",
                 "img": [
                     {
@@ -5295,10 +5215,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B09N7RZGY3"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 7, 2021"
             }
@@ -5308,7 +5224,7 @@
                 "name": "Item 280 Pounds 2899",
                 "weight": "280 Pounds",
                 "price": 2899,
-                "remaining_products": 8,
+                "remaining_products": 39,
                 "color": "Black Frame/Charcoal",
                 "img": [
                     {
@@ -5464,10 +5380,6 @@
                 "value": "Unisex-Adult, Youth"
             },
             {
-                "key": "ASIN",
-                "value": "B0C4Q5V112"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 9, 2023"
             }
@@ -5477,7 +5389,7 @@
                 "name": "Item 61.5 Pounds 295.99",
                 "weight": "61.5 Pounds",
                 "price": 295.99,
-                "remaining_products": 99,
+                "remaining_products": 101,
                 "color": "Black",
                 "img": [
                     {
@@ -5659,10 +5571,6 @@
                 "value": "2 YEAR"
             },
             {
-                "key": "ASIN",
-                "value": "B0DQ47BFT9"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 9, 2024"
             }
@@ -5672,7 +5580,7 @@
                 "name": "Item 39 Pounds 209.99",
                 "weight": "39 Pounds",
                 "price": 209.99,
-                "remaining_products": 20,
+                "remaining_products": 35,
                 "color": "Blue",
                 "img": [
                     {
@@ -5829,10 +5737,6 @@
                 "value": "One Size"
             },
             {
-                "key": "ASIN",
-                "value": "B0BVD3DC8B"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 15, 2023"
             }
@@ -5842,7 +5746,7 @@
                 "name": "Original Peloton Bike",
                 "weight": 63.50288,
                 "price": 2495,
-                "remaining_products": 8,
+                "remaining_products": 1,
                 "color": "Black",
                 "img": [
                     {
@@ -5871,7 +5775,7 @@
                 "name": "Peloton Bike+",
                 "weight": 63.50288,
                 "price": 2495,
-                "remaining_products": 0,
+                "remaining_products": 17,
                 "color": "Black",
                 "img": [
                     {
@@ -6033,10 +5937,6 @@
                 "value": "U60"
             },
             {
-                "key": "ASIN",
-                "value": "B0D17L6QLY"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 9, 2024"
             }
@@ -6046,7 +5946,7 @@
                 "name": "Item 80 Pounds 399.99",
                 "weight": "80 Pounds",
                 "price": 399.99,
-                "remaining_products": 53,
+                "remaining_products": 52,
                 "color": "Black",
                 "img": [
                     {
@@ -6170,10 +6070,6 @@
                 "value": "1 Year Manufacturer"
             },
             {
-                "key": "ASIN",
-                "value": "B0DNJC4V95"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 2, 2024"
             }
@@ -6183,7 +6079,7 @@
                 "name": "Item 37.9 Pounds 99.99",
                 "weight": "37.9 Pounds",
                 "price": 99.99,
-                "remaining_products": 79,
+                "remaining_products": 95,
                 "color": "Black",
                 "img": [
                     {
@@ -6355,10 +6251,6 @@
                 "value": "Incline With Grip"
             },
             {
-                "key": "ASIN",
-                "value": "B0D3KPFFK9"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 30, 2024"
             }
@@ -6368,7 +6260,7 @@
                 "name": "Black with Incline",
                 "weight": 26.761928,
                 "price": 209.99,
-                "remaining_products": 73,
+                "remaining_products": 84,
                 "color": "Black",
                 "img": [
                     {
@@ -6409,7 +6301,7 @@
                 "name": "Black with handle",
                 "weight": 26.761928,
                 "price": 209.99,
-                "remaining_products": 74,
+                "remaining_products": 28,
                 "color": "Black",
                 "img": [
                     {
@@ -6611,10 +6503,6 @@
                 "value": "Compact"
             },
             {
-                "key": "ASIN",
-                "value": "B0D92KZCHT"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 12, 2024"
             }
@@ -6624,7 +6512,7 @@
                 "name": "3% Incline-Upgraded Damping Rubber Black",
                 "weight": 18.597272,
                 "price": 130.99,
-                "remaining_products": 66,
+                "remaining_products": 55,
                 "color": "Black",
                 "img": [
                     {
@@ -6661,7 +6549,7 @@
                 "name": "3% Incline-Wider Belt Black",
                 "weight": 18.597272,
                 "price": 130.99,
-                "remaining_products": 85,
+                "remaining_products": 63,
                 "color": "Black",
                 "img": [
                     {
@@ -6706,7 +6594,7 @@
                 "name": "10% Incline-Upgraded Motor Black",
                 "weight": 18.597272,
                 "price": 130.99,
-                "remaining_products": 37,
+                "remaining_products": 69,
                 "color": "Black",
                 "img": [
                     {
@@ -6878,10 +6766,6 @@
                 "value": "1 Year Manufacturer"
             },
             {
-                "key": "ASIN",
-                "value": "B0DD74ZZV6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 15, 2024"
             }
@@ -6891,7 +6775,7 @@
                 "name": "white",
                 "weight": 18.14368,
                 "price": 128,
-                "remaining_products": 44,
+                "remaining_products": 69,
                 "color": "White",
                 "img": [
                     {
@@ -6932,7 +6816,7 @@
                 "name": "black",
                 "weight": 18.14368,
                 "price": 128,
-                "remaining_products": 75,
+                "remaining_products": 55,
                 "color": "Black",
                 "img": [
                     {
@@ -6973,7 +6857,7 @@
                 "name": "orange",
                 "weight": 18.14368,
                 "price": 128,
-                "remaining_products": 63,
+                "remaining_products": 29,
                 "color": "Orange",
                 "img": [
                     {
@@ -7122,10 +7006,6 @@
                 "value": "Treadmill With Incline"
             },
             {
-                "key": "ASIN",
-                "value": "B0D7H46VM8"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 4, 2024"
             }
@@ -7135,7 +7015,7 @@
                 "name": "Classic Black",
                 "weight": 17.0097,
                 "price": 129.99,
-                "remaining_products": 72,
+                "remaining_products": 17,
                 "color": "Black",
                 "img": [
                     {
@@ -7176,7 +7056,7 @@
                 "name": "Morden Black",
                 "weight": 17.0097,
                 "price": 129.99,
-                "remaining_products": 49,
+                "remaining_products": 46,
                 "color": "Black",
                 "img": [
                     {
@@ -7364,10 +7244,6 @@
                 "value": "unisex-adult"
             },
             {
-                "key": "ASIN",
-                "value": "B0C5N1BVJN"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 18, 2023"
             }
@@ -7377,7 +7253,7 @@
                 "name": "Item 102 Pounds 394.99",
                 "weight": "102 Pounds",
                 "price": 394.99,
-                "remaining_products": 42,
+                "remaining_products": 94,
                 "color": "Blue",
                 "img": [
                     {
@@ -7543,10 +7419,6 @@
                 "value": "2"
             },
             {
-                "key": "ASIN",
-                "value": "B0DJFJH6PG"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 22, 2024"
             }
@@ -7556,7 +7428,7 @@
                 "name": "Black Blue",
                 "weight": 25.3104336,
                 "price": 239.99,
-                "remaining_products": 24,
+                "remaining_products": 42,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -7597,7 +7469,7 @@
                 "name": "Orange",
                 "weight": 25.3104336,
                 "price": 239.99,
-                "remaining_products": 43,
+                "remaining_products": 65,
                 "color": "Orange",
                 "img": [
                     {
@@ -7638,7 +7510,7 @@
                 "name": "Black Green",
                 "weight": 25.3104336,
                 "price": 239.99,
-                "remaining_products": 77,
+                "remaining_products": 73,
                 "color": "Green, Black",
                 "img": [
                     {
@@ -7810,10 +7682,6 @@
                 "value": "1"
             },
             {
-                "key": "ASIN",
-                "value": "B0D5MHQH9P"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 10, 2022"
             }
@@ -7823,7 +7691,7 @@
                 "name": "Black-Wide Belt",
                 "weight": 20.41164,
                 "price": 219.99,
-                "remaining_products": 74,
+                "remaining_products": 72,
                 "color": "Black",
                 "img": [
                     {
@@ -7872,7 +7740,7 @@
                 "name": "Pink",
                 "weight": 20.41164,
                 "price": 189.99,
-                "remaining_products": 84,
+                "remaining_products": 34,
                 "color": "Pink",
                 "img": [
                     {
@@ -7921,7 +7789,7 @@
                 "name": "Pink-6.2MPH",
                 "weight": 20.41164,
                 "price": 209.99,
-                "remaining_products": 99,
+                "remaining_products": 65,
                 "color": "Pink",
                 "img": [
                     {
@@ -7966,7 +7834,7 @@
                 "name": "Black+43\"\u00d718\" Wide Belt",
                 "weight": 20.41164,
                 "price": 259.99,
-                "remaining_products": 90,
+                "remaining_products": 53,
                 "color": "Black",
                 "img": [
                     {
@@ -8011,7 +7879,7 @@
                 "name": "White-Wide Belt",
                 "weight": 20.41164,
                 "price": 229.99,
-                "remaining_products": 16,
+                "remaining_products": 56,
                 "color": "White",
                 "img": [
                     {
@@ -8060,7 +7928,7 @@
                 "name": "Black",
                 "weight": 20.41164,
                 "price": 189.99,
-                "remaining_products": 24,
+                "remaining_products": 91,
                 "color": "Black",
                 "img": [
                     {
@@ -8276,10 +8144,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0CHVVCQ6Z"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 12, 2023"
             }
@@ -8289,7 +8153,7 @@
                 "name": "Orange",
                 "weight": 19.186941599999997,
                 "price": 199.99,
-                "remaining_products": 12,
+                "remaining_products": 55,
                 "color": "Orange",
                 "img": [
                     {
@@ -8330,7 +8194,7 @@
                 "name": "Wooden",
                 "weight": 19.186941599999997,
                 "price": 199.99,
-                "remaining_products": 91,
+                "remaining_products": 23,
                 "color": "Yellow",
                 "img": [
                     {
@@ -8367,7 +8231,7 @@
                 "name": "Black",
                 "weight": 19.186941599999997,
                 "price": 199.99,
-                "remaining_products": 2,
+                "remaining_products": 81,
                 "color": "Black",
                 "img": [
                     {
@@ -8412,7 +8276,7 @@
                 "name": "Black-Incline",
                 "weight": 19.186941599999997,
                 "price": 199.99,
-                "remaining_products": 29,
+                "remaining_products": 42,
                 "color": "Black",
                 "img": [
                     {
@@ -8453,7 +8317,7 @@
                 "name": "Yellow",
                 "weight": 19.186941599999997,
                 "price": 199.99,
-                "remaining_products": 23,
+                "remaining_products": 30,
                 "color": "Yellow",
                 "img": [
                     {
@@ -8641,10 +8505,6 @@
             {
                 "key": "Batteries required",
                 "value": "Yes"
-            },
-            {
-                "key": "ASIN",
-                "value": "B00139YBQQ"
             }
         ],
         "equipment_options": [
@@ -8652,7 +8512,7 @@
                 "name": "Weight Bench Set",
                 "weight": 13.154168,
                 "price": 124.99,
-                "remaining_products": 5,
+                "remaining_products": 10,
                 "color": "Tread Mill",
                 "img": [
                     {
@@ -8697,7 +8557,7 @@
                 "name": "air walker",
                 "weight": 13.154168,
                 "price": 117.8,
-                "remaining_products": 19,
+                "remaining_products": 77,
                 "color": "Tread Mill",
                 "img": [
                     {
@@ -8734,7 +8594,7 @@
                 "name": "Happy Bike",
                 "weight": 13.154168,
                 "price": 103.13,
-                "remaining_products": 0,
+                "remaining_products": 14,
                 "color": "Tread Mill",
                 "img": [
                     {
@@ -8779,7 +8639,7 @@
                 "name": "Tread Mill",
                 "weight": 13.154168,
                 "price": 142.99,
-                "remaining_products": 82,
+                "remaining_products": 21,
                 "color": "Tread Mill",
                 "img": [
                     {
@@ -8924,10 +8784,6 @@
                 "value": "SU-38240US-BK-PS"
             },
             {
-                "key": "ASIN",
-                "value": "B0DFC53HT4"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 27, 2024"
             }
@@ -8937,7 +8793,7 @@
                 "name": "Item 51 Pounds 239.99",
                 "weight": "51 Pounds",
                 "price": 239.99,
-                "remaining_products": 39,
+                "remaining_products": 5,
                 "color": "Black",
                 "img": [
                     {
@@ -9149,10 +9005,6 @@
                 "value": "Exercise & Fitness, Running"
             },
             {
-                "key": "ASIN",
-                "value": "B00P6VDRXU"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 3, 2014"
             }
@@ -9162,7 +9014,7 @@
                 "name": "Item 216 Pounds 1999",
                 "weight": "216 Pounds",
                 "price": 1999,
-                "remaining_products": 92,
+                "remaining_products": 83,
                 "color": "Silver",
                 "img": [
                     {
@@ -9310,10 +9162,6 @@
                 "value": "Electric lift with Handle Bar"
             },
             {
-                "key": "ASIN",
-                "value": "B0DK1KHB23"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 14, 2024"
             }
@@ -9323,7 +9171,7 @@
                 "name": "Electric lift",
                 "weight": 21.999212,
                 "price": 259.99,
-                "remaining_products": 42,
+                "remaining_products": 68,
                 "color": "black",
                 "img": [
                     {
@@ -9360,7 +9208,7 @@
                 "name": "Electric lift with Handle Bar",
                 "weight": 21.999212,
                 "price": 399.99,
-                "remaining_products": 19,
+                "remaining_products": 80,
                 "color": "black",
                 "img": [
                     {
@@ -9520,10 +9368,6 @@
                 "value": "GM2058/GM2059"
             },
             {
-                "key": "ASIN",
-                "value": "B0DN1SSF81"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 14, 2024"
             }
@@ -9533,7 +9377,7 @@
                 "name": "Blue",
                 "weight": 20.41164,
                 "price": 179.99,
-                "remaining_products": 27,
+                "remaining_products": 10,
                 "color": "Blue",
                 "img": [
                     {
@@ -9582,7 +9426,7 @@
                 "name": "Red",
                 "weight": 20.41164,
                 "price": 179.99,
-                "remaining_products": 11,
+                "remaining_products": 47,
                 "color": "Red",
                 "img": [
                     {
@@ -9777,10 +9621,6 @@
                 "value": "1 year"
             },
             {
-                "key": "ASIN",
-                "value": "B0DB5KCBX9"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 25, 2024"
             }
@@ -9790,7 +9630,7 @@
                 "name": "Item 94 Pounds 399.99",
                 "weight": "94 Pounds",
                 "price": 399.99,
-                "remaining_products": 49,
+                "remaining_products": 66,
                 "color": "Smart",
                 "img": [
                     {
@@ -9937,10 +9777,6 @@
                 "value": "Ambidextrous"
             },
             {
-                "key": "ASIN",
-                "value": "B0CFGDH6QT"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 11, 2023"
             }
@@ -9950,7 +9786,7 @@
                 "name": "Item 109 Pounds 891.79",
                 "weight": "109 Pounds",
                 "price": 891.79,
-                "remaining_products": 99,
+                "remaining_products": 86,
                 "color": "Black",
                 "img": [
                     {
@@ -10090,10 +9926,6 @@
                 "value": "China"
             },
             {
-                "key": "ASIN",
-                "value": "B0D4RJJ1TN"
-            },
-            {
                 "key": "Item model number",
                 "value": "83-SH-07"
             },
@@ -10107,7 +9939,7 @@
                 "name": "Kids Barbell with Adjustable Plates",
                 "weight": 12.8820128,
                 "price": 29.95,
-                "remaining_products": 12,
+                "remaining_products": 91,
                 "color": "Blue, Red, and Yellow",
                 "img": [
                     {
@@ -10148,7 +9980,7 @@
                 "name": "Kids Weight Bench Set",
                 "weight": 12.8820128,
                 "price": 79.97,
-                "remaining_products": 20,
+                "remaining_products": 2,
                 "color": "Blue, Red, and Yellow",
                 "img": [
                     {
@@ -10189,7 +10021,7 @@
                 "name": "Kids Treadmill",
                 "weight": 12.8820128,
                 "price": 124.99,
-                "remaining_products": 53,
+                "remaining_products": 54,
                 "color": "Blue, Red, and Yellow",
                 "img": [
                     {
@@ -10230,7 +10062,7 @@
                 "name": "Kids Exercise Bike",
                 "weight": 12.8820128,
                 "price": 107.95,
-                "remaining_products": 56,
+                "remaining_products": 87,
                 "color": "Blue, Red, and Yellow",
                 "img": [
                     {
@@ -10354,10 +10186,6 @@
                 "value": "70Treadmill-Wdz6e"
             },
             {
-                "key": "ASIN",
-                "value": "B0DSPPB3LC"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 10, 2025"
             }
@@ -10367,7 +10195,7 @@
                 "name": "Item 315.7 Pounds 1899.99",
                 "weight": "315.7 Pounds",
                 "price": 1899.99,
-                "remaining_products": 98,
+                "remaining_products": 62,
                 "color": "Red+Black",
                 "img": [
                     {
@@ -10547,10 +10375,6 @@
                 "value": "CommercialInclineTreadmill-6O"
             },
             {
-                "key": "ASIN",
-                "value": "B0DFC7MPWS"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 27, 2024"
             }
@@ -10560,7 +10384,7 @@
                 "name": "Item 315.7 Pounds 1599.99",
                 "weight": "315.7 Pounds",
                 "price": 1599.99,
-                "remaining_products": 62,
+                "remaining_products": 54,
                 "color": "Red+Black",
                 "img": [
                     {
@@ -10736,10 +10560,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0BSHFS561"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 14, 2022"
             }
@@ -10749,7 +10569,7 @@
                 "name": "Automatic tilt",
                 "weight": 22.6796,
                 "price": 259.99,
-                "remaining_products": 21,
+                "remaining_products": 12,
                 "color": "black",
                 "img": [
                     {
@@ -10762,7 +10582,7 @@
                 "name": "black",
                 "weight": 22.6796,
                 "price": 224.18,
-                "remaining_products": 71,
+                "remaining_products": 101,
                 "color": "Black",
                 "img": [
                     {
@@ -10922,10 +10742,6 @@
                 "value": "3 months"
             },
             {
-                "key": "ASIN",
-                "value": "B08TGCC85B"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 24, 2021"
             }
@@ -10935,7 +10751,7 @@
                 "name": "Navy",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 45,
+                "remaining_products": 62,
                 "color": "Navy",
                 "img": [
                     {
@@ -10984,7 +10800,7 @@
                 "name": "Red",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 53,
+                "remaining_products": 72,
                 "color": "Red",
                 "img": [
                     {
@@ -11033,7 +10849,7 @@
                 "name": "Purple",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 36,
+                "remaining_products": 81,
                 "color": "Purple",
                 "img": [
                     {
@@ -11082,7 +10898,7 @@
                 "name": "Silver",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 98,
+                "remaining_products": 8,
                 "color": "Silver",
                 "img": [
                     {
@@ -11287,10 +11103,6 @@
                 "value": "Treadmill"
             },
             {
-                "key": "ASIN",
-                "value": "B0CJBS915B"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 19, 2023"
             }
@@ -11300,7 +11112,7 @@
                 "name": "Silver",
                 "weight": 18.5065536,
                 "price": 119.99,
-                "remaining_products": 75,
+                "remaining_products": 32,
                 "color": "Silver",
                 "img": [
                     {
@@ -11345,7 +11157,7 @@
                 "name": "Z-Black",
                 "weight": 18.5065536,
                 "price": 99.99,
-                "remaining_products": 62,
+                "remaining_products": 90,
                 "color": "Black",
                 "img": [
                     {
@@ -11382,7 +11194,7 @@
                 "name": "Z-White",
                 "weight": 18.5065536,
                 "price": 99.99,
-                "remaining_products": 68,
+                "remaining_products": 67,
                 "color": "White",
                 "img": [
                     {
@@ -11419,7 +11231,7 @@
                 "name": "Black",
                 "weight": 18.5065536,
                 "price": 119.99,
-                "remaining_products": 41,
+                "remaining_products": 63,
                 "color": "Black",
                 "img": [
                     {
@@ -11464,7 +11276,7 @@
                 "name": "Z-Blue",
                 "weight": 18.5065536,
                 "price": 99.99,
-                "remaining_products": 99,
+                "remaining_products": 26,
                 "color": "Blue",
                 "img": [
                     {
@@ -11641,10 +11453,6 @@
                 "value": "1"
             },
             {
-                "key": "ASIN",
-                "value": "B0DPJQH4CL"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 11, 2024"
             }
@@ -11654,7 +11462,7 @@
                 "name": "Item 68 Pounds 299.99",
                 "weight": "68 Pounds",
                 "price": 299.99,
-                "remaining_products": 59,
+                "remaining_products": 56,
                 "color": "Gray",
                 "img": [
                     {
@@ -11870,10 +11678,6 @@
                 "value": "2023"
             },
             {
-                "key": "ASIN",
-                "value": "B09CYWRRR1"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 20, 2021"
             }
@@ -11883,7 +11687,7 @@
                 "name": "Red",
                 "weight": 22.5,
                 "price": 279.99,
-                "remaining_products": 95,
+                "remaining_products": 43,
                 "color": "Red",
                 "img": [
                     {
@@ -11924,7 +11728,7 @@
                 "name": "Black",
                 "weight": 22.5,
                 "price": 279.99,
-                "remaining_products": 33,
+                "remaining_products": 22,
                 "color": "Black",
                 "img": [
                     {
@@ -11973,7 +11777,7 @@
                 "name": "Blue",
                 "weight": 22.5,
                 "price": 279.99,
-                "remaining_products": 91,
+                "remaining_products": 13,
                 "color": "Blue",
                 "img": [
                     {
@@ -12174,10 +11978,6 @@
                 "value": "1"
             },
             {
-                "key": "ASIN",
-                "value": "B0C7CNHT1Q"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 7, 2023"
             }
@@ -12187,7 +11987,7 @@
                 "name": "Item 38 Kilograms 499.99",
                 "weight": "38 Kilograms",
                 "price": 499.99,
-                "remaining_products": 26,
+                "remaining_products": 12,
                 "color": "Black, Grey",
                 "img": [
                     {
@@ -12396,10 +12196,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0B452TSBK"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 14, 2022"
             }
@@ -12409,7 +12205,7 @@
                 "name": "Auto Incline",
                 "weight": 49.9858384,
                 "price": 539.97,
-                "remaining_products": 79,
+                "remaining_products": 92,
                 "color": "Black",
                 "img": [
                     {
@@ -12450,7 +12246,7 @@
                 "name": "Slim",
                 "weight": 49.9858384,
                 "price": 539.97,
-                "remaining_products": 30,
+                "remaining_products": 22,
                 "color": "Black",
                 "img": [
                     {
@@ -12658,10 +12454,6 @@
                 "value": "NordicTrack Commercial X32i Incline Treadmill"
             },
             {
-                "key": "ASIN",
-                "value": "B09359YFWL"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 21, 2021"
             }
@@ -12671,7 +12463,7 @@
                 "name": "NordicTrack Commercial X22i Incline Treadmill",
                 "weight": 209.559504,
                 "price": 3199,
-                "remaining_products": 98,
+                "remaining_products": 75,
                 "color": "Black",
                 "img": [
                     {
@@ -12724,7 +12516,7 @@
                 "name": "NordicTrack Commercial X32i Incline Treadmill",
                 "weight": 209.559504,
                 "price": 3799,
-                "remaining_products": 87,
+                "remaining_products": 17,
                 "color": "Black",
                 "img": [
                     {
@@ -12937,10 +12729,6 @@
                 "value": "49L x 23W x 50H In"
             },
             {
-                "key": "ASIN",
-                "value": "B00QIM5CMK"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 20, 2014"
             }
@@ -12950,7 +12738,7 @@
                 "name": "Manual",
                 "weight": 22.23,
                 "price": 119.99,
-                "remaining_products": 49,
+                "remaining_products": 22,
                 "color": "Classic",
                 "img": [
                     {
@@ -12991,7 +12779,7 @@
                 "name": "Smart",
                 "weight": 22.23,
                 "price": 119.99,
-                "remaining_products": 26,
+                "remaining_products": 62,
                 "color": "Classic",
                 "img": [
                     {
@@ -13028,7 +12816,7 @@
                 "name": "Smart Manual",
                 "weight": 22.23,
                 "price": 119.99,
-                "remaining_products": 10,
+                "remaining_products": 38,
                 "color": "Classic",
                 "img": [
                     {
@@ -13202,10 +12990,6 @@
                 "value": "1"
             },
             {
-                "key": "ASIN",
-                "value": "B0DG52526L"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 5, 2024"
             }
@@ -13215,7 +12999,7 @@
                 "name": "Item 77 Pounds 289.99",
                 "weight": "77 Pounds",
                 "price": 289.99,
-                "remaining_products": 53,
+                "remaining_products": 97,
                 "color": "Manual Inclne",
                 "img": [
                     {
@@ -13395,10 +13179,6 @@
                 "value": "RF-C5"
             },
             {
-                "key": "ASIN",
-                "value": "B0CTH2XX5B"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 9, 2024"
             }
@@ -13408,7 +13188,7 @@
                 "name": "RF-C5",
                 "weight": 23.586784,
                 "price": 179.99,
-                "remaining_products": 64,
+                "remaining_products": 25,
                 "color": "BlackRed",
                 "img": [
                     {
@@ -13453,7 +13233,7 @@
                 "name": "SL-C5",
                 "weight": 23.586784,
                 "price": 175.99,
-                "remaining_products": 101,
+                "remaining_products": 9,
                 "color": "BlackRed",
                 "img": [
                     {
@@ -13657,10 +13437,6 @@
                 "value": "46.2*20.3*4.3\""
             },
             {
-                "key": "ASIN",
-                "value": "B0CKQW2HTT"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 9, 2023"
             }
@@ -13670,7 +13446,7 @@
                 "name": "TM008 Black",
                 "weight": 18.14368,
                 "price": 99.99,
-                "remaining_products": 37,
+                "remaining_products": 80,
                 "color": "Black",
                 "img": [
                     {
@@ -13711,7 +13487,7 @@
                 "name": "TM008 Gray",
                 "weight": 18.14368,
                 "price": 99.99,
-                "remaining_products": 36,
+                "remaining_products": 67,
                 "color": "Gray",
                 "img": [
                     {
@@ -13752,7 +13528,7 @@
                 "name": "TM008 Classic Black",
                 "weight": 18.14368,
                 "price": 99.99,
-                "remaining_products": 92,
+                "remaining_products": 84,
                 "color": "Black",
                 "img": [
                     {
@@ -13863,10 +13639,6 @@
                 "value": "1 year warranty"
             },
             {
-                "key": "ASIN",
-                "value": "B0DJ2W38GW"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 1, 2024"
             }
@@ -13876,7 +13648,7 @@
                 "name": "2 in 1 Massage Walking Pad BLACK",
                 "weight": 15.195332,
                 "price": 179.99,
-                "remaining_products": 86,
+                "remaining_products": 9,
                 "color": "Black",
                 "img": [
                     {
@@ -13921,7 +13693,7 @@
                 "name": "Manual Incline Black",
                 "weight": 15.195332,
                 "price": 126.99,
-                "remaining_products": 94,
+                "remaining_products": 12,
                 "color": "Black",
                 "img": [
                     {
@@ -13970,7 +13742,7 @@
                 "name": "Manual Incline Orange",
                 "weight": 15.195332,
                 "price": 139.99,
-                "remaining_products": 39,
+                "remaining_products": 86,
                 "color": "Orange",
                 "img": [
                     {
@@ -14187,10 +13959,6 @@
                 "value": "62 L x 27 W x 47 H"
             },
             {
-                "key": "ASIN",
-                "value": "B00OS9R9VW"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 22, 2014"
             }
@@ -14200,7 +13968,7 @@
                 "name": "Premium Smart",
                 "weight": 46.719976,
                 "price": 454.3,
-                "remaining_products": 20,
+                "remaining_products": 9,
                 "color": "Gray",
                 "img": [
                     {
@@ -14249,7 +14017,7 @@
                 "name": "Smart",
                 "weight": 46.719976,
                 "price": 449.99,
-                "remaining_products": 23,
+                "remaining_products": 11,
                 "color": "Gray",
                 "img": [
                     {
@@ -14286,7 +14054,7 @@
                 "name": "Classic",
                 "weight": 46.719976,
                 "price": 347.55,
-                "remaining_products": 44,
+                "remaining_products": 47,
                 "color": "Gray",
                 "img": [
                     {
@@ -14506,10 +14274,6 @@
                 "value": "45.6*19.3*4.45"
             },
             {
-                "key": "ASIN",
-                "value": "B0D2L1FDTV"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 24, 2024"
             }
@@ -14519,7 +14283,7 @@
                 "name": "Item 37.5 Pounds 119.99",
                 "weight": "37.5 Pounds",
                 "price": 119.99,
-                "remaining_products": 11,
+                "remaining_products": 69,
                 "color": "Black",
                 "img": [
                     {
@@ -14671,10 +14435,6 @@
                 "value": "2017"
             },
             {
-                "key": "ASIN",
-                "value": "B00F74RX40"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 1, 2013"
             }
@@ -14684,7 +14444,7 @@
                 "name": "Item 110 Pounds 699",
                 "weight": "110 Pounds",
                 "price": 699,
-                "remaining_products": 59,
+                "remaining_products": 29,
                 "color": "Black",
                 "img": [
                     {
@@ -14880,10 +14640,6 @@
                 "value": "52.5\"D x 29\"W x 44.5\"H"
             },
             {
-                "key": "ASIN",
-                "value": "B08FCHQPZS"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 9, 2020"
             }
@@ -14893,7 +14649,7 @@
                 "name": "White",
                 "weight": 31.524644,
                 "price": 239.99,
-                "remaining_products": 82,
+                "remaining_products": 47,
                 "color": "White",
                 "img": [
                     {
@@ -14942,7 +14698,7 @@
                 "name": "Champagne",
                 "weight": 31.524644,
                 "price": 239.99,
-                "remaining_products": 63,
+                "remaining_products": 16,
                 "color": "Champagne",
                 "img": [
                     {
@@ -14991,7 +14747,7 @@
                 "name": "Black",
                 "weight": 31.524644,
                 "price": 239.99,
-                "remaining_products": 11,
+                "remaining_products": 96,
                 "color": "Black",
                 "img": [
                     {
@@ -15044,7 +14800,7 @@
                 "name": "Classic",
                 "weight": 31.524644,
                 "price": 239.99,
-                "remaining_products": 69,
+                "remaining_products": 4,
                 "color": "Champagne",
                 "img": [
                     {
@@ -15089,7 +14845,7 @@
                 "name": "Red",
                 "weight": 31.524644,
                 "price": 239.99,
-                "remaining_products": 98,
+                "remaining_products": 26,
                 "color": "Red",
                 "img": [
                     {
@@ -15138,7 +14894,7 @@
                 "name": "Black + Natural",
                 "weight": 31.524644,
                 "price": 239.99,
-                "remaining_products": 74,
+                "remaining_products": 40,
                 "color": "Black",
                 "img": [
                     {
@@ -15187,7 +14943,7 @@
                 "name": "Dark Green",
                 "weight": 31.524644,
                 "price": 239.99,
-                "remaining_products": 72,
+                "remaining_products": 52,
                 "color": "Green, Dark Green",
                 "img": [
                     {
@@ -15376,10 +15132,6 @@
                 "value": "Large"
             },
             {
-                "key": "ASIN",
-                "value": "B0DP4GPVMJ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 27, 2024"
             }
@@ -15389,7 +15141,7 @@
                 "name": "Classic with APP",
                 "weight": 16.782904,
                 "price": 110.5,
-                "remaining_products": 63,
+                "remaining_products": 37,
                 "color": "Balck Red",
                 "img": [
                     {
@@ -15434,7 +15186,7 @@
                 "name": "Incline White with APP",
                 "weight": 16.782904,
                 "price": 110.5,
-                "remaining_products": 70,
+                "remaining_products": 64,
                 "color": "White",
                 "img": [
                     {
@@ -15479,7 +15231,7 @@
                 "name": "Incline Orange with APP",
                 "weight": 16.782904,
                 "price": 110.5,
-                "remaining_products": 60,
+                "remaining_products": 71,
                 "color": "Orange",
                 "img": [
                     {
@@ -15524,7 +15276,7 @@
                 "name": "Classic",
                 "weight": 16.782904,
                 "price": 110.5,
-                "remaining_products": 64,
+                "remaining_products": 78,
                 "color": "Balck Red",
                 "img": [
                     {
@@ -15736,10 +15488,6 @@
                 "value": "47\" L x 22\" W x 45\" H"
             },
             {
-                "key": "ASIN",
-                "value": "B004510DF2"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 12, 2007"
             }
@@ -15749,7 +15497,7 @@
                 "name": "Item 50 Pounds 199.99",
                 "weight": "50 Pounds",
                 "price": 199.99,
-                "remaining_products": 87,
+                "remaining_products": 14,
                 "color": "gray;black",
                 "img": [
                     {
@@ -15942,10 +15690,6 @@
                 "value": "One Size"
             },
             {
-                "key": "ASIN",
-                "value": "B0B8F62YMR"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 2, 2022"
             }
@@ -15955,7 +15699,7 @@
                 "name": "Premium Smart",
                 "weight": 76.0220192,
                 "price": 1153.99,
-                "remaining_products": 58,
+                "remaining_products": 90,
                 "color": "Black",
                 "img": [
                     {
@@ -15996,7 +15740,7 @@
                 "name": "Advance Smart",
                 "weight": 76.0220192,
                 "price": 799.99,
-                "remaining_products": 63,
+                "remaining_products": 99,
                 "color": "Black",
                 "img": [
                     {
@@ -16185,10 +15929,6 @@
                 "value": "103G-12%-Incline"
             },
             {
-                "key": "ASIN",
-                "value": "B0CNCSQC9J"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 10, 2023"
             }
@@ -16198,7 +15938,7 @@
                 "name": "Black",
                 "weight": 47.0,
                 "price": 449.99,
-                "remaining_products": 72,
+                "remaining_products": 67,
                 "color": "Black",
                 "img": [
                     {
@@ -16211,7 +15951,7 @@
                 "name": "Grey",
                 "weight": 47.0,
                 "price": 449.99,
-                "remaining_products": 26,
+                "remaining_products": 28,
                 "color": "Grey",
                 "img": [
                     {
@@ -16348,10 +16088,6 @@
                 "value": "3100W"
             },
             {
-                "key": "ASIN",
-                "value": "B0DL2LM8F9"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 26, 2024"
             }
@@ -16361,7 +16097,7 @@
                 "name": "Black",
                 "weight": 16.782904,
                 "price": 149.99,
-                "remaining_products": 5,
+                "remaining_products": 56,
                 "color": "Black",
                 "img": [
                     {
@@ -16398,7 +16134,7 @@
                 "name": "Silver",
                 "weight": 16.782904,
                 "price": 149.99,
-                "remaining_products": 2,
+                "remaining_products": 54,
                 "color": "Silver",
                 "img": [
                     {
@@ -16586,10 +16322,6 @@
                 "value": "SLFTRD20"
             },
             {
-                "key": "ASIN",
-                "value": "B07QG46B5J"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 10, 2019"
             }
@@ -16599,7 +16331,7 @@
                 "name": "SLFTRD26BT BLACK",
                 "weight": 30.163868,
                 "price": 241.99,
-                "remaining_products": 29,
+                "remaining_products": 97,
                 "color": "Black",
                 "img": [
                     {
@@ -16644,7 +16376,7 @@
                 "name": "SLFTRD213.5 BLACK",
                 "weight": 30.163868,
                 "price": 230.84,
-                "remaining_products": 15,
+                "remaining_products": 46,
                 "color": "Black",
                 "img": [
                     {
@@ -16689,7 +16421,7 @@
                 "name": "SLFTRD20 BLACK",
                 "weight": 30.163868,
                 "price": 215.99,
-                "remaining_products": 58,
+                "remaining_products": 77,
                 "color": "Black",
                 "img": [
                     {
@@ -16734,7 +16466,7 @@
                 "name": "SLFTRD18 BLACK",
                 "weight": 30.163868,
                 "price": 259.9,
-                "remaining_products": 68,
+                "remaining_products": 26,
                 "color": "Black",
                 "img": [
                     {
@@ -16775,7 +16507,7 @@
                 "name": "SLFTRD80 BLACK",
                 "weight": 30.163868,
                 "price": 224.99,
-                "remaining_products": 101,
+                "remaining_products": 46,
                 "color": "Black",
                 "img": [
                     {

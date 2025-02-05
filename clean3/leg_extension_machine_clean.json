@@ -62,10 +62,6 @@
                 "value": "steel"
             },
             {
-                "key": "ASIN",
-                "value": "B09LVTDNXH"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 15, 2021"
             }
@@ -75,7 +71,7 @@
                 "name": "White",
                 "weight": 13.335604799999999,
                 "price": 129.99,
-                "remaining_products": 67,
+                "remaining_products": 86,
                 "color": "White",
                 "img": [
                     {
@@ -124,7 +120,7 @@
                 "name": "Black",
                 "weight": 13.335604799999999,
                 "price": 129.99,
-                "remaining_products": 53,
+                "remaining_products": 63,
                 "color": "Black",
                 "img": [
                     {
@@ -255,10 +251,6 @@
                 "value": "Foam"
             },
             {
-                "key": "ASIN",
-                "value": "B06XCCDV49"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 28, 2017"
             }
@@ -268,7 +260,7 @@
                 "name": "Roman Chair",
                 "weight": 10.886208,
                 "price": 79.99,
-                "remaining_products": 74,
+                "remaining_products": 45,
                 "color": "White",
                 "img": [
                     {
@@ -281,7 +273,7 @@
                 "name": "Multi Function Roman Chair",
                 "weight": 10.886208,
                 "price": 79.99,
-                "remaining_products": 86,
+                "remaining_products": 82,
                 "color": "White",
                 "img": [
                     {
@@ -341,10 +333,6 @@
                 "value": "Leg Machines"
             },
             {
-                "key": "ASIN",
-                "value": "B0DJ2Q2WD4"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 27, 2024"
             }
@@ -354,7 +342,7 @@
                 "name": "Item 12.04 Kilograms 125.99",
                 "weight": "12.04 Kilograms",
                 "price": 125.99,
-                "remaining_products": 82,
+                "remaining_products": 72,
                 "color": "Black orange",
                 "img": [
                     {
@@ -499,10 +487,6 @@
                 "value": "Walking, Cycling, Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B07MWV1JD7"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 17, 2019"
             }
@@ -512,7 +496,7 @@
                 "name": "Classic",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 66,
+                "remaining_products": 68,
                 "color": "Gray-Magnetic",
                 "img": [
                     {
@@ -561,7 +545,7 @@
                 "name": "Smart & Motorized",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 33,
+                "remaining_products": 85,
                 "color": "Gray-Magnetic",
                 "img": [
                     {
@@ -598,7 +582,7 @@
                 "name": "Smart Pink",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 74,
+                "remaining_products": 32,
                 "color": "Pink",
                 "img": [
                     {
@@ -635,7 +619,7 @@
                 "name": "Smart",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 54,
+                "remaining_products": 77,
                 "color": "Gray-Magnetic",
                 "img": [
                     {
@@ -676,7 +660,7 @@
                 "name": "Classic Pink",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 99,
+                "remaining_products": 28,
                 "color": "Pink",
                 "img": [
                     {
@@ -795,10 +779,6 @@
                 "value": "Leg Curl/Extension Attachment"
             },
             {
-                "key": "ASIN",
-                "value": "B0069U8U9I"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 18, 2011"
             }
@@ -808,7 +788,7 @@
                 "name": "Item 14 Pounds 89.98",
                 "weight": "14 Pounds",
                 "price": 89.98,
-                "remaining_products": 41,
+                "remaining_products": 71,
                 "color": "Multi",
                 "img": [
                     {
@@ -899,10 +879,6 @@
                 "value": "1x Leg Curl Extension Machine"
             },
             {
-                "key": "ASIN",
-                "value": "B0D5WLGV4B"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 1, 2024"
             }
@@ -912,7 +888,7 @@
                 "name": "GOLDEN",
                 "weight": 47.627159999999996,
                 "price": 299.99,
-                "remaining_products": 97,
+                "remaining_products": 84,
                 "color": "Gold",
                 "img": [
                     {
@@ -953,7 +929,7 @@
                 "name": "BLACK",
                 "weight": 47.627159999999996,
                 "price": 299.99,
-                "remaining_products": 2,
+                "remaining_products": 86,
                 "color": "Black",
                 "img": [
                     {
@@ -1078,10 +1054,6 @@
                 "value": "Large"
             },
             {
-                "key": "ASIN",
-                "value": "B07HNLBZ4Y"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 12, 2018"
             }
@@ -1091,7 +1063,7 @@
                 "name": "Item 10.55 Kilograms 139.99",
                 "weight": "10.55 Kilograms",
                 "price": 139.99,
-                "remaining_products": 34,
+                "remaining_products": 7,
                 "color": "A-Regular Weight Bench",
                 "img": [
                     {

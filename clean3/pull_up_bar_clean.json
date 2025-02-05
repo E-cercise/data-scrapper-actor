@@ -86,10 +86,6 @@
                 "value": "Fitness & Yoga"
             },
             {
-                "key": "ASIN",
-                "value": "B00CQHGJ2I"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 10, 2013"
             }
@@ -99,7 +95,7 @@
                 "name": "W/ Plyo Box",
                 "weight": 39.916095999999996,
                 "price": 469.99,
-                "remaining_products": 58,
+                "remaining_products": 42,
                 "color": "Green",
                 "img": [
                     {
@@ -112,7 +108,7 @@
                 "name": "Green",
                 "weight": 39.916095999999996,
                 "price": 299.99,
-                "remaining_products": 85,
+                "remaining_products": 90,
                 "color": "Green",
                 "img": [
                     {
@@ -190,10 +186,6 @@
                 "value": "Pull-Up Bar"
             },
             {
-                "key": "ASIN",
-                "value": "B0C4YQNQ1T"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 11, 2023"
             }
@@ -203,7 +195,7 @@
                 "name": "Foldable Pull Up Bar",
                 "weight": 1.95,
                 "price": 29.99,
-                "remaining_products": 97,
+                "remaining_products": 31,
                 "color": "Black",
                 "img": [
                     {
@@ -244,7 +236,7 @@
                 "name": "Multi Grip Light",
                 "weight": 1.95,
                 "price": 29.99,
-                "remaining_products": 25,
+                "remaining_products": 27,
                 "color": "Black",
                 "img": [
                     {
@@ -378,10 +370,6 @@
                 "value": "24.9\"L x 2.25\"W x 2.5\"H"
             },
             {
-                "key": "ASIN",
-                "value": "B0062YVB4W"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 2, 2011"
             }
@@ -391,7 +379,7 @@
                 "name": "Multi Grip Light",
                 "weight": 1.2473779999999999,
                 "price": 24.99,
-                "remaining_products": 85,
+                "remaining_products": 29,
                 "color": "Black",
                 "img": [
                     {
@@ -428,7 +416,7 @@
                 "name": "Doorway",
                 "weight": 1.2473779999999999,
                 "price": 24.99,
-                "remaining_products": 20,
+                "remaining_products": 28,
                 "color": "Black",
                 "img": [
                     {
@@ -465,7 +453,7 @@
                 "name": "Multi Grip",
                 "weight": 1.2473779999999999,
                 "price": 24.99,
-                "remaining_products": 43,
+                "remaining_products": 52,
                 "color": "Black",
                 "img": [
                     {
@@ -502,7 +490,7 @@
                 "name": "Wall Mount",
                 "weight": 1.2473779999999999,
                 "price": 24.99,
-                "remaining_products": 98,
+                "remaining_products": 64,
                 "color": "Black",
                 "img": [
                     {
@@ -535,7 +523,7 @@
                 "name": "Foldable",
                 "weight": 1.2473779999999999,
                 "price": 24.99,
-                "remaining_products": 89,
+                "remaining_products": 66,
                 "color": "Black",
                 "img": [
                     {
@@ -645,10 +633,6 @@
                 "value": "3"
             },
             {
-                "key": "ASIN",
-                "value": "B0BLJVSN41"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 5, 2022"
             }
@@ -658,7 +642,7 @@
                 "name": "Black",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 76,
+                "remaining_products": 84,
                 "color": "Black",
                 "img": [
                     {
@@ -707,7 +691,7 @@
                 "name": "Army Green",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 92,
+                "remaining_products": 87,
                 "color": "Green",
                 "img": [
                     {
@@ -756,7 +740,7 @@
                 "name": "Yellow",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 60,
+                "remaining_products": 22,
                 "color": "Yellow",
                 "img": [
                     {
@@ -801,7 +785,7 @@
                 "name": "1-Orange",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 10,
+                "remaining_products": 16,
                 "color": "Orange",
                 "img": [
                     {
@@ -850,7 +834,7 @@
                 "name": "Rose Red",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 31,
+                "remaining_products": 93,
                 "color": "Red, Rose",
                 "img": [
                     {
@@ -978,10 +962,6 @@
                 "value": "Joist Mount Pull Up Bar"
             },
             {
-                "key": "ASIN",
-                "value": "B003TYCVKG"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 15, 2010"
             }
@@ -991,7 +971,7 @@
                 "name": "Item 4.88 Kilograms 72.99",
                 "weight": "4.88 Kilograms",
                 "price": 72.99,
-                "remaining_products": 4,
+                "remaining_products": 21,
                 "color": "Black",
                 "img": [
                     {
@@ -1105,10 +1085,6 @@
                 "value": "1NHS"
             },
             {
-                "key": "ASIN",
-                "value": "B07JC43D2P"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 12, 2018"
             }
@@ -1118,7 +1094,7 @@
                 "name": "Item 2.24 Kilograms 19.99",
                 "weight": "2.24 Kilograms",
                 "price": 19.99,
-                "remaining_products": 5,
+                "remaining_products": 99,
                 "color": "Rotating Pull Up Handles",
                 "img": [
                     {
@@ -1248,10 +1224,6 @@
                 "value": "40\""
             },
             {
-                "key": "ASIN",
-                "value": "B00D9Q7ZVY"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 3, 2013"
             }
@@ -1261,7 +1233,7 @@
                 "name": "Item 3.7 Pounds 21.29",
                 "weight": "3.7 Pounds",
                 "price": 21.29,
-                "remaining_products": 8,
+                "remaining_products": 101,
                 "color": "Chrome/Black",
                 "img": [
                     {
@@ -1379,10 +1351,6 @@
                 "value": "22\"(H) x 36\"(d) x 52\"(w)"
             },
             {
-                "key": "ASIN",
-                "value": "B00F6N54JI"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 31, 2017"
             }
@@ -1392,7 +1360,7 @@
                 "name": "Item 25 Pounds 74.87",
                 "weight": "25 Pounds",
                 "price": 74.87,
-                "remaining_products": 39,
+                "remaining_products": 9,
                 "color": "Black",
                 "img": [
                     {
@@ -1520,10 +1488,6 @@
                 "value": "One Size"
             },
             {
-                "key": "ASIN",
-                "value": "B00HR8BFXO"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 8, 2014"
             }
@@ -1533,7 +1497,7 @@
                 "name": "Item 12 Pounds 59.99",
                 "weight": "12 Pounds",
                 "price": 59.99,
-                "remaining_products": 93,
+                "remaining_products": 7,
                 "color": "Red",
                 "img": [
                     {
@@ -1649,10 +1613,6 @@
                 "value": "pull-up"
             },
             {
-                "key": "ASIN",
-                "value": "B0DD37TYC2"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 14, 2024"
             }
@@ -1662,7 +1622,7 @@
                 "name": "Item 4.4 Pounds 39.99",
                 "weight": "4.4 Pounds",
                 "price": 39.99,
-                "remaining_products": 59,
+                "remaining_products": 53,
                 "color": "Black-Red",
                 "img": [
                     {
@@ -1801,10 +1761,6 @@
                 "value": "NO SIZE"
             },
             {
-                "key": "ASIN",
-                "value": "B0016BNDXI"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 27, 2004"
             }
@@ -1814,7 +1770,7 @@
                 "name": "Item 3 Pounds 13.79",
                 "weight": "3 Pounds",
                 "price": 13.79,
-                "remaining_products": 14,
+                "remaining_products": 46,
                 "color": "Steel",
                 "img": [
                     {
@@ -1936,10 +1892,6 @@
                 "value": "NBR"
             },
             {
-                "key": "ASIN",
-                "value": "B01F60QZK2"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 20, 2017"
             }
@@ -1949,7 +1901,7 @@
                 "name": "Item 39.7 Pounds 339.99",
                 "weight": "39.7 Pounds",
                 "price": 339.99,
-                "remaining_products": 30,
+                "remaining_products": 42,
                 "color": "Black",
                 "img": [
                     {
@@ -2071,10 +2023,6 @@
                 "value": "XL Doorway Pull Up Bar with Elevated Bar and Adjustable Width, Hardware and Instruction Manual"
             },
             {
-                "key": "ASIN",
-                "value": "B01NCP3S71"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 23, 2016"
             }
@@ -2084,7 +2032,7 @@
                 "name": "Item 10.2 Pounds 69.95",
                 "weight": "10.2 Pounds",
                 "price": 69.95,
-                "remaining_products": 63,
+                "remaining_products": 95,
                 "color": "Metallic Gray",
                 "img": [
                     {
@@ -2190,10 +2138,6 @@
                 "value": "Refer to description"
             },
             {
-                "key": "ASIN",
-                "value": "B0DSC84S3T"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 6, 2025"
             }
@@ -2203,7 +2147,7 @@
                 "name": "Item 12.64 ounces 16.99",
                 "weight": "12.64 ounces",
                 "price": 16.99,
-                "remaining_products": 57,
+                "remaining_products": 31,
                 "color": "single attribute",
                 "img": [
                     {
@@ -2315,10 +2259,6 @@
                 "value": "199 Millimeters"
             },
             {
-                "key": "ASIN",
-                "value": "B073XVD5NY"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 14, 2017"
             }
@@ -2328,7 +2268,7 @@
                 "name": "Item 48 Pounds 191",
                 "weight": "48 Pounds",
                 "price": 191,
-                "remaining_products": 4,
+                "remaining_products": 66,
                 "color": "Black",
                 "img": [
                     {
@@ -2458,10 +2398,6 @@
                 "value": "Weightlifting, Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B002Y2SUU4"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 5, 2009"
             }
@@ -2471,7 +2407,7 @@
                 "name": "Grey",
                 "weight": 24.493968,
                 "price": 98.39,
-                "remaining_products": 71,
+                "remaining_products": 86,
                 "color": "Grey",
                 "img": [
                     {
@@ -2484,7 +2420,7 @@
                 "name": "Red",
                 "weight": 24.493968,
                 "price": 98.39,
-                "remaining_products": 5,
+                "remaining_products": 89,
                 "color": "Red",
                 "img": [
                     {
@@ -2497,7 +2433,7 @@
                 "name": "Red/Black",
                 "weight": 24.493968,
                 "price": 98.39,
-                "remaining_products": 77,
+                "remaining_products": 8,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -2510,7 +2446,7 @@
                 "name": "Fortress Red",
                 "weight": 24.493968,
                 "price": 98.39,
-                "remaining_products": 45,
+                "remaining_products": 48,
                 "color": "Red",
                 "img": [
                     {
@@ -2609,10 +2545,6 @@
                 "value": "48-Inches"
             },
             {
-                "key": "ASIN",
-                "value": "B00SFD36IW"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 1, 2015"
             }
@@ -2622,7 +2554,7 @@
                 "name": "Item 5.26 Kilograms 99.99",
                 "weight": "5.26 Kilograms",
                 "price": 99.99,
-                "remaining_products": 63,
+                "remaining_products": 57,
                 "color": "white and black",
                 "img": [
                     {
@@ -2728,10 +2660,6 @@
                 "value": "NO"
             },
             {
-                "key": "ASIN",
-                "value": "B0CBK5S5C3"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 10, 2023"
             }
@@ -2741,7 +2669,7 @@
                 "name": "Item 4.8 Pounds 34.99",
                 "weight": "4.8 Pounds",
                 "price": 34.99,
-                "remaining_products": 66,
+                "remaining_products": 35,
                 "color": "Grey",
                 "img": [
                     {
@@ -2840,10 +2768,6 @@
                 "value": "unisex-adult"
             },
             {
-                "key": "ASIN",
-                "value": "B0DJP7S41Y"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 8, 2024"
             }
@@ -2853,7 +2777,7 @@
                 "name": "Item 0.8 Pounds 33.99",
                 "weight": "0.8 Pounds",
                 "price": 33.99,
-                "remaining_products": 66,
+                "remaining_products": 85,
                 "color": "Orange",
                 "img": [
                     {

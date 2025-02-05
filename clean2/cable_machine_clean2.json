@@ -107,7 +107,7 @@
                 "name": "WSMS025B2",
                 "weight": 12.7912944,
                 "price": 175.5,
-                "remaining_products": 94,
+                "remaining_products": 2,
                 "color": "Blue, Yellow, Black",
                 "img": [
                     {
@@ -156,7 +156,7 @@
                 "name": "For 11/0-18 Gauge Wires",
                 "weight": 12.7912944,
                 "price": 269.99,
-                "remaining_products": 12,
+                "remaining_products": 82,
                 "color": "Blue, Yellow, Black",
                 "img": [
                     {
@@ -303,7 +303,7 @@
                 "name": "0.06\"-1.5\"",
                 "weight": 23.586784,
                 "price": 346.99,
-                "remaining_products": 95,
+                "remaining_products": 39,
                 "color": "Blue",
                 "img": [
                     {
@@ -352,7 +352,7 @@
                 "name": "0.06\"-1.18\"",
                 "weight": 23.586784,
                 "price": 167.99,
-                "remaining_products": 40,
+                "remaining_products": 39,
                 "color": "Blue",
                 "img": [
                     {
@@ -418,17 +418,17 @@
         "brand": "Balency",
         "description": null,
         "features": [
-            "\u3010More D-ring More Exercises\u3011- Equipped with 4 D-rings, ankle straps for cable machines woman achieve various exercise movements such as glute kick, hip abductors, inner thigh kick, leg curl, exercises for your thighs, glutes, hips, hamstrings and calves. Build shapely legs and firmer booty",
-            "\u3010One Size Fits All\u3011- Fit 9-13.6 Inch ankle size, ankle straps for cable machine kickback easily adjust the size to fit your feet effortlessly",
-            "\u3010Comfortable And Sturdy Material\u3011- We have adopted a more comfortable material. No chafing, touch skin directly. Double reinforced stitching make ankle cuff more secure without worrying about D-ring falling off",
-            "\u3010Extending Anti Slip Strap Length\u3011- Added an extra strap. When you back kick, it can protect your foot not to slip easily. And it will let your back kick more standard, not to strain the muscle. Considering that everyone's shoe height is different, we have extended the strap by 1.2 inches",
-            "\u3010Upgraded Hook and Loop\u3011- We have extended the range of hook and loop, improve material to ensure secure fit, preventing it from easily falling off during exercise with gym ankle strap for cable machine",
-            "\u3010Customer Service\u3011If you encounter any problems in the process of use, please let us know, we will help you solve the problem"
+            "【More D-ring More Exercises】- Equipped with 4 D-rings, ankle straps for cable machines woman achieve various exercise movements such as glute kick, hip abductors, inner thigh kick, leg curl, exercises for your thighs, glutes, hips, hamstrings and calves. Build shapely legs and firmer booty",
+            "【One Size Fits All】- Fit 9-13.6 Inch ankle size, ankle straps for cable machine kickback easily adjust the size to fit your feet effortlessly",
+            "【Comfortable And Sturdy Material】- We have adopted a more comfortable material. No chafing, touch skin directly. Double reinforced stitching make ankle cuff more secure without worrying about D-ring falling off",
+            "【Extending Anti Slip Strap Length】- Added an extra strap. When you back kick, it can protect your foot not to slip easily. And it will let your back kick more standard, not to strain the muscle. Considering that everyone's shoe height is different, we have extended the strap by 1.2 inches",
+            "【Upgraded Hook and Loop】- We have extended the range of hook and loop, improve material to ensure secure fit, preventing it from easily falling off during exercise with gym ankle strap for cable machine",
+            "【Customer Service】If you encounter any problems in the process of use, please let us know, we will help you solve the problem"
         ],
         "attributes": [
             {
                 "key": "Material",
-                "value": "Nylon\uff0cMetal"
+                "value": "Nylon，Metal"
             },
             {
                 "key": "Color",
@@ -508,7 +508,7 @@
                 "name": "Item 0.36 Kilograms 14.99",
                 "weight": "0.36 Kilograms",
                 "price": 14.99,
-                "remaining_products": 17,
+                "remaining_products": 2,
                 "color": "Black",
                 "img": [
                     {
@@ -545,16 +545,16 @@
     },
     {
         "asin": "B0BNQJ1G7X",
-        "title": "Ergonomic Exercise Handles for Cable Machine Attachments, Pilates, Strength Training Workout\uff0cResistance Bands Heavy Duty Working Out Handles Accessories",
+        "title": "Ergonomic Exercise Handles for Cable Machine Attachments, Pilates, Strength Training Workout，Resistance Bands Heavy Duty Working Out Handles Accessories",
         "price": 25.88,
         "brand": "HXD-ERGO",
         "description": null,
         "features": [
-            "Ergonomic handle Design\uff1aTraditional exercise handle are combined with ergonomic handles to help you get the right grip that reduces stress on your wrists when strength training",
-            "Upgraded Gym Handles\uff1aHXD-ERGO exercise handles are coated with a non-slip rubber material, stronger and more comfortable. Sturdy woven nylon straps, reinforced at the top with multi-needle stitching technology, not easy to break.Maximum load capacity 440 lbs",
-            "Cable Handles for Gym Equipment\uff1aProfessional cable attachments for Gym. Suitable for a variety of exercises to sculpt your biceps, triceps, lats, wide shoulder, etc.",
-            "Professional Gym Handle for Cable\uff1aOur exercise handles are suitable for professionals and beginners to do muscle building, fat loss, and strength training. Also suitable for home gym lat pull-down cable machines, weight pulley systems and Smith machines.",
-            "Professional & Satisfaction Service\uff1aHXD-ERGO focuses on providing professional fitness products and paying attention to user experience. Welcome to share your user experience with us. Let\u2019s become the best version of ourselves together."
+            "Ergonomic handle Design：Traditional exercise handle are combined with ergonomic handles to help you get the right grip that reduces stress on your wrists when strength training",
+            "Upgraded Gym Handles：HXD-ERGO exercise handles are coated with a non-slip rubber material, stronger and more comfortable. Sturdy woven nylon straps, reinforced at the top with multi-needle stitching technology, not easy to break.Maximum load capacity 440 lbs",
+            "Cable Handles for Gym Equipment：Professional cable attachments for Gym. Suitable for a variety of exercises to sculpt your biceps, triceps, lats, wide shoulder, etc.",
+            "Professional Gym Handle for Cable：Our exercise handles are suitable for professionals and beginners to do muscle building, fat loss, and strength training. Also suitable for home gym lat pull-down cable machines, weight pulley systems and Smith machines.",
+            "Professional & Satisfaction Service：HXD-ERGO focuses on providing professional fitness products and paying attention to user experience. Welcome to share your user experience with us. Let’s become the best version of ourselves together."
         ],
         "attributes": [
             {
@@ -651,7 +651,7 @@
                 "name": "Detachable Carabiner",
                 "weight": 0.453592,
                 "price": 25.88,
-                "remaining_products": 31,
+                "remaining_products": 7,
                 "color": "Detachable Carabiner",
                 "img": [
                     {
@@ -688,7 +688,7 @@
                 "name": "Integrated Carabiner",
                 "weight": 0.453592,
                 "price": 29.99,
-                "remaining_products": 93,
+                "remaining_products": 58,
                 "color": "Detachable Carabiner",
                 "img": [
                     {
@@ -734,11 +734,11 @@
         "brand": "HPYGN",
         "description": null,
         "features": [
-            "\u3010ADDED AN EXTRA ADJUSTABLE STRAP\u3011In order to solve the problem of the cable ankle strap sliding, our ankle cuff not only added an extra adjustable strap for secure your ankles, but also reinforce the strap part between bands and carabiner, more safe and durable. When you do kickback, it can protect your ankles not to slip easily and let your back kick more standard, won't strain the muscle, precise control of your inner and outer leg exercise, quickly get the body and physique of your dreams.",
-            "\u3010FOR ALL LOWER BODY WORKOUTS\u3011These gym ankle straps cable attachments for gym , focusing on the glutes. Super practical for your workouts, premium materials support the product's durability. Simply connect kick back ankle strap to the gym's cable machine and train your lower body to perfection. These ankle kickback strap for cable machines are great for resistance workouts for your glutes, glutes, thighs, calves, and hamstrings so you can have muscle and lean legs!",
-            "\u3010WORK THAT BOOTY ANYWHERE YOU WANT\u3011Wherever you exercise, cable kickback ankle straps are an essential addition to your workout. Easy to use in the gym or at home - whether you\u2019re on the cable machine, doing a leg workout, or using other exercise equipment. Keep leg pulley ankle straps in your gym bag so you\u2019re always ready to give your booty a fitness boost. Lightweight and easy to carry, they clip on and off in just a few seconds.",
-            "\u3010COMFORTABLE AND SKIN-FRIENDLY\u3011HPYGN glute kickback ankle straps are made with neoprene padding that is super soft and breathable and will not hurt your skin or cause discomfort. Thicker 8mm padding can effectively provide cushioning, reducing the pressure on the body, so you can be more comfortable during the workout. ankle straps for women men, adjustable size, whether it is a thin ankle, or a fat ankle, it can be a perfect match!",
-            "\u3010QUALITY ASSURANCE\u3011We have faith in our product & you'll always be covered. Anything of any problems of the ankle straps for cable machines we are glad to help you."
+            "【ADDED AN EXTRA ADJUSTABLE STRAP】In order to solve the problem of the cable ankle strap sliding, our ankle cuff not only added an extra adjustable strap for secure your ankles, but also reinforce the strap part between bands and carabiner, more safe and durable. When you do kickback, it can protect your ankles not to slip easily and let your back kick more standard, won't strain the muscle, precise control of your inner and outer leg exercise, quickly get the body and physique of your dreams.",
+            "【FOR ALL LOWER BODY WORKOUTS】These gym ankle straps cable attachments for gym , focusing on the glutes. Super practical for your workouts, premium materials support the product's durability. Simply connect kick back ankle strap to the gym's cable machine and train your lower body to perfection. These ankle kickback strap for cable machines are great for resistance workouts for your glutes, glutes, thighs, calves, and hamstrings so you can have muscle and lean legs!",
+            "【WORK THAT BOOTY ANYWHERE YOU WANT】Wherever you exercise, cable kickback ankle straps are an essential addition to your workout. Easy to use in the gym or at home - whether you’re on the cable machine, doing a leg workout, or using other exercise equipment. Keep leg pulley ankle straps in your gym bag so you’re always ready to give your booty a fitness boost. Lightweight and easy to carry, they clip on and off in just a few seconds.",
+            "【COMFORTABLE AND SKIN-FRIENDLY】HPYGN glute kickback ankle straps are made with neoprene padding that is super soft and breathable and will not hurt your skin or cause discomfort. Thicker 8mm padding can effectively provide cushioning, reducing the pressure on the body, so you can be more comfortable during the workout. ankle straps for women men, adjustable size, whether it is a thin ankle, or a fat ankle, it can be a perfect match!",
+            "【QUALITY ASSURANCE】We have faith in our product & you'll always be covered. Anything of any problems of the ankle straps for cable machines we are glad to help you."
         ],
         "attributes": [
             {
@@ -795,7 +795,7 @@
                 "name": "Single-Orange",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 54,
+                "remaining_products": 20,
                 "color": "Orange",
                 "img": [
                     {
@@ -808,7 +808,7 @@
                 "name": "1Pair-Orange",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 33,
+                "remaining_products": 13,
                 "color": "Orange",
                 "img": [
                     {
@@ -821,7 +821,7 @@
                 "name": "1Pair-Pink",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 82,
+                "remaining_products": 44,
                 "color": "Pink",
                 "img": [
                     {
@@ -834,7 +834,7 @@
                 "name": "1Pair-Black",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 32,
+                "remaining_products": 37,
                 "color": "Black",
                 "img": [
                     {
@@ -847,7 +847,7 @@
                 "name": "Single-Yellow",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 28,
+                "remaining_products": 16,
                 "color": "Yellow",
                 "img": [
                     {
@@ -860,7 +860,7 @@
     },
     {
         "asin": "B07GYXF65S",
-        "title": "Finer Form Multi-Functional Weight Bench for Full All-in-One Body Workout \u2013 Versatile Adjustable Workout Bench for Home Gym. Fitness equipment perfect for Back HyperExtension, Bench Press, Roman Chair Exercise, Sit up. Adjusts to Decline or Flat Bench.",
+        "title": "Finer Form Multi-Functional Weight Bench for Full All-in-One Body Workout – Versatile Adjustable Workout Bench for Home Gym. Fitness equipment perfect for Back HyperExtension, Bench Press, Roman Chair Exercise, Sit up. Adjusts to Decline or Flat Bench.",
         "price": 149.99,
         "brand": "FF Finer Form",
         "description": null,
@@ -948,7 +948,7 @@
                 "name": "Item 17.2 Kilograms 149.99",
                 "weight": "17.2 Kilograms",
                 "price": 149.99,
-                "remaining_products": 91,
+                "remaining_products": 5,
                 "color": "Black, Red",
                 "img": [
                     {
@@ -1059,7 +1059,7 @@
                 "name": "Upgraded Red Package(with BP & Bar & Bench)",
                 "weight": 68.0388,
                 "price": 1449.99,
-                "remaining_products": 48,
+                "remaining_products": 29,
                 "color": "Red",
                 "img": [
                     {
@@ -1072,7 +1072,7 @@
                 "name": "Upgraded Black Package(with BP & Bar & Bench)",
                 "weight": 68.0388,
                 "price": 1449.99,
-                "remaining_products": 61,
+                "remaining_products": 15,
                 "color": "Black",
                 "img": [
                     {
@@ -1085,7 +1085,7 @@
                 "name": "Black Power Rack",
                 "weight": 68.0388,
                 "price": 424.99,
-                "remaining_products": 81,
+                "remaining_products": 28,
                 "color": "Black",
                 "img": [
                     {
@@ -1098,7 +1098,7 @@
                 "name": "Red Power Rack",
                 "weight": 68.0388,
                 "price": 424.99,
-                "remaining_products": 59,
+                "remaining_products": 17,
                 "color": "Red",
                 "img": [
                     {
@@ -1111,7 +1111,7 @@
                 "name": "Black Package(with Bar & Bench)",
                 "weight": 68.0388,
                 "price": 849.99,
-                "remaining_products": 100,
+                "remaining_products": 60,
                 "color": "Black",
                 "img": [
                     {
@@ -1124,7 +1124,7 @@
                 "name": "Red Package(with Bar & Bench)",
                 "weight": 68.0388,
                 "price": 849.99,
-                "remaining_products": 92,
+                "remaining_products": 54,
                 "color": "Red",
                 "img": [
                     {
@@ -1223,7 +1223,7 @@
                 "name": "Black",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 38,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -1260,7 +1260,7 @@
                 "name": "Black Blue",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 79,
+                "remaining_products": 101,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -1297,7 +1297,7 @@
                 "name": "Black Orange",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 7,
+                "remaining_products": 0,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -1334,7 +1334,7 @@
                 "name": "Black Red",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 56,
+                "remaining_products": 100,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -1470,7 +1470,7 @@
                 "name": "Item 0.24 Pounds 9.99",
                 "weight": "0.24 Pounds",
                 "price": 9.99,
-                "remaining_products": 47,
+                "remaining_products": 82,
                 "color": "Black 2 pack",
                 "img": [
                     {
@@ -1516,9 +1516,9 @@
         "brand": "Body solid",
         "description": "Product DescriptionAchieve total body conditioning with the free motion Powerline by Body-Solid Cable Crossover Machine. An extra-wide and tall mainframe offers easy access to a virtually endless array of high and low pulley exercises, letting you exercise almost every major muscle group in your body. The fully functional professional carriage system utilizes four high resin pulleys on each side with patented nylon bushing technology and eight sealed ball bearings for smooth, continuous movement during your cable workout. The top and bottom pulleys swivel smoothly with more than 180-degrees of motion for frictionless training in all directions. This cable cross machine accepts both Olympic and standard plates (each sold separately) and comes with two cable handles and one ankle strap. When assembled, the Powerline Cable Crossover Machine measures 112 by 39 by 82 inches (L x W x H) and weighs 133 pounds. It is backed by the Powerline 10-Year In-Home , which covers the frame for 10 years and all other parts for one year. Add the Lat Pull-Up/Chin-Up Station (GCA2) to add even more versatility (sold separately).Amazon.comThe Cable Crossover Machine from Powerline offers smooth and friction-free 180-degree motion that allows you to exercise virtually every major muscle group in your body. The system features a wide and tall mainframe with a sturdy build, that provides access to a variety of high and low pulley exercises. The professional carriage system utilizes patented nylon bushing technology and eight sealed ball bearing with large-diameter high resin pulleys to guarantee smooth operation. The top and bottom pulleys swivel with over 180 degrees of movement for frictionless guidance in all directions. The system includes the mainframe as well as two cable handles and one ankle strap. Chin-up handles, standard and Olympic weight plates, and collars can be used with this system but are sold separately.Features and Specifications:Professional carriage system Professional carriage system Patented nylon bushing technology Patented nylon bushing technology Eight sealed ball bearing Eight sealed ball bearing High resin pulleys High resin pulleys Top and bottom pulleys offer over 180 degrees of movement Top and bottom pulleys offer over 180 degrees of movement Accepts both Olympic and standard plates Accepts both Olympic and standard plates Chin-up handles, weight plates, and collars optional (sold separately) Chin-up handles, weight plates, and collars optional (sold separately) Assembled dimensions: 82 by 112 by 39 inches (H x L x W) Assembled dimensions: 82 by 112 by 39 inches (H x L x W)",
         "features": [
-            "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life\u2026\u2026Your Life.",
+            "INDUSTRY LEADER: For 30+ years, Body Solid has held the widest array of products designed to meet the demands of the ever-changing fitness industry (home gym, free weight machines, treadmills, bikes, ellipticals, weight plates, kettlebells, dumbbells, flooring, accessories and more). Our products are cutting edge and reliable and are built for Life……Your Life.",
             "SUPERIOR QUALITY: The Body-Solid Cable Crossover machine is a testament to our commitment to quality and reliability. It is a top-tier gym equipment, designed with an industry-leading technology that features a patented nylon bushing technology and eight sealed ball bearing, high resin pulleys. This cable machine is not just a piece of equipment, it's an investment in your health and fitness goals.",
-            "VERSATILITY: The Body-Solid Cable Crossover machine offers total body exercise with an endless array of high and low pulley exercises. The top and bottom pulleys swivel smoothly and fully with over 180\u00b0 of movement, allowing for frictionless guidance in all directions.",
+            "VERSATILITY: The Body-Solid Cable Crossover machine offers total body exercise with an endless array of high and low pulley exercises. The top and bottom pulleys swivel smoothly and fully with over 180° of movement, allowing for frictionless guidance in all directions.",
             "EXERCISES: Use this home gym to complete a variety of full body workouts (pec fly, bench, incline, crossover, upright row, deltoid raise, shoulder press, close grip front lat pullup and pulldown, bent over row, seated row, ab crunch, oblique bend, tricep press down, outer and inner thigh abduction, calf press, reverse fly, glute kickback and many more.",
             "DIMENSIONS: This CABLE CROSSOVER is a dynamic addition to any home gym and garage gym exercise program. Measures 37\"x113\"x83\" and weighs 102lbs. 10 year manufacutrer warranty on frame, and 1 year on parts."
         ],
@@ -1601,7 +1601,7 @@
                 "name": "Item 118 Pounds 459",
                 "weight": "118 Pounds",
                 "price": 459,
-                "remaining_products": 21,
+                "remaining_products": 64,
                 "color": "Black",
                 "img": [
                     {
@@ -1647,7 +1647,7 @@
             "SIX WAYS TO TRAIN: PUMP gives you six different ways to train, so you can mix it up and keep things interesting. Choose from Standard Mode, Concentric Mode, Eccentric Mode, Constant Mode, Chain Mode, and Generation Mode to get the burn you're looking for.",
             "FREE TUTORIALS: Not sure how to do a particular movement? No problem. PUMP has over 100+ free videos and courses that show you exactly how to do each one. So you can learn proper form and technique and get the most out of your workout.",
             "TRACK YOUR PROGRESS: Want to see how far you've come? PUMP's app records all your workout data, including reps, sets, and calories burned. Plus, you can share photos, tips, and support with other PUMP users online.",
-            "TAKE IT ANYWHERE: With PUMP, you can get a big workout in a tiny package. It's light, compact, and ready to go wherever you go. So you can get your sweat on at home, at work, or on the road. And with dimensions of 4.1''L \u00d7 4.1''W \u00d7 2.4''H (10.4 \u00d7 10.4 \u00d7 6cm) and a weight of just 1.54lbs (700g), it won't weigh you down."
+            "TAKE IT ANYWHERE: With PUMP, you can get a big workout in a tiny package. It's light, compact, and ready to go wherever you go. So you can get your sweat on at home, at work, or on the road. And with dimensions of 4.1''L × 4.1''W × 2.4''H (10.4 × 10.4 × 6cm) and a weight of just 1.54lbs (700g), it won't weigh you down."
         ],
         "attributes": [
             {
@@ -1740,7 +1740,7 @@
                 "name": "Abyss Blue",
                 "weight": 0.7,
                 "price": 229,
-                "remaining_products": 86,
+                "remaining_products": 56,
                 "color": "Blue",
                 "img": [
                     {
@@ -1777,7 +1777,7 @@
                 "name": "Youthful Pink",
                 "weight": 0.7,
                 "price": 229,
-                "remaining_products": 76,
+                "remaining_products": 20,
                 "color": "Pink",
                 "img": [
                     {
@@ -1814,7 +1814,7 @@
                 "name": "Dynamic White",
                 "weight": 0.7,
                 "price": 229,
-                "remaining_products": 56,
+                "remaining_products": 41,
                 "color": "White",
                 "img": [
                     {
@@ -1851,7 +1851,7 @@
                 "name": "Energetic Blue",
                 "weight": 0.7,
                 "price": 229,
-                "remaining_products": 57,
+                "remaining_products": 28,
                 "color": "Blue",
                 "img": [
                     {
@@ -1982,7 +1982,7 @@
                 "name": "Pair Black",
                 "weight": 0.26,
                 "price": 7.99,
-                "remaining_products": 24,
+                "remaining_products": 14,
                 "color": "Black",
                 "img": [
                     {
@@ -2027,7 +2027,7 @@
                 "name": "Pair Mint",
                 "weight": 0.26,
                 "price": 7.99,
-                "remaining_products": 36,
+                "remaining_products": 19,
                 "color": "Mint",
                 "img": [
                     {
@@ -2064,7 +2064,7 @@
                 "name": "Pair Pink",
                 "weight": 0.26,
                 "price": 8.99,
-                "remaining_products": 54,
+                "remaining_products": 16,
                 "color": "Pink",
                 "img": [
                     {
@@ -2101,7 +2101,7 @@
                 "name": "Pair Purple blue",
                 "weight": 0.26,
                 "price": 8.99,
-                "remaining_products": 49,
+                "remaining_products": 38,
                 "color": "Blue, Purple",
                 "img": [
                     {
@@ -2145,9 +2145,9 @@
         "features": [
             "Premium Material - The Body-Solid BFFT10B 190lb Stack Home Gym is constructed to last with a heavy duty steel frame, ensuring maximum stability and durability of your workout equipment. The 190-lb selectorized weight stack makes this gym a highly reliable and efficient exercise machine for your home.",
             "Versatile Workouts - With this state-of-the-art machine, you can perform a variety of exercises to strengthen and tone your chest, shoulders, arms, and more. This machine also offers cable cross-over attachments and other gym accessories so you can tailor your workout routine at home.",
-            "Compact Design - The Body-Solid BFFT10B 190lb Stack Home Gym is designed to fit in even the most compact of home gyms or workout spaces. The space-saving design ensures that you\u2019ll have enough room to add other fitness equipment.",
-            "Adjustable Pulleys - This Best Fitness Functional Trainer features adjustable pulleys which swivel 180\u00b0 providing a wide variety of starting positions. The 190lb weight stack is challenging for most users, while the no cable change design allows you to go from exercise to exercise quickly.",
-            "Safety Features - The Body-Solid BFFT10B 190lb Stack Home Gym is designed with safety in mind. The stack pulleys are rounded for comfort, and the loading pins are textured to help prevent slippage and maintain your exercise form. And the adjustable Lat-bar ensures that you\u2019ll receive full range of motion for your workout."
+            "Compact Design - The Body-Solid BFFT10B 190lb Stack Home Gym is designed to fit in even the most compact of home gyms or workout spaces. The space-saving design ensures that you’ll have enough room to add other fitness equipment.",
+            "Adjustable Pulleys - This Best Fitness Functional Trainer features adjustable pulleys which swivel 180° providing a wide variety of starting positions. The 190lb weight stack is challenging for most users, while the no cable change design allows you to go from exercise to exercise quickly.",
+            "Safety Features - The Body-Solid BFFT10B 190lb Stack Home Gym is designed with safety in mind. The stack pulleys are rounded for comfort, and the loading pins are textured to help prevent slippage and maintain your exercise form. And the adjustable Lat-bar ensures that you’ll receive full range of motion for your workout."
         ],
         "attributes": [
             {
@@ -2224,7 +2224,7 @@
                 "name": "Item 330 Pounds 647.99",
                 "weight": "330 Pounds",
                 "price": 647.99,
-                "remaining_products": 57,
+                "remaining_products": 53,
                 "color": "Black",
                 "img": [
                     {
@@ -2367,7 +2367,7 @@
                 "name": "M",
                 "weight": 0.3,
                 "price": 49.95,
-                "remaining_products": 62,
+                "remaining_products": 18,
                 "color": "30 Inch",
                 "img": [
                     {
@@ -2404,7 +2404,7 @@
                 "name": "30 Inch Chrome",
                 "weight": 0.3,
                 "price": 48.85,
-                "remaining_products": 67,
+                "remaining_products": 74,
                 "color": "Chrome",
                 "img": [
                     {
@@ -2449,7 +2449,7 @@
                 "name": "30 Inch Ball Hand",
                 "weight": 0.3,
                 "price": 48.85,
-                "remaining_products": 89,
+                "remaining_products": 36,
                 "color": "30 Inch",
                 "img": [
                     {
@@ -2490,7 +2490,7 @@
                 "name": "20 Inch",
                 "weight": 0.3,
                 "price": 26.98,
-                "remaining_products": 18,
+                "remaining_products": 71,
                 "color": "30 Inch",
                 "img": [
                     {
@@ -2535,7 +2535,7 @@
                 "name": "30 Inch",
                 "weight": 0.3,
                 "price": 34.85,
-                "remaining_products": 36,
+                "remaining_products": 9,
                 "color": "30 Inch",
                 "img": [
                     {
@@ -2576,7 +2576,7 @@
                 "name": "36 Inch",
                 "weight": 0.3,
                 "price": 62.85,
-                "remaining_products": 37,
+                "remaining_products": 98,
                 "color": "30 Inch",
                 "img": [
                     {
@@ -2626,8 +2626,8 @@
             "Power up your leg day: Perfect for cable kickbacks, leg curl & extensions, and hip abduction exercises and more! Our ankle cable straps designed to sculpt your glutes, tone your legs, and power up your hips for a full lower-body burn",
             "Upgraded Leather Design: Our ankle straps feature a premium leather outer layer for sturdy and easy to clean, thick neoprene padding for extra comfort, and a breathable inner layer for softness",
             "Soft, Comfort & Protection: Our leg straps are designed with high-density Velcro for a secure and long-lasting fit, reinforced stitching to ensure durability, and anti-rust buckles for reliable support",
-            "Your Workout Essential: Our cable kickback ankle straps are a must-have cable attachment for your gym routine. Say goodbye to shared equipment\u2014treat yourself to super cute, comfy ankle straps that make leg day all yours",
-            "The Perfect Gift: Combining strength, sparkle, and style, our gym straps standout in any workout routine. Stunningly packaged, they\u2019re an ideal gift for those who love to sweat in style\u2014perfect for loved ones, workout buddies, or fitness enthusiasts"
+            "Your Workout Essential: Our cable kickback ankle straps are a must-have cable attachment for your gym routine. Say goodbye to shared equipment—treat yourself to super cute, comfy ankle straps that make leg day all yours",
+            "The Perfect Gift: Combining strength, sparkle, and style, our gym straps standout in any workout routine. Stunningly packaged, they’re an ideal gift for those who love to sweat in style—perfect for loved ones, workout buddies, or fitness enthusiasts"
         ],
         "attributes": [
             {
@@ -2725,7 +2725,7 @@
                 "name": "Black - Pair",
                 "weight": 0.36,
                 "price": 23.99,
-                "remaining_products": 48,
+                "remaining_products": 15,
                 "color": "Black",
                 "img": [
                     {
@@ -2770,7 +2770,7 @@
                 "name": "Black - Set",
                 "weight": 0.36,
                 "price": 23.99,
-                "remaining_products": 33,
+                "remaining_products": 4,
                 "color": "Black",
                 "img": [
                     {
@@ -2815,7 +2815,7 @@
                 "name": "Black - Single",
                 "weight": 0.36,
                 "price": 23.99,
-                "remaining_products": 60,
+                "remaining_products": 33,
                 "color": "Black",
                 "img": [
                     {
@@ -2856,7 +2856,7 @@
                 "name": "Pink - Single",
                 "weight": 0.36,
                 "price": 23.99,
-                "remaining_products": 19,
+                "remaining_products": 101,
                 "color": "Pink",
                 "img": [
                     {
@@ -2897,7 +2897,7 @@
                 "name": "Pink - Pair",
                 "weight": 0.36,
                 "price": 23.99,
-                "remaining_products": 5,
+                "remaining_products": 70,
                 "color": "Pink",
                 "img": [
                     {
@@ -2992,7 +2992,7 @@
             },
             {
                 "key": "Size",
-                "value": "13\u201d x 6.6\u201d x 9.8\u201d"
+                "value": "13” x 6.6” x 9.8”"
             },
             {
                 "key": "Batteries Required?",
@@ -3012,7 +3012,7 @@
                 "name": "Item 18.6 Pounds 299.99",
                 "weight": "18.6 Pounds",
                 "price": 299.99,
-                "remaining_products": 58,
+                "remaining_products": 75,
                 "color": "White",
                 "img": [
                     {
@@ -3112,7 +3112,7 @@
                 "name": "Red Home Gym Station",
                 "weight": 181.4368,
                 "price": 1299.99,
-                "remaining_products": 23,
+                "remaining_products": 32,
                 "color": "Red",
                 "img": [
                     {
@@ -3153,7 +3153,7 @@
                 "name": "Red Home Gym Station with Weight Bench Combo",
                 "weight": 181.4368,
                 "price": 1699.99,
-                "remaining_products": 62,
+                "remaining_products": 30,
                 "color": "Red",
                 "img": [
                     {
@@ -3202,7 +3202,7 @@
                 "name": "Black Home Gym Station",
                 "weight": 181.4368,
                 "price": 1299.99,
-                "remaining_products": 38,
+                "remaining_products": 35,
                 "color": "Black",
                 "img": [
                     {
@@ -3243,7 +3243,7 @@
                 "name": "Black Home Gym Station with Weight Bench Combo",
                 "weight": 181.4368,
                 "price": 1699.99,
-                "remaining_products": 31,
+                "remaining_products": 93,
                 "color": "Black",
                 "img": [
                     {
@@ -3296,7 +3296,7 @@
             "ULTRA-GRIP WIRE STRIPPER TECHNOLOGY: Our stripping machine improved with ultra-grip wire feeder technology. This technology massively increases torque, reduces slippage and straightens mangled wires to get them through the drill-powered wire stripper tool. It will untangle mangled wires effortlessly without any slips or jams. This unique cable stripper is an industrial grade automatic wire stripper for all your scrap wire.",
             "PORTABLE WIRE STRIPPER: You can bring this wire stripper machine where all the scrap wires and cables need to be stripped. The tool is lightweight, portable, and can easily fit in a bag or at the back of your truck or car for easy transport and storage. This wire stripping machine won't require a lot of space to strip all the copper wire you have. This drill-powered wire stripping machine is manufactured in North America and uses top-grade materials.",
             "DRILL-POWERED WIRE STRIPPING: Got a hand drill at home? Pair it with the StripMeister original wire stripping machine, and you've got a powerful tool that can handle various types of wires, from 18 gauge to 250 MCM, including braided (stranded) wire. This wire stripper is your partner for practical and economical wire recycling.",
-            "VERSATILE WIRE STRIPPER TOOL: Our drill-powered wire stripping tool can handle wire scraps of different sizes, from #18 to 250 MCM, with diameters ranging from 0.08\u2033 (2mm) to 0.79\u2033 (20.1mm). This wire stripping tool can also easily strip braided (stranded) wires. Many copper wire recyclers trust this stripper tool. The specialized slot will save 33% of your time compared to other wire insulation stripping tools.",
+            "VERSATILE WIRE STRIPPER TOOL: Our drill-powered wire stripping tool can handle wire scraps of different sizes, from #18 to 250 MCM, with diameters ranging from 0.08″ (2mm) to 0.79″ (20.1mm). This wire stripping tool can also easily strip braided (stranded) wires. Many copper wire recyclers trust this stripper tool. The specialized slot will save 33% of your time compared to other wire insulation stripping tools.",
             "EFFICIENT SCRAP WIRE STRIPPING: This powerful wire stripping machine can handle kinked and twisted cables and wires. You can go through scraps all day faster than you would with manual hand crank wire stripping. No need to tire yourself out, either, because you can reduce your time stripping copper wires with this product."
         ],
         "attributes": [
@@ -3378,7 +3378,7 @@
                 "name": "Item 4.2 Pounds 142",
                 "weight": "4.2 Pounds",
                 "price": 142,
-                "remaining_products": 45,
+                "remaining_products": 6,
                 "color": "Silver",
                 "img": [
                     {
@@ -3420,7 +3420,7 @@
         "brand": "CRGHS",
         "description": null,
         "features": [
-            "THE CRGHS LAT BAR\uff1aAttach to any pulley or cable weight machine and is ideal for several lat and upper body focused exercises like lat pulldowns, straight arm pulldowns and more.",
+            "THE CRGHS LAT BAR：Attach to any pulley or cable weight machine and is ideal for several lat and upper body focused exercises like lat pulldowns, straight arm pulldowns and more.",
             "BUILD A BIGGER BACK: Lat Pull Down can be extremely beneficial in building upper body strength especially in strengthening the muscles of the shoulder, latissimus dorsi, biceps and infraspinatus. in order to put up a good performance in sports like rowing.",
             "MATERIAL AND FEATURES: Constructed with high-strength, rust-roof, solid stainless steel with polished chrome coating, features rotating and swiveling center for more fluid motion, carabiner is included.",
             "ANTI-SLIP HANDLE: Use environment friendly textured rubber to provide ergonomic and firm grip during your regular routine, as well as to increase comfort and safety.",
@@ -3513,7 +3513,7 @@
                 "name": "Item 3 Kilograms 33.89",
                 "weight": "3 Kilograms",
                 "price": 33.89,
-                "remaining_products": 25,
+                "remaining_products": 27,
                 "color": "Silver",
                 "img": [
                     {
@@ -3644,7 +3644,7 @@
                 "name": "1 Channel-for1.5-23mm Wires",
                 "weight": 7.8,
                 "price": 159.99,
-                "remaining_products": 85,
+                "remaining_products": 87,
                 "color": "Grey",
                 "img": [
                     {
@@ -3693,7 +3693,7 @@
                 "name": "5 Channel-for1.5-25mm Wires",
                 "weight": 7.8,
                 "price": 59.99,
-                "remaining_products": 45,
+                "remaining_products": 89,
                 "color": "Grey",
                 "img": [
                     {
@@ -3828,7 +3828,7 @@
                 "name": "Yellow Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 99,
+                "remaining_products": 27,
                 "color": "Yellow",
                 "img": [
                     {
@@ -3869,7 +3869,7 @@
                 "name": "1-Red Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 42,
+                "remaining_products": 15,
                 "color": "Red",
                 "img": [
                     {
@@ -3918,7 +3918,7 @@
                 "name": "Black Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 71,
+                "remaining_products": 87,
                 "color": "Black",
                 "img": [
                     {
@@ -3963,7 +3963,7 @@
                 "name": "Blue Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 13,
+                "remaining_products": 97,
                 "color": "Blue",
                 "img": [
                     {
@@ -4004,7 +4004,7 @@
                 "name": "Orange Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 11,
+                "remaining_products": 98,
                 "color": "Orange",
                 "img": [
                     {
@@ -4045,7 +4045,7 @@
                 "name": "All Blue Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 51,
+                "remaining_products": 91,
                 "color": "Blue",
                 "img": [
                     {
@@ -4086,7 +4086,7 @@
                 "name": "Grey Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 82,
+                "remaining_products": 31,
                 "color": "1-Red Handles",
                 "img": [
                     {
@@ -4130,7 +4130,7 @@
         "title": "Ankle Straps for Working Out - Revitalize Your Lower Body Sculpting with Comfortable and Durable Ankle Strap for Cable Machine Pair - LiteMotion by FIGHTECH",
         "price": 11.99,
         "brand": "FIGHTECH",
-        "description": "Build Stronger, Leaner Muscles in Your Legs, Core, and Butt with Ankle Straps from FIGHTECH We all want strong, toned, shapely legs, but traditional workout machines don\u2019t give you the kind of support you need to expand your muscle-building routines. That\u2019s why we developed FIGHTECH Fitness Ankle Straps that help you sculpt your lower body with customized workouts that can be done at home, the gym, or on the go with stretchy fitness bands and cable machine systems. Designed to attach to your ankles, our straps ensure you never skip \u201cleg day\u201d by helping you get the best leg workout and body sculpting possible",
+        "description": "Build Stronger, Leaner Muscles in Your Legs, Core, and Butt with Ankle Straps from FIGHTECH We all want strong, toned, shapely legs, but traditional workout machines don’t give you the kind of support you need to expand your muscle-building routines. That’s why we developed FIGHTECH Fitness Ankle Straps that help you sculpt your lower body with customized workouts that can be done at home, the gym, or on the go with stretchy fitness bands and cable machine systems. Designed to attach to your ankles, our straps ensure you never skip “leg day” by helping you get the best leg workout and body sculpting possible",
         "features": [
             "Unleash Your Lower Body Dreams - Fightech Padded Gym Ankle Straps are your key to envy-inducing results. Sculpt glutes, quads, hips, hamstrings, calves, and thighs for a beach-ready look. Designed for kickback exercises, these ankle bands for working out elevate your glute game - trim, tone, and tighten your leg and glute muscles, unveiling a better butt and a traffic-stopping lower body. Embrace your potential with our new ankle straps for cable machines.",
             "Super effective cable machine attachment - Embrace supreme comfort like never before with our new cable ankle straps! These remarkable ankle workout straps boast a WIDER and THIKER design. Impeccably padded and exquisitely soft, they prioritize your comfort, ensuring a seamless workout experience free from discomfort or potential injury.",
@@ -4220,7 +4220,7 @@
                 "name": "Pair Green",
                 "weight": 0.4082328,
                 "price": 11.99,
-                "remaining_products": 55,
+                "remaining_products": 41,
                 "color": "Green",
                 "img": [
                     {
@@ -4269,7 +4269,7 @@
                 "name": "Pair Lavender",
                 "weight": 0.4082328,
                 "price": 11.99,
-                "remaining_products": 34,
+                "remaining_products": 92,
                 "color": "Lavender",
                 "img": [
                     {
@@ -4322,7 +4322,7 @@
                 "name": "Pair Blue",
                 "weight": 0.4082328,
                 "price": 11.99,
-                "remaining_products": 6,
+                "remaining_products": 52,
                 "color": "Blue",
                 "img": [
                     {
@@ -4371,7 +4371,7 @@
                 "name": "Pair Matte Black",
                 "weight": 0.4082328,
                 "price": 11.99,
-                "remaining_products": 53,
+                "remaining_products": 94,
                 "color": "Black",
                 "img": [
                     {
@@ -4425,11 +4425,11 @@
         "brand": "SELEWARE",
         "description": null,
         "features": [
-            "\u3010Rotating Straight Bar\u3011The pull/press down bar suits all cable machine system for home commercial gym, the 360 swivel can support to workout exercise push down, press down, rows, and curls. Easy to adjust the angle, without wrenching your wrists into uncomfortable positions",
-            "\u3010Sturdy\u3011 The bar is made of high quality solid steel, and the diameter is 1.5 inches, suitable for most people hand grips. The both end is non-slip rubber coverd handle, more comfortable to use. Even in the winter exercise, using the rubber grip will not feel very cold for a better workout experience. Can support to 980lb",
-            "\u3010Fitness Attachment\u3011 It is very suitable for strengthening the triceps and grip, aiming to develop your triceps, biceps, back, shoulders, abs and improve the biceps grip of the triceps",
-            "\u3010Packing List\u3011 1 x 18\" rotating straight bar. Size: 1.5 x 18 inch",
-            "\u3010Satisfaction Guarantee\u3011 If you are dissatisfied for any reason, return your order within 30-Days, we will always go above and beyond to ensure you are happy with your customer experience with SELEWARE. US Patent Pending. All Rights Reserved"
+            "【Rotating Straight Bar】The pull/press down bar suits all cable machine system for home commercial gym, the 360 swivel can support to workout exercise push down, press down, rows, and curls. Easy to adjust the angle, without wrenching your wrists into uncomfortable positions",
+            "【Sturdy】 The bar is made of high quality solid steel, and the diameter is 1.5 inches, suitable for most people hand grips. The both end is non-slip rubber coverd handle, more comfortable to use. Even in the winter exercise, using the rubber grip will not feel very cold for a better workout experience. Can support to 980lb",
+            "【Fitness Attachment】 It is very suitable for strengthening the triceps and grip, aiming to develop your triceps, biceps, back, shoulders, abs and improve the biceps grip of the triceps",
+            "【Packing List】 1 x 18\" rotating straight bar. Size: 1.5 x 18 inch",
+            "【Satisfaction Guarantee】 If you are dissatisfied for any reason, return your order within 30-Days, we will always go above and beyond to ensure you are happy with your customer experience with SELEWARE. US Patent Pending. All Rights Reserved"
         ],
         "attributes": [
             {
@@ -4482,7 +4482,7 @@
                 "name": "18\" & 22\" Rotating Straight Bar",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 98,
+                "remaining_products": 75,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4523,7 +4523,7 @@
                 "name": "18\" Rotating Straight Bar W/ Flat Rubber Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 34,
+                "remaining_products": 90,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4564,7 +4564,7 @@
                 "name": "22\" Rotating Straight Bar W/ Flat Rubber Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 96,
+                "remaining_products": 2,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4605,7 +4605,7 @@
                 "name": "B. Tricep Rope + Double D Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 48,
+                "remaining_products": 81,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4646,7 +4646,7 @@
                 "name": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 53,
+                "remaining_products": 97,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4691,7 +4691,7 @@
                 "name": "E. Straight Bar + Tricep Rope + Double D Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 21,
+                "remaining_products": 73,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4736,7 +4736,7 @@
                 "name": "22\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 90,
+                "remaining_products": 27,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4777,7 +4777,7 @@
                 "name": "D. Double D Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 67,
+                "remaining_products": 86,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -4827,7 +4827,7 @@
             "USE WITH ANY CABLE ATTACHMENT: Gym handles, Ropes, D-Handles, Tricep Ropes and More",
             "FOR ANY GYM: Use in Classic & Smart Cable Machines, Pull-Up Bars, Dip Stations, Power Towers & More",
             "ADJUSTABLE: Each Strap Can Be Adjusted To Multiple Lengths Range from 11-Inch to 33.8-Inch (excluding snap hook lengths)",
-            "THICK AND ROBUST: Featuring a 1.97\" wide nylon strap and a 2.67\" wide D-rings, both designed for heavy-duty use, ensuring a strong and secure attachment to different gym setups. For optimal performance and a precise fit, we recommend measuring your equipment to match the strap\u2019s specifications",
+            "THICK AND ROBUST: Featuring a 1.97\" wide nylon strap and a 2.67\" wide D-rings, both designed for heavy-duty use, ensuring a strong and secure attachment to different gym setups. For optimal performance and a precise fit, we recommend measuring your equipment to match the strap’s specifications",
             "2 Straps and 4 Metal Snap Hooks Included"
         ],
         "attributes": [
@@ -4901,7 +4901,7 @@
                 "name": "Item 700 Grams 29.99",
                 "weight": "700 Grams",
                 "price": 29.99,
-                "remaining_products": 84,
+                "remaining_products": 32,
                 "color": "Black",
                 "img": [
                     {

@@ -75,7 +75,7 @@
                 "name": "Item 18.14 Kilograms 139.99",
                 "weight": "18.14 Kilograms",
                 "price": 139.99,
-                "remaining_products": 29,
+                "remaining_products": 37,
                 "color": "Light Blue",
                 "img": [
                     {
@@ -214,7 +214,7 @@
                 "name": "Item 31 Pounds 44.99",
                 "weight": "31 Pounds",
                 "price": 44.99,
-                "remaining_products": 98,
+                "remaining_products": 61,
                 "color": "Black",
                 "img": [
                     {
@@ -353,7 +353,7 @@
                 "name": "25.0 Pounds",
                 "weight": 11.3398,
                 "price": 42.72,
-                "remaining_products": 69,
+                "remaining_products": 6,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -402,7 +402,7 @@
                 "name": "20.0 Pounds",
                 "weight": 9.07184,
                 "price": 38.09,
-                "remaining_products": 47,
+                "remaining_products": 15,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -451,7 +451,7 @@
                 "name": "12.0 Pounds",
                 "weight": 5.443104,
                 "price": 22.08,
-                "remaining_products": 12,
+                "remaining_products": 85,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -500,7 +500,7 @@
                 "name": "30 Pounds",
                 "weight": 13.607759999999999,
                 "price": 59.99,
-                "remaining_products": 32,
+                "remaining_products": 8,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -549,7 +549,7 @@
                 "name": "15.0 Pounds",
                 "weight": 6.8038799999999995,
                 "price": 23.78,
-                "remaining_products": 34,
+                "remaining_products": 51,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -598,7 +598,7 @@
                 "name": "5.0 Pounds",
                 "weight": 2.26796,
                 "price": 12.99,
-                "remaining_products": 5,
+                "remaining_products": 84,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -647,7 +647,7 @@
                 "name": "10.0 Pounds",
                 "weight": 4.53592,
                 "price": 21.99,
-                "remaining_products": 35,
+                "remaining_products": 2,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -696,7 +696,7 @@
                 "name": "18.0 Pounds",
                 "weight": 8.164656,
                 "price": 35.62,
-                "remaining_products": 17,
+                "remaining_products": 49,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -742,11 +742,11 @@
         "brand": "Cap Barbell",
         "description": null,
         "features": [
-            "VERSATILE \u2013 Kettlebells offer the ability to target specific muscle group exercises or a full body workout. Flat bottom allows ability to be used in specific flat bottom kettlebell exercises such as renegade rows, mounted pistol squats and handstands.",
-            "CONSTRUCTION \u2013 Made of solid high-quality cast iron with no weld, no seam casting and coated in an industrial powder coated finish for enduring protection.",
-            "FEATURES \u2013 Generous wide opening handle ensures a comfortable, secure grip with one hand or two. Size markers around the base of the handle allow the kettlebell size to be clearly identified. The flat bottom allows for easy, safe storage.",
-            "FUNCTIONAL \u2013 Perfect for swings, deadlifts, squats, get-ups, snatches and other athletic or cross training workouts.",
-            "CHOICES \u2013 This kettlebell group from CAP is available in the following lb: 9, 13, 18, 26, 35, 44, 53, 62, 70, 80, 88."
+            "VERSATILE – Kettlebells offer the ability to target specific muscle group exercises or a full body workout. Flat bottom allows ability to be used in specific flat bottom kettlebell exercises such as renegade rows, mounted pistol squats and handstands.",
+            "CONSTRUCTION – Made of solid high-quality cast iron with no weld, no seam casting and coated in an industrial powder coated finish for enduring protection.",
+            "FEATURES – Generous wide opening handle ensures a comfortable, secure grip with one hand or two. Size markers around the base of the handle allow the kettlebell size to be clearly identified. The flat bottom allows for easy, safe storage.",
+            "FUNCTIONAL – Perfect for swings, deadlifts, squats, get-ups, snatches and other athletic or cross training workouts.",
+            "CHOICES – This kettlebell group from CAP is available in the following lb: 9, 13, 18, 26, 35, 44, 53, 62, 70, 80, 88."
         ],
         "attributes": [
             {
@@ -843,7 +843,7 @@
                 "name": "Yellow",
                 "weight": 11.793392,
                 "price": 47.99,
-                "remaining_products": 34,
+                "remaining_products": 55,
                 "color": "Yellow",
                 "img": [
                     {
@@ -892,7 +892,7 @@
                 "name": "Pink",
                 "weight": 11.793392,
                 "price": 47.99,
-                "remaining_products": 40,
+                "remaining_products": 101,
                 "color": "Pink",
                 "img": [
                     {
@@ -941,7 +941,7 @@
                 "name": "Dark Gray",
                 "weight": 11.793392,
                 "price": 47.99,
-                "remaining_products": 51,
+                "remaining_products": 71,
                 "color": "Gray",
                 "img": [
                     {
@@ -994,7 +994,7 @@
                 "name": "Blue",
                 "weight": 11.793392,
                 "price": 47.99,
-                "remaining_products": 72,
+                "remaining_products": 81,
                 "color": "Blue",
                 "img": [
                     {
@@ -1149,7 +1149,7 @@
                 "name": "H. 5 - 10 - 15 - 20 - 25 - 30 lbs",
                 "weight": 13.607759999999999,
                 "price": 48.5,
-                "remaining_products": 10,
+                "remaining_products": 30,
                 "color": "B. 15 - 20 lbs",
                 "img": [
                     {
@@ -1190,7 +1190,7 @@
                 "name": "A. 10 - 15 lbs",
                 "weight": 6.8038799999999995,
                 "price": 48.5,
-                "remaining_products": 22,
+                "remaining_products": 40,
                 "color": "B. 15 - 20 lbs",
                 "img": [
                     {
@@ -1231,7 +1231,7 @@
                 "name": "B. 15 - 20 lbs",
                 "weight": 9.07184,
                 "price": 48.5,
-                "remaining_products": 71,
+                "remaining_products": 101,
                 "color": "B. 15 - 20 lbs",
                 "img": [
                     {
@@ -1272,7 +1272,7 @@
                 "name": "D. 5 - 10 - 15 lbs",
                 "weight": 6.8038799999999995,
                 "price": 48.5,
-                "remaining_products": 34,
+                "remaining_products": 5,
                 "color": "B. 15 - 20 lbs",
                 "img": [
                     {
@@ -1309,7 +1309,7 @@
                 "name": "C. 20 - 25 lbs",
                 "weight": 11.3398,
                 "price": 48.5,
-                "remaining_products": 15,
+                "remaining_products": 70,
                 "color": "B. 15 - 20 lbs",
                 "img": [
                     {
@@ -1350,7 +1350,7 @@
                 "name": "E. 10 - 15 - 20 lbs",
                 "weight": 9.07184,
                 "price": 48.5,
-                "remaining_products": 40,
+                "remaining_products": 96,
                 "color": "B. 15 - 20 lbs",
                 "img": [
                     {
@@ -1466,7 +1466,7 @@
                 "name": "Item 44 Kilograms 399.99",
                 "weight": "44 Kilograms",
                 "price": 399.99,
-                "remaining_products": 34,
+                "remaining_products": 72,
                 "color": "Grey",
                 "img": [
                     {
@@ -1507,7 +1507,7 @@
             "Set of 4 Kettlebells: The weight kettle bell training set comes with 4 pieces for your own preference: 5, 10 15 and 20 lbs kettlebell weights. These kettle bells are a great addition to home gym equipment. Ideal for all ages who want to train strength and achieve fitness goals",
             "Built for Long: Each one in the kettlebell set is covered with durable HDPE outer layer and filled with cement, strong durable and heavy duty. No rusty issues. The flat base can keep the kettle bells upright",
             "The flat base can keep the kettle bells upright, 4-piece kettlebell exercise fitness weight set wide range of weights ideal for anyone wanting to improve fitness",
-            "Wide Grip: These weighted kettlebells are designed with loop grip that is wide and easy to grip. Textured anti-slip handle adds more comfort while you\u2019re doing front raise, kettlebell swing or jump squat, no worry about them slipping out of your hands during a workout",
+            "Wide Grip: These weighted kettlebells are designed with loop grip that is wide and easy to grip. Textured anti-slip handle adds more comfort while you’re doing front raise, kettlebell swing or jump squat, no worry about them slipping out of your hands during a workout",
             "Great Weighted Exercises Equipment: Staying at home building strong body. These kettlebells can help you to train the muscles of the whole body, from your abs to arms to your legs. These weight kettlebells are great for beginner. The variety of weights allows you and your family exercise at the same time"
         ],
         "attributes": [
@@ -1565,7 +1565,7 @@
                 "name": "Item 50 Pounds 68.98",
                 "weight": "50 Pounds",
                 "price": 68.98,
-                "remaining_products": 87,
+                "remaining_products": 33,
                 "color": "Black",
                 "img": [
                     {
@@ -1606,7 +1606,7 @@
     },
     {
         "asin": "B007Q62QRG",
-        "title": "WOD Toys\u00ae Kettle Kid Kettlebell Red - Safe, Durable Kettle Bell Weight lifting Toy for Kids Fitness - Kid Gym Workout and Exercise Equipment for Toddlers and Children",
+        "title": "WOD Toys® Kettle Kid Kettlebell Red - Safe, Durable Kettle Bell Weight lifting Toy for Kids Fitness - Kid Gym Workout and Exercise Equipment for Toddlers and Children",
         "price": 24.95,
         "brand": "WOD Toys",
         "description": "From the ManufacturerKettle Kid just for your child. 4 inches wide and 0.5 pounds made of lightweight, durable plastic and rubber. The Kettle Kid will have your child swinging and pressing. For 3+ years of age.",
@@ -1679,7 +1679,7 @@
                 "name": "Item 8 ounces 24.95",
                 "weight": "8 ounces",
                 "price": 24.95,
-                "remaining_products": 37,
+                "remaining_products": 16,
                 "color": "red, Red Kettlebell with Blue Handle & Gray Rubber Base",
                 "img": [
                     {
@@ -1794,7 +1794,7 @@
                 "name": "15 Pounds",
                 "weight": 6.8038799999999995,
                 "price": 26.99,
-                "remaining_products": 69,
+                "remaining_products": 36,
                 "color": "Gray",
                 "img": [
                     {
@@ -1827,7 +1827,7 @@
                 "name": "25 Pounds",
                 "weight": 11.3398,
                 "price": 26.99,
-                "remaining_products": 83,
+                "remaining_products": 37,
                 "color": "Gray",
                 "img": [
                     {
@@ -1860,7 +1860,7 @@
                 "name": "5 Pounds",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 100,
+                "remaining_products": 64,
                 "color": "Gray",
                 "img": [
                     {
@@ -1893,7 +1893,7 @@
                 "name": "10 Pounds",
                 "weight": 4.53592,
                 "price": 26.99,
-                "remaining_products": 97,
+                "remaining_products": 17,
                 "color": "Gray",
                 "img": [
                     {
@@ -1936,7 +1936,7 @@
             "Ergonmic Grip Design: Comfortable extra-wide cast iron bodybuilding kettlebell weight with a protective shell provides easy maneuvering and better gripping during exercise to avoid unnecessary rubbing and blisters associated with ballistic training.",
             "Cast Iron Vinyl-Coated: This adjustable kettlebell is wrapped in a durable scratch-free vinyl coating to prevent corrosion, scrap hands and wreck floor; Each kettlebell lifting equipment, clearly marked with weight, ensure you do not grab the wrong bell",
             "Space Efficient: Ideal for those with limited workout space, our compact and lightweight set can be easily tucked away after your workout; Kettlebell is an excellent addition to home gym, exercise machines, suitable new to exercise or a veteran trainer",
-            "What You Get: Adjustable Kettlebell x 1; If for any reason you are less than satisfied with the product, please contact us by \u201cMy Order-Contact the Seller\u201d, our professional and friendly customer service will work hard to put a smile back on your face"
+            "What You Get: Adjustable Kettlebell x 1; If for any reason you are less than satisfied with the product, please contact us by “My Order-Contact the Seller”, our professional and friendly customer service will work hard to put a smile back on your face"
         ],
         "attributes": [
             {
@@ -2021,7 +2021,7 @@
                 "name": "E-Blue-12lb",
                 "weight": 5.443104,
                 "price": 39.99,
-                "remaining_products": 37,
+                "remaining_products": 81,
                 "color": "Blue",
                 "img": [
                     {
@@ -2070,7 +2070,7 @@
                 "name": "D-Black-40lb",
                 "weight": 18.14368,
                 "price": 39.99,
-                "remaining_products": 4,
+                "remaining_products": 11,
                 "color": "Black",
                 "img": [
                     {
@@ -2119,7 +2119,7 @@
                 "name": "L-Black-20lb",
                 "weight": 9.07184,
                 "price": 39.99,
-                "remaining_products": 91,
+                "remaining_products": 26,
                 "color": "Black",
                 "img": [
                     {
@@ -2156,7 +2156,7 @@
                 "name": "F-Pink-12lb",
                 "weight": 5.443104,
                 "price": 39.99,
-                "remaining_products": 86,
+                "remaining_products": 3,
                 "color": "Pink",
                 "img": [
                     {
@@ -2283,7 +2283,7 @@
                 "name": "Item 70.55 Pounds 299",
                 "weight": "70.55 Pounds",
                 "price": 299,
-                "remaining_products": 95,
+                "remaining_products": 87,
                 "color": "Black",
                 "img": [
                     {
@@ -2330,7 +2330,7 @@
             "20MM Thickened Foam:The connecting rod is made of a 5mm thick steel tube + 20mm thick high-quality foam. Curved design fits the neck, which is non-slip and sweat-absorbing, soft and breathable, bringing a more comfortable exercise experience to you",
             "Non-slip Dumbbell Bar:The surface of the dumbbell bar is made of ABS environmentally material and attached to a non-slip texture, which strengthens the friction of the hand and helps you control the dumbbell better during exercise",
             "Upgraded Nuts Enhanced Safety:UNNMIIY of the locking nuts enhance safety beyond regular multifunctional dumbbells.Nut thread thickening effectively keeps the dumbbell piece solid, to prevent movement shaking. Ensure your safety in use",
-            "More Weight Options & Storage Space\uff1c2Ft\u00b2:The dumbbell pieces feature a detachable design, and the adjustable weight range for the single dumbbell is 2lbs-22.5lbs, which meets your exercise intensity needs in different stages. Installation is easy",
+            "More Weight Options & Storage Space＜2Ft²:The dumbbell pieces feature a detachable design, and the adjustable weight range for the single dumbbell is 2lbs-22.5lbs, which meets your exercise intensity needs in different stages. Installation is easy",
             "Brand Support:UNNMIIY always due to providing our customers with the best service. If our product could not meet your expectations, please let us konw, we will respond within 12 hours"
         ],
         "attributes": [
@@ -2416,7 +2416,7 @@
                 "name": "45LBS(22.5LBS PAIR)",
                 "weight": 20.41164,
                 "price": 109.99,
-                "remaining_products": 31,
+                "remaining_products": 28,
                 "color": "45LBS(22.5LBS PAIR)",
                 "img": [
                     {
@@ -2465,7 +2465,7 @@
                 "name": "70LBS(35LBS PAIR)",
                 "weight": 31.75144,
                 "price": 169.99,
-                "remaining_products": 84,
+                "remaining_products": 26,
                 "color": "45LBS(22.5LBS PAIR)",
                 "img": [
                     {
@@ -2514,7 +2514,7 @@
                 "name": "90LBS(45LBS PAIR)",
                 "weight": 40.82328,
                 "price": 209.99,
-                "remaining_products": 13,
+                "remaining_products": 74,
                 "color": "45LBS(22.5LBS PAIR)",
                 "img": [
                     {
@@ -2563,7 +2563,7 @@
                 "name": "110LBS(55LBS PAIR)",
                 "weight": 49.89512,
                 "price": 284.99,
-                "remaining_products": 45,
+                "remaining_products": 92,
                 "color": "45LBS(22.5LBS PAIR)",
                 "img": [
                     {
@@ -2612,7 +2612,7 @@
                 "name": "30LBS(15LBS PAIR)",
                 "weight": 13.607759999999999,
                 "price": 89.99,
-                "remaining_products": 100,
+                "remaining_products": 39,
                 "color": "45LBS(22.5LBS PAIR)",
                 "img": [
                     {
@@ -2661,7 +2661,7 @@
                 "name": "20LBS(10LBS PAIR)",
                 "weight": 9.07184,
                 "price": 69.99,
-                "remaining_products": 29,
+                "remaining_products": 42,
                 "color": "45LBS(22.5LBS PAIR)",
                 "img": [
                     {
@@ -2713,10 +2713,10 @@
         "title": "US Weight Plastic Kettlebell Set - 5, 10, and 15 Pound Kettlebells",
         "price": 49.99,
         "brand": "US Weight",
-        "description": "This plastic kettlebell set includes 5lb, 10lb and 15lb kettlebells to allow a wide variety of exercises and progression. These kettlebells feature a cement core covered with a durable, high-strength HDPE shell. The wide grip handles and textured surface provide secure handling during swings, presses, snatches, and other dynamic moves. Kettlebell workouts deliver functional whole-body fitness by combining the burn of cardio with muscle building strength training and compound movements that deliver greater flexibility and coordination. Featuring the classic design popularized in Russia a few hundred years ago which allows them to be employed in countless ways\u2014including swings, presses, rows, twists, squats and snatches, these kettlebells are weighted off-centered, which engages more stabilizer muscles and works the targeted muscles through a wider range of motion.",
+        "description": "This plastic kettlebell set includes 5lb, 10lb and 15lb kettlebells to allow a wide variety of exercises and progression. These kettlebells feature a cement core covered with a durable, high-strength HDPE shell. The wide grip handles and textured surface provide secure handling during swings, presses, snatches, and other dynamic moves. Kettlebell workouts deliver functional whole-body fitness by combining the burn of cardio with muscle building strength training and compound movements that deliver greater flexibility and coordination. Featuring the classic design popularized in Russia a few hundred years ago which allows them to be employed in countless ways—including swings, presses, rows, twists, squats and snatches, these kettlebells are weighted off-centered, which engages more stabilizer muscles and works the targeted muscles through a wider range of motion.",
         "features": [
-            "Set includes 3 kettlebells - 5, 10, and 15 pounds. 5lb - 5.1\u201d Dia x 7.4\" H; 10lb - 6.2\" Dia x 8.7\" H; 15lb - 7.1\" Dia x 9.4\" H",
-            "Each kettlebell is constructed with a heavy-duty HDPE shell filled with cement, providing a durable build that won\u2019t rust and can provide years of use",
+            "Set includes 3 kettlebells - 5, 10, and 15 pounds. 5lb - 5.1” Dia x 7.4\" H; 10lb - 6.2\" Dia x 8.7\" H; 15lb - 7.1\" Dia x 9.4\" H",
+            "Each kettlebell is constructed with a heavy-duty HDPE shell filled with cement, providing a durable build that won’t rust and can provide years of use",
             "The handles are designed to provide plenty of grip room and feature a textured surface for secure handling even during dynamic moves",
             "The molded flat bottom provides stability and eliminates wobble. Large, color-coded weight markings for easy identification",
             "Kettlebell workouts deliver functional whole-body fitness by combining the burn of cardio with muscle building strength training and compound movements that deliver greater flexibility and coordination."
@@ -2792,7 +2792,7 @@
                 "name": "Item 30 Pounds 49.99",
                 "weight": "30 Pounds",
                 "price": 49.99,
-                "remaining_products": 95,
+                "remaining_products": 12,
                 "color": "Black",
                 "img": [
                     {
@@ -2931,7 +2931,7 @@
                 "name": "Black",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 93,
+                "remaining_products": 43,
                 "color": "Black",
                 "img": [
                     {
@@ -2980,7 +2980,7 @@
                 "name": "Army Green",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 57,
+                "remaining_products": 81,
                 "color": "Green",
                 "img": [
                     {
@@ -3029,7 +3029,7 @@
                 "name": "Yellow",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 49,
+                "remaining_products": 73,
                 "color": "Yellow",
                 "img": [
                     {
@@ -3074,7 +3074,7 @@
                 "name": "1-Orange",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 83,
+                "remaining_products": 16,
                 "color": "Orange",
                 "img": [
                     {
@@ -3123,7 +3123,7 @@
                 "name": "Rose Red",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 82,
+                "remaining_products": 47,
                 "color": "Red, Rose",
                 "img": [
                     {
@@ -3238,7 +3238,7 @@
                 "name": "10lb - Peacock Blue",
                 "weight": 4.53592,
                 "price": 23.74,
-                "remaining_products": 31,
+                "remaining_products": 59,
                 "color": "Blue",
                 "img": [
                     {
@@ -3267,7 +3267,7 @@
                 "name": "20lb - Peach Fuzz",
                 "weight": 9.07184,
                 "price": 33.24,
-                "remaining_products": 66,
+                "remaining_products": 95,
                 "color": "Peach",
                 "img": [
                     {
@@ -3308,7 +3308,7 @@
                 "name": "15lb - Purple",
                 "weight": 6.8038799999999995,
                 "price": 28.49,
-                "remaining_products": 5,
+                "remaining_products": 59,
                 "color": "Purple",
                 "img": [
                     {
@@ -3349,7 +3349,7 @@
                 "name": "05lb - Pink",
                 "weight": 2.26796,
                 "price": 18.99,
-                "remaining_products": 1,
+                "remaining_products": 40,
                 "color": "Pink",
                 "img": [
                     {
@@ -3390,7 +3390,7 @@
     },
     {
         "asin": "B0DFZ381PG",
-        "title": "Dumbbell Kettlebell Converter by SEWD \u2013 Turn Dumbbells into Kettlebell for Home Gym Workout \u2013 Adjustable Weights & Up to 110LB Capacity Kettlebell Handle for Weight Lifting, 90-Degree Rotating Handle - Red",
+        "title": "Dumbbell Kettlebell Converter by SEWD – Turn Dumbbells into Kettlebell for Home Gym Workout – Adjustable Weights & Up to 110LB Capacity Kettlebell Handle for Weight Lifting, 90-Degree Rotating Handle - Red",
         "price": 29.99,
         "brand": "SEWD",
         "description": "90-Degree Rotating Dumbbell Kettlebell Converter by SEWD",
@@ -3398,7 +3398,7 @@
             "This new style dumbbell converter could easily turn dumbbells into a weightlifting kettlebell in seconds, by simply snap and lock your dumbbells onto the kettlebells grip and you are ready to do any kettlebell weightlifting workouts.",
             "This SEWD kettlebell handle compatible with most adjustable dumbbells and standard dumbbells (max 1.5\" handle diameter, min 4.5\" handle length), it is perfect for your home gym as it utilizes existing weights and keeps storage tidy.",
             "Our adjustable kettlebell grip is made from premium quality ABS plastic and stainless steel which can bear intensive weightlifting exercises, and the ergonomic handle design supports comfortable & sturdy grip for any workouts which accommodates up to 110 pounds weight with secure lock.",
-            "This kettlebell weight set is lightweight designed which is portable for traveling, only weighs 1Lb and the small size is easy to pack in your gym bags, and the weights adjustable feature satisfies different fitness level\u2019s needs.",
+            "This kettlebell weight set is lightweight designed which is portable for traveling, only weighs 1Lb and the small size is easy to pack in your gym bags, and the weights adjustable feature satisfies different fitness level’s needs.",
             "No need for a variety of different weights of traditional kettlebell, combine our adjustable kettlebell handle with traditional dumbbells you will get a gym-level fitness equipment and save you a lot of money."
         ],
         "attributes": [
@@ -3456,7 +3456,7 @@
                 "name": "Item 1 Pounds 29.99",
                 "weight": "1 Pounds",
                 "price": 29.99,
-                "remaining_products": 77,
+                "remaining_products": 23,
                 "color": "Black and Red",
                 "img": [
                     {
@@ -3502,11 +3502,11 @@
         "brand": "PLKOW",
         "description": null,
         "features": [
-            "\u3010Storage Various Items\u3011: This strength training dumbbell rack can help to store your dumbbells, kettlebells, yoga block, resistance band, balls and more. Perfectly organize all your workout equipment in one storage rack.",
-            "\u3010Extra Large Capacity\u3011: Our workout storage rack equipped with 3 layers of dumbbell storage racks, a side basket for yoga mat and foam roller, several side storage hangers for storing resistance band and roller wheels. Bottom storage rack is perfect for storing balls, yoga blocks and other exercise equipment.",
-            "\u3010Sturdy Construction\u3011: This weight stand is made of high quality steel, with its sturdy construction and anti-rust powder coating, the dumbellsweights rack can hold up to 350 pounds and can be used for years.",
-            "\u3010Sturdy Wheels with Brake \u3011:The weight rack equipped with 4 multi-direction wheels (2 lockable). Convenience to move to any places you want. Ideal to use in Garage, Home and Gym.",
-            "\u3010Dimension & Customer Service\u3011: Size: 24.1''(L)x15.8''(W)x37''(H). If there is any problem with product or service, please feel free to contact us by email, we will reply with a solution within 24 hours."
+            "【Storage Various Items】: This strength training dumbbell rack can help to store your dumbbells, kettlebells, yoga block, resistance band, balls and more. Perfectly organize all your workout equipment in one storage rack.",
+            "【Extra Large Capacity】: Our workout storage rack equipped with 3 layers of dumbbell storage racks, a side basket for yoga mat and foam roller, several side storage hangers for storing resistance band and roller wheels. Bottom storage rack is perfect for storing balls, yoga blocks and other exercise equipment.",
+            "【Sturdy Construction】: This weight stand is made of high quality steel, with its sturdy construction and anti-rust powder coating, the dumbellsweights rack can hold up to 350 pounds and can be used for years.",
+            "【Sturdy Wheels with Brake 】:The weight rack equipped with 4 multi-direction wheels (2 lockable). Convenience to move to any places you want. Ideal to use in Garage, Home and Gym.",
+            "【Dimension & Customer Service】: Size: 24.1''(L)x15.8''(W)x37''(H). If there is any problem with product or service, please feel free to contact us by email, we will reply with a solution within 24 hours."
         ],
         "attributes": [
             {
@@ -3587,7 +3587,7 @@
                 "name": "Black, 50.4''(L)x15.8''(W)x43.7''(H)",
                 "weight": 9.0038012,
                 "price": 179.99,
-                "remaining_products": 95,
+                "remaining_products": 34,
                 "color": "Black",
                 "img": [
                     {
@@ -3600,7 +3600,7 @@
                 "name": "Beige, 40.4''(L)x15.8''(W)x36.8''(H)",
                 "weight": 9.0038012,
                 "price": 139.99,
-                "remaining_products": 38,
+                "remaining_products": 57,
                 "color": "Beige",
                 "img": [
                     {
@@ -3613,7 +3613,7 @@
                 "name": "Green, 40.4''(L)x15.8''(W)x36.8''(H)",
                 "weight": 9.0038012,
                 "price": 139.99,
-                "remaining_products": 16,
+                "remaining_products": 81,
                 "color": "Green",
                 "img": [
                     {
@@ -3631,11 +3631,11 @@
         "brand": "Yes4All",
         "description": null,
         "features": [
-            "\ud83d\udcaa PERFECT WEIGHT: Achieve your fitness goals with our 10lb Ultimate Power Ring Weight, designed for a variety of exercises. Ideal for home, travel, and storage, ensuring you never have to skip your workout no matter where you are.",
-            "\ud83d\udcaa PREMIUM MATERIAL: Crafted with a durable cast iron core and a water and sweat-resistant silicone cover, our Power Ring stands the test of time, providing long-lasting performance.",
-            "\ud83d\udcaa BEAUTIFUL CURVE: Experience the soft, smooth curve of our weight ring, enhanced by high-quality, odorless, non-slip silicone padding. This unique feature not only improves balance but also adds visual appeal to your workouts.",
-            "\ud83d\udcaa MULTI WORKOUT: Our multifunctional Power Ring Weight is perfect for a wide range of exercises, including yoga, aerobics, squats, and core training. Enjoy the versatility and convenience of a single fitness tool.",
-            "\ud83d\udcaa VERSATILE FUNCTIONS: With its ergonomic design, our weighted ring serves as an ideal alternative & support to various training equipment such as dumbbells and kettlebells. Experience the benefits of a full-body workout with this all-in-one fitness solution."
+            "💪 PERFECT WEIGHT: Achieve your fitness goals with our 10lb Ultimate Power Ring Weight, designed for a variety of exercises. Ideal for home, travel, and storage, ensuring you never have to skip your workout no matter where you are.",
+            "💪 PREMIUM MATERIAL: Crafted with a durable cast iron core and a water and sweat-resistant silicone cover, our Power Ring stands the test of time, providing long-lasting performance.",
+            "💪 BEAUTIFUL CURVE: Experience the soft, smooth curve of our weight ring, enhanced by high-quality, odorless, non-slip silicone padding. This unique feature not only improves balance but also adds visual appeal to your workouts.",
+            "💪 MULTI WORKOUT: Our multifunctional Power Ring Weight is perfect for a wide range of exercises, including yoga, aerobics, squats, and core training. Enjoy the versatility and convenience of a single fitness tool.",
+            "💪 VERSATILE FUNCTIONS: With its ergonomic design, our weighted ring serves as an ideal alternative & support to various training equipment such as dumbbells and kettlebells. Experience the benefits of a full-body workout with this all-in-one fitness solution."
         ],
         "attributes": [
             {
@@ -3712,7 +3712,7 @@
                 "name": "B. Pink - 10lb",
                 "weight": 4.53592,
                 "price": 54.99,
-                "remaining_products": 20,
+                "remaining_products": 39,
                 "color": "Pink",
                 "img": [
                     {
@@ -3753,7 +3753,7 @@
                 "name": "A. Black - 10lb",
                 "weight": 4.53592,
                 "price": 46.67,
-                "remaining_products": 58,
+                "remaining_products": 93,
                 "color": "Black",
                 "img": [
                     {
@@ -3799,11 +3799,11 @@
         "brand": "Yaheetech",
         "description": null,
         "features": [
-            "Plastic hard shell protects your floor: Coated in durable HDPE plastic and filled with cement, this kettle bells set won\u2019t do too much damage to the floor when dropped compared with the iron models.",
+            "Plastic hard shell protects your floor: Coated in durable HDPE plastic and filled with cement, this kettle bells set won’t do too much damage to the floor when dropped compared with the iron models.",
             "Wear-proof material: Wear-proof material, HDPE, is adopted, making the kettle bell uneasy to wear out.",
             "Textured grips: The surface of the handle is designed into a textured type that can add friction between the grips and your hands especially when you sweat, bringing you with cozy and reassuring user experience.",
             "Stamped code: The stamped code is clearly labeled on the body to help you identify different weights easily if you have several pairs of kettle bells various in weight.",
-            "Practical workout equipment: This HDPE-coated cement-filled kettlebell set is a practical alternative to the traditional cast iron kettle bells. Adding a kettle bell to your daily exercises like squats, dead lifts, sit-ups, presses\u2026 can take your workout plans to the next level."
+            "Practical workout equipment: This HDPE-coated cement-filled kettlebell set is a practical alternative to the traditional cast iron kettle bells. Adding a kettle bell to your daily exercises like squats, dead lifts, sit-ups, presses… can take your workout plans to the next level."
         ],
         "attributes": [
             {
@@ -3868,7 +3868,7 @@
                 "name": "Item 5 Pounds 149.99",
                 "weight": "5 Pounds",
                 "price": 149.99,
-                "remaining_products": 98,
+                "remaining_products": 56,
                 "color": "Black",
                 "img": [
                     {
@@ -3914,11 +3914,11 @@
         "brand": "ToughFit",
         "description": null,
         "features": [
-            "\u3010Cast Steel Structure\u3011- Made of more durable and solid material-cast steel, not easily fall off and is tougher than cast iron.",
-            "\u3010PU Coating\u3011- PU is the surface material of the kettlebell belly. This coating is more elastic, corrosion-preventing, durable, and not easy to crack.",
-            "\u3010Premium Hard Chrome Plated Handle\u3011- The ergonomic design of the handle, with the hard chrome, plated technic, best fits a comfortable and stable grip, ensuring longer durability without getting rust.",
-            "\u3010Stability\u3011- The proportional filling of the kettlebell belly incurs no loosening or noise. The flat-bottom design makes it easy to settle and store.",
-            "\u3010Various Weights and Combinations Available\u3011- The weight ranges from 20 to 195 lbs. Multiple weight choices satisfy bodybuilders' various needs. It works for swings, deadlifts, squats, standups, snatches, etc., beneficial to different muscle groups and body parts."
+            "【Cast Steel Structure】- Made of more durable and solid material-cast steel, not easily fall off and is tougher than cast iron.",
+            "【PU Coating】- PU is the surface material of the kettlebell belly. This coating is more elastic, corrosion-preventing, durable, and not easy to crack.",
+            "【Premium Hard Chrome Plated Handle】- The ergonomic design of the handle, with the hard chrome, plated technic, best fits a comfortable and stable grip, ensuring longer durability without getting rust.",
+            "【Stability】- The proportional filling of the kettlebell belly incurs no loosening or noise. The flat-bottom design makes it easy to settle and store.",
+            "【Various Weights and Combinations Available】- The weight ranges from 20 to 195 lbs. Multiple weight choices satisfy bodybuilders' various needs. It works for swings, deadlifts, squats, standups, snatches, etc., beneficial to different muscle groups and body parts."
         ],
         "attributes": [
             {
@@ -3979,7 +3979,7 @@
                 "name": "40LB",
                 "weight": 18.14368,
                 "price": 184.99,
-                "remaining_products": 68,
+                "remaining_products": 30,
                 "color": "Black",
                 "img": [
                     {
@@ -4024,7 +4024,7 @@
                 "name": "20+25+30LBS",
                 "weight": 13.607759999999999,
                 "price": 184.99,
-                "remaining_products": 66,
+                "remaining_products": 38,
                 "color": "Black",
                 "img": [
                     {
@@ -4065,7 +4065,7 @@
                 "name": "15+20+25LBS",
                 "weight": 11.3398,
                 "price": 184.99,
-                "remaining_products": 20,
+                "remaining_products": 60,
                 "color": "Black",
                 "img": [
                     {
@@ -4106,7 +4106,7 @@
                 "name": "15+30+45LBS",
                 "weight": 20.41164,
                 "price": 184.99,
-                "remaining_products": 62,
+                "remaining_products": 87,
                 "color": "Black",
                 "img": [
                     {
@@ -4139,7 +4139,7 @@
                 "name": "195LBS SET",
                 "weight": 88.45044,
                 "price": 184.99,
-                "remaining_products": 55,
+                "remaining_products": 60,
                 "color": "Black",
                 "img": [
                     {
@@ -4185,12 +4185,12 @@
         "brand": "F2C",
         "description": null,
         "features": [
-            "\u3010Multiple Weight Options\u3011This kettlebell set offers four different weights to choose from - 5lbs, 10lbs, 15lbs, and 20lbs. Whether you're a beginner or an experienced fitness enthusiast, you can find the perfect weight for your training needs.With our four-piece kettlebell set, you can easily adapt your workouts to your skill level and desired intensity, making it ideal for both beginners and advanced fitness enthusiasts",
-            "\u3010Durable and Long-lasting\u3011 The kettlebell features a durable HDPE plastic coating filled with cement, which causes less damage to floors in case of drops compared to iron kettlebells, effectively protecting your flooring & They are carefully crafted to ensure high quality and reliability",
-            "\u3010 Ergonomic & Textured Handle Design\u3011The kettlebell handle surface adopts an ergonomic & textured design, providing a comfortable grip and increasing friction between the hand and the kettlebell. The textured surface of the handle increases grip and friction, providing a comfortable and secure user experience, especially when dealing with sweaty hands",
-            "\u3010Flat Bottom Design\u3011Each kettlebell features a flat bottom design, ensuring stability when placed down and preventing rolling or wobbling. You can train safely anywhere without worrying about safety issues",
-            "\u3010Multi-functional Training\u3011The kettlebell set offers a wide range of training options, including strength training, muscle shaping, endurance training, and core stability training, among others. You can create a personalized training plan based on your fitness goals",
-            "\u3010Convenient Storage\u3011 The compact design of this kettlebell set makes it easy to store and transport. You can use them in your home gym, office, or while traveling to enjoy efficient training anytime, anywhere"
+            "【Multiple Weight Options】This kettlebell set offers four different weights to choose from - 5lbs, 10lbs, 15lbs, and 20lbs. Whether you're a beginner or an experienced fitness enthusiast, you can find the perfect weight for your training needs.With our four-piece kettlebell set, you can easily adapt your workouts to your skill level and desired intensity, making it ideal for both beginners and advanced fitness enthusiasts",
+            "【Durable and Long-lasting】 The kettlebell features a durable HDPE plastic coating filled with cement, which causes less damage to floors in case of drops compared to iron kettlebells, effectively protecting your flooring & They are carefully crafted to ensure high quality and reliability",
+            "【 Ergonomic & Textured Handle Design】The kettlebell handle surface adopts an ergonomic & textured design, providing a comfortable grip and increasing friction between the hand and the kettlebell. The textured surface of the handle increases grip and friction, providing a comfortable and secure user experience, especially when dealing with sweaty hands",
+            "【Flat Bottom Design】Each kettlebell features a flat bottom design, ensuring stability when placed down and preventing rolling or wobbling. You can train safely anywhere without worrying about safety issues",
+            "【Multi-functional Training】The kettlebell set offers a wide range of training options, including strength training, muscle shaping, endurance training, and core stability training, among others. You can create a personalized training plan based on your fitness goals",
+            "【Convenient Storage】 The compact design of this kettlebell set makes it easy to store and transport. You can use them in your home gym, office, or while traveling to enjoy efficient training anytime, anywhere"
         ],
         "attributes": [
             {
@@ -4243,7 +4243,7 @@
                 "name": "Item 50 Pounds 39.99",
                 "weight": "50 Pounds",
                 "price": 39.99,
-                "remaining_products": 39,
+                "remaining_products": 83,
                 "color": "Black",
                 "img": [
                     {
@@ -4401,7 +4401,7 @@
                 "name": "Item 24 Kilograms 86.39",
                 "weight": "24 Kilograms",
                 "price": 86.39,
-                "remaining_products": 60,
+                "remaining_products": 65,
                 "color": "Rage 1.0",
                 "img": [
                     {
@@ -4516,7 +4516,7 @@
                 "name": "Item 40 Pounds 1348",
                 "weight": "40 Pounds",
                 "price": 1348,
-                "remaining_products": 99,
+                "remaining_products": 64,
                 "color": "Grey, Black",
                 "img": [
                     {
@@ -4667,7 +4667,7 @@
                 "name": "Item 20 Pounds 52.48",
                 "weight": "20 Pounds",
                 "price": 52.48,
-                "remaining_products": 10,
+                "remaining_products": 43,
                 "color": "black",
                 "img": [
                     {
@@ -4794,7 +4794,7 @@
                 "name": "Item 0.41 Kilograms 34.95",
                 "weight": "0.41 Kilograms",
                 "price": 34.95,
-                "remaining_products": 78,
+                "remaining_products": 83,
                 "color": "Black",
                 "img": [
                     {
@@ -4838,7 +4838,7 @@
         "features": [
             "4 KETTLEBELLS IN 1 SET: The 50 LBS kettlebell set comprises four weights, weighing 5, 10, 15 and 20 pounds each. This set offers several weights to help you perform various exercises targeting different muscle groups.",
             "ERGONOMIC HANDLE: The wide grip allows you to comfortably hold the weight with one or two hands. The shape of the handle also fits you to swing the kettle bell from hand to hand easily.",
-            "PROTECT YOUR FLOOR: The kettlebells are coated in durable HDPE plastic and filled with concrete. Compared with iron models, the plastic shell won\u2019t do too much damage to the floor when dropped.",
+            "PROTECT YOUR FLOOR: The kettlebells are coated in durable HDPE plastic and filled with concrete. Compared with iron models, the plastic shell won’t do too much damage to the floor when dropped.",
             "WIDE FLAT BASE: Every kettle bell is designed with a flat base to ensure it sits flawlessly on the floor and does not roll or wobble.",
             "MUST-HAVE FOR HOME& GYM: With surprising versatility, this kettlebell set can add variety and challenge to your workout routine. The wide grip allows you to comfortably hold the weight with one or two hands."
         ],
@@ -4950,14 +4950,14 @@
     },
     {
         "asin": "B0D2N9ZKWH",
-        "title": "Dumbbell Kettlebell Converter by SEWD \u2013 Convert Dumbbells into Kettlebell for Home Gym Fitness \u2013 Adjustable Weights & Up to 220LB Capacity Kettlebell Handle for Weight Lifting, 90-Degree Rotating Handle.",
+        "title": "Dumbbell Kettlebell Converter by SEWD – Convert Dumbbells into Kettlebell for Home Gym Fitness – Adjustable Weights & Up to 220LB Capacity Kettlebell Handle for Weight Lifting, 90-Degree Rotating Handle.",
         "price": 29.99,
         "brand": "SEWD",
         "description": "Home gym adjustable kettlebell converter",
         "features": [
             "This new style of dumbbell converter could easily turn dumbbells into a weightlifting kettlebell in seconds, by simply snap and lock your dumbbells onto the kettlebells grip and you are ready to do kettlebell weightlifting workouts.",
             "Our adjustable kettlebell grip is made from premium quality ABS plastic and stainless steel which can bear intensive weightlifting exercises, and the ergonomic handle design supports comfortable & sturdy grip for any workouts which accommodates up to 220 pounds weight with secure lock.",
-            "This kettlebell weight set is lightweight designed which is portable for traveling, only weighs 1Lb and the small size is easy to pack in your gym bags, and the weights adjustable feature satisfies different fitness level\u2019s needs.",
+            "This kettlebell weight set is lightweight designed which is portable for traveling, only weighs 1Lb and the small size is easy to pack in your gym bags, and the weights adjustable feature satisfies different fitness level’s needs.",
             "This SEWD kettlebell handle compatible with most adjustable dumbbells and standard dumbbells (max 1.5\" handle diameter, min 4.5\" handle length), it is perfect for your home gym as it utilizes existing weights and keeps storage tidy.",
             "No need for a variety of different weights of traditional kettlebell, combine our adjustable kettlebell handle with traditional dumbbells you will get a gym-level fitness equipment and save you a lot of money."
         ],
@@ -5020,7 +5020,7 @@
                 "name": "Item 16 ounces 29.99",
                 "weight": "16 ounces",
                 "price": 29.99,
-                "remaining_products": 27,
+                "remaining_products": 60,
                 "color": "black",
                 "img": [
                     {
@@ -5061,7 +5061,7 @@
     },
     {
         "asin": "B008CXWDDY",
-        "title": "PowerBlock Pro Series Kettlebell Handle \u2013 Compatible Pro Series Dumbbells, Strength Training Accessory, for Home Gym & Commercial Use, Workout Equipment, Black",
+        "title": "PowerBlock Pro Series Kettlebell Handle – Compatible Pro Series Dumbbells, Strength Training Accessory, for Home Gym & Commercial Use, Workout Equipment, Black",
         "price": 99,
         "brand": "POWERBLOCK",
         "description": "PowerBlock Pro Series Kettlebell Handles easily turn your PowerBlock Pro Series adjustable dumbbells into a set of kettlebells. Weights are sold separately. Drop the 10-pound handle with a 25mm grip diameter into any compatible weight stack and begin. Compatible models include Pro 50 (Pro Series), Pro EXP (Pro Series), Pro 50 and Pro 90 (Pro Commercial Series), and U50, U70, U90 (Urethane Series). Adding another dimension to different movements gets the most out of every workout. This is an excellent tool for kettlebell swings, farmers walk, lunges, and more. Sold as a single unit (1 handle). 25mm grip diameter. The handle weighs 10 pounds. Does not contain adder weight ports.",
@@ -5069,7 +5069,7 @@
             "STRENGTH TRAINING KETTLEBELL HANDLE: Turning a set of PowerBlock Pro dumbbells into a set of kettlebells has never been easier, just drop the 10-pound handle with a 25mm grip diameter into a compatible weight stack and begin your strength training.",
             "FOR A VARIETY OF EXERCISES: Add another dimension to different movements and get the most out of every workout. This handle is an excellent tool for kettlebell swings, farmers walk, lunges, and more.",
             "WEIGHT SET FOR HOME GYM & COMMERCIAL USE: Save both space and money with this kettlebell handle (weights sold separately). They are a versatile addition to your home or commercial gym.",
-            "COMPATIBLE WITH OTHER POWERBLOCK PRODUCTS: This adjustable kettlebell handle is compatible with PowerBlock\u2019s Pro 50 (Pro Series), Pro EXP (Pro Series), Pro 50 and Pro 90 (Pro Commercial Series), and U50, U70, U90 (Urethane Series).",
+            "COMPATIBLE WITH OTHER POWERBLOCK PRODUCTS: This adjustable kettlebell handle is compatible with PowerBlock’s Pro 50 (Pro Series), Pro EXP (Pro Series), Pro 50 and Pro 90 (Pro Commercial Series), and U50, U70, U90 (Urethane Series).",
             "LONG LASTING FOR YEARS OF USE: This workout equipment is engineered for a higher quality build that will last for years. The all-steel construction will turn multiple weights in the space of one."
         ],
         "attributes": [
@@ -5151,7 +5151,7 @@
                 "name": "Item 4.5 Kilograms 99",
                 "weight": "4.5 Kilograms",
                 "price": 99,
-                "remaining_products": 16,
+                "remaining_products": 66,
                 "color": "Black",
                 "img": [
                     {
@@ -5262,7 +5262,7 @@
                 "name": "Item 62 Pounds 110.85",
                 "weight": "62 Pounds",
                 "price": 110.85,
-                "remaining_products": 13,
+                "remaining_products": 40,
                 "color": "J - Mint - 28 KG / 62 LB",
                 "img": [
                     {
@@ -5304,11 +5304,11 @@
         "brand": "BouPower",
         "description": null,
         "features": [
-            "\u30104-IN-1 MULTIFUNCTIONAL TRAINING MODES\u3011: Multifunctional 4 in 1 upgrade dumbbell set, so you have a set of dumbbells, kettlebells, barbells, push-ups four exercise modes, free removal, easy installation.",
-            "\u3010ENVIRONMENTALLY FRIENDLY MATERIALS\u3011:Dumbbells set covers an area of small, more suitable for home exercise, safe and practical. Dumbbell sheet external wrapped with high-quality thickened ABS material, shock absorption does not hurt the floor, dumbbell sheet filled with a mixture of environmentally friendly iron sand, safe and environmentally friendly.",
-            "\u3010IRON HANDLE AND ANTI-SLIP DESIGN\u3011:Made of iron tube grip with non-slip surface,the dumbbell handle is better to fit the hand, strengthen the friction, effectively prevent sweating and slippage, the use of more stable.",
-            "FREE COMBINATION BARBELL\u3011:Install the connecting rod with the Free Weights Dumbbells Set, it becomes light barbell and heavy barbell, and the light barbell counterweight range is 5.5 - 22LBS; heavy barbell counterweight range is 11 - 44LBS, that meet the needs of whole body exercises for men and women well.",
-            "\u3010PACKAGE LIST\u3011:4 x 2.5lbs counterweight, 4 x 3.5lbs counterweight, 4 x 4.5lbs counterweight, Dumbbell Bar x 2, Barbell Connector x 1, Kettlebell Rod x 1, Push-Up Handle x 2, Circlips x 6. Any questions,please feel free to contact us."
+            "【4-IN-1 MULTIFUNCTIONAL TRAINING MODES】: Multifunctional 4 in 1 upgrade dumbbell set, so you have a set of dumbbells, kettlebells, barbells, push-ups four exercise modes, free removal, easy installation.",
+            "【ENVIRONMENTALLY FRIENDLY MATERIALS】:Dumbbells set covers an area of small, more suitable for home exercise, safe and practical. Dumbbell sheet external wrapped with high-quality thickened ABS material, shock absorption does not hurt the floor, dumbbell sheet filled with a mixture of environmentally friendly iron sand, safe and environmentally friendly.",
+            "【IRON HANDLE AND ANTI-SLIP DESIGN】:Made of iron tube grip with non-slip surface,the dumbbell handle is better to fit the hand, strengthen the friction, effectively prevent sweating and slippage, the use of more stable.",
+            "FREE COMBINATION BARBELL】:Install the connecting rod with the Free Weights Dumbbells Set, it becomes light barbell and heavy barbell, and the light barbell counterweight range is 5.5 - 22LBS; heavy barbell counterweight range is 11 - 44LBS, that meet the needs of whole body exercises for men and women well.",
+            "【PACKAGE LIST】:4 x 2.5lbs counterweight, 4 x 3.5lbs counterweight, 4 x 4.5lbs counterweight, Dumbbell Bar x 2, Barbell Connector x 1, Kettlebell Rod x 1, Push-Up Handle x 2, Circlips x 6. Any questions,please feel free to contact us."
         ],
         "attributes": [
             {
@@ -5389,7 +5389,7 @@
                 "name": "44 LBS-Iron Handle",
                 "weight": 19.958047999999998,
                 "price": 69.99,
-                "remaining_products": 9,
+                "remaining_products": 20,
                 "color": "44 LBS-Iron Handle",
                 "img": [
                     {
@@ -5426,7 +5426,7 @@
                 "name": "30 LBS-Iron Handle",
                 "weight": 13.607759999999999,
                 "price": 49.99,
-                "remaining_products": 14,
+                "remaining_products": 3,
                 "color": "44 LBS-Iron Handle",
                 "img": [
                     {
@@ -5515,7 +5515,7 @@
                 "name": "Item 10 Kilograms 78.99",
                 "weight": "10 Kilograms",
                 "price": 78.99,
-                "remaining_products": 14,
+                "remaining_products": 54,
                 "color": "Blue",
                 "img": [
                     {
@@ -5630,7 +5630,7 @@
                 "name": "10LB - Red",
                 "weight": 4.53592,
                 "price": 37.95,
-                "remaining_products": 69,
+                "remaining_products": 12,
                 "color": "Red",
                 "img": [
                     {
@@ -5675,7 +5675,7 @@
                 "name": "25LB - Green",
                 "weight": 11.3398,
                 "price": 69.95,
-                "remaining_products": 7,
+                "remaining_products": 82,
                 "color": "Green",
                 "img": [
                     {
@@ -5724,7 +5724,7 @@
                 "name": "20LB - Orange",
                 "weight": 9.07184,
                 "price": 59.95,
-                "remaining_products": 54,
+                "remaining_products": 73,
                 "color": "Orange",
                 "img": [
                     {
@@ -5773,7 +5773,7 @@
                 "name": "15LB - Blue",
                 "weight": 6.8038799999999995,
                 "price": 49.99,
-                "remaining_products": 11,
+                "remaining_products": 73,
                 "color": "Blue",
                 "img": [
                     {
@@ -5822,7 +5822,7 @@
                 "name": "5LB - Purple",
                 "weight": 2.26796,
                 "price": 24.95,
-                "remaining_products": 89,
+                "remaining_products": 85,
                 "color": "Purple",
                 "img": [
                     {
@@ -5985,7 +5985,7 @@
                 "name": "15lb",
                 "weight": 6.8038799999999995,
                 "price": 37.99,
-                "remaining_products": 45,
+                "remaining_products": 7,
                 "color": "25lbs",
                 "img": [
                     {
@@ -6018,7 +6018,7 @@
                 "name": "35lb",
                 "weight": 15.87572,
                 "price": 37.99,
-                "remaining_products": 9,
+                "remaining_products": 89,
                 "color": "25lbs",
                 "img": [
                     {
@@ -6051,7 +6051,7 @@
                 "name": "25lb",
                 "weight": 11.3398,
                 "price": 37.99,
-                "remaining_products": 35,
+                "remaining_products": 87,
                 "color": "25lbs",
                 "img": [
                     {
@@ -6084,7 +6084,7 @@
                 "name": "30lb",
                 "weight": 13.607759999999999,
                 "price": 37.99,
-                "remaining_products": 95,
+                "remaining_products": 55,
                 "color": "25lbs",
                 "img": [
                     {
@@ -6117,7 +6117,7 @@
                 "name": "10lb",
                 "weight": 4.53592,
                 "price": 37.99,
-                "remaining_products": 69,
+                "remaining_products": 53,
                 "color": "25lbs",
                 "img": [
                     {
@@ -6150,7 +6150,7 @@
                 "name": "20lb",
                 "weight": 9.07184,
                 "price": 37.99,
-                "remaining_products": 90,
+                "remaining_products": 67,
                 "color": "25lbs",
                 "img": [
                     {
@@ -6186,11 +6186,11 @@
         "title": "15LB Kettlebell with 3 Handles | Multigrip for Strength Training, Home Gym, Core Workouts, Full-Body Fitness, Cardio, Weightlifting, and Functional Training - Versatile and Durable Design.",
         "price": 23,
         "brand": "Mommy Mango",
-        "description": "Versatile 15LB Kettlebell with 3 Handles | Full-Body Workout Tool Transform your fitness with this ergonomic kettlebell featuring a unique 3-handle design for ultimate versatility. Ideal for strength training, core workouts, and functional fitness, it\u2019s perfect for all fitness levels. Perform kettlebell swings, squats, deadlifts, snatches, and more while targeting biceps, shoulders, legs, and core. The multigrip handles ensure a secure hold for both beginners and advanced athletes, enhancing stability and control during exercises. Compact and durable, this kettlebell replaces multiple weights, saving space and money for your home gym. Maximize results with one tool designed for cardio, endurance, and fat-burning routines. Perfect for low-impact or high-intensity training, this kettlebell grows with your progress and offers years of effective workouts. Achieve total-body conditioning with this innovative fitness solution!",
+        "description": "Versatile 15LB Kettlebell with 3 Handles | Full-Body Workout Tool Transform your fitness with this ergonomic kettlebell featuring a unique 3-handle design for ultimate versatility. Ideal for strength training, core workouts, and functional fitness, it’s perfect for all fitness levels. Perform kettlebell swings, squats, deadlifts, snatches, and more while targeting biceps, shoulders, legs, and core. The multigrip handles ensure a secure hold for both beginners and advanced athletes, enhancing stability and control during exercises. Compact and durable, this kettlebell replaces multiple weights, saving space and money for your home gym. Maximize results with one tool designed for cardio, endurance, and fat-burning routines. Perfect for low-impact or high-intensity training, this kettlebell grows with your progress and offers years of effective workouts. Achieve total-body conditioning with this innovative fitness solution!",
         "features": [
-            "Enhanced Strength and Versatility with 3-Handle Kettlebell Design: This innovative 15lb kettlebell features a unique 3-handle design, offering unmatched grip versatility for a wide range of exercises. Perfect for training sessions like swings, squats, deadlifts, get-ups, and snatches, the ergonomic handles ensure a secure and comfortable hold. Whether you\u2019re targeting strength, stability, or endurance, this kettlebell is designed for safe and effective workouts, making it an essential tool for any fitness level.",
+            "Enhanced Strength and Versatility with 3-Handle Kettlebell Design: This innovative 15lb kettlebell features a unique 3-handle design, offering unmatched grip versatility for a wide range of exercises. Perfect for training sessions like swings, squats, deadlifts, get-ups, and snatches, the ergonomic handles ensure a secure and comfortable hold. Whether you’re targeting strength, stability, or endurance, this kettlebell is designed for safe and effective workouts, making it an essential tool for any fitness level.",
             "Full-Body Training with Every Workout: Maximize your fitness potential with this versatile kettlebell, designed to target multiple muscle groups. From building core strength to toning your biceps, shoulders, and legs, this 15lb weight is ideal for functional fitness routines. Incorporate dynamic moves like kettlebell swings and strength-focused lifts such as deadlifts and squats to sculpt and strengthen your entire body while boosting overall stability and control.",
-            "Perfect for All Fitness Levels: Whether you\u2019re a beginner exploring kettlebell training or an advanced athlete aiming to elevate your workouts, this kettlebell is tailored for all ages and skill levels. Its thoughtful design and adaptability make it a must-have for your home gym or fitness routine. Train at your own pace with a weight that supports your progress and evolves with your growing strength and confidence.",
+            "Perfect for All Fitness Levels: Whether you’re a beginner exploring kettlebell training or an advanced athlete aiming to elevate your workouts, this kettlebell is tailored for all ages and skill levels. Its thoughtful design and adaptability make it a must-have for your home gym or fitness routine. Train at your own pace with a weight that supports your progress and evolves with your growing strength and confidence.",
             "Compact and Convenient Fitness Solution: Replace cluttered equipment with this multifunctional kettlebell designed for versatility and space-saving convenience. The compact 15lb weight is perfect for home or gym use, providing the flexibility to train anywhere, anytime. Its ergonomic handles and secure grip make it ideal for countless exercises, ensuring a seamless workout experience without the need for multiple weights.",
             "Durable Quality You Can Rely On: Crafted from premium materials, this kettlebell is built to endure even the toughest workouts. Its smooth finish and sturdy design ensure long-lasting performance, while the ergonomic handles offer a comfortable grip for secure and effective training. Whether you're performing short, intense sessions or extended strength-building routines, this durable kettlebell is your trusted partner in achieving fitness success."
         ],
@@ -6261,7 +6261,7 @@
                 "name": "Item 15 Pounds 23",
                 "weight": "15 Pounds",
                 "price": 23,
-                "remaining_products": 52,
+                "remaining_products": 54,
                 "color": "Black",
                 "img": [
                     {
@@ -6369,7 +6369,7 @@
                 "name": "20 LB Blue",
                 "weight": 9.07184,
                 "price": 46.99,
-                "remaining_products": 42,
+                "remaining_products": 19,
                 "color": "Blue",
                 "img": [
                     {
@@ -6418,7 +6418,7 @@
                 "name": "15 LB Green",
                 "weight": 6.8038799999999995,
                 "price": 39.99,
-                "remaining_products": 68,
+                "remaining_products": 1,
                 "color": "Green",
                 "img": [
                     {
@@ -6467,7 +6467,7 @@
                 "name": "20 LB Pink",
                 "weight": 9.07184,
                 "price": 46.99,
-                "remaining_products": 17,
+                "remaining_products": 83,
                 "color": "Pink",
                 "img": [
                     {
@@ -6512,7 +6512,7 @@
                 "name": "25 lb Green",
                 "weight": 11.3398,
                 "price": 51.99,
-                "remaining_products": 84,
+                "remaining_products": 10,
                 "color": "Green",
                 "img": [
                     {
@@ -6549,7 +6549,7 @@
                 "name": "10 LB Pink",
                 "weight": 4.53592,
                 "price": 32.99,
-                "remaining_products": 46,
+                "remaining_products": 65,
                 "color": "Pink",
                 "img": [
                     {
@@ -6594,7 +6594,7 @@
                 "name": "25 lb Pink",
                 "weight": 11.3398,
                 "price": 51.99,
-                "remaining_products": 50,
+                "remaining_products": 34,
                 "color": "Pink",
                 "img": [
                     {
@@ -6643,7 +6643,7 @@
                 "name": "5 LB Pink",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 7,
+                "remaining_products": 29,
                 "color": "Pink",
                 "img": [
                     {
@@ -6685,7 +6685,7 @@
         "brand": "MARCY",
         "description": "The Marcy kettle bells have a unique Hammertone design that not only have a classic look and feel, but also resist damage and rust. They are a great addition for any home gym that will ensure a lifetime of enjoyment as well as a center piece for your all around fitness lifestyle. Marcy Hammertone kettle weights come in 10, 15, 20, 25, 35, 45 and 55 lbs. varieties so you can easily customize your free weight workout to fit your needs.",
         "features": [
-            "Premium Quality Kettlebells: Marcy\u2019s kettlebell weights are furnished with high-quality hammer-tone finish for optimum performance and durability. The ergonomic construction boasts a sturdy handle that ensures a secure grip during exercise.",
+            "Premium Quality Kettlebells: Marcy’s kettlebell weights are furnished with high-quality hammer-tone finish for optimum performance and durability. The ergonomic construction boasts a sturdy handle that ensures a secure grip during exercise.",
             "Patented Design: Our kettlebells are constructed from recyclable cast iron reinforced with a non-rust coating. The coating offers exceptional metal protection that resists damage to the bells and prevents rust buildup.",
             "Ideal Home Gym Equipment: Enjoy working out from the comfort of your home with our versatile gym gear. Our kettlebell weights are excellent for various strength-training and circuit training exercises.",
             "Kettlebell Sizes: This kettlebell is available in 10, 15, 20, 25, 35, 45, and 55 pounds to allow you to customize your training according to your needs. Each piece of equipment is cast to a precise weight for safe and efficient weightlifting exercises.",
@@ -6802,7 +6802,7 @@
                 "name": "35 lb",
                 "weight": 15.87572,
                 "price": 28.99,
-                "remaining_products": 33,
+                "remaining_products": 20,
                 "color": "Black",
                 "img": [
                     {
@@ -6843,7 +6843,7 @@
                 "name": "25 lb",
                 "weight": 11.3398,
                 "price": 28.99,
-                "remaining_products": 91,
+                "remaining_products": 24,
                 "color": "Black",
                 "img": [
                     {
@@ -6884,7 +6884,7 @@
                 "name": "15 lb",
                 "weight": 6.8038799999999995,
                 "price": 28.99,
-                "remaining_products": 87,
+                "remaining_products": 90,
                 "color": "Black",
                 "img": [
                     {
@@ -6925,7 +6925,7 @@
                 "name": "10 lb",
                 "weight": 4.53592,
                 "price": 28.99,
-                "remaining_products": 56,
+                "remaining_products": 46,
                 "color": "Black",
                 "img": [
                     {
@@ -6966,7 +6966,7 @@
                 "name": "55 lb",
                 "weight": 24.94756,
                 "price": 28.99,
-                "remaining_products": 30,
+                "remaining_products": 92,
                 "color": "Black",
                 "img": [
                     {
@@ -7007,7 +7007,7 @@
                 "name": "45 lb",
                 "weight": 20.41164,
                 "price": 28.99,
-                "remaining_products": 61,
+                "remaining_products": 79,
                 "color": "Black",
                 "img": [
                     {
@@ -7048,7 +7048,7 @@
                 "name": "20 lb",
                 "weight": 9.07184,
                 "price": 28.99,
-                "remaining_products": 63,
+                "remaining_products": 95,
                 "color": "Black",
                 "img": [
                     {
@@ -7094,11 +7094,11 @@
         "brand": "Nimsqury",
         "description": "Nimsqury weight set is a 2-in-1 kettlebell and weight dumbbell set. You can not only experience the kettle bell training but also transform it into a dumbbell for further exercise. This multifunctional kettlebell set can meet all the needs of your daily training at home.  1.Easy to adjust: The kettlebell weight set has 7 weight options from 10LB, 12.5LB, 15LB, 17.5 LB, 20LB, 22.5LB to 25LB. This adjustable kettlebells provides various weight combinations for squats, swings, cardio and other training. 2.Dumbbell Form Take the handle out from the main body of the kettle bell, add weight plate to the handle, and you can get a dumbbell. This adjustable dumbbell can be changed to 5.3LB, 10.3LB, or 15.3LB which can meet your basic strength training needs. Accessories List: 1 x Kettle-bell Main Body 2 x 2.5LB Weight Plate 2 x 5LB Weight Plate 1 x Handle (Stored in the main body)",
         "features": [
-            "\u30102 Version Switchable\u3011This multi-functional kettlebell can also be transformed into a weight adjustable dumbbell due to its innovative design. You can experience the fun of kettlebell set and dumbbell both with only a set of Nimsqury adjustable kettlebell! The patent is pending now.",
-            "\u3010Safer Lock\u3011Unlike the upper and lower weight adjustment on the market, our kettlebells utilize a unique left and right side weight adjustment system that effectively eliminates the risk of sliding weight plates. With the unique lock mechanism, the weight can be safely locked by hearing the \"da\" sound.",
-            "\u3010Easy Adjustment\u3011The adjustment of kettle bell weight becomes so easy, what you need to do is press 2 black buttons on the weight plate simultaneously and turn left to reduce weight. To increase the weight, turn the weight plate to the right until it locks with an audible click.",
-            "\u3010Multiple Weights Available\u3011This strength training kettlebell offers 7 adjustable weights from 10LB, 12.5LB, 15LB, 17.5LB, 20LB, 22.5LB to 25LB. For dumbbell version, you\u2019ll get 5.3LB, 10.3LB, or 15.3LB with different combinations of weight plates. You can add weights step by step according to your daily routine!",
-            "\u3010Portable & Space-saving\u3011The size of this kettle bell weights set for women and men is 6.3\"L x 4.5\"W x 8.7\"H which is compact and space-saving. This multifunctional kettlebell is perfect for agility training, weight training, cardio, squats, and more."
+            "【2 Version Switchable】This multi-functional kettlebell can also be transformed into a weight adjustable dumbbell due to its innovative design. You can experience the fun of kettlebell set and dumbbell both with only a set of Nimsqury adjustable kettlebell! The patent is pending now.",
+            "【Safer Lock】Unlike the upper and lower weight adjustment on the market, our kettlebells utilize a unique left and right side weight adjustment system that effectively eliminates the risk of sliding weight plates. With the unique lock mechanism, the weight can be safely locked by hearing the \"da\" sound.",
+            "【Easy Adjustment】The adjustment of kettle bell weight becomes so easy, what you need to do is press 2 black buttons on the weight plate simultaneously and turn left to reduce weight. To increase the weight, turn the weight plate to the right until it locks with an audible click.",
+            "【Multiple Weights Available】This strength training kettlebell offers 7 adjustable weights from 10LB, 12.5LB, 15LB, 17.5LB, 20LB, 22.5LB to 25LB. For dumbbell version, you’ll get 5.3LB, 10.3LB, or 15.3LB with different combinations of weight plates. You can add weights step by step according to your daily routine!",
+            "【Portable & Space-saving】The size of this kettle bell weights set for women and men is 6.3\"L x 4.5\"W x 8.7\"H which is compact and space-saving. This multifunctional kettlebell is perfect for agility training, weight training, cardio, squats, and more."
         ],
         "attributes": [
             {
@@ -7171,7 +7171,7 @@
                 "name": "Black",
                 "weight": 11.3398,
                 "price": 79.99,
-                "remaining_products": 52,
+                "remaining_products": 37,
                 "color": "Black",
                 "img": [
                     {
@@ -7208,7 +7208,7 @@
                 "name": "Purple",
                 "weight": 11.3398,
                 "price": 79.99,
-                "remaining_products": 35,
+                "remaining_products": 87,
                 "color": "Purple",
                 "img": [
                     {
@@ -7305,7 +7305,7 @@
                 "name": "Item 5 Pounds 76.99",
                 "weight": "5 Pounds",
                 "price": 76.99,
-                "remaining_products": 42,
+                "remaining_products": 1,
                 "color": "Pink, Light Gray, Grey",
                 "img": [
                     {

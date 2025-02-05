@@ -94,10 +94,6 @@
                 "value": "Rowing machine, console"
             },
             {
-                "key": "ASIN",
-                "value": "B0844GP7QP"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 14, 2020"
             }
@@ -107,7 +103,7 @@
                 "name": "Item 145 Pounds 1794.99",
                 "weight": "145 Pounds",
                 "price": 1794.99,
-                "remaining_products": 97,
+                "remaining_products": 90,
                 "color": "Black/ Silver",
                 "img": [
                     {
@@ -215,10 +211,6 @@
                 "value": "Best Fitness Functional Trainer"
             },
             {
-                "key": "ASIN",
-                "value": "B0063NCDLM"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 5, 2011"
             }
@@ -228,7 +220,7 @@
                 "name": "Item 330 Pounds 647.99",
                 "weight": "330 Pounds",
                 "price": 647.99,
-                "remaining_products": 22,
+                "remaining_products": 82,
                 "color": "Black",
                 "img": [
                     {
@@ -332,10 +324,6 @@
                 "value": "One Size"
             },
             {
-                "key": "ASIN",
-                "value": "B00GP4UODI"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 9, 2014"
             }
@@ -345,7 +333,7 @@
                 "name": "Item 77 Kilograms 399.99",
                 "weight": "77 Kilograms",
                 "price": 399.99,
-                "remaining_products": 48,
+                "remaining_products": 49,
                 "color": "Gray",
                 "img": [
                     {
@@ -453,10 +441,6 @@
                 "value": "85.7x68.1x74.3"
             },
             {
-                "key": "ASIN",
-                "value": "B0BXPH61H5"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 27, 2023"
             }
@@ -466,7 +450,7 @@
                 "name": "WHITE",
                 "weight": 36.28736,
                 "price": 229.99,
-                "remaining_products": 25,
+                "remaining_products": 67,
                 "color": "White",
                 "img": [
                     {
@@ -507,7 +491,7 @@
                 "name": "RED",
                 "weight": 36.28736,
                 "price": 239.99,
-                "remaining_products": 15,
+                "remaining_products": 34,
                 "color": "Red",
                 "img": [
                     {
@@ -624,10 +608,6 @@
                 "value": "Adjustable, Padded"
             },
             {
-                "key": "ASIN",
-                "value": "B0CQJNSNGJ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 18, 2023"
             }
@@ -637,7 +617,7 @@
                 "name": "Item 0.36 Kilograms 14.99",
                 "weight": "0.36 Kilograms",
                 "price": 14.99,
-                "remaining_products": 62,
+                "remaining_products": 70,
                 "color": "Black",
                 "img": [
                     {
@@ -745,10 +725,6 @@
                 "value": "Exercise And Fitness/Stretching/Pilates/Yoga"
             },
             {
-                "key": "ASIN",
-                "value": "B088NSW1RV"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 24, 2020"
             }
@@ -758,7 +734,7 @@
                 "name": "Pink",
                 "weight": 0.0453592,
                 "price": 14.99,
-                "remaining_products": 28,
+                "remaining_products": 55,
                 "color": "Pink",
                 "img": [
                     {
@@ -807,7 +783,7 @@
                 "name": "1 Black-Orange",
                 "weight": 0.0453592,
                 "price": 9.98,
-                "remaining_products": 50,
+                "remaining_products": 46,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -856,7 +832,7 @@
                 "name": "Black, Blue",
                 "weight": 0.0453592,
                 "price": 9.99,
-                "remaining_products": 3,
+                "remaining_products": 2,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -897,7 +873,7 @@
                 "name": "Blue",
                 "weight": 0.0453592,
                 "price": 9.99,
-                "remaining_products": 100,
+                "remaining_products": 53,
                 "color": "Blue",
                 "img": [
                     {
@@ -946,7 +922,7 @@
                 "name": "Black, Pink",
                 "weight": 0.0453592,
                 "price": 9.99,
-                "remaining_products": 54,
+                "remaining_products": 6,
                 "color": "Black, Pink",
                 "img": [
                     {
@@ -995,7 +971,7 @@
                 "name": "Black",
                 "weight": 0.0453592,
                 "price": 13.99,
-                "remaining_products": 66,
+                "remaining_products": 65,
                 "color": "Black",
                 "img": [
                     {
@@ -1044,7 +1020,7 @@
                 "name": "Black,Red",
                 "weight": 0.0453592,
                 "price": 11.99,
-                "remaining_products": 86,
+                "remaining_products": 41,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -1164,10 +1140,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B000VCHDSY"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 14, 2006"
             }
@@ -1177,7 +1149,7 @@
                 "name": "Item 118 Pounds 459",
                 "weight": "118 Pounds",
                 "price": 459,
-                "remaining_products": 66,
+                "remaining_products": 56,
                 "color": "Black",
                 "img": [
                     {
@@ -1309,10 +1281,6 @@
                 "value": "Rowing machine, console"
             },
             {
-                "key": "ASIN",
-                "value": "B0BHLXDZ2N"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 7, 2022"
             }
@@ -1322,7 +1290,7 @@
                 "name": "Forest",
                 "weight": 46.266384,
                 "price": 1494.99,
-                "remaining_products": 51,
+                "remaining_products": 61,
                 "color": "Pirate Black",
                 "img": [
                     {
@@ -1367,7 +1335,7 @@
                 "name": "Sunset",
                 "weight": 46.266384,
                 "price": 1494.99,
-                "remaining_products": 55,
+                "remaining_products": 86,
                 "color": "Pirate Black",
                 "img": [
                     {
@@ -1412,7 +1380,7 @@
                 "name": "Pirate Black",
                 "weight": 46.266384,
                 "price": 1494.99,
-                "remaining_products": 31,
+                "remaining_products": 3,
                 "color": "Black",
                 "img": [
                     {
@@ -1465,7 +1433,7 @@
                 "name": "Sunrise",
                 "weight": 46.266384,
                 "price": 1494.99,
-                "remaining_products": 13,
+                "remaining_products": 0,
                 "color": "Pirate Black",
                 "img": [
                     {
@@ -1510,7 +1478,7 @@
                 "name": "River",
                 "weight": 46.266384,
                 "price": 1494.99,
-                "remaining_products": 87,
+                "remaining_products": 79,
                 "color": "Pirate Black",
                 "img": [
                     {
@@ -1630,10 +1598,6 @@
                 "value": "workout equipment"
             },
             {
-                "key": "ASIN",
-                "value": "B0B1TYZQD8"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 20, 2022"
             }
@@ -1643,7 +1607,7 @@
                 "name": "1-Orange",
                 "weight": 0.4082328,
                 "price": 13.97,
-                "remaining_products": 39,
+                "remaining_products": 11,
                 "color": "Orange",
                 "img": [
                     {
@@ -1688,7 +1652,7 @@
                 "name": "Blue",
                 "weight": 0.4082328,
                 "price": 14.97,
-                "remaining_products": 27,
+                "remaining_products": 42,
                 "color": "Blue",
                 "img": [
                     {
@@ -1729,7 +1693,7 @@
                 "name": "Purple",
                 "weight": 0.4082328,
                 "price": 15.98,
-                "remaining_products": 33,
+                "remaining_products": 6,
                 "color": "Purple",
                 "img": [
                     {
@@ -1770,7 +1734,7 @@
                 "name": "Pink",
                 "weight": 0.4082328,
                 "price": 14.98,
-                "remaining_products": 39,
+                "remaining_products": 23,
                 "color": "Pink",
                 "img": [
                     {
@@ -1811,7 +1775,7 @@
                 "name": "Black",
                 "weight": 0.4082328,
                 "price": 16.98,
-                "remaining_products": 3,
+                "remaining_products": 60,
                 "color": "Black",
                 "img": [
                     {
@@ -1939,10 +1903,6 @@
                 "value": "workout handles"
             },
             {
-                "key": "ASIN",
-                "value": "B09VGPRVCJ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 14, 2022"
             }
@@ -1952,7 +1912,7 @@
                 "name": "Yellow Handles",
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 67,
+                "remaining_products": 95,
                 "color": "Yellow",
                 "img": [
                     {
@@ -1993,7 +1953,7 @@
                 "name": "1-Red Handles",
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 97,
+                "remaining_products": 78,
                 "color": "Red",
                 "img": [
                     {
@@ -2042,7 +2002,7 @@
                 "name": "Black Handles",
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 73,
+                "remaining_products": 45,
                 "color": "Black",
                 "img": [
                     {
@@ -2087,7 +2047,7 @@
                 "name": "Blue Handles",
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 83,
+                "remaining_products": 4,
                 "color": "Blue",
                 "img": [
                     {
@@ -2128,7 +2088,7 @@
                 "name": "Orange Handles",
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 45,
+                "remaining_products": 25,
                 "color": "Orange",
                 "img": [
                     {
@@ -2169,7 +2129,7 @@
                 "name": "All Blue Handles",
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 83,
+                "remaining_products": 85,
                 "color": "Blue",
                 "img": [
                     {
@@ -2210,7 +2170,7 @@
                 "name": "Grey Handles",
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 31,
+                "remaining_products": 13,
                 "color": "1-Red Handles",
                 "img": [
                     {
@@ -2318,10 +2278,6 @@
                 "value": "1"
             },
             {
-                "key": "ASIN",
-                "value": "B0D1K6N974"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 12, 2024"
             }
@@ -2331,7 +2287,7 @@
                 "name": "Black",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 40,
+                "remaining_products": 53,
                 "color": "Black",
                 "img": [
                     {
@@ -2368,7 +2324,7 @@
                 "name": "Black Blue",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 66,
+                "remaining_products": 99,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -2405,7 +2361,7 @@
                 "name": "Black Orange",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 71,
+                "remaining_products": 39,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -2442,7 +2398,7 @@
                 "name": "Black Red",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 1,
+                "remaining_products": 39,
                 "color": "Red, Black",
                 "img": [
                     {

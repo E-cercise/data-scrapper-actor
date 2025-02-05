@@ -67,10 +67,6 @@
                 "value": "Adjustable, Padded"
             },
             {
-                "key": "ASIN",
-                "value": "B0CQJNSNGJ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 18, 2023"
             }
@@ -80,7 +76,7 @@
                 "name": "Item 0.36 Kilograms 14.99",
                 "weight": "0.36 Kilograms",
                 "price": 14.99,
-                "remaining_products": 17,
+                "remaining_products": 2,
                 "color": "Black",
                 "img": [
                     {
@@ -248,10 +244,6 @@
                 "value": "HXD-01"
             },
             {
-                "key": "ASIN",
-                "value": "B0BNQJ1G7X"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 1, 2022"
             }
@@ -261,7 +253,7 @@
                 "name": "Detachable Carabiner",
                 "weight": 0.453592,
                 "price": 25.88,
-                "remaining_products": 31,
+                "remaining_products": 7,
                 "color": "Detachable Carabiner",
                 "img": [
                     {
@@ -298,7 +290,7 @@
                 "name": "Integrated Carabiner",
                 "weight": 0.453592,
                 "price": 29.99,
-                "remaining_products": 93,
+                "remaining_products": 58,
                 "color": "Detachable Carabiner",
                 "img": [
                     {
@@ -446,10 +438,6 @@
                 "value": "Power Rack"
             },
             {
-                "key": "ASIN",
-                "value": "B09NR5DQK4"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 4, 2024"
             }
@@ -459,7 +447,7 @@
                 "name": "Upgraded Red Package(with BP & Bar & Bench)",
                 "weight": 68.0388,
                 "price": 1449.99,
-                "remaining_products": 48,
+                "remaining_products": 29,
                 "color": "Red",
                 "img": [
                     {
@@ -472,7 +460,7 @@
                 "name": "Upgraded Black Package(with BP & Bar & Bench)",
                 "weight": 68.0388,
                 "price": 1449.99,
-                "remaining_products": 61,
+                "remaining_products": 15,
                 "color": "Black",
                 "img": [
                     {
@@ -485,7 +473,7 @@
                 "name": "Black Power Rack",
                 "weight": 68.0388,
                 "price": 424.99,
-                "remaining_products": 81,
+                "remaining_products": 28,
                 "color": "Black",
                 "img": [
                     {
@@ -498,7 +486,7 @@
                 "name": "Red Power Rack",
                 "weight": 68.0388,
                 "price": 424.99,
-                "remaining_products": 59,
+                "remaining_products": 17,
                 "color": "Red",
                 "img": [
                     {
@@ -511,7 +499,7 @@
                 "name": "Black Package(with Bar & Bench)",
                 "weight": 68.0388,
                 "price": 849.99,
-                "remaining_products": 100,
+                "remaining_products": 60,
                 "color": "Black",
                 "img": [
                     {
@@ -524,7 +512,7 @@
                 "name": "Red Package(with Bar & Bench)",
                 "weight": 68.0388,
                 "price": 849.99,
-                "remaining_products": 92,
+                "remaining_products": 54,
                 "color": "Red",
                 "img": [
                     {
@@ -648,10 +636,6 @@
                 "value": "1"
             },
             {
-                "key": "ASIN",
-                "value": "B0D1K6N974"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 12, 2024"
             }
@@ -661,7 +645,7 @@
                 "name": "Black",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 38,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -698,7 +682,7 @@
                 "name": "Black Blue",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 79,
+                "remaining_products": 101,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -735,7 +719,7 @@
                 "name": "Black Orange",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 7,
+                "remaining_products": 0,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -772,7 +756,7 @@
                 "name": "Black Red",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 56,
+                "remaining_products": 100,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -924,10 +908,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B000VCHDSY"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 14, 2006"
             }
@@ -937,7 +917,7 @@
                 "name": "Item 118 Pounds 459",
                 "weight": "118 Pounds",
                 "price": 459,
-                "remaining_products": 21,
+                "remaining_products": 64,
                 "color": "Black",
                 "img": [
                     {
@@ -1101,10 +1081,6 @@
                 "value": "unisex-adult"
             },
             {
-                "key": "ASIN",
-                "value": "B0BZVLVDT6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 17, 2023"
             }
@@ -1114,7 +1090,7 @@
                 "name": "Abyss Blue",
                 "weight": 0.7,
                 "price": 229,
-                "remaining_products": 86,
+                "remaining_products": 56,
                 "color": "Blue",
                 "img": [
                     {
@@ -1151,7 +1127,7 @@
                 "name": "Youthful Pink",
                 "weight": 0.7,
                 "price": 229,
-                "remaining_products": 76,
+                "remaining_products": 20,
                 "color": "Pink",
                 "img": [
                     {
@@ -1188,7 +1164,7 @@
                 "name": "Dynamic White",
                 "weight": 0.7,
                 "price": 229,
-                "remaining_products": 56,
+                "remaining_products": 41,
                 "color": "White",
                 "img": [
                     {
@@ -1225,7 +1201,7 @@
                 "name": "Energetic Blue",
                 "weight": 0.7,
                 "price": 229,
-                "remaining_products": 57,
+                "remaining_products": 28,
                 "color": "Blue",
                 "img": [
                     {
@@ -1381,10 +1357,6 @@
                 "value": "Ankle Strap"
             },
             {
-                "key": "ASIN",
-                "value": "B09NPWT6R6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 23, 2022"
             }
@@ -1394,7 +1366,7 @@
                 "name": "Pair Black",
                 "weight": 0.26,
                 "price": 7.99,
-                "remaining_products": 24,
+                "remaining_products": 14,
                 "color": "Black",
                 "img": [
                     {
@@ -1439,7 +1411,7 @@
                 "name": "Pair Mint",
                 "weight": 0.26,
                 "price": 7.99,
-                "remaining_products": 36,
+                "remaining_products": 19,
                 "color": "Mint",
                 "img": [
                     {
@@ -1476,7 +1448,7 @@
                 "name": "Pair Pink",
                 "weight": 0.26,
                 "price": 8.99,
-                "remaining_products": 54,
+                "remaining_products": 16,
                 "color": "Pink",
                 "img": [
                     {
@@ -1513,7 +1485,7 @@
                 "name": "Pair Purple blue",
                 "weight": 0.26,
                 "price": 8.99,
-                "remaining_products": 49,
+                "remaining_products": 38,
                 "color": "Blue, Purple",
                 "img": [
                     {
@@ -1661,10 +1633,6 @@
                 "value": "Best Fitness Functional Trainer"
             },
             {
-                "key": "ASIN",
-                "value": "B0063NCDLM"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 5, 2011"
             }
@@ -1674,7 +1642,7 @@
                 "name": "Item 330 Pounds 647.99",
                 "weight": "330 Pounds",
                 "price": 647.99,
-                "remaining_products": 57,
+                "remaining_products": 53,
                 "color": "Black",
                 "img": [
                     {
@@ -1803,10 +1771,6 @@
                 "value": "1x FAGUS H Black Multi-Functional SmithMachine, 1x FAGUS H Black Weight Bench"
             },
             {
-                "key": "ASIN",
-                "value": "B0DSJ6YYBV"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 7, 2025"
             }
@@ -1816,7 +1780,7 @@
                 "name": "Red Home Gym Station",
                 "weight": 181.4368,
                 "price": 1299.99,
-                "remaining_products": 23,
+                "remaining_products": 32,
                 "color": "Red",
                 "img": [
                     {
@@ -1857,7 +1821,7 @@
                 "name": "Red Home Gym Station with Weight Bench Combo",
                 "weight": 181.4368,
                 "price": 1699.99,
-                "remaining_products": 62,
+                "remaining_products": 30,
                 "color": "Red",
                 "img": [
                     {
@@ -1906,7 +1870,7 @@
                 "name": "Black Home Gym Station",
                 "weight": 181.4368,
                 "price": 1299.99,
-                "remaining_products": 38,
+                "remaining_products": 35,
                 "color": "Black",
                 "img": [
                     {
@@ -1947,7 +1911,7 @@
                 "name": "Black Home Gym Station with Weight Bench Combo",
                 "weight": 181.4368,
                 "price": 1699.99,
-                "remaining_products": 31,
+                "remaining_products": 93,
                 "color": "Black",
                 "img": [
                     {
@@ -2123,10 +2087,6 @@
                 "value": "workout handles"
             },
             {
-                "key": "ASIN",
-                "value": "B09VGPRVCJ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 14, 2022"
             }
@@ -2136,7 +2096,7 @@
                 "name": "Yellow Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 99,
+                "remaining_products": 27,
                 "color": "Yellow",
                 "img": [
                     {
@@ -2177,7 +2137,7 @@
                 "name": "1-Red Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 42,
+                "remaining_products": 15,
                 "color": "Red",
                 "img": [
                     {
@@ -2226,7 +2186,7 @@
                 "name": "Black Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 71,
+                "remaining_products": 87,
                 "color": "Black",
                 "img": [
                     {
@@ -2271,7 +2231,7 @@
                 "name": "Blue Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 13,
+                "remaining_products": 97,
                 "color": "Blue",
                 "img": [
                     {
@@ -2312,7 +2272,7 @@
                 "name": "Orange Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 11,
+                "remaining_products": 98,
                 "color": "Orange",
                 "img": [
                     {
@@ -2353,7 +2313,7 @@
                 "name": "All Blue Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 51,
+                "remaining_products": 91,
                 "color": "Blue",
                 "img": [
                     {
@@ -2394,7 +2354,7 @@
                 "name": "Grey Handles",
                 "weight": 0.25,
                 "price": 9.99,
-                "remaining_products": 82,
+                "remaining_products": 31,
                 "color": "1-Red Handles",
                 "img": [
                     {
@@ -2553,10 +2513,6 @@
                 "value": "Intermediate"
             },
             {
-                "key": "ASIN",
-                "value": "B07MHQ4H9M"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 2, 2019"
             }
@@ -2566,7 +2522,7 @@
                 "name": "Pair Green",
                 "weight": 0.4082328,
                 "price": 11.99,
-                "remaining_products": 55,
+                "remaining_products": 41,
                 "color": "Green",
                 "img": [
                     {
@@ -2615,7 +2571,7 @@
                 "name": "Pair Lavender",
                 "weight": 0.4082328,
                 "price": 11.99,
-                "remaining_products": 34,
+                "remaining_products": 92,
                 "color": "Lavender",
                 "img": [
                     {
@@ -2668,7 +2624,7 @@
                 "name": "Pair Blue",
                 "weight": 0.4082328,
                 "price": 11.99,
-                "remaining_products": 6,
+                "remaining_products": 52,
                 "color": "Blue",
                 "img": [
                     {
@@ -2717,7 +2673,7 @@
                 "name": "Pair Matte Black",
                 "weight": 0.4082328,
                 "price": 11.99,
-                "remaining_products": 53,
+                "remaining_products": 94,
                 "color": "Black",
                 "img": [
                     {

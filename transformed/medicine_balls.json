@@ -78,10 +78,6 @@
                 "value": "PVC"
             },
             {
-                "key": "ASIN",
-                "value": "B074CKHP39"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 25, 2020"
             }
@@ -91,7 +87,7 @@
                 "name": "Yellow",
                 "weight": 0.0,
                 "price": 9.95,
-                "remaining_products": 66,
+                "remaining_products": 72,
                 "color": "Yellow",
                 "img": [
                     {
@@ -140,7 +136,7 @@
                 "name": "Rose",
                 "weight": 0.0,
                 "price": 9.95,
-                "remaining_products": 66,
+                "remaining_products": 76,
                 "color": "Rose",
                 "img": [
                     {
@@ -287,10 +283,6 @@
                 "value": "65cm"
             },
             {
-                "key": "ASIN",
-                "value": "B000ND5OGO"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 28, 2003"
             }
@@ -300,7 +292,7 @@
                 "name": "Red (75 cm)",
                 "weight": 0.907184,
                 "price": 21.99,
-                "remaining_products": 94,
+                "remaining_products": 28,
                 "color": "Red",
                 "img": [
                     {
@@ -349,7 +341,7 @@
                 "name": "Teal (85 cm)",
                 "weight": 0.907184,
                 "price": 23.99,
-                "remaining_products": 75,
+                "remaining_products": 31,
                 "color": "Teal",
                 "img": [
                     {
@@ -386,7 +378,7 @@
                 "name": "Purple (45 cm)",
                 "weight": 0.907184,
                 "price": 14.99,
-                "remaining_products": 69,
+                "remaining_products": 33,
                 "color": "Purple",
                 "img": [
                     {
@@ -431,7 +423,7 @@
                 "name": "Green (55 cm)",
                 "weight": 0.907184,
                 "price": 17.99,
-                "remaining_products": 86,
+                "remaining_products": 54,
                 "color": "Green",
                 "img": [
                     {
@@ -480,7 +472,7 @@
                 "name": "Yellow (65 cm)",
                 "weight": 0.907184,
                 "price": 19.99,
-                "remaining_products": 25,
+                "remaining_products": 93,
                 "color": "Yellow",
                 "img": [
                     {
@@ -623,10 +615,6 @@
                 "value": "Basketball"
             },
             {
-                "key": "ASIN",
-                "value": "B01LYELY3G"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 4, 2016"
             }
@@ -636,7 +624,7 @@
                 "name": "Item 25 Pounds 139.98",
                 "weight": "25 Pounds",
                 "price": 139.98,
-                "remaining_products": 100,
+                "remaining_products": 63,
                 "color": "Black",
                 "img": [
                     {
@@ -743,10 +731,6 @@
                 "value": "fitness, yoga, exercise"
             },
             {
-                "key": "ASIN",
-                "value": "B0DGTH4SW8"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 12, 2024"
             }
@@ -756,7 +740,7 @@
                 "name": "Star-Blue",
                 "weight": 5.24,
                 "price": 49.99,
-                "remaining_products": 45,
+                "remaining_products": 54,
                 "color": "Blue",
                 "img": [
                     {
@@ -793,7 +777,7 @@
                 "name": "Star-Black",
                 "weight": 5.24,
                 "price": 49.99,
-                "remaining_products": 62,
+                "remaining_products": 47,
                 "color": "Black",
                 "img": [
                     {
@@ -830,7 +814,7 @@
                 "name": "Lw-Black",
                 "weight": 5.24,
                 "price": 49.99,
-                "remaining_products": 33,
+                "remaining_products": 26,
                 "color": "Black",
                 "img": [
                     {
@@ -969,10 +953,6 @@
                 "value": "55cm"
             },
             {
-                "key": "ASIN",
-                "value": "B000K7I5ZK"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 11, 2006"
             }
@@ -982,7 +962,7 @@
                 "name": "Item 1 Pounds 29.99",
                 "weight": "1 Pounds",
                 "price": 29.99,
-                "remaining_products": 4,
+                "remaining_products": 15,
                 "color": "Blue",
                 "img": [
                     {
@@ -1101,10 +1081,6 @@
                 "value": "20 LB"
             },
             {
-                "key": "ASIN",
-                "value": "B0D33X2KSQ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 1, 2024"
             }
@@ -1114,7 +1090,7 @@
                 "name": "15 Pounds",
                 "weight": 6.8038799999999995,
                 "price": 24.99,
-                "remaining_products": 63,
+                "remaining_products": 16,
                 "color": "Gray",
                 "img": [
                     {
@@ -1127,7 +1103,7 @@
                 "name": "20 Pounds",
                 "weight": 9.07184,
                 "price": 29.99,
-                "remaining_products": 65,
+                "remaining_products": 56,
                 "color": "Gray",
                 "img": [
                     {
@@ -1242,10 +1218,6 @@
                 "value": "One Size"
             },
             {
-                "key": "ASIN",
-                "value": "B002JZQIKK"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 1, 2003"
             }
@@ -1255,7 +1227,7 @@
                 "name": "Item 16 ounces 400.74",
                 "weight": "16 ounces",
                 "price": 400.74,
-                "remaining_products": 12,
+                "remaining_products": 97,
                 "color": "Black",
                 "img": [
                     {
@@ -1370,10 +1342,6 @@
                 "value": "55cm"
             },
             {
-                "key": "ASIN",
-                "value": "B000VDTECQ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 1, 2007"
             }
@@ -1383,7 +1351,7 @@
                 "name": "Green",
                 "weight": 0.113398,
                 "price": 22.48,
-                "remaining_products": 64,
+                "remaining_products": 15,
                 "color": "Green",
                 "img": [
                     {
@@ -1416,7 +1384,7 @@
                 "name": "Purple",
                 "weight": 0.113398,
                 "price": 16.98,
-                "remaining_products": 88,
+                "remaining_products": 14,
                 "color": "Purple",
                 "img": [
                     {
@@ -1449,7 +1417,7 @@
                 "name": "Blue",
                 "weight": 0.113398,
                 "price": 17.98,
-                "remaining_products": 49,
+                "remaining_products": 95,
                 "color": "Blue",
                 "img": [
                     {
@@ -1576,10 +1544,6 @@
                 "value": "6 lb"
             },
             {
-                "key": "ASIN",
-                "value": "B01N9VRFB0"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 2, 2017"
             }
@@ -1589,7 +1553,7 @@
                 "name": "Green - 6LBS",
                 "weight": 2.721552,
                 "price": 9.98,
-                "remaining_products": 23,
+                "remaining_products": 12,
                 "color": "Green",
                 "img": [
                     {
@@ -1614,7 +1578,7 @@
                 "name": "Gray - 10LBS",
                 "weight": 4.53592,
                 "price": 9.98,
-                "remaining_products": 40,
+                "remaining_products": 20,
                 "color": "Gray",
                 "img": [
                     {
@@ -1716,10 +1680,6 @@
                 "value": "2-Pound"
             },
             {
-                "key": "ASIN",
-                "value": "B001VAALQG"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 14, 2008"
             }
@@ -1729,7 +1689,7 @@
                 "name": "4-Pound - Purple",
                 "weight": 0.5,
                 "price": 20.99,
-                "remaining_products": 73,
+                "remaining_products": 76,
                 "color": "Purple",
                 "img": [
                     {
@@ -1762,7 +1722,7 @@
                 "name": "12-Pound - Gray",
                 "weight": 0.5,
                 "price": 35.99,
-                "remaining_products": 41,
+                "remaining_products": 81,
                 "color": "Gray",
                 "img": [
                     {
@@ -1795,7 +1755,7 @@
                 "name": "10-Pound - Red",
                 "weight": 0.5,
                 "price": 34.99,
-                "remaining_products": 57,
+                "remaining_products": 28,
                 "color": "Red",
                 "img": [
                     {
@@ -1828,7 +1788,7 @@
                 "name": "2-Pound - Teal",
                 "weight": 0.5,
                 "price": 17.99,
-                "remaining_products": 96,
+                "remaining_products": 70,
                 "color": "Teal",
                 "img": [
                     {
@@ -1853,7 +1813,7 @@
                 "name": "6-Pound - Blue",
                 "weight": 0.5,
                 "price": 25.99,
-                "remaining_products": 88,
+                "remaining_products": 66,
                 "color": "Blue",
                 "img": [
                     {
@@ -1874,7 +1834,7 @@
                 "name": "8-Pound - Yellow",
                 "weight": 0.5,
                 "price": 20.99,
-                "remaining_products": 58,
+                "remaining_products": 78,
                 "color": "Yellow",
                 "img": [
                     {
@@ -1997,10 +1957,6 @@
                 "value": "2.8'', 3.2'', 4''"
             },
             {
-                "key": "ASIN",
-                "value": "B0CYLG3LVZ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 20, 2024"
             }
@@ -2010,7 +1966,7 @@
                 "name": "Item 2.3 Kilograms 36.99",
                 "weight": "2.3 Kilograms",
                 "price": 36.99,
-                "remaining_products": 32,
+                "remaining_products": 4,
                 "color": "Multi-Color",
                 "img": [
                     {
@@ -2105,10 +2061,6 @@
                 "value": "bag"
             },
             {
-                "key": "ASIN",
-                "value": "B0DK6HFFFJ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 17, 2024"
             }
@@ -2118,7 +2070,7 @@
                 "name": "1",
                 "weight": 0.0,
                 "price": 19.99,
-                "remaining_products": 88,
+                "remaining_products": 92,
                 "color": "Black",
                 "img": [
                     {
@@ -2131,7 +2083,7 @@
                 "name": "2",
                 "weight": 0.0,
                 "price": 29.99,
-                "remaining_products": 71,
+                "remaining_products": 49,
                 "color": "Black",
                 "img": [
                     {
@@ -2226,10 +2178,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B0CFWG926P"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 16, 2023"
             }
@@ -2239,7 +2187,7 @@
                 "name": "Item 46 Pounds 125",
                 "weight": "46 Pounds",
                 "price": 125,
-                "remaining_products": 58,
+                "remaining_products": 74,
                 "color": "Black",
                 "img": [
                     {
@@ -2350,10 +2298,6 @@
                 "value": "7.09 Inch"
             },
             {
-                "key": "ASIN",
-                "value": "B01N0HI02P"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 23, 2016"
             }
@@ -2363,7 +2307,7 @@
                 "name": "A. Blue (2lbs)",
                 "weight": 0.907184,
                 "price": 12.75,
-                "remaining_products": 4,
+                "remaining_products": 64,
                 "color": "Blue",
                 "img": [
                     {
@@ -2408,7 +2352,7 @@
                 "name": "G. Purple (8lbs)",
                 "weight": 3.628736,
                 "price": 21.95,
-                "remaining_products": 88,
+                "remaining_products": 90,
                 "color": "Purple",
                 "img": [
                     {
@@ -2523,10 +2467,6 @@
                 "value": "HMB"
             },
             {
-                "key": "ASIN",
-                "value": "B006CV4A3Y"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 31, 2012"
             }
@@ -2536,7 +2476,7 @@
                 "name": "Item 25 Pounds 59.99",
                 "weight": "25 Pounds",
                 "price": 59.99,
-                "remaining_products": 39,
+                "remaining_products": 78,
                 "color": "Brown black",
                 "img": [
                     {
@@ -2619,10 +2559,6 @@
                 "value": "8\""
             },
             {
-                "key": "ASIN",
-                "value": "B07QCXN81Q"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 3, 2019"
             }
@@ -2632,7 +2568,7 @@
                 "name": "Item 16 ounces 8.66",
                 "weight": "16 ounces",
                 "price": 8.66,
-                "remaining_products": 70,
+                "remaining_products": 3,
                 "color": "['Red', 'Blue']",
                 "img": [
                     {
@@ -2755,10 +2691,6 @@
                 "value": "40lbs."
             },
             {
-                "key": "ASIN",
-                "value": "B08W9BWDX5"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 9, 2021"
             }
@@ -2768,7 +2700,7 @@
                 "name": "20lbs.",
                 "weight": 9.07184,
                 "price": 107.1,
-                "remaining_products": 28,
+                "remaining_products": 82,
                 "color": "Black / Green",
                 "img": [
                     {
@@ -2809,7 +2741,7 @@
                 "name": "30lbs.",
                 "weight": 13.607759999999999,
                 "price": 107.1,
-                "remaining_products": 61,
+                "remaining_products": 85,
                 "color": "Black / Green",
                 "img": [
                     {
@@ -2846,7 +2778,7 @@
                 "name": "40lbs.",
                 "weight": 18.14368,
                 "price": 107.1,
-                "remaining_products": 82,
+                "remaining_products": 1,
                 "color": "Black / Green",
                 "img": [
                     {
@@ -2887,7 +2819,7 @@
                 "name": "60lbs.",
                 "weight": 27.215519999999998,
                 "price": 107.1,
-                "remaining_products": 30,
+                "remaining_products": 95,
                 "color": "Black / Green",
                 "img": [
                     {
@@ -3002,10 +2934,6 @@
                 "value": "EXTRA LARGE"
             },
             {
-                "key": "ASIN",
-                "value": "B0DK2QGJHC"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 15, 2024"
             }
@@ -3015,7 +2943,7 @@
                 "name": "Item 2.82 Kilograms 39.99",
                 "weight": "2.82 Kilograms",
                 "price": 39.99,
-                "remaining_products": 80,
+                "remaining_products": 11,
                 "color": "black",
                 "img": [
                     {
@@ -3166,10 +3094,6 @@
                 "value": "1 Rebound Trampoline"
             },
             {
-                "key": "ASIN",
-                "value": "B016OJJJQQ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 15, 2015"
             }
@@ -3179,7 +3103,7 @@
                 "name": "Item 52 Pounds 310.98",
                 "weight": "52 Pounds",
                 "price": 310.98,
-                "remaining_products": 23,
+                "remaining_products": 22,
                 "color": "Black",
                 "img": [
                     {
@@ -3306,10 +3230,6 @@
                 "value": "All"
             },
             {
-                "key": "ASIN",
-                "value": "B084NWC2M3"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 10, 2020"
             }
@@ -3319,7 +3239,7 @@
                 "name": "B. Upgrade Combo - Full Black",
                 "weight": 6.9,
                 "price": 74.99,
-                "remaining_products": 41,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -3356,7 +3276,7 @@
                 "name": "C. Upgrade Combo - Black/Blue",
                 "weight": 6.9,
                 "price": 75.99,
-                "remaining_products": 76,
+                "remaining_products": 28,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -3393,7 +3313,7 @@
                 "name": "A. Matte Black",
                 "weight": 6.9,
                 "price": 59.99,
-                "remaining_products": 19,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -3438,7 +3358,7 @@
                 "name": "D. Half Peanut Pro Version - Black/Orange",
                 "weight": 6.9,
                 "price": 99,
-                "remaining_products": 73,
+                "remaining_products": 8,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -3581,10 +3501,6 @@
                 "value": "6 lb."
             },
             {
-                "key": "ASIN",
-                "value": "B00JU7UCU2"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 21, 2014"
             }
@@ -3594,7 +3510,7 @@
                 "name": "6 LB - Yellow/Black",
                 "weight": 2.721552,
                 "price": 29.99,
-                "remaining_products": 79,
+                "remaining_products": 52,
                 "color": "Yellow, Black",
                 "img": [
                     {
@@ -3627,7 +3543,7 @@
                 "name": "10 LB - Red/Black",
                 "weight": 4.53592,
                 "price": 29.99,
-                "remaining_products": 30,
+                "remaining_products": 17,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -3664,7 +3580,7 @@
                 "name": "8 LB - Green/Black",
                 "weight": 3.628736,
                 "price": 29.99,
-                "remaining_products": 64,
+                "remaining_products": 58,
                 "color": "Green, Black",
                 "img": [
                     {
@@ -3697,7 +3613,7 @@
                 "name": "4 LB - Blue/Black",
                 "weight": 1.814368,
                 "price": 29.99,
-                "remaining_products": 13,
+                "remaining_products": 8,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -3738,7 +3654,7 @@
                 "name": "12 LB - Purple/Black",
                 "weight": 5.443104,
                 "price": 29.99,
-                "remaining_products": 27,
+                "remaining_products": 83,
                 "color": "Purple, Black",
                 "img": [
                     {
@@ -3873,10 +3789,6 @@
                 "value": "14\"L x 14\"W x 14\"H"
             },
             {
-                "key": "ASIN",
-                "value": "B0BGQT6CRT"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 28, 2022"
             }
@@ -3886,7 +3798,7 @@
                 "name": "Red 6 LB",
                 "weight": 2.721552,
                 "price": 42.99,
-                "remaining_products": 84,
+                "remaining_products": 58,
                 "color": "Red",
                 "img": [
                     {
@@ -3923,7 +3835,7 @@
                 "name": "Aqua 8 LB",
                 "weight": 3.628736,
                 "price": 49.99,
-                "remaining_products": 94,
+                "remaining_products": 58,
                 "color": "Aqua",
                 "img": [
                     {
@@ -3960,7 +3872,7 @@
                 "name": "Blue 14 LB",
                 "weight": 6.350288,
                 "price": 54.99,
-                "remaining_products": 49,
+                "remaining_products": 58,
                 "color": "Blue",
                 "img": [
                     {
@@ -3997,7 +3909,7 @@
                 "name": "Gray 25 LB",
                 "weight": 11.3398,
                 "price": 69.99,
-                "remaining_products": 72,
+                "remaining_products": 4,
                 "color": "Gray",
                 "img": [
                     {
@@ -4034,7 +3946,7 @@
                 "name": "Green 10 LB",
                 "weight": 4.53592,
                 "price": 49.99,
-                "remaining_products": 15,
+                "remaining_products": 101,
                 "color": "Green",
                 "img": [
                     {
@@ -4079,7 +3991,7 @@
                 "name": "Black 20 LB",
                 "weight": 9.07184,
                 "price": 59.39,
-                "remaining_products": 79,
+                "remaining_products": 23,
                 "color": "Black",
                 "img": [
                     {
@@ -4206,10 +4118,6 @@
                 "value": "75cm (29.53\")"
             },
             {
-                "key": "ASIN",
-                "value": "B000KA2UYY"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 1, 2003"
             }
@@ -4219,7 +4127,7 @@
                 "name": "Item 16 ounces 33.25",
                 "weight": "16 ounces",
                 "price": 33.25,
-                "remaining_products": 21,
+                "remaining_products": 62,
                 "color": "Yellow",
                 "img": [
                     {
@@ -4342,10 +4250,6 @@
                 "value": "29.5 inch & 75 cm"
             },
             {
-                "key": "ASIN",
-                "value": "B0869PJ7JW"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 24, 2020"
             }
@@ -4355,7 +4259,7 @@
                 "name": "Item 2.6 Pounds 15.29",
                 "weight": "2.6 Pounds",
                 "price": 15.29,
-                "remaining_products": 1,
+                "remaining_products": 20,
                 "color": "Pale Gray",
                 "img": [
                     {
@@ -4494,10 +4398,6 @@
                 "value": "2 Pounds"
             },
             {
-                "key": "ASIN",
-                "value": "B002LF5ONU"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 1, 2003"
             }
@@ -4507,7 +4407,7 @@
                 "name": "4 Pounds - Red",
                 "weight": 1.814368,
                 "price": 28.76,
-                "remaining_products": 33,
+                "remaining_products": 90,
                 "color": "Red",
                 "img": [
                     {
@@ -4524,7 +4424,7 @@
                 "name": "25 Pounds - Green",
                 "weight": 11.3398,
                 "price": 28.76,
-                "remaining_products": 35,
+                "remaining_products": 33,
                 "color": "Green",
                 "img": [
                     {
@@ -4557,7 +4457,7 @@
                 "name": "8 Pounds - Green",
                 "weight": 3.628736,
                 "price": 28.76,
-                "remaining_products": 63,
+                "remaining_products": 43,
                 "color": "Green",
                 "img": [
                     {
@@ -4590,7 +4490,7 @@
                 "name": "18 Pounds - Red",
                 "weight": 8.164656,
                 "price": 28.76,
-                "remaining_products": 92,
+                "remaining_products": 52,
                 "color": "Red",
                 "img": [
                     {
@@ -4623,7 +4523,7 @@
                 "name": "2 Pounds - Yellow",
                 "weight": 0.907184,
                 "price": 28.76,
-                "remaining_products": 91,
+                "remaining_products": 63,
                 "color": "Yellow",
                 "img": [
                     {
@@ -4656,7 +4556,7 @@
                 "name": "12 Pounds - Purple",
                 "weight": 5.443104,
                 "price": 28.76,
-                "remaining_products": 77,
+                "remaining_products": 82,
                 "color": "Purple",
                 "img": [
                     {
@@ -4783,10 +4683,6 @@
                 "value": "11.5 Inch L X 3.75 Inch W X 54 Inch H"
             },
             {
-                "key": "ASIN",
-                "value": "B0029VJOYG"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 1, 2003"
             }
@@ -4825,7 +4721,7 @@
                 "name": "Medicine Ball Tree",
                 "weight": 0.0,
                 "price": 106.98,
-                "remaining_products": 80,
+                "remaining_products": 14,
                 "color": "Black",
                 "img": [
                     {
@@ -4846,7 +4742,7 @@
                 "name": "Deluxe Medicine Ball Tree",
                 "weight": 0.0,
                 "price": 309.39,
-                "remaining_products": 95,
+                "remaining_products": 81,
                 "color": "Black",
                 "img": [
                     {
@@ -4879,7 +4775,7 @@
                 "name": "Double Medicine Ball Tree",
                 "weight": 0.0,
                 "price": 113.15,
-                "remaining_products": 50,
+                "remaining_products": 42,
                 "color": "Black",
                 "img": [
                     {
@@ -4974,10 +4870,6 @@
                 "value": "Nylon"
             },
             {
-                "key": "ASIN",
-                "value": "B0D3HBSN61"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 7, 2024"
             }
@@ -4987,7 +4879,7 @@
                 "name": "Item 8 ounces 24.99",
                 "weight": "8 ounces",
                 "price": 24.99,
-                "remaining_products": 75,
+                "remaining_products": 68,
                 "color": "Black",
                 "img": [
                     {
@@ -5129,10 +5021,6 @@
                 "value": "One Size"
             },
             {
-                "key": "ASIN",
-                "value": "B01N1XU6MB"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 31, 2016"
             }
@@ -5142,7 +5030,7 @@
                 "name": "10LB",
                 "weight": 4.53592,
                 "price": 60.58,
-                "remaining_products": 64,
+                "remaining_products": 80,
                 "color": "Multi",
                 "img": [
                     {
@@ -5191,7 +5079,7 @@
                 "name": "20LB",
                 "weight": 9.07184,
                 "price": 54.99,
-                "remaining_products": 32,
+                "remaining_products": 99,
                 "color": "Multi",
                 "img": [
                     {
@@ -5240,7 +5128,7 @@
                 "name": "14LB",
                 "weight": 6.350288,
                 "price": 55.99,
-                "remaining_products": 88,
+                "remaining_products": 67,
                 "color": "Multi",
                 "img": [
                     {
@@ -5395,10 +5283,6 @@
                 "value": "Medicine Ball"
             },
             {
-                "key": "ASIN",
-                "value": "B004ATVQNW"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 1, 2010"
             }
@@ -5408,7 +5292,7 @@
                 "name": "Item 9 Pounds 72",
                 "weight": "9 Pounds",
                 "price": 72,
-                "remaining_products": 69,
+                "remaining_products": 98,
                 "color": "Grey/Black",
                 "img": [
                     {
@@ -5499,10 +5383,6 @@
                 "value": "12 LB Dynamic Black Medicine Ball"
             },
             {
-                "key": "ASIN",
-                "value": "B0DKWZKX35"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 25, 2024"
             }
@@ -5512,7 +5392,7 @@
                 "name": "Dynamic Pink",
                 "weight": 5.443104,
                 "price": 28.99,
-                "remaining_products": 44,
+                "remaining_products": 60,
                 "color": "Pink",
                 "img": [
                     {
@@ -5557,7 +5437,7 @@
                 "name": "Dynamic Black",
                 "weight": 5.443104,
                 "price": 28.99,
-                "remaining_products": 27,
+                "remaining_products": 69,
                 "color": "Black",
                 "img": [
                     {
@@ -5602,7 +5482,7 @@
                 "name": "Dynamic Purple",
                 "weight": 5.443104,
                 "price": 28.99,
-                "remaining_products": 50,
+                "remaining_products": 78,
                 "color": "Purple",
                 "img": [
                     {
@@ -5737,10 +5617,6 @@
                 "value": "9 INCH"
             },
             {
-                "key": "ASIN",
-                "value": "B077QD9TFF"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 26, 2018"
             }
@@ -5750,7 +5626,7 @@
                 "name": "\u200eTurkis",
                 "weight": 0.19958048,
                 "price": 9.99,
-                "remaining_products": 0,
+                "remaining_products": 84,
                 "color": "Turkis",
                 "img": [
                     {
@@ -5763,7 +5639,7 @@
                 "name": "Purple",
                 "weight": 0.19958048,
                 "price": 9.99,
-                "remaining_products": 58,
+                "remaining_products": 5,
                 "color": "Purple",
                 "img": [
                     {
@@ -5776,7 +5652,7 @@
                 "name": "Rose Pink",
                 "weight": 0.19958048,
                 "price": 9.99,
-                "remaining_products": 70,
+                "remaining_products": 8,
                 "color": "Pink, Rose",
                 "img": [
                     {
@@ -5789,7 +5665,7 @@
                 "name": "Black",
                 "weight": 0.19958048,
                 "price": 9.99,
-                "remaining_products": 18,
+                "remaining_products": 25,
                 "color": "Black",
                 "img": [
                     {
@@ -5802,7 +5678,7 @@
                 "name": "Indigo",
                 "weight": 0.19958048,
                 "price": 9.99,
-                "remaining_products": 66,
+                "remaining_products": 42,
                 "color": "Indigo",
                 "img": [
                     {
@@ -5893,10 +5769,6 @@
                 "value": "4.4 lb"
             },
             {
-                "key": "ASIN",
-                "value": "B001QTS1GO"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 6, 2003"
             }
@@ -5906,7 +5778,7 @@
                 "name": "Item 4.4 Pounds 32.01",
                 "weight": "4.4 Pounds",
                 "price": 32.01,
-                "remaining_products": 23,
+                "remaining_products": 81,
                 "color": "Red",
                 "img": [
                     {
@@ -6028,10 +5900,6 @@
                 "value": "One Size"
             },
             {
-                "key": "ASIN",
-                "value": "B01MT4L5ST"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 31, 2016"
             }
@@ -6041,7 +5909,7 @@
                 "name": "10LB",
                 "weight": 4.53592,
                 "price": 60.58,
-                "remaining_products": 55,
+                "remaining_products": 12,
                 "color": "Multi",
                 "img": [
                     {
@@ -6089,8 +5957,8 @@
             {
                 "name": "20LB",
                 "weight": 9.07184,
-                "price": 60.58,
-                "remaining_products": 37,
+                "price": 54.99,
+                "remaining_products": 12,
                 "color": "Multi",
                 "img": [
                     {
@@ -6139,7 +6007,7 @@
                 "name": "14LB",
                 "weight": 6.350288,
                 "price": 60.58,
-                "remaining_products": 30,
+                "remaining_products": 75,
                 "color": "Multi",
                 "img": [
                     {
@@ -6294,10 +6162,6 @@
                 "value": "3 lb"
             },
             {
-                "key": "ASIN",
-                "value": "B01LZ242R4"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 4, 2016"
             }
@@ -6307,7 +6171,7 @@
                 "name": "9 lb Ball",
                 "weight": 4.082328,
                 "price": 34.98,
-                "remaining_products": 65,
+                "remaining_products": 48,
                 "color": "3 lb Ball",
                 "img": [
                     {
@@ -6348,7 +6212,7 @@
                 "name": "20 lb Ball",
                 "weight": 9.07184,
                 "price": 34.98,
-                "remaining_products": 98,
+                "remaining_products": 86,
                 "color": "3 lb Ball",
                 "img": [
                     {
@@ -6381,7 +6245,7 @@
                 "name": "25 lb Ball",
                 "weight": 11.3398,
                 "price": 34.98,
-                "remaining_products": 90,
+                "remaining_products": 65,
                 "color": "3 lb Ball",
                 "img": [
                     {
@@ -6414,7 +6278,7 @@
                 "name": "3 lb Ball",
                 "weight": 1.360776,
                 "price": 34.98,
-                "remaining_products": 59,
+                "remaining_products": 12,
                 "color": "3 lb Ball",
                 "img": [
                     {
@@ -6463,7 +6327,7 @@
                 "name": "6 lb Ball",
                 "weight": 2.721552,
                 "price": 34.98,
-                "remaining_products": 55,
+                "remaining_products": 53,
                 "color": "3 lb Ball",
                 "img": [
                     {
@@ -6500,7 +6364,7 @@
                 "name": "12 lb Ball",
                 "weight": 5.443104,
                 "price": 34.98,
-                "remaining_products": 22,
+                "remaining_products": 72,
                 "color": "3 lb Ball",
                 "img": [
                     {
@@ -6545,7 +6409,7 @@
                 "name": "15 lb Ball",
                 "weight": 6.8038799999999995,
                 "price": 34.98,
-                "remaining_products": 9,
+                "remaining_products": 89,
                 "color": "3 lb Ball",
                 "img": [
                     {
@@ -6676,10 +6540,6 @@
                 "value": "15 lb"
             },
             {
-                "key": "ASIN",
-                "value": "B07XMNJ3QK"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 6, 2019"
             }
@@ -6689,7 +6549,7 @@
                 "name": "Item 7.19 Kilograms 21.3",
                 "weight": "7.19 Kilograms",
                 "price": 21.3,
-                "remaining_products": 11,
+                "remaining_products": 27,
                 "color": "Red",
                 "img": [
                     {
@@ -6808,10 +6668,6 @@
                 "value": "Medicine Balls"
             },
             {
-                "key": "ASIN",
-                "value": "B01L774DWU"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 29, 2016"
             }
@@ -6821,7 +6677,7 @@
                 "name": "Yellow - 4LB",
                 "weight": 1.814368,
                 "price": 45.98,
-                "remaining_products": 95,
+                "remaining_products": 55,
                 "color": "Yellow",
                 "img": [
                     {
@@ -6862,7 +6718,7 @@
                 "name": "Red - 12LB",
                 "weight": 5.443104,
                 "price": 45.98,
-                "remaining_products": 44,
+                "remaining_products": 92,
                 "color": "Red",
                 "img": [
                     {
@@ -6903,7 +6759,7 @@
                 "name": "Orange - 6LB",
                 "weight": 2.721552,
                 "price": 45.98,
-                "remaining_products": 23,
+                "remaining_products": 88,
                 "color": "Orange",
                 "img": [
                     {

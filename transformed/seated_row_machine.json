@@ -53,10 +53,6 @@
                 "value": "Cable Attachments"
             },
             {
-                "key": "ASIN",
-                "value": "B08PYGRPVV"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 7, 2020"
             }
@@ -66,7 +62,7 @@
                 "name": "Cable Attachments",
                 "weight": 3.52,
                 "price": 74.99,
-                "remaining_products": 6,
+                "remaining_products": 83,
                 "color": "Black",
                 "img": [
                     {
@@ -119,7 +115,7 @@
                 "name": "V-Tricep Bar",
                 "weight": 3.52,
                 "price": 74.99,
-                "remaining_products": 84,
+                "remaining_products": 46,
                 "color": "Black",
                 "img": [
                     {
@@ -268,10 +264,6 @@
                 "value": "49 x 22 x 9\""
             },
             {
-                "key": "ASIN",
-                "value": "B01M8GSBON"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 11, 2016"
             }
@@ -281,7 +273,7 @@
                 "name": "Smart Magnetic Fan",
                 "weight": 29.1206064,
                 "price": 149.49,
-                "remaining_products": 54,
+                "remaining_products": 73,
                 "color": "Steel",
                 "img": [
                     {
@@ -342,7 +334,7 @@
                 "name": "Magnetic",
                 "weight": 29.1206064,
                 "price": 149.49,
-                "remaining_products": 95,
+                "remaining_products": 64,
                 "color": "Steel",
                 "img": [
                     {
@@ -486,10 +478,6 @@
                 "value": "Rower"
             },
             {
-                "key": "ASIN",
-                "value": "B0CFWKGD3C"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 16, 2023"
             }
@@ -499,7 +487,7 @@
                 "name": "Item 43 Pounds 270",
                 "weight": "43 Pounds",
                 "price": 270,
-                "remaining_products": 27,
+                "remaining_products": 62,
                 "color": "Black",
                 "img": [
                     {
@@ -606,10 +594,6 @@
                 "value": "rowing"
             },
             {
-                "key": "ASIN",
-                "value": "B093YBJ14J"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 2, 2021"
             }
@@ -619,7 +603,7 @@
                 "name": "Item 16 Ounces 24.99",
                 "weight": "16 Ounces",
                 "price": 24.99,
-                "remaining_products": 97,
+                "remaining_products": 34,
                 "color": "Black",
                 "img": [
                     {
@@ -734,10 +718,6 @@
                 "value": "X-Large"
             },
             {
-                "key": "ASIN",
-                "value": "B01N284HLK"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 23, 2017"
             }
@@ -747,7 +727,7 @@
                 "name": "Item 0.53 Pounds 24.99",
                 "weight": "0.53 Pounds",
                 "price": 24.99,
-                "remaining_products": 72,
+                "remaining_products": 99,
                 "color": "Black",
                 "img": [
                     {
@@ -916,10 +896,6 @@
                 "value": "Standard"
             },
             {
-                "key": "ASIN",
-                "value": "B009QXP77I"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 15, 2012"
             }
@@ -929,7 +905,7 @@
                 "name": "Classic",
                 "weight": 9.298636,
                 "price": 80.99,
-                "remaining_products": 55,
+                "remaining_products": 94,
                 "color": "Grey/black",
                 "img": [
                     {
@@ -970,7 +946,7 @@
                 "name": "Smart",
                 "weight": 9.298636,
                 "price": 103.33,
-                "remaining_products": 3,
+                "remaining_products": 76,
                 "color": "Grey/black",
                 "img": [
                     {
@@ -1074,10 +1050,6 @@
                 "value": "Alloy Steel"
             },
             {
-                "key": "ASIN",
-                "value": "B001AYSU98"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 8, 2005"
             }
@@ -1087,7 +1059,7 @@
                 "name": "Item 158 Pounds 1155",
                 "weight": "158 Pounds",
                 "price": 1155,
-                "remaining_products": 1,
+                "remaining_products": 5,
                 "color": "Black",
                 "img": [
                     {
@@ -1215,10 +1187,6 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B001V52RLS"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 9, 2003"
             }
@@ -1228,7 +1196,7 @@
                 "name": "Item 4.34 Pounds 27.09",
                 "weight": "4.34 Pounds",
                 "price": 27.09,
-                "remaining_products": 63,
+                "remaining_products": 92,
                 "color": "Chrome",
                 "img": [
                     {
@@ -1324,10 +1292,6 @@
                 "value": "BKing Enterprises LLC"
             },
             {
-                "key": "ASIN",
-                "value": "B08FBTP61Y"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 6, 2020"
             }
@@ -1337,7 +1301,7 @@
                 "name": "Item 637 Grams 29.99",
                 "weight": "637 Grams",
                 "price": 29.99,
-                "remaining_products": 20,
+                "remaining_products": 43,
                 "color": "Black",
                 "img": [
                     {
@@ -1461,10 +1425,6 @@
                 "value": "1 x Cushion"
             },
             {
-                "key": "ASIN",
-                "value": "B01D10YY0C"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 16, 2016"
             }
@@ -1474,7 +1434,7 @@
                 "name": "Item 0.3 Pounds 19.99",
                 "weight": "0.3 Pounds",
                 "price": 19.99,
-                "remaining_products": 21,
+                "remaining_products": 4,
                 "color": "Black",
                 "img": [
                     {
@@ -1635,10 +1595,6 @@
                 "value": "Rower, User Manual, 1 AA Battery"
             },
             {
-                "key": "ASIN",
-                "value": "B09FFSQBJ6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 3, 2021"
             }
@@ -1648,7 +1604,7 @@
                 "name": "Item 37.9 Pounds 199.99",
                 "weight": "37.9 Pounds",
                 "price": 199.99,
-                "remaining_products": 67,
+                "remaining_products": 13,
                 "color": "Black",
                 "img": [
                     {
@@ -1813,10 +1769,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B017HSNIEW"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 2, 2015"
             }
@@ -1826,7 +1778,7 @@
                 "name": "Smart Quite Rail",
                 "weight": 27.6237528,
                 "price": 339.76,
-                "remaining_products": 24,
+                "remaining_products": 81,
                 "color": "Grey",
                 "img": [
                     {
@@ -1863,7 +1815,7 @@
                 "name": "Smart Water Rower",
                 "weight": 27.6237528,
                 "price": 664.98,
-                "remaining_products": 53,
+                "remaining_products": 95,
                 "color": "Grey",
                 "img": [
                     {
@@ -1904,7 +1856,7 @@
                 "name": "Smart Long Rail",
                 "weight": 27.6237528,
                 "price": 309.99,
-                "remaining_products": 92,
+                "remaining_products": 69,
                 "color": "Grey",
                 "img": [
                     {
@@ -1965,7 +1917,7 @@
                 "name": "Classic Long Rail",
                 "weight": 27.6237528,
                 "price": 197.1,
-                "remaining_products": 63,
+                "remaining_products": 22,
                 "color": "Grey",
                 "img": [
                     {
@@ -2102,10 +2054,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B00NVSACU6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 29, 2014"
             }
@@ -2115,7 +2063,7 @@
                 "name": "Item 80 Pounds 395.98",
                 "weight": "80 Pounds",
                 "price": 395.98,
-                "remaining_products": 95,
+                "remaining_products": 25,
                 "color": "Metallic Grey and Black",
                 "img": [
                     {
@@ -2235,10 +2183,6 @@
                 "value": "Remote Control"
             },
             {
-                "key": "ASIN",
-                "value": "B0CMXYLXQQ"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 27, 2023"
             }
@@ -2248,7 +2192,7 @@
                 "name": "Orange",
                 "weight": 7.8,
                 "price": 149.99,
-                "remaining_products": 51,
+                "remaining_products": 66,
                 "color": "Orange",
                 "img": [
                     {
@@ -2261,7 +2205,7 @@
                 "name": "White",
                 "weight": 7.8,
                 "price": 169.99,
-                "remaining_products": 62,
+                "remaining_products": 15,
                 "color": "White",
                 "img": [
                     {
@@ -2274,7 +2218,7 @@
                 "name": "Bule Gray",
                 "weight": 7.8,
                 "price": 169.99,
-                "remaining_products": 30,
+                "remaining_products": 72,
                 "color": "Gray",
                 "img": [
                     {
@@ -2393,10 +2337,6 @@
                 "value": "Ambidextrous"
             },
             {
-                "key": "ASIN",
-                "value": "B0BQWCPH5W"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 22, 2022"
             }
@@ -2406,7 +2346,7 @@
                 "name": "Item 50 Pounds 189.99",
                 "weight": "50 Pounds",
                 "price": 189.99,
-                "remaining_products": 31,
+                "remaining_products": 14,
                 "color": "Black",
                 "img": [
                     {
@@ -2535,10 +2475,6 @@
                 "value": "Roawing Machine"
             },
             {
-                "key": "ASIN",
-                "value": "B0DGL9B1JV"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 24, 2024"
             }
@@ -2548,7 +2484,7 @@
                 "name": "Item 23 Pounds 189.99",
                 "weight": "23 Pounds",
                 "price": 189.99,
-                "remaining_products": 76,
+                "remaining_products": 19,
                 "color": "Black+Red",
                 "img": [
                     {
@@ -2701,10 +2637,6 @@
                 "value": "One Size"
             },
             {
-                "key": "ASIN",
-                "value": "B0CFYRLPKR"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 17, 2023"
             }
@@ -2714,7 +2646,7 @@
                 "name": "Pink",
                 "weight": 13.380964,
                 "price": 116.43,
-                "remaining_products": 97,
+                "remaining_products": 39,
                 "color": "Pink",
                 "img": [
                     {
@@ -2751,7 +2683,7 @@
                 "name": "Black",
                 "weight": 13.380964,
                 "price": 120.62,
-                "remaining_products": 29,
+                "remaining_products": 21,
                 "color": "Black",
                 "img": [
                     {
@@ -2916,10 +2848,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B08SSFZN4P"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 12, 2021"
             }
@@ -2929,7 +2857,7 @@
                 "name": "PRO SMART",
                 "weight": 17.1457776,
                 "price": 119.19,
-                "remaining_products": 71,
+                "remaining_products": 44,
                 "color": "Silver",
                 "img": [
                     {
@@ -2970,7 +2898,7 @@
                 "name": "SMART Row-N-Ride BIKE",
                 "weight": 17.1457776,
                 "price": 119.19,
-                "remaining_products": 32,
+                "remaining_products": 4,
                 "color": "Silver",
                 "img": [
                     {
@@ -3011,7 +2939,7 @@
                 "name": "PRO",
                 "weight": 17.1457776,
                 "price": 119.19,
-                "remaining_products": 38,
+                "remaining_products": 44,
                 "color": "Silver",
                 "img": [
                     {
@@ -3060,7 +2988,7 @@
                 "name": "SMART",
                 "weight": 17.1457776,
                 "price": 119.19,
-                "remaining_products": 26,
+                "remaining_products": 45,
                 "color": "Silver",
                 "img": [
                     {
@@ -3193,10 +3121,6 @@
                 "value": "Rowing"
             },
             {
-                "key": "ASIN",
-                "value": "B0B1V4NZD8"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 20, 2022"
             }
@@ -3206,7 +3130,7 @@
                 "name": "H016-1",
                 "weight": 28.122704,
                 "price": 409.99,
-                "remaining_products": 52,
+                "remaining_products": 47,
                 "color": "H015-3",
                 "img": [
                     {
@@ -3247,7 +3171,7 @@
                 "name": "H015-3",
                 "weight": 28.122704,
                 "price": 399.99,
-                "remaining_products": 95,
+                "remaining_products": 35,
                 "color": "H015-3",
                 "img": [
                     {
@@ -3390,10 +3314,6 @@
                 "value": "Rowing Machine x 1, User Manual x 1, AAA Alkaline Battery x 2"
             },
             {
-                "key": "ASIN",
-                "value": "B0CJ9N9ZZX"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 18, 2023"
             }
@@ -3403,7 +3323,7 @@
                 "name": "R05 Pro - Foldable Magnetic Rowing",
                 "weight": 19.958047999999998,
                 "price": 229.99,
-                "remaining_products": 23,
+                "remaining_products": 45,
                 "color": "Black/Orange",
                 "img": [
                     {
@@ -3448,7 +3368,7 @@
                 "name": "R10 - Water Rowing",
                 "weight": 19.958047999999998,
                 "price": 279.99,
-                "remaining_products": 97,
+                "remaining_products": 86,
                 "color": "Black/Orange",
                 "img": [
                     {
@@ -3589,10 +3509,6 @@
                 "value": "Rowing machine"
             },
             {
-                "key": "ASIN",
-                "value": "B0DNHLDLRP"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 8, 2024"
             }
@@ -3602,7 +3518,7 @@
                 "name": "Black",
                 "weight": 19.5,
                 "price": 129.99,
-                "remaining_products": 74,
+                "remaining_products": 25,
                 "color": "Black",
                 "img": [
                     {
@@ -3651,7 +3567,7 @@
                 "name": "Gray",
                 "weight": 19.5,
                 "price": 129.99,
-                "remaining_products": 72,
+                "remaining_products": 69,
                 "color": "Gray",
                 "img": [
                     {
@@ -3786,10 +3702,6 @@
                 "value": "Pro Magnetic Rower"
             },
             {
-                "key": "ASIN",
-                "value": "B0B38CMPG9"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 10, 2022"
             }
@@ -3799,7 +3711,7 @@
                 "name": "01-Magnetic Rower",
                 "weight": 34.93,
                 "price": 259.99,
-                "remaining_products": 31,
+                "remaining_products": 52,
                 "color": "Black",
                 "img": [
                     {
@@ -3812,7 +3724,7 @@
                 "name": "02-Magnetic PRO",
                 "weight": 34.93,
                 "price": 329.99,
-                "remaining_products": 67,
+                "remaining_products": 75,
                 "color": "Black",
                 "img": [
                     {
@@ -3825,7 +3737,7 @@
                 "name": "03-Pro Max",
                 "weight": 34.93,
                 "price": 359.99,
-                "remaining_products": 49,
+                "remaining_products": 97,
                 "color": "Black",
                 "img": [
                     {
@@ -3838,7 +3750,7 @@
                 "name": "04-Water Rowing Machine",
                 "weight": 34.93,
                 "price": 369.99,
-                "remaining_products": 99,
+                "remaining_products": 51,
                 "color": "Black",
                 "img": [
                     {
@@ -3978,10 +3890,6 @@
                 "value": "Ambidextrous"
             },
             {
-                "key": "ASIN",
-                "value": "B074B3B22G"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 27, 2017"
             }
@@ -3991,7 +3899,7 @@
                 "name": "Grey",
                 "weight": 11.113004,
                 "price": 89.98,
-                "remaining_products": 49,
+                "remaining_products": 21,
                 "color": "Grey",
                 "img": [
                     {
@@ -4040,7 +3948,7 @@
                 "name": "Green",
                 "weight": 11.113004,
                 "price": 89.98,
-                "remaining_products": 40,
+                "remaining_products": 88,
                 "color": "Green",
                 "img": [
                     {
@@ -4097,7 +4005,7 @@
                 "name": "2 - Pink",
                 "weight": 11.113004,
                 "price": 89.98,
-                "remaining_products": 21,
+                "remaining_products": 15,
                 "color": "Pink",
                 "img": [
                     {
@@ -4213,10 +4121,6 @@
                 "value": "1*Exercise Cable Handles"
             },
             {
-                "key": "ASIN",
-                "value": "B0BWJQB7RL"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 22, 2023"
             }
@@ -4226,7 +4130,7 @@
                 "name": "Black",
                 "weight": 0.5443104,
                 "price": 28.99,
-                "remaining_products": 87,
+                "remaining_products": 67,
                 "color": "Black",
                 "img": [
                     {
@@ -4271,7 +4175,7 @@
                 "name": "Black-2",
                 "weight": 0.5443104,
                 "price": 28.99,
-                "remaining_products": 17,
+                "remaining_products": 50,
                 "color": "Black",
                 "img": [
                     {
@@ -4397,10 +4301,6 @@
                 "value": "Alloy Steel"
             },
             {
-                "key": "ASIN",
-                "value": "B0D8KC5NC3"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 2, 2024"
             }
@@ -4410,7 +4310,7 @@
                 "name": "Blue",
                 "weight": 15.639852159999998,
                 "price": 169.99,
-                "remaining_products": 60,
+                "remaining_products": 87,
                 "color": "Blue",
                 "img": [
                     {
@@ -4459,7 +4359,7 @@
                 "name": "Orange",
                 "weight": 15.639852159999998,
                 "price": 169.99,
-                "remaining_products": 90,
+                "remaining_products": 14,
                 "color": "Orange",
                 "img": [
                     {
@@ -4602,10 +4502,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B09G71SH6Y"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 15, 2021"
             }
@@ -4615,7 +4511,7 @@
                 "name": "Item 30 Pounds 175.99",
                 "weight": "30 Pounds",
                 "price": 175.99,
-                "remaining_products": 88,
+                "remaining_products": 89,
                 "color": "Dark Grey",
                 "img": [
                     {
@@ -4755,10 +4651,6 @@
                 "value": "Rowing machine, console"
             },
             {
-                "key": "ASIN",
-                "value": "B0844GP7QP"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 14, 2020"
             }
@@ -4768,7 +4660,7 @@
                 "name": "Item 145 Pounds 1794.99",
                 "weight": "145 Pounds",
                 "price": 1794.99,
-                "remaining_products": 62,
+                "remaining_products": 63,
                 "color": "Black/ Silver",
                 "img": [
                     {
@@ -4895,10 +4787,6 @@
                 "value": "HR-W7"
             },
             {
-                "key": "ASIN",
-                "value": "B0CK9MLCT5"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 3, 2023"
             }
@@ -4908,7 +4796,7 @@
                 "name": "Item 57 Pounds 369.99",
                 "weight": "57 Pounds",
                 "price": 369.99,
-                "remaining_products": 12,
+                "remaining_products": 56,
                 "color": "Black",
                 "img": [
                     {
@@ -5045,10 +4933,6 @@
                 "value": "Rower"
             },
             {
-                "key": "ASIN",
-                "value": "B0CC3JTNW2"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 10, 2024"
             }
@@ -5058,7 +4942,7 @@
                 "name": "Item 156.5 Pounds 3295",
                 "weight": "156.5 Pounds",
                 "price": 3295,
-                "remaining_products": 99,
+                "remaining_products": 84,
                 "color": "Black",
                 "img": [
                     {
@@ -5168,10 +5052,6 @@
                 "value": "songhua"
             },
             {
-                "key": "ASIN",
-                "value": "B0D5WHHKFW"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 2, 2024"
             }
@@ -5181,7 +5061,7 @@
                 "name": "Item 28 Pounds 139",
                 "weight": "28 Pounds",
                 "price": 139,
-                "remaining_products": 4,
+                "remaining_products": 70,
                 "color": "silver",
                 "img": [
                     {
@@ -5329,10 +5209,6 @@
                 "value": "Stamina Wave Water Rower 1435"
             },
             {
-                "key": "ASIN",
-                "value": "B09LPQ51ZD"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 11, 2021"
             }
@@ -5342,7 +5218,7 @@
                 "name": "Black / Red",
                 "weight": 26.308336,
                 "price": 689,
-                "remaining_products": 18,
+                "remaining_products": 74,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -5391,7 +5267,7 @@
                 "name": "black, blue",
                 "weight": 26.308336,
                 "price": 579.99,
-                "remaining_products": 85,
+                "remaining_products": 19,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -5523,10 +5399,6 @@
                 "value": "manual"
             },
             {
-                "key": "ASIN",
-                "value": "B0D3DL33QM"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 6, 2024"
             }
@@ -5536,7 +5408,7 @@
                 "name": "Item 168 Pounds 399.99",
                 "weight": "168 Pounds",
                 "price": 399.99,
-                "remaining_products": 64,
+                "remaining_products": 24,
                 "color": "black",
                 "img": [
                     {
@@ -5699,10 +5571,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B06WW5XXJL"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 22, 2017"
             }
@@ -5712,7 +5580,7 @@
                 "name": "2 - SMART",
                 "weight": 14.968536,
                 "price": 199.99,
-                "remaining_products": 47,
+                "remaining_products": 21,
                 "color": "Silver",
                 "img": [
                     {
@@ -5749,7 +5617,7 @@
                 "name": "1 - Classic",
                 "weight": 14.968536,
                 "price": 116.2,
-                "remaining_products": 99,
+                "remaining_products": 55,
                 "color": "Silver",
                 "img": [
                     {
@@ -5826,7 +5694,7 @@
                 "name": "3 - Row-N-Ride SMART",
                 "weight": 14.968536,
                 "price": 227.49,
-                "remaining_products": 33,
+                "remaining_products": 41,
                 "color": "Silver",
                 "img": [
                     {
@@ -5867,7 +5735,7 @@
                 "name": "4 - Premium Magnetic SMART",
                 "weight": 14.968536,
                 "price": 565.24,
-                "remaining_products": 85,
+                "remaining_products": 78,
                 "color": "Silver",
                 "img": [
                     {
@@ -6001,10 +5869,6 @@
                 "value": "MONITOR"
             },
             {
-                "key": "ASIN",
-                "value": "B0CJ51N6W3"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 4, 2023"
             }
@@ -6014,7 +5878,7 @@
                 "name": "Item 36.25 Kilograms 469.99",
                 "weight": "36.25 Kilograms",
                 "price": 469.99,
-                "remaining_products": 73,
+                "remaining_products": 47,
                 "color": "Wood",
                 "img": [
                     {
@@ -6147,10 +6011,6 @@
                 "value": "Rowing Machine"
             },
             {
-                "key": "ASIN",
-                "value": "B0CXHSHX6L"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 8, 2024"
             }
@@ -6160,7 +6020,7 @@
                 "name": "magnetic rower 02",
                 "weight": 23.59,
                 "price": 179.99,
-                "remaining_products": 49,
+                "remaining_products": 61,
                 "color": "black",
                 "img": [
                     {
@@ -6173,7 +6033,7 @@
                 "name": "magnetic rower 03",
                 "weight": 23.59,
                 "price": 169.99,
-                "remaining_products": 81,
+                "remaining_products": 59,
                 "color": "black",
                 "img": [
                     {
@@ -6302,10 +6162,6 @@
                 "value": "3 - Row-N-Ride SMART"
             },
             {
-                "key": "ASIN",
-                "value": "B0BZQJLVBH"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 27, 2023"
             }
@@ -6315,7 +6171,7 @@
                 "name": "2 - SMART",
                 "weight": 17.8261656,
                 "price": 199.99,
-                "remaining_products": 45,
+                "remaining_products": 57,
                 "color": "5 - Full Motion Smart",
                 "img": [
                     {
@@ -6352,7 +6208,7 @@
                 "name": "1 - Classic",
                 "weight": 17.8261656,
                 "price": 116.2,
-                "remaining_products": 40,
+                "remaining_products": 30,
                 "color": "5 - Full Motion Smart",
                 "img": [
                     {
@@ -6429,7 +6285,7 @@
                 "name": "3 - Row-N-Ride SMART",
                 "weight": 17.8261656,
                 "price": 227.49,
-                "remaining_products": 27,
+                "remaining_products": 89,
                 "color": "5 - Full Motion Smart",
                 "img": [
                     {
@@ -6470,7 +6326,7 @@
                 "name": "4 - Premium Magnetic SMART",
                 "weight": 17.8261656,
                 "price": 565.24,
-                "remaining_products": 53,
+                "remaining_products": 69,
                 "color": "5 - Full Motion Smart",
                 "img": [
                     {
@@ -6598,10 +6454,6 @@
                 "value": "Rowing Machine"
             },
             {
-                "key": "ASIN",
-                "value": "B0DMW5JD9V"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 13, 2024"
             }
@@ -6611,7 +6463,7 @@
                 "name": "Double Tracks",
                 "weight": 32.60872888,
                 "price": 169.99,
-                "remaining_products": 6,
+                "remaining_products": 93,
                 "color": "Black and Orange",
                 "img": [
                     {
@@ -6660,7 +6512,7 @@
                 "name": "Double Sculls",
                 "weight": 32.60872888,
                 "price": 169.99,
-                "remaining_products": 38,
+                "remaining_products": 46,
                 "color": "Black and Orange",
                 "img": [
                     {
@@ -6799,10 +6651,6 @@
                 "value": "Regular"
             },
             {
-                "key": "ASIN",
-                "value": "B01N284HLL"
-            },
-            {
                 "key": "Date First Available",
                 "value": "April 23, 2017"
             }
@@ -6812,7 +6660,7 @@
                 "name": "Item 0.26 Pounds 19.99",
                 "weight": "0.26 Pounds",
                 "price": 19.99,
-                "remaining_products": 0,
+                "remaining_products": 35,
                 "color": "Black",
                 "img": [
                     {
@@ -6935,10 +6783,6 @@
                 "value": "ROWING"
             },
             {
-                "key": "ASIN",
-                "value": "B0CHRSSXNL"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 11, 2023"
             }
@@ -6948,7 +6792,7 @@
                 "name": "Item 25 Kilograms 179.99",
                 "weight": "25 Kilograms",
                 "price": 179.99,
-                "remaining_products": 97,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -7060,10 +6904,6 @@
                 "value": "Under Desk Elliptical*1, Power Cord*1, User Manual Product Description*1, Remote Control*1"
             },
             {
-                "key": "ASIN",
-                "value": "B0DF2WS15J"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 23, 2024"
             }
@@ -7073,7 +6913,7 @@
                 "name": "Item 13.7 Pounds 129.99",
                 "weight": "13.7 Pounds",
                 "price": 129.99,
-                "remaining_products": 30,
+                "remaining_products": 34,
                 "color": "orange",
                 "img": [
                     {
@@ -7197,10 +7037,6 @@
                 "value": "Squat Machine"
             },
             {
-                "key": "ASIN",
-                "value": "B0D66VS23C"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 5, 2024"
             }
@@ -7210,7 +7046,7 @@
                 "name": "Red",
                 "weight": 9.979023999999999,
                 "price": 92.99,
-                "remaining_products": 72,
+                "remaining_products": 22,
                 "color": "Red",
                 "img": [
                     {
@@ -7251,7 +7087,7 @@
                 "name": "Pink",
                 "weight": 9.979023999999999,
                 "price": 89.99,
-                "remaining_products": 3,
+                "remaining_products": 96,
                 "color": "Pink",
                 "img": [
                     {
@@ -7292,7 +7128,7 @@
                 "name": "Orange",
                 "weight": 9.979023999999999,
                 "price": 95.99,
-                "remaining_products": 80,
+                "remaining_products": 86,
                 "color": "Orange",
                 "img": [
                     {
@@ -7435,10 +7271,6 @@
                 "value": "Rowing Machine"
             },
             {
-                "key": "ASIN",
-                "value": "B0DK37W2SL"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 15, 2024"
             }
@@ -7562,10 +7394,6 @@
             {
                 "key": "Part Number",
                 "value": "5333604914"
-            },
-            {
-                "key": "ASIN",
-                "value": "B072PRJ2WG"
             },
             {
                 "key": "Date First Available",
@@ -7710,10 +7538,6 @@
                 "value": "User Manual, Row N Ride P2100SMART"
             },
             {
-                "key": "ASIN",
-                "value": "B0D6X1YTXP"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 12, 2024"
             }
@@ -7723,7 +7547,7 @@
                 "name": "Pink",
                 "weight": 13.0180904,
                 "price": 116.43,
-                "remaining_products": 16,
+                "remaining_products": 10,
                 "color": "Pink",
                 "img": [
                     {
@@ -7759,8 +7583,8 @@
             {
                 "name": "Black",
                 "weight": 13.0180904,
-                "price": 116.43,
-                "remaining_products": 29,
+                "price": 120.62,
+                "remaining_products": 61,
                 "color": "Black",
                 "img": [
                     {

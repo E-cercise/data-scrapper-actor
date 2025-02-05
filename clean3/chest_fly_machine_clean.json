@@ -82,10 +82,6 @@
                 "value": "Exercise and Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B000VLMOP2"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 9, 2008"
             }
@@ -95,7 +91,7 @@
                 "name": "Item 60 Pounds 224.1",
                 "weight": "60 Pounds",
                 "price": 224.1,
-                "remaining_products": 79,
+                "remaining_products": 25,
                 "color": "Red / Black",
                 "img": [
                     {
@@ -205,10 +201,6 @@
                 "value": "Anti-slip Foot Bases, Padded Seat, Backrest"
             },
             {
-                "key": "ASIN",
-                "value": "B0DQSLP7RF"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 17, 2024"
             }
@@ -218,7 +210,7 @@
                 "name": "Yellow",
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 49,
+                "remaining_products": 17,
                 "color": "Yellow",
                 "img": [
                     {
@@ -267,7 +259,7 @@
                 "name": "Red",
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 49,
+                "remaining_products": 85,
                 "color": "Red",
                 "img": [
                     {
@@ -369,10 +361,6 @@
                 "value": "smith machine, cable handle, lat pulldown bar, double D handle, safety arm, j hook"
             },
             {
-                "key": "ASIN",
-                "value": "B0DP6FMBXH"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 28, 2024"
             }
@@ -382,7 +370,7 @@
                 "name": "Item 310.6 Pounds 599.99",
                 "weight": "310.6 Pounds",
                 "price": 599.99,
-                "remaining_products": 77,
+                "remaining_products": 92,
                 "color": "black",
                 "img": [
                     {
@@ -488,10 +476,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B000VCHDSY"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 14, 2006"
             }
@@ -501,7 +485,7 @@
                 "name": "Item 118 Pounds 459",
                 "weight": "118 Pounds",
                 "price": 459,
-                "remaining_products": 25,
+                "remaining_products": 100,
                 "color": "Black",
                 "img": [
                     {
@@ -603,10 +587,6 @@
                 "value": "Pcl Leverage Incline Press"
             },
             {
-                "key": "ASIN",
-                "value": "B00176275C"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 30, 2008"
             }
@@ -616,7 +596,7 @@
                 "name": "Item 184 Pounds 1070",
                 "weight": "184 Pounds",
                 "price": 1070,
-                "remaining_products": 70,
+                "remaining_products": 93,
                 "color": "Black",
                 "img": [
                     {
@@ -735,10 +715,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B00NVSACU6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 29, 2014"
             }
@@ -748,7 +724,7 @@
                 "name": "Item 80 Pounds 395.98",
                 "weight": "80 Pounds",
                 "price": 395.98,
-                "remaining_products": 45,
+                "remaining_products": 22,
                 "color": "Metallic Grey and Black",
                 "img": [
                     {
@@ -846,10 +822,6 @@
                 "value": "Best Fitness Functional Trainer"
             },
             {
-                "key": "ASIN",
-                "value": "B0063NCDLM"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 5, 2011"
             }
@@ -859,7 +831,7 @@
                 "name": "Item 330 Pounds 647.99",
                 "weight": "330 Pounds",
                 "price": 647.99,
-                "remaining_products": 65,
+                "remaining_products": 39,
                 "color": "Black",
                 "img": [
                     {
@@ -960,10 +932,6 @@
                 "value": "FITNESS"
             },
             {
-                "key": "ASIN",
-                "value": "B07DNYSJ8W"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 12, 2018"
             }
@@ -973,7 +941,7 @@
                 "name": "Item 12 Kilograms 149.99",
                 "weight": "12 Kilograms",
                 "price": 149.99,
-                "remaining_products": 13,
+                "remaining_products": 94,
                 "color": "800LBS",
                 "img": [
                     {
@@ -1083,10 +1051,6 @@
                 "value": "20\""
             },
             {
-                "key": "ASIN",
-                "value": "B000LQKABM"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 2, 2003"
             }
@@ -1096,7 +1060,7 @@
                 "name": "Item 1 Kilograms 179.99",
                 "weight": "1 Kilograms",
                 "price": 179.99,
-                "remaining_products": 15,
+                "remaining_products": 57,
                 "color": "Matte Black",
                 "img": [
                     {
@@ -1222,10 +1186,6 @@
                 "value": "Weightlifting"
             },
             {
-                "key": "ASIN",
-                "value": "B003O3SFG6"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 26, 2010"
             }
@@ -1235,7 +1195,7 @@
                 "name": "Item 60 Pounds 179.99",
                 "weight": "60 Pounds",
                 "price": 179.99,
-                "remaining_products": 66,
+                "remaining_products": 46,
                 "color": "Multi Colored",
                 "img": [
                     {
@@ -1357,10 +1317,6 @@
                 "value": "Weightlifting, Exercise and Fitness, Bodybuilding"
             },
             {
-                "key": "ASIN",
-                "value": "B004SBAWMI"
-            },
-            {
                 "key": "Date First Available",
                 "value": "March 16, 2011"
             }
@@ -1370,7 +1326,7 @@
                 "name": "Item 83 Pounds 348.98",
                 "weight": "83 Pounds",
                 "price": 348.98,
-                "remaining_products": 11,
+                "remaining_products": 50,
                 "color": "Metallic Grey and Black",
                 "img": [
                     {

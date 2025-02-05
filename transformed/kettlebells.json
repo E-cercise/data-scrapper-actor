@@ -74,10 +74,6 @@
                 "value": "12.8 Pounds"
             },
             {
-                "key": "ASIN",
-                "value": "B01M2BUFDX"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 31, 2016"
             }
@@ -87,7 +83,7 @@
                 "name": "25.0 Pounds",
                 "weight": 11.3398,
                 "price": 42.72,
-                "remaining_products": 69,
+                "remaining_products": 6,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -136,7 +132,7 @@
                 "name": "20.0 Pounds",
                 "weight": 9.07184,
                 "price": 38.09,
-                "remaining_products": 47,
+                "remaining_products": 15,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -185,7 +181,7 @@
                 "name": "12.0 Pounds",
                 "weight": 5.443104,
                 "price": 22.08,
-                "remaining_products": 12,
+                "remaining_products": 85,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -234,7 +230,7 @@
                 "name": "30 Pounds",
                 "weight": 13.607759999999999,
                 "price": 59.99,
-                "remaining_products": 32,
+                "remaining_products": 8,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -283,7 +279,7 @@
                 "name": "15.0 Pounds",
                 "weight": 6.8038799999999995,
                 "price": 23.78,
-                "remaining_products": 34,
+                "remaining_products": 51,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -332,7 +328,7 @@
                 "name": "5.0 Pounds",
                 "weight": 2.26796,
                 "price": 12.99,
-                "remaining_products": 5,
+                "remaining_products": 84,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -381,7 +377,7 @@
                 "name": "10.0 Pounds",
                 "weight": 4.53592,
                 "price": 21.99,
-                "remaining_products": 35,
+                "remaining_products": 2,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -430,7 +426,7 @@
                 "name": "18.0 Pounds",
                 "weight": 8.164656,
                 "price": 35.62,
-                "remaining_products": 17,
+                "remaining_products": 49,
                 "color": "10LB - Yellow, 12LB - Red, 3LB - Lavender, 15LB - Light Blue, 8 LB - Light Blue, 5LB - Green, 4LB - Pink, 6 LB - Purple",
                 "img": [
                     {
@@ -596,10 +592,6 @@
                 "value": "26 Pounds"
             },
             {
-                "key": "ASIN",
-                "value": "B00I6CRLLA"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 12, 2014"
             }
@@ -609,7 +601,7 @@
                 "name": "Yellow",
                 "weight": 11.793392,
                 "price": 47.99,
-                "remaining_products": 34,
+                "remaining_products": 55,
                 "color": "Yellow",
                 "img": [
                     {
@@ -658,7 +650,7 @@
                 "name": "Pink",
                 "weight": 11.793392,
                 "price": 47.99,
-                "remaining_products": 40,
+                "remaining_products": 101,
                 "color": "Pink",
                 "img": [
                     {
@@ -707,7 +699,7 @@
                 "name": "Dark Gray",
                 "weight": 11.793392,
                 "price": 47.99,
-                "remaining_products": 51,
+                "remaining_products": 71,
                 "color": "Gray",
                 "img": [
                     {
@@ -760,7 +752,7 @@
                 "name": "Blue",
                 "weight": 11.793392,
                 "price": 47.99,
-                "remaining_products": 72,
+                "remaining_products": 81,
                 "color": "Blue",
                 "img": [
                     {
@@ -934,10 +926,6 @@
                 "value": "Sporting Goods"
             },
             {
-                "key": "ASIN",
-                "value": "B00A8CCD5U"
-            },
-            {
                 "key": "Date First Available",
                 "value": "September 29, 2013"
             }
@@ -947,7 +935,7 @@
                 "name": "H. 5 - 10 - 15 - 20 - 25 - 30 lbs",
                 "weight": 13.607759999999999,
                 "price": 48.5,
-                "remaining_products": 10,
+                "remaining_products": 30,
                 "color": "B. 15 - 20 lbs",
                 "img": [
                     {
@@ -988,7 +976,7 @@
                 "name": "A. 10 - 15 lbs",
                 "weight": 6.8038799999999995,
                 "price": 48.5,
-                "remaining_products": 22,
+                "remaining_products": 40,
                 "color": "B. 15 - 20 lbs",
                 "img": [
                     {
@@ -1029,7 +1017,7 @@
                 "name": "B. 15 - 20 lbs",
                 "weight": 9.07184,
                 "price": 48.5,
-                "remaining_products": 71,
+                "remaining_products": 101,
                 "color": "B. 15 - 20 lbs",
                 "img": [
                     {
@@ -1070,7 +1058,7 @@
                 "name": "D. 5 - 10 - 15 lbs",
                 "weight": 6.8038799999999995,
                 "price": 48.5,
-                "remaining_products": 34,
+                "remaining_products": 5,
                 "color": "B. 15 - 20 lbs",
                 "img": [
                     {
@@ -1107,7 +1095,7 @@
                 "name": "C. 20 - 25 lbs",
                 "weight": 11.3398,
                 "price": 48.5,
-                "remaining_products": 15,
+                "remaining_products": 70,
                 "color": "B. 15 - 20 lbs",
                 "img": [
                     {
@@ -1148,7 +1136,7 @@
                 "name": "E. 10 - 15 - 20 lbs",
                 "weight": 9.07184,
                 "price": 48.5,
-                "remaining_products": 40,
+                "remaining_products": 96,
                 "color": "B. 15 - 20 lbs",
                 "img": [
                     {
@@ -1303,10 +1291,6 @@
                 "value": "Advanced,beginner,expert,intermediate,professional"
             },
             {
-                "key": "ASIN",
-                "value": "B08S3WVBCC"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 5, 2021"
             }
@@ -1316,7 +1300,7 @@
                 "name": "E-Blue-12lb",
                 "weight": 5.443104,
                 "price": 39.99,
-                "remaining_products": 37,
+                "remaining_products": 81,
                 "color": "Blue",
                 "img": [
                     {
@@ -1365,7 +1349,7 @@
                 "name": "D-Black-40lb",
                 "weight": 18.14368,
                 "price": 39.99,
-                "remaining_products": 4,
+                "remaining_products": 11,
                 "color": "Black",
                 "img": [
                     {
@@ -1414,7 +1398,7 @@
                 "name": "L-Black-20lb",
                 "weight": 9.07184,
                 "price": 39.99,
-                "remaining_products": 91,
+                "remaining_products": 26,
                 "color": "Black",
                 "img": [
                     {
@@ -1451,7 +1435,7 @@
                 "name": "F-Pink-12lb",
                 "weight": 5.443104,
                 "price": 39.99,
-                "remaining_products": 86,
+                "remaining_products": 3,
                 "color": "Pink",
                 "img": [
                     {
@@ -1617,10 +1601,6 @@
                 "value": "3"
             },
             {
-                "key": "ASIN",
-                "value": "B0BLJVSN41"
-            },
-            {
                 "key": "Date First Available",
                 "value": "November 5, 2022"
             }
@@ -1630,7 +1610,7 @@
                 "name": "Black",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 93,
+                "remaining_products": 43,
                 "color": "Black",
                 "img": [
                     {
@@ -1679,7 +1659,7 @@
                 "name": "Army Green",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 57,
+                "remaining_products": 81,
                 "color": "Green",
                 "img": [
                     {
@@ -1728,7 +1708,7 @@
                 "name": "Yellow",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 49,
+                "remaining_products": 73,
                 "color": "Yellow",
                 "img": [
                     {
@@ -1773,7 +1753,7 @@
                 "name": "1-Orange",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 83,
+                "remaining_products": 16,
                 "color": "Orange",
                 "img": [
                     {
@@ -1822,7 +1802,7 @@
                 "name": "Rose Red",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 82,
+                "remaining_products": 47,
                 "color": "Red, Rose",
                 "img": [
                     {
@@ -2003,10 +1983,6 @@
                 "value": "Exercise & Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B07T7QNRQ5"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 21, 2019"
             }
@@ -2016,7 +1992,7 @@
                 "name": "Item 24 Kilograms 86.39",
                 "weight": "24 Kilograms",
                 "price": 86.39,
-                "remaining_products": 60,
+                "remaining_products": 65,
                 "color": "Rage 1.0",
                 "img": [
                     {
@@ -2182,10 +2158,6 @@
                 "value": "20.0 Pounds"
             },
             {
-                "key": "ASIN",
-                "value": "B074N5392C"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 8, 2017"
             }
@@ -2195,7 +2167,7 @@
                 "name": "Item 20 Pounds 52.48",
                 "weight": "20 Pounds",
                 "price": 52.48,
-                "remaining_products": 10,
+                "remaining_products": 43,
                 "color": "black",
                 "img": [
                     {
@@ -2341,10 +2313,6 @@
                 "value": "Handle"
             },
             {
-                "key": "ASIN",
-                "value": "B008CXWDDY"
-            },
-            {
                 "key": "Date First Available",
                 "value": "August 3, 2023"
             }
@@ -2354,7 +2322,7 @@
                 "name": "Item 4.5 Kilograms 99",
                 "weight": "4.5 Kilograms",
                 "price": 99,
-                "remaining_products": 16,
+                "remaining_products": 66,
                 "color": "Black",
                 "img": [
                     {
@@ -2516,10 +2484,6 @@
                 "value": "25lbs"
             },
             {
-                "key": "ASIN",
-                "value": "B00HHIIX9I"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 24, 2013"
             }
@@ -2529,7 +2493,7 @@
                 "name": "15lb",
                 "weight": 6.8038799999999995,
                 "price": 37.99,
-                "remaining_products": 45,
+                "remaining_products": 7,
                 "color": "25lbs",
                 "img": [
                     {
@@ -2562,7 +2526,7 @@
                 "name": "35lb",
                 "weight": 15.87572,
                 "price": 37.99,
-                "remaining_products": 9,
+                "remaining_products": 89,
                 "color": "25lbs",
                 "img": [
                     {
@@ -2595,7 +2559,7 @@
                 "name": "25lb",
                 "weight": 11.3398,
                 "price": 37.99,
-                "remaining_products": 35,
+                "remaining_products": 87,
                 "color": "25lbs",
                 "img": [
                     {
@@ -2628,7 +2592,7 @@
                 "name": "30lb",
                 "weight": 13.607759999999999,
                 "price": 37.99,
-                "remaining_products": 95,
+                "remaining_products": 55,
                 "color": "25lbs",
                 "img": [
                     {
@@ -2661,7 +2625,7 @@
                 "name": "10lb",
                 "weight": 4.53592,
                 "price": 37.99,
-                "remaining_products": 69,
+                "remaining_products": 53,
                 "color": "25lbs",
                 "img": [
                     {
@@ -2694,7 +2658,7 @@
                 "name": "20lb",
                 "weight": 9.07184,
                 "price": 37.99,
-                "remaining_products": 90,
+                "remaining_products": 67,
                 "color": "25lbs",
                 "img": [
                     {
@@ -2868,10 +2832,6 @@
                 "value": "Fitness"
             },
             {
-                "key": "ASIN",
-                "value": "B00IA8LAL2"
-            },
-            {
                 "key": "Date First Available",
                 "value": "February 6, 2014"
             }
@@ -2881,7 +2841,7 @@
                 "name": "35 lb",
                 "weight": 15.87572,
                 "price": 28.99,
-                "remaining_products": 33,
+                "remaining_products": 20,
                 "color": "Black",
                 "img": [
                     {
@@ -2922,7 +2882,7 @@
                 "name": "25 lb",
                 "weight": 11.3398,
                 "price": 28.99,
-                "remaining_products": 91,
+                "remaining_products": 24,
                 "color": "Black",
                 "img": [
                     {
@@ -2963,7 +2923,7 @@
                 "name": "15 lb",
                 "weight": 6.8038799999999995,
                 "price": 28.99,
-                "remaining_products": 87,
+                "remaining_products": 90,
                 "color": "Black",
                 "img": [
                     {
@@ -3004,7 +2964,7 @@
                 "name": "10 lb",
                 "weight": 4.53592,
                 "price": 28.99,
-                "remaining_products": 56,
+                "remaining_products": 46,
                 "color": "Black",
                 "img": [
                     {
@@ -3045,7 +3005,7 @@
                 "name": "55 lb",
                 "weight": 24.94756,
                 "price": 28.99,
-                "remaining_products": 30,
+                "remaining_products": 92,
                 "color": "Black",
                 "img": [
                     {
@@ -3086,7 +3046,7 @@
                 "name": "45 lb",
                 "weight": 20.41164,
                 "price": 28.99,
-                "remaining_products": 61,
+                "remaining_products": 79,
                 "color": "Black",
                 "img": [
                     {
@@ -3127,7 +3087,7 @@
                 "name": "20 lb",
                 "weight": 9.07184,
                 "price": 28.99,
-                "remaining_products": 63,
+                "remaining_products": 95,
                 "color": "Black",
                 "img": [
                     {

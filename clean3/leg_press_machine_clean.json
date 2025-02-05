@@ -66,10 +66,6 @@
                 "value": "workout equipment"
             },
             {
-                "key": "ASIN",
-                "value": "B0B1TYZQD8"
-            },
-            {
                 "key": "Date First Available",
                 "value": "May 20, 2022"
             }
@@ -79,7 +75,7 @@
                 "name": "1-Orange",
                 "weight": 0.4082328,
                 "price": 13.97,
-                "remaining_products": 99,
+                "remaining_products": 81,
                 "color": "Orange",
                 "img": [
                     {
@@ -124,7 +120,7 @@
                 "name": "Blue",
                 "weight": 0.4082328,
                 "price": 14.97,
-                "remaining_products": 23,
+                "remaining_products": 10,
                 "color": "Blue",
                 "img": [
                     {
@@ -165,7 +161,7 @@
                 "name": "Purple",
                 "weight": 0.4082328,
                 "price": 15.98,
-                "remaining_products": 80,
+                "remaining_products": 54,
                 "color": "Purple",
                 "img": [
                     {
@@ -206,7 +202,7 @@
                 "name": "Pink",
                 "weight": 0.4082328,
                 "price": 14.98,
-                "remaining_products": 41,
+                "remaining_products": 40,
                 "color": "Pink",
                 "img": [
                     {
@@ -247,7 +243,7 @@
                 "name": "Black",
                 "weight": 0.4082328,
                 "price": 16.98,
-                "remaining_products": 30,
+                "remaining_products": 68,
                 "color": "Black",
                 "img": [
                     {
@@ -398,10 +394,6 @@
                 "value": "Weightlifting"
             },
             {
-                "key": "ASIN",
-                "value": "B07N4M53DC"
-            },
-            {
                 "key": "Date First Available",
                 "value": "January 24, 2019"
             }
@@ -411,7 +403,7 @@
                 "name": "White",
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 18,
+                "remaining_products": 81,
                 "color": "White",
                 "img": [
                     {
@@ -444,7 +436,7 @@
                 "name": "Green",
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 48,
+                "remaining_products": 81,
                 "color": "Green",
                 "img": [
                     {
@@ -473,7 +465,7 @@
                 "name": "Black",
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 25,
+                "remaining_products": 2,
                 "color": "Black",
                 "img": [
                     {
@@ -526,7 +518,7 @@
                 "name": "Blue",
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 93,
+                "remaining_products": 82,
                 "color": "Blue",
                 "img": [
                     {
@@ -677,10 +669,6 @@
                 "value": "Ambidextrous"
             },
             {
-                "key": "ASIN",
-                "value": "B0C8342FMM"
-            },
-            {
                 "key": "Date First Available",
                 "value": "June 14, 2023"
             }
@@ -690,7 +678,7 @@
                 "name": "Classic",
                 "weight": 10.1604608,
                 "price": 80.99,
-                "remaining_products": 95,
+                "remaining_products": 24,
                 "color": "Black",
                 "img": [
                     {
@@ -731,7 +719,7 @@
                 "name": "Smart",
                 "weight": 10.1604608,
                 "price": 119.99,
-                "remaining_products": 40,
+                "remaining_products": 90,
                 "color": "Black",
                 "img": [
                     {
@@ -826,10 +814,6 @@
                 "value": "Leg Press Hack Squat Machine"
             },
             {
-                "key": "ASIN",
-                "value": "B0DPYZ3V9X"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 10, 2024"
             }
@@ -839,7 +823,7 @@
                 "name": "Item 110.2 Pounds 599.99",
                 "weight": "110.2 Pounds",
                 "price": 599.99,
-                "remaining_products": 71,
+                "remaining_products": 52,
                 "color": "BLACK",
                 "img": [
                     {
@@ -1001,10 +985,6 @@
                 "value": "Ambidextrous"
             },
             {
-                "key": "ASIN",
-                "value": "B074B3B22G"
-            },
-            {
                 "key": "Date First Available",
                 "value": "July 27, 2017"
             }
@@ -1014,7 +994,7 @@
                 "name": "Grey",
                 "weight": 11.113004,
                 "price": 90.85,
-                "remaining_products": 99,
+                "remaining_products": 46,
                 "color": "Grey",
                 "img": [
                     {
@@ -1063,7 +1043,7 @@
                 "name": "Green",
                 "weight": 11.113004,
                 "price": 90.85,
-                "remaining_products": 18,
+                "remaining_products": 71,
                 "color": "Green",
                 "img": [
                     {
@@ -1120,7 +1100,7 @@
                 "name": "2 - Pink",
                 "weight": 11.113004,
                 "price": 90.85,
-                "remaining_products": 46,
+                "remaining_products": 17,
                 "color": "Pink",
                 "img": [
                     {
@@ -1267,10 +1247,6 @@
                 "value": "resistance bands, manual"
             },
             {
-                "key": "ASIN",
-                "value": "B0DKT94G98"
-            },
-            {
                 "key": "Date First Available",
                 "value": "October 24, 2024"
             }
@@ -1280,7 +1256,7 @@
                 "name": "Item 23.8 Pounds 79.99",
                 "weight": "23.8 Pounds",
                 "price": 79.99,
-                "remaining_products": 82,
+                "remaining_products": 8,
                 "color": "Black",
                 "img": [
                     {

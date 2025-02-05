@@ -70,10 +70,6 @@
                 "value": "Anti-slip Foot Bases, Padded Seat, Backrest"
             },
             {
-                "key": "ASIN",
-                "value": "B0DQSLP7RF"
-            },
-            {
                 "key": "Date First Available",
                 "value": "December 17, 2024"
             }
@@ -83,7 +79,7 @@
                 "name": "Yellow",
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 44,
+                "remaining_products": 36,
                 "color": "Yellow",
                 "img": [
                     {
@@ -132,7 +128,7 @@
                 "name": "Red",
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 36,
+                "remaining_products": 101,
                 "color": "Red",
                 "img": [
                     {
