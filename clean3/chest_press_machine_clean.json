@@ -95,7 +95,7 @@
                 "name": "Item 60 Pounds 231.18",
                 "weight": "60 Pounds",
                 "price": 231.18,
-                "remaining_products": 84,
+                "remaining_products": 14,
                 "color": "Red / Black",
                 "img": [
                     {
@@ -218,7 +218,7 @@
                 "name": "Item 38.56 Kilograms 121.61",
                 "weight": "38.56 Kilograms",
                 "price": 121.61,
-                "remaining_products": 36,
+                "remaining_products": 53,
                 "color": "Grey",
                 "img": [
                     {
@@ -357,7 +357,7 @@
                 "name": "Item 60 Pounds 179.99",
                 "weight": "60 Pounds",
                 "price": 179.99,
-                "remaining_products": 9,
+                "remaining_products": 65,
                 "color": "Multi Colored",
                 "img": [
                     {
@@ -480,7 +480,7 @@
                 "name": "Black/White",
                 "weight": 14.528551760000001,
                 "price": 61.99,
-                "remaining_products": 19,
+                "remaining_products": 82,
                 "color": "White, Black",
                 "img": [
                     {
@@ -529,7 +529,7 @@
                 "name": "Black/Red",
                 "weight": 14.528551760000001,
                 "price": 61.99,
-                "remaining_products": 19,
+                "remaining_products": 86,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -676,7 +676,7 @@
                 "name": "Black - 80 lbs",
                 "weight": 36.28736,
                 "price": 149.99,
-                "remaining_products": 33,
+                "remaining_products": 83,
                 "color": "Black",
                 "img": [
                     {
@@ -725,7 +725,7 @@
                 "name": "Black - 100 lbs",
                 "weight": 45.3592,
                 "price": 149.99,
-                "remaining_products": 0,
+                "remaining_products": 20,
                 "color": "Black",
                 "img": [
                     {
@@ -766,7 +766,7 @@
                 "name": "Black/Red - 100 lbs",
                 "weight": 45.3592,
                 "price": 149.99,
-                "remaining_products": 77,
+                "remaining_products": 53,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -913,7 +913,7 @@
                 "name": "Item 11.02 Pounds 29.99",
                 "weight": "11.02 Pounds",
                 "price": 29.99,
-                "remaining_products": 50,
+                "remaining_products": 89,
                 "color": "A. (Black) Viking Press Handle",
                 "img": [
                     {
@@ -1057,7 +1057,7 @@
                 "name": "Item 1.7 Pounds 179.95",
                 "weight": "1.7 Pounds",
                 "price": 179.95,
-                "remaining_products": 77,
+                "remaining_products": 65,
                 "color": "Black",
                 "img": [
                     {
@@ -1204,7 +1204,7 @@
                 "name": "Item 145 Pounds 1794.99",
                 "weight": "145 Pounds",
                 "price": 1794.99,
-                "remaining_products": 94,
+                "remaining_products": 31,
                 "color": "Black/ Silver",
                 "img": [
                     {
@@ -1315,7 +1315,7 @@
                 "name": "Red",
                 "weight": 37.648136,
                 "price": 199.99,
-                "remaining_products": 5,
+                "remaining_products": 36,
                 "color": "Red",
                 "img": [
                     {
@@ -1364,7 +1364,7 @@
                 "name": "Black",
                 "weight": 37.648136,
                 "price": 199.99,
-                "remaining_products": 71,
+                "remaining_products": 16,
                 "color": "Black",
                 "img": [
                     {
@@ -1504,7 +1504,7 @@
                 "name": "Half Rack",
                 "weight": 17.4179328,
                 "price": 149.99,
-                "remaining_products": 52,
+                "remaining_products": 71,
                 "color": "Half Rack",
                 "img": [
                     {
@@ -1541,7 +1541,7 @@
                 "name": "Incline Bench",
                 "weight": 17.4179328,
                 "price": 199.99,
-                "remaining_products": 36,
+                "remaining_products": 30,
                 "color": "Half Rack",
                 "img": [
                     {
@@ -1582,7 +1582,7 @@
                 "name": "Power Cage",
                 "weight": 17.4179328,
                 "price": 229.99,
-                "remaining_products": 44,
+                "remaining_products": 80,
                 "color": "Half Rack",
                 "img": [
                     {
@@ -1635,7 +1635,7 @@
                 "name": "Essential Rack",
                 "weight": 17.4179328,
                 "price": 161.47,
-                "remaining_products": 58,
+                "remaining_products": 67,
                 "color": "Half Rack",
                 "img": [
                     {
@@ -1680,7 +1680,7 @@
                 "name": "Multifunctional Home Gym",
                 "weight": 17.4179328,
                 "price": 719.95,
-                "remaining_products": 67,
+                "remaining_products": 33,
                 "color": "Half Rack",
                 "img": [
                     {
@@ -1815,7 +1815,7 @@
                 "name": "Item 83 Pounds 348.98",
                 "weight": "83 Pounds",
                 "price": 348.98,
-                "remaining_products": 90,
+                "remaining_products": 10,
                 "color": "Metallic Grey and Black",
                 "img": [
                     {

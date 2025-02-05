@@ -83,7 +83,7 @@
                 "name": "Yellow",
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 5,
+                "remaining_products": 44,
                 "color": "Yellow",
                 "img": [
                     {
@@ -132,7 +132,7 @@
                 "name": "Red",
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 70,
+                "remaining_products": 36,
                 "color": "Red",
                 "img": [
                     {

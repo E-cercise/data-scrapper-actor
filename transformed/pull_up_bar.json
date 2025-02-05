@@ -99,7 +99,7 @@
                 "name": "W/ Plyo Box",
                 "weight": 39.916095999999996,
                 "price": 469.99,
-                "remaining_products": 7,
+                "remaining_products": 58,
                 "color": "Green",
                 "img": [
                     {
@@ -112,7 +112,7 @@
                 "name": "Green",
                 "weight": 39.916095999999996,
                 "price": 299.99,
-                "remaining_products": 50,
+                "remaining_products": 85,
                 "color": "Green",
                 "img": [
                     {
@@ -210,7 +210,7 @@
                 "name": "Foldable Pull Up Bar",
                 "weight": 1.95,
                 "price": 29.99,
-                "remaining_products": 65,
+                "remaining_products": 97,
                 "color": "Black",
                 "img": [
                     {
@@ -405,7 +405,7 @@
                 "name": "Multi Grip Light",
                 "weight": 1.2473779999999999,
                 "price": 24.99,
-                "remaining_products": 73,
+                "remaining_products": 85,
                 "color": "Black",
                 "img": [
                     {
@@ -442,7 +442,7 @@
                 "name": "Doorway",
                 "weight": 1.2473779999999999,
                 "price": 24.99,
-                "remaining_products": 0,
+                "remaining_products": 20,
                 "color": "Black",
                 "img": [
                     {
@@ -479,7 +479,7 @@
                 "name": "Multi Grip",
                 "weight": 1.2473779999999999,
                 "price": 24.99,
-                "remaining_products": 66,
+                "remaining_products": 43,
                 "color": "Black",
                 "img": [
                     {
@@ -516,7 +516,7 @@
                 "name": "Wall Mount",
                 "weight": 1.2473779999999999,
                 "price": 24.99,
-                "remaining_products": 19,
+                "remaining_products": 98,
                 "color": "Black",
                 "img": [
                     {
@@ -549,7 +549,7 @@
                 "name": "Foldable",
                 "weight": 1.2473779999999999,
                 "price": 24.99,
-                "remaining_products": 84,
+                "remaining_products": 89,
                 "color": "Black",
                 "img": [
                     {
@@ -679,7 +679,7 @@
                 "name": "Black",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 4,
+                "remaining_products": 76,
                 "color": "Black",
                 "img": [
                     {
@@ -728,7 +728,7 @@
                 "name": "Army Green",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 37,
+                "remaining_products": 92,
                 "color": "Green",
                 "img": [
                     {
@@ -777,7 +777,7 @@
                 "name": "Yellow",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 5,
+                "remaining_products": 60,
                 "color": "Yellow",
                 "img": [
                     {
@@ -822,7 +822,7 @@
                 "name": "1-Orange",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 75,
+                "remaining_products": 10,
                 "color": "Orange",
                 "img": [
                     {
@@ -871,7 +871,7 @@
                 "name": "Rose Red",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 70,
+                "remaining_products": 31,
                 "color": "Red, Rose",
                 "img": [
                     {
@@ -1019,7 +1019,7 @@
                 "name": "Item 4.88 Kilograms 72.99",
                 "weight": "4.88 Kilograms",
                 "price": 72.99,
-                "remaining_products": 60,
+                "remaining_products": 4,
                 "color": "Black",
                 "img": [
                     {
@@ -1153,7 +1153,7 @@
                 "name": "Item 2.24 Kilograms 19.99",
                 "weight": "2.24 Kilograms",
                 "price": 19.99,
-                "remaining_products": 32,
+                "remaining_products": 5,
                 "color": "Rotating Pull Up Handles",
                 "img": [
                     {
@@ -1303,7 +1303,7 @@
                 "name": "Item 3.7 Pounds 21.29",
                 "weight": "3.7 Pounds",
                 "price": 21.29,
-                "remaining_products": 67,
+                "remaining_products": 8,
                 "color": "Chrome/Black",
                 "img": [
                     {
@@ -1441,7 +1441,7 @@
                 "name": "Item 25 Pounds 74.87",
                 "weight": "25 Pounds",
                 "price": 74.87,
-                "remaining_products": 21,
+                "remaining_products": 39,
                 "color": "Black",
                 "img": [
                     {
@@ -1589,7 +1589,7 @@
                 "name": "Item 12 Pounds 59.99",
                 "weight": "12 Pounds",
                 "price": 59.99,
-                "remaining_products": 82,
+                "remaining_products": 93,
                 "color": "Red",
                 "img": [
                     {
@@ -1725,7 +1725,7 @@
                 "name": "Item 4.4 Pounds 39.99",
                 "weight": "4.4 Pounds",
                 "price": 39.99,
-                "remaining_products": 17,
+                "remaining_products": 59,
                 "color": "Black-Red",
                 "img": [
                     {
@@ -1884,7 +1884,7 @@
                 "name": "Item 3 Pounds 13.79",
                 "weight": "3 Pounds",
                 "price": 13.79,
-                "remaining_products": 21,
+                "remaining_products": 14,
                 "color": "Steel",
                 "img": [
                     {
@@ -2026,7 +2026,7 @@
                 "name": "Item 39.7 Pounds 339.99",
                 "weight": "39.7 Pounds",
                 "price": 339.99,
-                "remaining_products": 69,
+                "remaining_products": 30,
                 "color": "Black",
                 "img": [
                     {
@@ -2168,7 +2168,7 @@
                 "name": "Item 10.2 Pounds 69.95",
                 "weight": "10.2 Pounds",
                 "price": 69.95,
-                "remaining_products": 51,
+                "remaining_products": 63,
                 "color": "Metallic Gray",
                 "img": [
                     {
@@ -2294,7 +2294,7 @@
                 "name": "Item 12.64 ounces 16.99",
                 "weight": "12.64 ounces",
                 "price": 16.99,
-                "remaining_products": 69,
+                "remaining_products": 57,
                 "color": "single attribute",
                 "img": [
                     {
@@ -2426,7 +2426,7 @@
                 "name": "Item 48 Pounds 191",
                 "weight": "48 Pounds",
                 "price": 191,
-                "remaining_products": 95,
+                "remaining_products": 4,
                 "color": "Black",
                 "img": [
                     {
@@ -2576,7 +2576,7 @@
                 "name": "Grey",
                 "weight": 24.493968,
                 "price": 98.39,
-                "remaining_products": 66,
+                "remaining_products": 71,
                 "color": "Grey",
                 "img": [
                     {
@@ -2589,7 +2589,7 @@
                 "name": "Red",
                 "weight": 24.493968,
                 "price": 98.39,
-                "remaining_products": 62,
+                "remaining_products": 5,
                 "color": "Red",
                 "img": [
                     {
@@ -2602,7 +2602,7 @@
                 "name": "Red/Black",
                 "weight": 24.493968,
                 "price": 98.39,
-                "remaining_products": 8,
+                "remaining_products": 77,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -2615,7 +2615,7 @@
                 "name": "Fortress Red",
                 "weight": 24.493968,
                 "price": 98.39,
-                "remaining_products": 39,
+                "remaining_products": 45,
                 "color": "Red",
                 "img": [
                     {
@@ -2734,7 +2734,7 @@
                 "name": "Item 5.26 Kilograms 99.99",
                 "weight": "5.26 Kilograms",
                 "price": 99.99,
-                "remaining_products": 34,
+                "remaining_products": 63,
                 "color": "white and black",
                 "img": [
                     {
@@ -2860,7 +2860,7 @@
                 "name": "Item 4.8 Pounds 34.99",
                 "weight": "4.8 Pounds",
                 "price": 34.99,
-                "remaining_products": 93,
+                "remaining_products": 66,
                 "color": "Grey",
                 "img": [
                     {
@@ -2979,7 +2979,7 @@
                 "name": "Item 0.8 Pounds 33.99",
                 "weight": "0.8 Pounds",
                 "price": 33.99,
-                "remaining_products": 67,
+                "remaining_products": 66,
                 "color": "Orange",
                 "img": [
                     {

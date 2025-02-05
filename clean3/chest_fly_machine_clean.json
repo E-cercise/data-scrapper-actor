@@ -95,7 +95,7 @@
                 "name": "Item 60 Pounds 224.1",
                 "weight": "60 Pounds",
                 "price": 224.1,
-                "remaining_products": 31,
+                "remaining_products": 79,
                 "color": "Red / Black",
                 "img": [
                     {
@@ -218,7 +218,7 @@
                 "name": "Yellow",
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 25,
+                "remaining_products": 49,
                 "color": "Yellow",
                 "img": [
                     {
@@ -267,7 +267,7 @@
                 "name": "Red",
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 26,
+                "remaining_products": 49,
                 "color": "Red",
                 "img": [
                     {
@@ -382,7 +382,7 @@
                 "name": "Item 310.6 Pounds 599.99",
                 "weight": "310.6 Pounds",
                 "price": 599.99,
-                "remaining_products": 73,
+                "remaining_products": 77,
                 "color": "black",
                 "img": [
                     {
@@ -501,7 +501,7 @@
                 "name": "Item 118 Pounds 459",
                 "weight": "118 Pounds",
                 "price": 459,
-                "remaining_products": 24,
+                "remaining_products": 25,
                 "color": "Black",
                 "img": [
                     {
@@ -616,7 +616,7 @@
                 "name": "Item 184 Pounds 1070",
                 "weight": "184 Pounds",
                 "price": 1070,
-                "remaining_products": 30,
+                "remaining_products": 70,
                 "color": "Black",
                 "img": [
                     {
@@ -748,7 +748,7 @@
                 "name": "Item 80 Pounds 395.98",
                 "weight": "80 Pounds",
                 "price": 395.98,
-                "remaining_products": 101,
+                "remaining_products": 45,
                 "color": "Metallic Grey and Black",
                 "img": [
                     {
@@ -859,7 +859,7 @@
                 "name": "Item 330 Pounds 647.99",
                 "weight": "330 Pounds",
                 "price": 647.99,
-                "remaining_products": 75,
+                "remaining_products": 65,
                 "color": "Black",
                 "img": [
                     {
@@ -973,7 +973,7 @@
                 "name": "Item 12 Kilograms 149.99",
                 "weight": "12 Kilograms",
                 "price": 149.99,
-                "remaining_products": 23,
+                "remaining_products": 13,
                 "color": "800LBS",
                 "img": [
                     {
@@ -1096,7 +1096,7 @@
                 "name": "Item 1 Kilograms 179.99",
                 "weight": "1 Kilograms",
                 "price": 179.99,
-                "remaining_products": 14,
+                "remaining_products": 15,
                 "color": "Matte Black",
                 "img": [
                     {
@@ -1235,7 +1235,7 @@
                 "name": "Item 60 Pounds 179.99",
                 "weight": "60 Pounds",
                 "price": 179.99,
-                "remaining_products": 82,
+                "remaining_products": 66,
                 "color": "Multi Colored",
                 "img": [
                     {
@@ -1370,7 +1370,7 @@
                 "name": "Item 83 Pounds 348.98",
                 "weight": "83 Pounds",
                 "price": 348.98,
-                "remaining_products": 34,
+                "remaining_products": 11,
                 "color": "Metallic Grey and Black",
                 "img": [
                     {

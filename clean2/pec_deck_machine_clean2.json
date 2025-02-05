@@ -99,7 +99,7 @@
                 "name": "Yellow",
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 5,
+                "remaining_products": 44,
                 "color": "Yellow",
                 "img": [
                     {
@@ -148,7 +148,7 @@
                 "name": "Red",
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 70,
+                "remaining_products": 36,
                 "color": "Red",
                 "img": [
                     {
@@ -281,7 +281,7 @@
                 "name": "Black",
                 "weight": 27.215519999999998,
                 "price": 154.99,
-                "remaining_products": 94,
+                "remaining_products": 84,
                 "color": "Black",
                 "img": [
                     {
@@ -318,7 +318,7 @@
                 "name": "Silver",
                 "weight": 27.215519999999998,
                 "price": 149.99,
-                "remaining_products": 86,
+                "remaining_products": 97,
                 "color": "Silver",
                 "img": [
                     {
@@ -421,7 +421,7 @@
                 "name": "Item 0.01 Ounces 211.5",
                 "weight": "0.01 Ounces",
                 "price": 211.5,
-                "remaining_products": 55,
+                "remaining_products": 11,
                 "color": "Black",
                 "img": [
                     {
@@ -505,7 +505,7 @@
                 "name": "16x16",
                 "weight": 0.49895120000000004,
                 "price": 19.99,
-                "remaining_products": 28,
+                "remaining_products": 7,
                 "color": "Multicolor",
                 "img": [
                     {
@@ -530,7 +530,7 @@
                 "name": "18x18",
                 "weight": 0.49895120000000004,
                 "price": 21.99,
-                "remaining_products": 21,
+                "remaining_products": 6,
                 "color": "Multicolor",
                 "img": [
                     {

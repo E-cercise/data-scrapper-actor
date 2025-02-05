@@ -214,7 +214,7 @@ def process_variant_data(json_file):
                 if variant_price_struct == None:
                     variant_price = product["price"]
                 else:
-                    variant_price = variant_price_struct.get("value", base_price)
+                    variant_price = variant_price_struct.get("value", base_price) or base_price
 
                 parsed_color, parsed_weight = parse_variant_name(variant_name)
 

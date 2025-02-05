@@ -62,7 +62,7 @@
                 "name": "Item 39 Pounds 179.99",
                 "weight": "39 Pounds",
                 "price": 179.99,
-                "remaining_products": 83,
+                "remaining_products": 73,
                 "color": "Black",
                 "img": [
                     {
@@ -165,7 +165,7 @@
                 "name": "Red with Cast Iron Weights Set",
                 "weight": 49.89512,
                 "price": 429.99,
-                "remaining_products": 2,
+                "remaining_products": 20,
                 "color": "Red",
                 "img": [
                     {
@@ -206,7 +206,7 @@
                 "name": "Black with Cast Iron Weights Set",
                 "weight": 49.89512,
                 "price": 419.99,
-                "remaining_products": 89,
+                "remaining_products": 74,
                 "color": "Black",
                 "img": [
                     {
@@ -325,7 +325,7 @@
                 "name": "Item 11.14 pounds 79.99",
                 "weight": "11.14 pounds",
                 "price": 79.99,
-                "remaining_products": 92,
+                "remaining_products": 79,
                 "color": "Black",
                 "img": [
                     {
@@ -501,7 +501,7 @@
                 "name": "White",
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 79,
+                "remaining_products": 88,
                 "color": "White",
                 "img": [
                     {
@@ -534,7 +534,7 @@
                 "name": "Green",
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 14,
+                "remaining_products": 23,
                 "color": "Green",
                 "img": [
                     {
@@ -563,7 +563,7 @@
                 "name": "Black",
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 49,
+                "remaining_products": 70,
                 "color": "Black",
                 "img": [
                     {
@@ -616,7 +616,7 @@
                 "name": "Blue",
                 "weight": 12.7912944,
                 "price": 58,
-                "remaining_products": 32,
+                "remaining_products": 44,
                 "color": "Blue",
                 "img": [
                     {
@@ -771,7 +771,7 @@
                 "name": "C. Orange",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 22,
+                "remaining_products": 63,
                 "color": "Orange",
                 "img": [
                     {
@@ -808,7 +808,7 @@
                 "name": "B. American Pride",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 50,
+                "remaining_products": 3,
                 "color": "H. Combo T bar Row + Double Grip Row",
                 "img": [
                     {
@@ -845,7 +845,7 @@
                 "name": "D. Black - T-Bar Row Platform + Lock Jaw 1inch & 2inch",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 80,
+                "remaining_products": 7,
                 "color": "Black",
                 "img": [
                     {
@@ -882,7 +882,7 @@
                 "name": "A. Black",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 100,
+                "remaining_products": 48,
                 "color": "Black",
                 "img": [
                     {
@@ -923,7 +923,7 @@
                 "name": "H. Combo T bar Row + Double Grip Row",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 90,
+                "remaining_products": 1,
                 "color": "H. Combo T bar Row + Double Grip Row",
                 "img": [
                     {
@@ -956,7 +956,7 @@
                 "name": "F. Premium T Bar Row Multifunction",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 7,
+                "remaining_products": 99,
                 "color": "H. Combo T bar Row + Double Grip Row",
                 "img": [
                     {
@@ -997,7 +997,7 @@
                 "name": "M. Rubber Handle for 2inch",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 23,
+                "remaining_products": 21,
                 "color": "H. Combo T bar Row + Double Grip Row",
                 "img": [
                     {
@@ -1034,7 +1034,7 @@
                 "name": "L. T-Bar Lat Blaster Handle",
                 "weight": 2.26796,
                 "price": 26.99,
-                "remaining_products": 28,
+                "remaining_products": 73,
                 "color": "H. Combo T bar Row + Double Grip Row",
                 "img": [
                     {
@@ -1157,7 +1157,7 @@
                 "name": "Item 5 Pounds 58.09",
                 "weight": "5 Pounds",
                 "price": 58.09,
-                "remaining_products": 18,
+                "remaining_products": 44,
                 "color": "Silver",
                 "img": [
                     {
@@ -1268,7 +1268,7 @@
                 "name": "Item 90 Pounds 289.99",
                 "weight": "90 Pounds",
                 "price": 289.99,
-                "remaining_products": 24,
+                "remaining_products": 37,
                 "color": "Red and black",
                 "img": [
                     {
@@ -1395,7 +1395,7 @@
                 "name": "Black Rotate",
                 "weight": 0.3,
                 "price": 20.98,
-                "remaining_products": 19,
+                "remaining_products": 16,
                 "color": "Black",
                 "img": [
                     {
@@ -1432,7 +1432,7 @@
                 "name": "Rotate Rubber",
                 "weight": 0.3,
                 "price": 20.98,
-                "remaining_products": 61,
+                "remaining_products": 50,
                 "color": "Black Rotate",
                 "img": [
                     {
@@ -1477,7 +1477,7 @@
                 "name": "Rubber",
                 "weight": 0.3,
                 "price": 20.98,
-                "remaining_products": 72,
+                "remaining_products": 55,
                 "color": "Black Rotate",
                 "img": [
                     {
@@ -1514,7 +1514,7 @@
                 "name": "Black Chrome",
                 "weight": 0.3,
                 "price": 20.98,
-                "remaining_products": 42,
+                "remaining_products": 10,
                 "color": "Black, Chrome",
                 "img": [
                     {
@@ -1637,7 +1637,7 @@
                 "name": "Item 1.16 Pounds 11.99",
                 "weight": "1.16 Pounds",
                 "price": 11.99,
-                "remaining_products": 32,
+                "remaining_products": 13,
                 "color": "Black",
                 "img": [
                     {
@@ -1753,7 +1753,7 @@
                 "name": "Item 49.14 Pounds 209.99",
                 "weight": "49.14 Pounds",
                 "price": 209.99,
-                "remaining_products": 57,
+                "remaining_products": 23,
                 "color": "Black, Red",
                 "img": [
                     {
@@ -1870,7 +1870,7 @@
                 "name": "Item 5.44 Kilograms 42.99",
                 "weight": "5.44 Kilograms",
                 "price": 42.99,
-                "remaining_products": 54,
+                "remaining_products": 38,
                 "color": "Viking Press Landmine Handle",
                 "img": [
                     {
@@ -2046,7 +2046,7 @@
                 "name": "Item 37.9 Pounds 199.99",
                 "weight": "37.9 Pounds",
                 "price": 199.99,
-                "remaining_products": 18,
+                "remaining_products": 44,
                 "color": "Black",
                 "img": [
                     {
@@ -2160,7 +2160,7 @@
                 "name": "Item 67 Pounds 319.99",
                 "weight": "67 Pounds",
                 "price": 319.99,
-                "remaining_products": 11,
+                "remaining_products": 60,
                 "color": "Black",
                 "img": [
                     {
@@ -2286,7 +2286,7 @@
                 "name": "Item 35 Pounds 208.99",
                 "weight": "35 Pounds",
                 "price": 208.99,
-                "remaining_products": 77,
+                "remaining_products": 53,
                 "color": "Black",
                 "img": [
                     {
@@ -2433,7 +2433,7 @@
                 "name": "Item 18.5 Pounds 89.95",
                 "weight": "18.5 Pounds",
                 "price": 89.95,
-                "remaining_products": 69,
+                "remaining_products": 65,
                 "color": "White/Black",
                 "img": [
                     {
@@ -2578,7 +2578,7 @@
                 "name": "Inversion Table",
                 "weight": 13.6,
                 "price": 224.98,
-                "remaining_products": 91,
+                "remaining_products": 84,
                 "color": "Black",
                 "img": [
                     {
@@ -2615,7 +2615,7 @@
                 "name": "Stretch Machine",
                 "weight": 13.6,
                 "price": 239.98,
-                "remaining_products": 71,
+                "remaining_products": 77,
                 "color": "Black",
                 "img": [
                     {
@@ -2758,7 +2758,7 @@
                 "name": "30-90lbs",
                 "weight": 40.82328,
                 "price": 38.99,
-                "remaining_products": 8,
+                "remaining_products": 59,
                 "color": "black\u3001blue",
                 "img": [
                     {
@@ -2771,7 +2771,7 @@
                 "name": "65-110lbs",
                 "weight": 49.89512,
                 "price": 39.99,
-                "remaining_products": 91,
+                "remaining_products": 81,
                 "color": "black\u3001blue",
                 "img": [
                     {
@@ -2898,7 +2898,7 @@
                 "name": "Item 11.02 Pounds 44.99",
                 "weight": "11.02 Pounds",
                 "price": 44.99,
-                "remaining_products": 85,
+                "remaining_products": 1,
                 "color": "B. (Yellow) Viking Press Handle",
                 "img": [
                     {
@@ -3021,7 +3021,7 @@
                 "name": "Item 2.6 Pounds 20.98",
                 "weight": "2.6 Pounds",
                 "price": 20.98,
-                "remaining_products": 98,
+                "remaining_products": 84,
                 "color": "BLACK",
                 "img": [
                     {
@@ -3136,7 +3136,7 @@
                 "name": "Item 92.99 Pounds 199.9",
                 "weight": "92.99 Pounds",
                 "price": 199.9,
-                "remaining_products": 2,
+                "remaining_products": 0,
                 "color": "Red and black",
                 "img": [
                     {
@@ -3229,7 +3229,7 @@
                 "name": "Item 180 Pounds 657.97",
                 "weight": "180 Pounds",
                 "price": 657.97,
-                "remaining_products": 17,
+                "remaining_products": 76,
                 "color": "black",
                 "img": [
                     {
@@ -3380,7 +3380,7 @@
                 "name": "Item 35 Pounds 159.98",
                 "weight": "35 Pounds",
                 "price": 159.98,
-                "remaining_products": 10,
+                "remaining_products": 16,
                 "color": "Silver",
                 "img": [
                     {
@@ -3511,7 +3511,7 @@
                 "name": "Item 5 Pounds 29.99",
                 "weight": "5 Pounds",
                 "price": 29.99,
-                "remaining_products": 4,
+                "remaining_products": 52,
                 "color": "Black",
                 "img": [
                     {
@@ -3646,7 +3646,7 @@
                 "name": "Yellow",
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 79,
+                "remaining_products": 88,
                 "color": "Yellow",
                 "img": [
                     {
@@ -3695,7 +3695,7 @@
                 "name": "Red",
                 "weight": 34.0194,
                 "price": 249.99,
-                "remaining_products": 28,
+                "remaining_products": 24,
                 "color": "Red",
                 "img": [
                     {
@@ -3795,7 +3795,7 @@
                 "name": "Item 15.69 Kilograms 149.99",
                 "weight": "15.69 Kilograms",
                 "price": 149.99,
-                "remaining_products": 83,
+                "remaining_products": 30,
                 "color": "Red",
                 "img": [
                     {
@@ -3938,7 +3938,7 @@
                 "name": "Item 0.01 Ounces 128.98",
                 "weight": "0.01 Ounces",
                 "price": 128.98,
-                "remaining_products": 10,
+                "remaining_products": 100,
                 "color": "Grey",
                 "img": [
                     {
@@ -4049,7 +4049,7 @@
                 "name": "Item 81 Pounds 299.99",
                 "weight": "81 Pounds",
                 "price": 299.99,
-                "remaining_products": 6,
+                "remaining_products": 77,
                 "color": "Black",
                 "img": [
                     {
@@ -4176,7 +4176,7 @@
                 "name": "Item 67.5 Pounds 449",
                 "weight": "67.5 Pounds",
                 "price": 449,
-                "remaining_products": 9,
+                "remaining_products": 76,
                 "color": "Black",
                 "img": [
                     {
@@ -4280,7 +4280,7 @@
                 "name": "Black-V1",
                 "weight": 40.369688,
                 "price": 199.99,
-                "remaining_products": 73,
+                "remaining_products": 9,
                 "color": "Black",
                 "img": [
                     {
@@ -4325,7 +4325,7 @@
                 "name": "Red-V1",
                 "weight": 40.369688,
                 "price": 199.99,
-                "remaining_products": 50,
+                "remaining_products": 25,
                 "color": "Red",
                 "img": [
                     {
@@ -4472,7 +4472,7 @@
                 "name": "Blue",
                 "weight": 0.3628736,
                 "price": 31.99,
-                "remaining_products": 40,
+                "remaining_products": 22,
                 "color": "Blue",
                 "img": [
                     {
@@ -4485,7 +4485,7 @@
                 "name": "Red",
                 "weight": 0.3628736,
                 "price": 31.99,
-                "remaining_products": 60,
+                "remaining_products": 58,
                 "color": "Red",
                 "img": [
                     {
@@ -4498,7 +4498,7 @@
                 "name": "Black",
                 "weight": 0.3628736,
                 "price": 31.99,
-                "remaining_products": 20,
+                "remaining_products": 12,
                 "color": "Black",
                 "img": [
                     {
@@ -4511,7 +4511,7 @@
                 "name": "Green",
                 "weight": 0.3628736,
                 "price": 31.99,
-                "remaining_products": 48,
+                "remaining_products": 10,
                 "color": "Green",
                 "img": [
                     {
@@ -4524,7 +4524,7 @@
                 "name": "Gray",
                 "weight": 0.3628736,
                 "price": 31.99,
-                "remaining_products": 4,
+                "remaining_products": 91,
                 "color": "Gray",
                 "img": [
                     {
@@ -4591,7 +4591,7 @@
                 "name": "Item 0.9 Pounds 44.99",
                 "weight": "0.9 Pounds",
                 "price": 44.99,
-                "remaining_products": 93,
+                "remaining_products": 21,
                 "color": "Black",
                 "img": [
                     {
@@ -4702,7 +4702,7 @@
                 "name": "Item 92.99 Pounds 189.99",
                 "weight": "92.99 Pounds",
                 "price": 189.99,
-                "remaining_products": 54,
+                "remaining_products": 81,
                 "color": "Red and black",
                 "img": [
                     {
@@ -4849,7 +4849,7 @@
                 "name": "Item 83 Pounds 348.98",
                 "weight": "83 Pounds",
                 "price": 348.98,
-                "remaining_products": 49,
+                "remaining_products": 101,
                 "color": "Metallic Grey and Black",
                 "img": [
                     {
@@ -4959,7 +4959,7 @@
                 "name": "Item 77 Pounds 473.36",
                 "weight": "77 Pounds",
                 "price": 473.36,
-                "remaining_products": 50,
+                "remaining_products": 92,
                 "color": "BLACK & RED",
                 "img": [
                     {

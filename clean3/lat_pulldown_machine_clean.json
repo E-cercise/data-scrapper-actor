@@ -84,7 +84,7 @@
                 "name": "Item 12.98 Pounds 49.99",
                 "weight": "12.98 Pounds",
                 "price": 49.99,
-                "remaining_products": 33,
+                "remaining_products": 87,
                 "color": "black",
                 "img": [
                     {
@@ -175,7 +175,7 @@
                 "name": "Item 10 Pounds 72.99",
                 "weight": "10 Pounds",
                 "price": 72.99,
-                "remaining_products": 2,
+                "remaining_products": 54,
                 "color": "Black",
                 "img": [
                     {
@@ -286,7 +286,7 @@
                 "name": "Item 2.72 Kilograms 47.59",
                 "weight": "2.72 Kilograms",
                 "price": 47.59,
-                "remaining_products": 24,
+                "remaining_products": 81,
                 "color": "Black",
                 "img": [
                     {
@@ -413,7 +413,7 @@
                 "name": "Item 4.41 Pounds 54.95",
                 "weight": "4.41 Pounds",
                 "price": 54.95,
-                "remaining_products": 52,
+                "remaining_products": 2,
                 "color": "Silver",
                 "img": [
                     {
@@ -496,7 +496,7 @@
                 "name": "Item 182 Pounds 1335",
                 "weight": "182 Pounds",
                 "price": 1335,
-                "remaining_products": 24,
+                "remaining_products": 60,
                 "color": "Black",
                 "img": [
                     {
@@ -607,7 +607,7 @@
                 "name": "Item 330 Pounds 647.99",
                 "weight": "330 Pounds",
                 "price": 647.99,
-                "remaining_products": 19,
+                "remaining_products": 44,
                 "color": "Black",
                 "img": [
                     {
@@ -734,7 +734,7 @@
                 "name": "Item 5.1 Pounds 20.69",
                 "weight": "5.1 Pounds",
                 "price": 20.69,
-                "remaining_products": 62,
+                "remaining_products": 24,
                 "color": "Black",
                 "img": [
                     {
@@ -843,7 +843,7 @@
                 "name": "Orange",
                 "weight": 6.8038799999999995,
                 "price": 129.99,
-                "remaining_products": 26,
+                "remaining_products": 52,
                 "color": "Orange",
                 "img": [
                     {
@@ -880,7 +880,7 @@
                 "name": "Black",
                 "weight": 6.8038799999999995,
                 "price": 129.99,
-                "remaining_products": 6,
+                "remaining_products": 64,
                 "color": "Black",
                 "img": [
                     {
@@ -995,7 +995,7 @@
                 "name": "Item 40 Pounds 119.99",
                 "weight": "40 Pounds",
                 "price": 119.99,
-                "remaining_products": 6,
+                "remaining_products": 83,
                 "color": "Black",
                 "img": [
                     {
@@ -1110,7 +1110,7 @@
                 "name": "Item 11.8 Pounds 85.99",
                 "weight": "11.8 Pounds",
                 "price": 85.99,
-                "remaining_products": 30,
+                "remaining_products": 98,
                 "color": "Silver",
                 "img": [
                     {
@@ -1229,7 +1229,7 @@
                 "name": "Red&Black",
                 "weight": 0.3,
                 "price": 14.98,
-                "remaining_products": 42,
+                "remaining_products": 91,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -1274,7 +1274,7 @@
                 "name": "Yellow&Black",
                 "weight": 0.3,
                 "price": 14.98,
-                "remaining_products": 46,
+                "remaining_products": 54,
                 "color": "Yellow, Black",
                 "img": [
                     {
@@ -1315,7 +1315,7 @@
                 "name": "Green&Black",
                 "weight": 0.3,
                 "price": 14.98,
-                "remaining_products": 53,
+                "remaining_products": 98,
                 "color": "Green, Black",
                 "img": [
                     {
@@ -1356,7 +1356,7 @@
                 "name": "Red",
                 "weight": 0.3,
                 "price": 14.98,
-                "remaining_products": 49,
+                "remaining_products": 75,
                 "color": "Red",
                 "img": [
                     {
@@ -1475,7 +1475,7 @@
                 "name": "Item 2.6 Pounds 20.98",
                 "weight": "2.6 Pounds",
                 "price": 20.98,
-                "remaining_products": 51,
+                "remaining_products": 35,
                 "color": "BLACK",
                 "img": [
                     {
@@ -1582,7 +1582,7 @@
                 "name": "Item 36 Kilograms 458.25",
                 "weight": "36 Kilograms",
                 "price": 458.25,
-                "remaining_products": 86,
+                "remaining_products": 94,
                 "color": "Black",
                 "img": [
                     {
@@ -1689,7 +1689,7 @@
                 "name": "Upgraded Red Package(with BP & Bar & Bench)",
                 "weight": 68.0388,
                 "price": 1449.99,
-                "remaining_products": 75,
+                "remaining_products": 4,
                 "color": "Red",
                 "img": [
                     {
@@ -1702,7 +1702,7 @@
                 "name": "Upgraded Black Package(with BP & Bar & Bench)",
                 "weight": 68.0388,
                 "price": 1449.99,
-                "remaining_products": 42,
+                "remaining_products": 10,
                 "color": "Black",
                 "img": [
                     {
@@ -1715,7 +1715,7 @@
                 "name": "Black Power Rack",
                 "weight": 68.0388,
                 "price": 499.99,
-                "remaining_products": 21,
+                "remaining_products": 94,
                 "color": "Black",
                 "img": [
                     {
@@ -1728,7 +1728,7 @@
                 "name": "Red Power Rack",
                 "weight": 68.0388,
                 "price": 499.99,
-                "remaining_products": 7,
+                "remaining_products": 79,
                 "color": "Red",
                 "img": [
                     {
@@ -1741,7 +1741,7 @@
                 "name": "Black Package(with Bar & Bench)",
                 "weight": 68.0388,
                 "price": 849.99,
-                "remaining_products": 4,
+                "remaining_products": 55,
                 "color": "Black",
                 "img": [
                     {
@@ -1754,7 +1754,7 @@
                 "name": "Red Package(with Bar & Bench)",
                 "weight": 68.0388,
                 "price": 849.99,
-                "remaining_products": 65,
+                "remaining_products": 66,
                 "color": "Red",
                 "img": [
                     {
@@ -1825,7 +1825,7 @@
                 "name": "Item 2.3 Kilograms 38.99",
                 "weight": "2.3 Kilograms",
                 "price": 38.99,
-                "remaining_products": 9,
+                "remaining_products": 99,
                 "color": "Black",
                 "img": [
                     {
@@ -1944,7 +1944,7 @@
                 "name": "Item 500 Grams 15.99",
                 "weight": "500 Grams",
                 "price": 15.99,
-                "remaining_products": 69,
+                "remaining_products": 95,
                 "color": "Black",
                 "img": [
                     {
@@ -2055,7 +2055,7 @@
                 "name": "Item 1.65 Kilograms 19.99",
                 "weight": "1.65 Kilograms",
                 "price": 19.99,
-                "remaining_products": 20,
+                "remaining_products": 57,
                 "color": "black",
                 "img": [
                     {
@@ -2190,7 +2190,7 @@
                 "name": "Item 0.9 Kilograms 47.99",
                 "weight": "0.9 Kilograms",
                 "price": 47.99,
-                "remaining_products": 46,
+                "remaining_products": 13,
                 "color": "Silver",
                 "img": [
                     {

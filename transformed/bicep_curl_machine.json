@@ -75,7 +75,7 @@
                 "name": "CB-5 Standing Preacher Curl Station",
                 "weight": 47.173568,
                 "price": 490.98,
-                "remaining_products": 96,
+                "remaining_products": 23,
                 "color": "Tan",
                 "img": [
                     {
@@ -124,7 +124,7 @@
                 "name": "CB-6 Adjustable Arm Curl Bench",
                 "weight": 47.173568,
                 "price": 490.98,
-                "remaining_products": 64,
+                "remaining_products": 63,
                 "color": "CB-5 Standing Preacher Curl Station",
                 "img": [
                     {
@@ -177,7 +177,7 @@
                 "name": "CB-11 Standing Arm Station w/ Saddled Seat Pad",
                 "weight": 47.173568,
                 "price": 490.98,
-                "remaining_products": 52,
+                "remaining_products": 70,
                 "color": "Tan",
                 "img": [
                     {
@@ -330,7 +330,7 @@
                 "name": "Item 4.19 Pounds 49.99",
                 "weight": "4.19 Pounds",
                 "price": 49.99,
-                "remaining_products": 36,
+                "remaining_products": 80,
                 "color": "Black",
                 "img": [
                     {
@@ -455,7 +455,7 @@
                 "name": "Item 1.75 Kilograms 64.99",
                 "weight": "1.75 Kilograms",
                 "price": 64.99,
-                "remaining_products": 54,
+                "remaining_products": 26,
                 "color": "black",
                 "img": [
                     {
@@ -584,7 +584,7 @@
                 "name": "Lake Blue And Black",
                 "weight": 0.63956472,
                 "price": 25.99,
-                "remaining_products": 6,
+                "remaining_products": 54,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -621,7 +621,7 @@
                 "name": "Black",
                 "weight": 0.63956472,
                 "price": 25.99,
-                "remaining_products": 70,
+                "remaining_products": 91,
                 "color": "Black",
                 "img": [
                     {
@@ -734,7 +734,7 @@
                 "name": "Item 1.5 Pounds 23.99",
                 "weight": "1.5 Pounds",
                 "price": 23.99,
-                "remaining_products": 37,
+                "remaining_products": 28,
                 "color": "A. Arm Blaster",
                 "img": [
                     {
@@ -843,7 +843,7 @@
                 "name": "Item 5.3 Pounds 45",
                 "weight": "5.3 Pounds",
                 "price": 45,
-                "remaining_products": 78,
+                "remaining_products": 87,
                 "color": "Black",
                 "img": [
                     {
@@ -952,7 +952,7 @@
                 "name": "Item 2.6 Pounds 20.98",
                 "weight": "2.6 Pounds",
                 "price": 20.98,
-                "remaining_products": 31,
+                "remaining_products": 61,
                 "color": "BLACK",
                 "img": [
                     {
@@ -1065,7 +1065,7 @@
                 "name": "Item 36 Kilograms 470",
                 "weight": "36 Kilograms",
                 "price": 470,
-                "remaining_products": 81,
+                "remaining_products": 16,
                 "color": "Black",
                 "img": [
                     {
@@ -1206,7 +1206,7 @@
                 "name": "Item 60 Pounds 233.97",
                 "weight": "60 Pounds",
                 "price": 233.97,
-                "remaining_products": 54,
+                "remaining_products": 91,
                 "color": "Red / Black",
                 "img": [
                     {
@@ -1339,7 +1339,7 @@
                 "name": "Item 168 Pounds 399.99",
                 "weight": "168 Pounds",
                 "price": 399.99,
-                "remaining_products": 36,
+                "remaining_products": 93,
                 "color": "black",
                 "img": [
                     {
@@ -1476,7 +1476,7 @@
                 "name": "Item 0.9 Kilograms 47.99",
                 "weight": "0.9 Kilograms",
                 "price": 47.99,
-                "remaining_products": 75,
+                "remaining_products": 43,
                 "color": "Silver",
                 "img": [
                     {
@@ -1589,7 +1589,7 @@
                 "name": "Item 1.65 Kilograms 19.99",
                 "weight": "1.65 Kilograms",
                 "price": 19.99,
-                "remaining_products": 90,
+                "remaining_products": 54,
                 "color": "black",
                 "img": [
                     {
@@ -1742,7 +1742,7 @@
                 "name": "Item 8 Pounds 44.74",
                 "weight": "8 Pounds",
                 "price": 44.74,
-                "remaining_products": 15,
+                "remaining_products": 29,
                 "color": "Silver",
                 "img": [
                     {
@@ -1863,7 +1863,7 @@
                 "name": "Black",
                 "weight": 13.154168,
                 "price": 99.99,
-                "remaining_products": 46,
+                "remaining_products": 98,
                 "color": "Black",
                 "img": [
                     {
@@ -1912,7 +1912,7 @@
                 "name": "Red",
                 "weight": 13.154168,
                 "price": 99.99,
-                "remaining_products": 75,
+                "remaining_products": 35,
                 "color": "Red",
                 "img": [
                     {
@@ -1961,7 +1961,7 @@
                 "name": "White",
                 "weight": 13.154168,
                 "price": 99.99,
-                "remaining_products": 16,
+                "remaining_products": 30,
                 "color": "White",
                 "img": [
                     {

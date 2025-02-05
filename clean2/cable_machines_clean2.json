@@ -123,7 +123,7 @@
                 "name": "Item 145 Pounds 1794.99",
                 "weight": "145 Pounds",
                 "price": 1794.99,
-                "remaining_products": 6,
+                "remaining_products": 97,
                 "color": "Black/ Silver",
                 "img": [
                     {
@@ -252,7 +252,7 @@
                 "name": "Item 17.2 Kilograms 149.99",
                 "weight": "17.2 Kilograms",
                 "price": 149.99,
-                "remaining_products": 12,
+                "remaining_products": 79,
                 "color": "Black, Red",
                 "img": [
                     {
@@ -367,7 +367,7 @@
                 "name": "Item 330 Pounds 647.99",
                 "weight": "330 Pounds",
                 "price": 647.99,
-                "remaining_products": 73,
+                "remaining_products": 22,
                 "color": "Black",
                 "img": [
                     {
@@ -510,7 +510,7 @@
                 "name": "WSMS025B2",
                 "weight": 12.7912944,
                 "price": 175.5,
-                "remaining_products": 95,
+                "remaining_products": 65,
                 "color": "Blue, Yellow, Black",
                 "img": [
                     {
@@ -559,7 +559,7 @@
                 "name": "For 11/0-18 Gauge Wires",
                 "weight": 12.7912944,
                 "price": 269.99,
-                "remaining_products": 66,
+                "remaining_products": 89,
                 "color": "Blue, Yellow, Black",
                 "img": [
                     {
@@ -686,7 +686,7 @@
                 "name": "Item 77 Kilograms 399.99",
                 "weight": "77 Kilograms",
                 "price": 399.99,
-                "remaining_products": 11,
+                "remaining_products": 48,
                 "color": "Gray",
                 "img": [
                     {
@@ -821,7 +821,7 @@
                 "name": "Item 3 Kilograms 33.89",
                 "weight": "3 Kilograms",
                 "price": 33.89,
-                "remaining_products": 57,
+                "remaining_products": 38,
                 "color": "Silver",
                 "img": [
                     {
@@ -962,7 +962,7 @@
                 "name": "Item 31.44 Pounds 106.47",
                 "weight": "31.44 Pounds",
                 "price": 106.47,
-                "remaining_products": 67,
+                "remaining_products": 54,
                 "color": "Black",
                 "img": [
                     {
@@ -1097,7 +1097,7 @@
                 "name": "7 Channels",
                 "weight": 14.968536,
                 "price": 229.9,
-                "remaining_products": 59,
+                "remaining_products": 36,
                 "color": "Orange",
                 "img": [
                     {
@@ -1158,7 +1158,7 @@
                 "name": "Manual Sliding Design",
                 "weight": 14.968536,
                 "price": 69.8,
-                "remaining_products": 1,
+                "remaining_products": 91,
                 "color": "Orange",
                 "img": [
                     {
@@ -1305,7 +1305,7 @@
                 "name": "WHITE",
                 "weight": 36.28736,
                 "price": 229.99,
-                "remaining_products": 23,
+                "remaining_products": 25,
                 "color": "White",
                 "img": [
                     {
@@ -1346,7 +1346,7 @@
                 "name": "RED",
                 "weight": 36.28736,
                 "price": 239.99,
-                "remaining_products": 48,
+                "remaining_products": 15,
                 "color": "Red",
                 "img": [
                     {
@@ -1489,7 +1489,7 @@
                 "name": "Item 25.41 Pounds 159.99",
                 "weight": "25.41 Pounds",
                 "price": 159.99,
-                "remaining_products": 7,
+                "remaining_products": 33,
                 "color": "Blue",
                 "img": [
                     {
@@ -1625,7 +1625,7 @@
                 "name": "Item 0.36 Kilograms 14.99",
                 "weight": "0.36 Kilograms",
                 "price": 14.99,
-                "remaining_products": 53,
+                "remaining_products": 62,
                 "color": "Black",
                 "img": [
                     {
@@ -1761,7 +1761,7 @@
                 "name": "Automatic",
                 "weight": 4.100471679999999,
                 "price": 119.99,
-                "remaining_products": 44,
+                "remaining_products": 30,
                 "color": "Automatic",
                 "img": [
                     {
@@ -1806,7 +1806,7 @@
                 "name": "Drill Stand Jig",
                 "weight": 4.100471679999999,
                 "price": 19.99,
-                "remaining_products": 1,
+                "remaining_products": 19,
                 "color": "Tan",
                 "img": [
                     {
@@ -1847,7 +1847,7 @@
                 "name": "Drill-Powered Black",
                 "weight": 4.100471679999999,
                 "price": 62.99,
-                "remaining_products": 38,
+                "remaining_products": 33,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -1974,7 +1974,7 @@
                 "name": "Pink",
                 "weight": 0.0453592,
                 "price": 14.99,
-                "remaining_products": 77,
+                "remaining_products": 28,
                 "color": "Pink",
                 "img": [
                     {
@@ -2023,7 +2023,7 @@
                 "name": "1 Black-Orange",
                 "weight": 0.0453592,
                 "price": 9.98,
-                "remaining_products": 1,
+                "remaining_products": 50,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -2072,7 +2072,7 @@
                 "name": "Black, Blue",
                 "weight": 0.0453592,
                 "price": 9.99,
-                "remaining_products": 66,
+                "remaining_products": 3,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -2113,7 +2113,7 @@
                 "name": "Blue",
                 "weight": 0.0453592,
                 "price": 9.99,
-                "remaining_products": 54,
+                "remaining_products": 100,
                 "color": "Blue",
                 "img": [
                     {
@@ -2162,7 +2162,7 @@
                 "name": "Black, Pink",
                 "weight": 0.0453592,
                 "price": 9.99,
-                "remaining_products": 95,
+                "remaining_products": 54,
                 "color": "Black, Pink",
                 "img": [
                     {
@@ -2211,7 +2211,7 @@
                 "name": "Black",
                 "weight": 0.0453592,
                 "price": 13.99,
-                "remaining_products": 73,
+                "remaining_products": 66,
                 "color": "Black",
                 "img": [
                     {
@@ -2260,7 +2260,7 @@
                 "name": "Black,Red",
                 "weight": 0.0453592,
                 "price": 11.99,
-                "remaining_products": 84,
+                "remaining_products": 86,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -2415,7 +2415,7 @@
                 "name": "0.06\"-1.5\"",
                 "weight": 23.586784,
                 "price": 346.99,
-                "remaining_products": 55,
+                "remaining_products": 46,
                 "color": "Blue",
                 "img": [
                     {
@@ -2464,7 +2464,7 @@
                 "name": "0.06\"-1.18\"",
                 "weight": 23.586784,
                 "price": 346.99,
-                "remaining_products": 61,
+                "remaining_products": 89,
                 "color": "Blue",
                 "img": [
                     {
@@ -2615,7 +2615,7 @@
                 "name": "Item 118 Pounds 459",
                 "weight": "118 Pounds",
                 "price": 459,
-                "remaining_products": 43,
+                "remaining_products": 66,
                 "color": "Black",
                 "img": [
                     {
@@ -2766,7 +2766,7 @@
                 "name": "Forest",
                 "weight": 46.266384,
                 "price": 1494.99,
-                "remaining_products": 14,
+                "remaining_products": 51,
                 "color": "Pirate Black",
                 "img": [
                     {
@@ -2811,7 +2811,7 @@
                 "name": "Sunset",
                 "weight": 46.266384,
                 "price": 1494.99,
-                "remaining_products": 54,
+                "remaining_products": 55,
                 "color": "Pirate Black",
                 "img": [
                     {
@@ -2856,7 +2856,7 @@
                 "name": "Pirate Black",
                 "weight": 46.266384,
                 "price": 1494.99,
-                "remaining_products": 51,
+                "remaining_products": 31,
                 "color": "Black",
                 "img": [
                     {
@@ -2909,7 +2909,7 @@
                 "name": "Sunrise",
                 "weight": 46.266384,
                 "price": 1494.99,
-                "remaining_products": 72,
+                "remaining_products": 13,
                 "color": "Pirate Black",
                 "img": [
                     {
@@ -2954,7 +2954,7 @@
                 "name": "River",
                 "weight": 46.266384,
                 "price": 1494.99,
-                "remaining_products": 21,
+                "remaining_products": 87,
                 "color": "Pirate Black",
                 "img": [
                     {
@@ -3093,7 +3093,7 @@
                 "name": "1-Orange",
                 "weight": 0.4082328,
                 "price": 13.97,
-                "remaining_products": 68,
+                "remaining_products": 39,
                 "color": "Orange",
                 "img": [
                     {
@@ -3138,7 +3138,7 @@
                 "name": "Blue",
                 "weight": 0.4082328,
                 "price": 14.97,
-                "remaining_products": 94,
+                "remaining_products": 27,
                 "color": "Blue",
                 "img": [
                     {
@@ -3179,7 +3179,7 @@
                 "name": "Purple",
                 "weight": 0.4082328,
                 "price": 15.98,
-                "remaining_products": 48,
+                "remaining_products": 33,
                 "color": "Purple",
                 "img": [
                     {
@@ -3220,7 +3220,7 @@
                 "name": "Pink",
                 "weight": 0.4082328,
                 "price": 14.98,
-                "remaining_products": 85,
+                "remaining_products": 39,
                 "color": "Pink",
                 "img": [
                     {
@@ -3261,7 +3261,7 @@
                 "name": "Black",
                 "weight": 0.4082328,
                 "price": 16.98,
-                "remaining_products": 78,
+                "remaining_products": 3,
                 "color": "Black",
                 "img": [
                     {
@@ -3364,7 +3364,7 @@
                 "name": "18\" & 22\" Rotating Straight Bar",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 51,
+                "remaining_products": 94,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -3405,7 +3405,7 @@
                 "name": "18\" Rotating Straight Bar W/ Flat Rubber Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 90,
+                "remaining_products": 91,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -3446,7 +3446,7 @@
                 "name": "22\" Rotating Straight Bar W/ Flat Rubber Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 93,
+                "remaining_products": 70,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -3487,7 +3487,7 @@
                 "name": "B. Tricep Rope + Double D Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 84,
+                "remaining_products": 53,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -3528,7 +3528,7 @@
                 "name": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 59,
+                "remaining_products": 30,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -3573,7 +3573,7 @@
                 "name": "E. Straight Bar + Tricep Rope + Double D Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 78,
+                "remaining_products": 12,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -3618,7 +3618,7 @@
                 "name": "22\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 3,
+                "remaining_products": 35,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -3659,7 +3659,7 @@
                 "name": "D. Double D Handle",
                 "weight": 0.85,
                 "price": 19.99,
-                "remaining_products": 53,
+                "remaining_products": 39,
                 "color": "18\" Rotating Straight Bar W/ Convex Rubber Handle",
                 "img": [
                     {
@@ -3806,7 +3806,7 @@
                 "name": "Yellow Handles",
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 90,
+                "remaining_products": 67,
                 "color": "Yellow",
                 "img": [
                     {
@@ -3847,7 +3847,7 @@
                 "name": "1-Red Handles",
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 55,
+                "remaining_products": 97,
                 "color": "Red",
                 "img": [
                     {
@@ -3896,7 +3896,7 @@
                 "name": "Black Handles",
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 52,
+                "remaining_products": 73,
                 "color": "Black",
                 "img": [
                     {
@@ -3941,7 +3941,7 @@
                 "name": "Blue Handles",
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 96,
+                "remaining_products": 83,
                 "color": "Blue",
                 "img": [
                     {
@@ -3982,7 +3982,7 @@
                 "name": "Orange Handles",
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 8,
+                "remaining_products": 45,
                 "color": "Orange",
                 "img": [
                     {
@@ -4023,7 +4023,7 @@
                 "name": "All Blue Handles",
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 3,
+                "remaining_products": 83,
                 "color": "Blue",
                 "img": [
                     {
@@ -4064,7 +4064,7 @@
                 "name": "Grey Handles",
                 "weight": 0.25,
                 "price": 9.97,
-                "remaining_products": 83,
+                "remaining_products": 31,
                 "color": "1-Red Handles",
                 "img": [
                     {
@@ -4171,7 +4171,7 @@
                 "name": "Single-Orange",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 57,
+                "remaining_products": 73,
                 "color": "Orange",
                 "img": [
                     {
@@ -4184,7 +4184,7 @@
                 "name": "1Pair-Orange",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 16,
+                "remaining_products": 33,
                 "color": "Orange",
                 "img": [
                     {
@@ -4197,7 +4197,7 @@
                 "name": "1Pair-Pink",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 33,
+                "remaining_products": 18,
                 "color": "Pink",
                 "img": [
                     {
@@ -4210,7 +4210,7 @@
                 "name": "1Pair-Black",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 71,
+                "remaining_products": 49,
                 "color": "Black",
                 "img": [
                     {
@@ -4223,7 +4223,7 @@
                 "name": "Single-Yellow",
                 "weight": 0.1360776,
                 "price": 9.99,
-                "remaining_products": 79,
+                "remaining_products": 99,
                 "color": "Yellow",
                 "img": [
                     {
@@ -4321,7 +4321,7 @@
                 "name": "Item 62 Pounds 485.5",
                 "weight": "62 Pounds",
                 "price": 485.5,
-                "remaining_products": 26,
+                "remaining_products": 74,
                 "color": "Gray",
                 "img": [
                     {
@@ -4440,7 +4440,7 @@
                 "name": "Black",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 14,
+                "remaining_products": 40,
                 "color": "Black",
                 "img": [
                     {
@@ -4477,7 +4477,7 @@
                 "name": "Black Blue",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 87,
+                "remaining_products": 66,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -4514,7 +4514,7 @@
                 "name": "Black Orange",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 101,
+                "remaining_products": 71,
                 "color": "Orange, Black",
                 "img": [
                     {
@@ -4551,7 +4551,7 @@
                 "name": "Black Red",
                 "weight": 0.25,
                 "price": 7.99,
-                "remaining_products": 36,
+                "remaining_products": 1,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -4666,7 +4666,7 @@
                 "name": "Lat Bar",
                 "weight": 1.3154168,
                 "price": 22.99,
-                "remaining_products": 52,
+                "remaining_products": 93,
                 "color": "360 Swivel Lat Bar",
                 "img": [
                     {
@@ -4707,7 +4707,7 @@
                 "name": "360 Swivel Lat Bar",
                 "weight": 1.3154168,
                 "price": 22.99,
-                "remaining_products": 54,
+                "remaining_products": 22,
                 "color": "360 Swivel Lat Bar",
                 "img": [
                     {
@@ -4744,7 +4744,7 @@
                 "name": "Cable Pulley",
                 "weight": 1.3154168,
                 "price": 18.99,
-                "remaining_products": 10,
+                "remaining_products": 20,
                 "color": "360 Swivel Lat Bar",
                 "img": [
                     {
@@ -4831,7 +4831,7 @@
                 "name": "Flamingo Pink (Pack of 2)",
                 "weight": 0.0907184,
                 "price": 15.97,
-                "remaining_products": 78,
+                "remaining_products": 0,
                 "color": "Pink",
                 "img": [
                     {
@@ -4844,7 +4844,7 @@
                 "name": "Iron Gray (Pack of 2)",
                 "weight": 0.0907184,
                 "price": 15.97,
-                "remaining_products": 27,
+                "remaining_products": 11,
                 "color": "Gray",
                 "img": [
                     {
@@ -4947,7 +4947,7 @@
                 "name": "Item 4.2 Pounds 142",
                 "weight": "4.2 Pounds",
                 "price": 142,
-                "remaining_products": 48,
+                "remaining_products": 72,
                 "color": "Silver",
                 "img": [
                     {
@@ -5067,7 +5067,7 @@
                 "name": "Item 700 Grams 29.99",
                 "weight": "700 Grams",
                 "price": 29.99,
-                "remaining_products": 33,
+                "remaining_products": 82,
                 "color": "Black",
                 "img": [
                     {

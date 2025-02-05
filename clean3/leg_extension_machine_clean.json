@@ -75,7 +75,7 @@
                 "name": "White",
                 "weight": 13.335604799999999,
                 "price": 129.99,
-                "remaining_products": 62,
+                "remaining_products": 67,
                 "color": "White",
                 "img": [
                     {
@@ -124,7 +124,7 @@
                 "name": "Black",
                 "weight": 13.335604799999999,
                 "price": 129.99,
-                "remaining_products": 60,
+                "remaining_products": 53,
                 "color": "Black",
                 "img": [
                     {
@@ -268,7 +268,7 @@
                 "name": "Roman Chair",
                 "weight": 10.886208,
                 "price": 79.99,
-                "remaining_products": 17,
+                "remaining_products": 74,
                 "color": "White",
                 "img": [
                     {
@@ -281,7 +281,7 @@
                 "name": "Multi Function Roman Chair",
                 "weight": 10.886208,
                 "price": 79.99,
-                "remaining_products": 33,
+                "remaining_products": 86,
                 "color": "White",
                 "img": [
                     {
@@ -354,7 +354,7 @@
                 "name": "Item 12.04 Kilograms 125.99",
                 "weight": "12.04 Kilograms",
                 "price": 125.99,
-                "remaining_products": 79,
+                "remaining_products": 82,
                 "color": "Black orange",
                 "img": [
                     {
@@ -512,7 +512,7 @@
                 "name": "Classic",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 59,
+                "remaining_products": 66,
                 "color": "Gray-Magnetic",
                 "img": [
                     {
@@ -561,7 +561,7 @@
                 "name": "Smart & Motorized",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 37,
+                "remaining_products": 33,
                 "color": "Gray-Magnetic",
                 "img": [
                     {
@@ -598,7 +598,7 @@
                 "name": "Smart Pink",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 76,
+                "remaining_products": 74,
                 "color": "Pink",
                 "img": [
                     {
@@ -635,7 +635,7 @@
                 "name": "Smart",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 2,
+                "remaining_products": 54,
                 "color": "Gray-Magnetic",
                 "img": [
                     {
@@ -676,7 +676,7 @@
                 "name": "Classic Pink",
                 "weight": 11.3398,
                 "price": 96.98,
-                "remaining_products": 24,
+                "remaining_products": 99,
                 "color": "Pink",
                 "img": [
                     {
@@ -808,7 +808,7 @@
                 "name": "Item 14 Pounds 89.98",
                 "weight": "14 Pounds",
                 "price": 89.98,
-                "remaining_products": 45,
+                "remaining_products": 41,
                 "color": "Multi",
                 "img": [
                     {
@@ -912,7 +912,7 @@
                 "name": "GOLDEN",
                 "weight": 47.627159999999996,
                 "price": 299.99,
-                "remaining_products": 91,
+                "remaining_products": 97,
                 "color": "Gold",
                 "img": [
                     {
@@ -953,7 +953,7 @@
                 "name": "BLACK",
                 "weight": 47.627159999999996,
                 "price": 299.99,
-                "remaining_products": 33,
+                "remaining_products": 2,
                 "color": "Black",
                 "img": [
                     {
@@ -1091,7 +1091,7 @@
                 "name": "Item 10.55 Kilograms 139.99",
                 "weight": "10.55 Kilograms",
                 "price": 139.99,
-                "remaining_products": 93,
+                "remaining_products": 34,
                 "color": "A-Regular Weight Bench",
                 "img": [
                     {

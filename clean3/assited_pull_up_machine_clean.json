@@ -55,7 +55,7 @@
                 "name": "Red",
                 "weight": 5.97,
                 "price": 99.99,
-                "remaining_products": 42,
+                "remaining_products": 65,
                 "color": "Red",
                 "img": [
                     {
@@ -96,7 +96,7 @@
                 "name": "Blue",
                 "weight": 5.97,
                 "price": 99.99,
-                "remaining_products": 88,
+                "remaining_products": 31,
                 "color": "Blue",
                 "img": [
                     {
@@ -260,7 +260,7 @@
                 "name": "Item 37.9 Pounds 199.99",
                 "weight": "37.9 Pounds",
                 "price": 199.99,
-                "remaining_products": 84,
+                "remaining_products": 90,
                 "color": "Black",
                 "img": [
                     {
@@ -420,7 +420,7 @@
                 "name": "2 - SMART",
                 "weight": 17.8261656,
                 "price": 199.99,
-                "remaining_products": 76,
+                "remaining_products": 64,
                 "color": "5 - Full Motion Smart",
                 "img": [
                     {
@@ -457,7 +457,7 @@
                 "name": "1 - Classic",
                 "weight": 17.8261656,
                 "price": 116.2,
-                "remaining_products": 7,
+                "remaining_products": 51,
                 "color": "5 - Full Motion Smart",
                 "img": [
                     {
@@ -534,7 +534,7 @@
                 "name": "3 - Row-N-Ride SMART",
                 "weight": 17.8261656,
                 "price": 227.49,
-                "remaining_products": 96,
+                "remaining_products": 75,
                 "color": "5 - Full Motion Smart",
                 "img": [
                     {
@@ -575,7 +575,7 @@
                 "name": "4 - Premium Magnetic SMART",
                 "weight": 17.8261656,
                 "price": 565.24,
-                "remaining_products": 32,
+                "remaining_products": 67,
                 "color": "5 - Full Motion Smart",
                 "img": [
                     {
@@ -718,7 +718,7 @@
                 "name": "Item 10.2 Pounds 69.95",
                 "weight": "10.2 Pounds",
                 "price": 69.95,
-                "remaining_products": 58,
+                "remaining_products": 54,
                 "color": "Metallic Gray",
                 "img": [
                     {
@@ -853,7 +853,7 @@
                 "name": "Item 18.5 Pounds 89.95",
                 "weight": "18.5 Pounds",
                 "price": 89.95,
-                "remaining_products": 2,
+                "remaining_products": 44,
                 "color": "White/Black",
                 "img": [
                     {
@@ -964,7 +964,7 @@
                 "name": "Item 10.5 Kilograms 139.99",
                 "weight": "10.5 Kilograms",
                 "price": 139.99,
-                "remaining_products": 48,
+                "remaining_products": 3,
                 "color": "Purple",
                 "img": [
                     {
@@ -1123,7 +1123,7 @@
                 "name": "Item 0.5 Kilograms 28.75",
                 "weight": "0.5 Kilograms",
                 "price": 28.75,
-                "remaining_products": 91,
+                "remaining_products": 53,
                 "color": "Red",
                 "img": [
                     {
@@ -1242,7 +1242,7 @@
                 "name": "Black",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 84,
+                "remaining_products": 8,
                 "color": "Black",
                 "img": [
                     {
@@ -1291,7 +1291,7 @@
                 "name": "Army Green",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 85,
+                "remaining_products": 74,
                 "color": "Green",
                 "img": [
                     {
@@ -1340,7 +1340,7 @@
                 "name": "Yellow",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 76,
+                "remaining_products": 34,
                 "color": "Yellow",
                 "img": [
                     {
@@ -1385,7 +1385,7 @@
                 "name": "1-Orange",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 36,
+                "remaining_products": 31,
                 "color": "Orange",
                 "img": [
                     {
@@ -1434,7 +1434,7 @@
                 "name": "Rose Red",
                 "weight": 1.21,
                 "price": 28.76,
-                "remaining_products": 87,
+                "remaining_products": 15,
                 "color": "Red, Rose",
                 "img": [
                     {
@@ -1570,7 +1570,7 @@
                 "name": "Item 0.97 Kilograms 17.99",
                 "weight": "0.97 Kilograms",
                 "price": 17.99,
-                "remaining_products": 78,
+                "remaining_products": 38,
                 "color": "Black and Yellow",
                 "img": [
                     {
@@ -1701,7 +1701,7 @@
                 "name": "Item 168 Pounds 399.99",
                 "weight": "168 Pounds",
                 "price": 399.99,
-                "remaining_products": 86,
+                "remaining_products": 81,
                 "color": "black",
                 "img": [
                     {
@@ -1842,7 +1842,7 @@
                 "name": "Blue",
                 "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 57,
+                "remaining_products": 97,
                 "color": "Blue",
                 "img": [
                     {
@@ -1883,7 +1883,7 @@
                 "name": "Orange",
                 "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 53,
+                "remaining_products": 0,
                 "color": "Orange",
                 "img": [
                     {
@@ -1924,7 +1924,7 @@
                 "name": "Black",
                 "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 74,
+                "remaining_products": 10,
                 "color": "Black",
                 "img": [
                     {
@@ -1965,7 +1965,7 @@
                 "name": "Rose Red",
                 "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 41,
+                "remaining_products": 89,
                 "color": "Red, Rose",
                 "img": [
                     {
@@ -2006,7 +2006,7 @@
                 "name": "army green",
                 "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 16,
+                "remaining_products": 63,
                 "color": "Green",
                 "img": [
                     {
@@ -2047,7 +2047,7 @@
                 "name": "Yellow",
                 "weight": 1.0251179199999998,
                 "price": 38.99,
-                "remaining_products": 16,
+                "remaining_products": 4,
                 "color": "Yellow",
                 "img": [
                     {
@@ -2178,7 +2178,7 @@
                 "name": "Item 2.24 Kilograms 19.99",
                 "weight": "2.24 Kilograms",
                 "price": 19.99,
-                "remaining_products": 42,
+                "remaining_products": 8,
                 "color": "Rotating Pull Up Handles",
                 "img": [
                     {
@@ -2285,7 +2285,7 @@
                 "name": "ab machine with resistance bands",
                 "weight": 10.432616,
                 "price": 117.99,
-                "remaining_products": 12,
+                "remaining_products": 52,
                 "color": "Tan",
                 "img": [
                     {
@@ -2322,7 +2322,7 @@
                 "name": "ab machine",
                 "weight": 10.432616,
                 "price": 105.99,
-                "remaining_products": 7,
+                "remaining_products": 87,
                 "color": "Black",
                 "img": [
                     {
@@ -2451,7 +2451,7 @@
                 "name": "Blue",
                 "weight": 0.907184,
                 "price": 35.89,
-                "remaining_products": 57,
+                "remaining_products": 21,
                 "color": "Blue",
                 "img": [
                     {
@@ -2500,7 +2500,7 @@
                 "name": "Black",
                 "weight": 0.907184,
                 "price": 35.89,
-                "remaining_products": 28,
+                "remaining_products": 48,
                 "color": "Black",
                 "img": [
                     {
@@ -2697,7 +2697,7 @@
                 "name": "Item 1.7 Pounds 179.95",
                 "weight": "1.7 Pounds",
                 "price": 179.95,
-                "remaining_products": 65,
+                "remaining_products": 64,
                 "color": "Black",
                 "img": [
                     {
@@ -2839,7 +2839,7 @@
                 "name": "Blue 1/4\" 5-15 lbs.",
                 "weight": 6.8038799999999995,
                 "price": 20.95,
-                "remaining_products": 11,
+                "remaining_products": 42,
                 "color": "Blue",
                 "img": [
                     {
@@ -2884,7 +2884,7 @@
                 "name": "Black 7/8\" 30-50 lbs. 1/4\" 5-15 lbs.",
                 "weight": 22.6796,
                 "price": 20.95,
-                "remaining_products": 61,
+                "remaining_products": 80,
                 "color": "Black",
                 "img": [
                     {
@@ -2921,7 +2921,7 @@
                 "name": "Gray 1/4\" 5-15 lbs.",
                 "weight": 6.8038799999999995,
                 "price": 20.95,
-                "remaining_products": 85,
+                "remaining_products": 14,
                 "color": "Gray",
                 "img": [
                     {
@@ -2966,7 +2966,7 @@
                 "name": "Purple, Pink 1/4\" 5-15 lbs.",
                 "weight": 6.8038799999999995,
                 "price": 20.95,
-                "remaining_products": 8,
+                "remaining_products": 15,
                 "color": "Purple, Pink",
                 "img": [
                     {
@@ -3011,7 +3011,7 @@
                 "name": "Green 1/4\" 5-15 lbs.",
                 "weight": 6.8038799999999995,
                 "price": 20.95,
-                "remaining_products": 67,
+                "remaining_products": 101,
                 "color": "Green",
                 "img": [
                     {
@@ -3056,7 +3056,7 @@
                 "name": "Red 1/2\" 20-35 lbs 1/4\" 5-15 lbs.",
                 "weight": 15.87572,
                 "price": 20.95,
-                "remaining_products": 90,
+                "remaining_products": 55,
                 "color": "Red",
                 "img": [
                     {
@@ -3101,7 +3101,7 @@
                 "name": "Orange 1/4\" 5-15 lbs. 1/4\" 5-15 lbs.",
                 "weight": 6.8038799999999995,
                 "price": 20.95,
-                "remaining_products": 24,
+                "remaining_products": 31,
                 "color": "Orange",
                 "img": [
                     {
@@ -3256,7 +3256,7 @@
                 "name": "Multi Grip Light",
                 "weight": 3.9462504,
                 "price": 34.99,
-                "remaining_products": 72,
+                "remaining_products": 69,
                 "color": "Black",
                 "img": [
                     {
@@ -3293,7 +3293,7 @@
                 "name": "Doorway",
                 "weight": 3.9462504,
                 "price": 34.99,
-                "remaining_products": 11,
+                "remaining_products": 16,
                 "color": "Black",
                 "img": [
                     {
@@ -3330,7 +3330,7 @@
                 "name": "Multi Grip",
                 "weight": 3.9462504,
                 "price": 34.99,
-                "remaining_products": 29,
+                "remaining_products": 55,
                 "color": "Black",
                 "img": [
                     {
@@ -3367,7 +3367,7 @@
                 "name": "Wall Mount",
                 "weight": 3.9462504,
                 "price": 34.99,
-                "remaining_products": 86,
+                "remaining_products": 88,
                 "color": "Black",
                 "img": [
                     {
@@ -3400,7 +3400,7 @@
                 "name": "Foldable",
                 "weight": 3.9462504,
                 "price": 34.99,
-                "remaining_products": 20,
+                "remaining_products": 37,
                 "color": "Black",
                 "img": [
                     {
@@ -3548,7 +3548,7 @@
                 "name": "Item 3 Pounds 34.08",
                 "weight": "3 Pounds",
                 "price": 34.08,
-                "remaining_products": 1,
+                "remaining_products": 64,
                 "color": "Steel",
                 "img": [
                     {
@@ -3674,7 +3674,7 @@
                 "name": "Item 7 Pounds 30.77",
                 "weight": "7 Pounds",
                 "price": 30.77,
-                "remaining_products": 39,
+                "remaining_products": 95,
                 "color": "Original",
                 "img": [
                     {
@@ -3785,7 +3785,7 @@
                 "name": "Item 77 Kilograms 399.99",
                 "weight": "77 Kilograms",
                 "price": 399.99,
-                "remaining_products": 32,
+                "remaining_products": 6,
                 "color": "Gray",
                 "img": [
                     {

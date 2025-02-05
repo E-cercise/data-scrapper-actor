@@ -147,7 +147,7 @@
                 "name": "Incline",
                 "weight": 17.0097,
                 "price": 152.99,
-                "remaining_products": 68,
+                "remaining_products": 29,
                 "color": "Black",
                 "img": [
                     {
@@ -184,7 +184,7 @@
                 "name": "Standard",
                 "weight": 17.0097,
                 "price": 129.99,
-                "remaining_products": 36,
+                "remaining_products": 66,
                 "color": "Tan",
                 "img": [
                     {
@@ -392,7 +392,7 @@
                 "name": "Flat Desk Treadmill",
                 "weight": 23.133192,
                 "price": 269,
-                "remaining_products": 42,
+                "remaining_products": 27,
                 "color": "Black and Blue",
                 "img": [
                     {
@@ -429,7 +429,7 @@
                 "name": "2-in-1 Treadmill with Handlebars",
                 "weight": 23.133192,
                 "price": 269,
-                "remaining_products": 37,
+                "remaining_products": 20,
                 "color": "Black and Blue",
                 "img": [
                     {
@@ -626,7 +626,7 @@
                 "name": "Black Medium Large",
                 "weight": 37.0,
                 "price": 329.99,
-                "remaining_products": 85,
+                "remaining_products": 28,
                 "color": "Black",
                 "img": [
                     {
@@ -675,7 +675,7 @@
                 "name": "Black Large",
                 "weight": 37.0,
                 "price": 529.99,
-                "remaining_products": 36,
+                "remaining_products": 49,
                 "color": "Black",
                 "img": [
                     {
@@ -724,7 +724,7 @@
                 "name": "Black Medium",
                 "weight": 37.0,
                 "price": 329.99,
-                "remaining_products": 3,
+                "remaining_products": 33,
                 "color": "Black",
                 "img": [
                     {
@@ -773,7 +773,7 @@
                 "name": "Black",
                 "weight": 37.0,
                 "price": 419.99,
-                "remaining_products": 35,
+                "remaining_products": 72,
                 "color": "Black",
                 "img": [
                     {
@@ -998,7 +998,7 @@
                 "name": "Item 16.7 Kilograms 119.99",
                 "weight": "16.7 Kilograms",
                 "price": 119.99,
-                "remaining_products": 85,
+                "remaining_products": 53,
                 "color": "Sliver",
                 "img": [
                     {
@@ -1185,7 +1185,7 @@
                 "name": "With Handle",
                 "weight": 18.597272,
                 "price": 189.99,
-                "remaining_products": 52,
+                "remaining_products": 44,
                 "color": "Grey",
                 "img": [
                     {
@@ -1234,7 +1234,7 @@
                 "name": "Without Handle",
                 "weight": 18.597272,
                 "price": 189.99,
-                "remaining_products": 39,
+                "remaining_products": 0,
                 "color": "Grey",
                 "img": [
                     {
@@ -1437,7 +1437,7 @@
                 "name": "Item 250 Pounds 2995",
                 "weight": "250 Pounds",
                 "price": 2995,
-                "remaining_products": 87,
+                "remaining_products": 38,
                 "color": "Black",
                 "img": [
                     {
@@ -1636,7 +1636,7 @@
                 "name": "Black",
                 "weight": 17.236496,
                 "price": 139.99,
-                "remaining_products": 78,
+                "remaining_products": 90,
                 "color": "Black",
                 "img": [
                     {
@@ -1681,7 +1681,7 @@
                 "name": "Cream Black",
                 "weight": 17.236496,
                 "price": 139.99,
-                "remaining_products": 88,
+                "remaining_products": 101,
                 "color": "Black, Cream",
                 "img": [
                     {
@@ -1726,7 +1726,7 @@
                 "name": "White",
                 "weight": 17.236496,
                 "price": 139.99,
-                "remaining_products": 28,
+                "remaining_products": 74,
                 "color": "White",
                 "img": [
                     {
@@ -1920,7 +1920,7 @@
                 "name": "Item 75 Pounds 329.99",
                 "weight": "75 Pounds",
                 "price": 329.99,
-                "remaining_products": 70,
+                "remaining_products": 36,
                 "color": "Black",
                 "img": [
                     {
@@ -2093,7 +2093,7 @@
                 "name": "Yellow Handle",
                 "weight": 22.52,
                 "price": 154.99,
-                "remaining_products": 28,
+                "remaining_products": 70,
                 "color": "Yellow",
                 "img": [
                     {
@@ -2134,7 +2134,7 @@
                 "name": "Hot Pink Handle",
                 "weight": 22.52,
                 "price": 154.99,
-                "remaining_products": 26,
+                "remaining_products": 0,
                 "color": "Pink",
                 "img": [
                     {
@@ -2175,7 +2175,7 @@
                 "name": "White",
                 "weight": 22.52,
                 "price": 154.99,
-                "remaining_products": 50,
+                "remaining_products": 67,
                 "color": "White",
                 "img": [
                     {
@@ -2216,7 +2216,7 @@
                 "name": "Yellow",
                 "weight": 22.52,
                 "price": 154.99,
-                "remaining_products": 101,
+                "remaining_products": 26,
                 "color": "Yellow",
                 "img": [
                     {
@@ -2257,7 +2257,7 @@
                 "name": "Hot Pink",
                 "weight": 22.52,
                 "price": 154.99,
-                "remaining_products": 22,
+                "remaining_products": 79,
                 "color": "Pink",
                 "img": [
                     {
@@ -2463,7 +2463,7 @@
                 "name": "S C1 Silver",
                 "weight": 24.95,
                 "price": 179.99,
-                "remaining_products": 48,
+                "remaining_products": 2,
                 "color": "Silver",
                 "img": [
                     {
@@ -2504,7 +2504,7 @@
                 "name": "S C1 Black",
                 "weight": 24.95,
                 "price": 179.99,
-                "remaining_products": 7,
+                "remaining_products": 18,
                 "color": "Black",
                 "img": [
                     {
@@ -2693,7 +2693,7 @@
                 "name": "sliver",
                 "weight": 22.0445712,
                 "price": 169.99,
-                "remaining_products": 52,
+                "remaining_products": 101,
                 "color": "sliver",
                 "img": [
                     {
@@ -2738,7 +2738,7 @@
                 "name": "red",
                 "weight": 22.0445712,
                 "price": 169.99,
-                "remaining_products": 74,
+                "remaining_products": 14,
                 "color": "Red",
                 "img": [
                     {
@@ -2783,7 +2783,7 @@
                 "name": "white",
                 "weight": 22.0445712,
                 "price": 169.99,
-                "remaining_products": 11,
+                "remaining_products": 95,
                 "color": "White",
                 "img": [
                     {
@@ -2828,7 +2828,7 @@
                 "name": "black",
                 "weight": 22.0445712,
                 "price": 169.99,
-                "remaining_products": 55,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -3025,7 +3025,7 @@
                 "name": "Item 52 Pounds 369.99",
                 "weight": "52 Pounds",
                 "price": 369.99,
-                "remaining_products": 63,
+                "remaining_products": 20,
                 "color": "White",
                 "img": [
                     {
@@ -3244,7 +3244,7 @@
                 "name": "Hand Bar Black",
                 "weight": 22.226008,
                 "price": 299.74,
-                "remaining_products": 16,
+                "remaining_products": 75,
                 "color": "Black",
                 "img": [
                     {
@@ -3289,7 +3289,7 @@
                 "name": "No Handle Bar White",
                 "weight": 22.226008,
                 "price": 299.74,
-                "remaining_products": 85,
+                "remaining_products": 29,
                 "color": "White",
                 "img": [
                     {
@@ -3334,7 +3334,7 @@
                 "name": "Hand Bar White",
                 "weight": 22.226008,
                 "price": 299.74,
-                "remaining_products": 73,
+                "remaining_products": 13,
                 "color": "White",
                 "img": [
                     {
@@ -3560,7 +3560,7 @@
                 "name": "Premium Smart",
                 "weight": 50.802304,
                 "price": 454.3,
-                "remaining_products": 54,
+                "remaining_products": 26,
                 "color": "Black",
                 "img": [
                     {
@@ -3609,7 +3609,7 @@
                 "name": "Smart",
                 "weight": 50.802304,
                 "price": 454.3,
-                "remaining_products": 56,
+                "remaining_products": 45,
                 "color": "Black",
                 "img": [
                     {
@@ -3646,7 +3646,7 @@
                 "name": "Classic",
                 "weight": 50.802304,
                 "price": 454.3,
-                "remaining_products": 69,
+                "remaining_products": 41,
                 "color": "Black",
                 "img": [
                     {
@@ -3839,7 +3839,7 @@
                 "name": "Black Red",
                 "weight": 22.0,
                 "price": 149,
-                "remaining_products": 84,
+                "remaining_products": 38,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -3876,7 +3876,7 @@
                 "name": "Black&Green",
                 "weight": 22.0,
                 "price": 215.88,
-                "remaining_products": 32,
+                "remaining_products": 57,
                 "color": "Green, Black",
                 "img": [
                     {
@@ -3913,7 +3913,7 @@
                 "name": "Red&Black",
                 "weight": 22.0,
                 "price": 159.46,
-                "remaining_products": 44,
+                "remaining_products": 81,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -4062,7 +4062,7 @@
                 "name": "Item 38.6 Pounds 78.99",
                 "weight": "38.6 Pounds",
                 "price": 78.99,
-                "remaining_products": 83,
+                "remaining_products": 43,
                 "color": "Black",
                 "img": [
                     {
@@ -4296,7 +4296,7 @@
                 "name": "Item 249 Pounds 999",
                 "weight": "249 Pounds",
                 "price": 999,
-                "remaining_products": 54,
+                "remaining_products": 30,
                 "color": "Black",
                 "img": [
                     {
@@ -4501,7 +4501,7 @@
                 "name": "Navy",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 76,
+                "remaining_products": 20,
                 "color": "Navy",
                 "img": [
                     {
@@ -4550,7 +4550,7 @@
                 "name": "Red",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 19,
+                "remaining_products": 32,
                 "color": "Red",
                 "img": [
                     {
@@ -4599,7 +4599,7 @@
                 "name": "Purple",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 94,
+                "remaining_products": 21,
                 "color": "Purple",
                 "img": [
                     {
@@ -4648,7 +4648,7 @@
                 "name": "Silver",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 24,
+                "remaining_products": 59,
                 "color": "Silver",
                 "img": [
                     {
@@ -4865,7 +4865,7 @@
                 "name": "Item 152 Pounds 599.99",
                 "weight": "152 Pounds",
                 "price": 599.99,
-                "remaining_products": 10,
+                "remaining_products": 77,
                 "color": "Black",
                 "img": [
                     {
@@ -5096,7 +5096,7 @@
                 "name": "Item 318 Pounds 1540",
                 "weight": "318 Pounds",
                 "price": 1540,
-                "remaining_products": 63,
+                "remaining_products": 22,
                 "color": "Black",
                 "img": [
                     {
@@ -5308,7 +5308,7 @@
                 "name": "Item 280 Pounds 2899",
                 "weight": "280 Pounds",
                 "price": 2899,
-                "remaining_products": 59,
+                "remaining_products": 8,
                 "color": "Black Frame/Charcoal",
                 "img": [
                     {
@@ -5477,7 +5477,7 @@
                 "name": "Item 61.5 Pounds 295.99",
                 "weight": "61.5 Pounds",
                 "price": 295.99,
-                "remaining_products": 31,
+                "remaining_products": 99,
                 "color": "Black",
                 "img": [
                     {
@@ -5672,7 +5672,7 @@
                 "name": "Item 39 Pounds 209.99",
                 "weight": "39 Pounds",
                 "price": 209.99,
-                "remaining_products": 0,
+                "remaining_products": 20,
                 "color": "Blue",
                 "img": [
                     {
@@ -5842,7 +5842,7 @@
                 "name": "Original Peloton Bike",
                 "weight": 63.50288,
                 "price": 2495,
-                "remaining_products": 53,
+                "remaining_products": 8,
                 "color": "Black",
                 "img": [
                     {
@@ -5871,7 +5871,7 @@
                 "name": "Peloton Bike+",
                 "weight": 63.50288,
                 "price": 2495,
-                "remaining_products": 66,
+                "remaining_products": 0,
                 "color": "Black",
                 "img": [
                     {
@@ -6046,7 +6046,7 @@
                 "name": "Item 80 Pounds 399.99",
                 "weight": "80 Pounds",
                 "price": 399.99,
-                "remaining_products": 58,
+                "remaining_products": 53,
                 "color": "Black",
                 "img": [
                     {
@@ -6183,7 +6183,7 @@
                 "name": "Item 37.9 Pounds 99.99",
                 "weight": "37.9 Pounds",
                 "price": 99.99,
-                "remaining_products": 16,
+                "remaining_products": 79,
                 "color": "Black",
                 "img": [
                     {
@@ -6368,7 +6368,7 @@
                 "name": "Black with Incline",
                 "weight": 26.761928,
                 "price": 209.99,
-                "remaining_products": 74,
+                "remaining_products": 73,
                 "color": "Black",
                 "img": [
                     {
@@ -6409,7 +6409,7 @@
                 "name": "Black with handle",
                 "weight": 26.761928,
                 "price": 209.99,
-                "remaining_products": 50,
+                "remaining_products": 74,
                 "color": "Black",
                 "img": [
                     {
@@ -6624,7 +6624,7 @@
                 "name": "3% Incline-Upgraded Damping Rubber Black",
                 "weight": 18.597272,
                 "price": 130.99,
-                "remaining_products": 5,
+                "remaining_products": 66,
                 "color": "Black",
                 "img": [
                     {
@@ -6661,7 +6661,7 @@
                 "name": "3% Incline-Wider Belt Black",
                 "weight": 18.597272,
                 "price": 130.99,
-                "remaining_products": 70,
+                "remaining_products": 85,
                 "color": "Black",
                 "img": [
                     {
@@ -6706,7 +6706,7 @@
                 "name": "10% Incline-Upgraded Motor Black",
                 "weight": 18.597272,
                 "price": 130.99,
-                "remaining_products": 100,
+                "remaining_products": 37,
                 "color": "Black",
                 "img": [
                     {
@@ -6891,7 +6891,7 @@
                 "name": "white",
                 "weight": 18.14368,
                 "price": 128,
-                "remaining_products": 99,
+                "remaining_products": 44,
                 "color": "White",
                 "img": [
                     {
@@ -6932,7 +6932,7 @@
                 "name": "black",
                 "weight": 18.14368,
                 "price": 128,
-                "remaining_products": 29,
+                "remaining_products": 75,
                 "color": "Black",
                 "img": [
                     {
@@ -6973,7 +6973,7 @@
                 "name": "orange",
                 "weight": 18.14368,
                 "price": 128,
-                "remaining_products": 64,
+                "remaining_products": 63,
                 "color": "Orange",
                 "img": [
                     {
@@ -7135,7 +7135,7 @@
                 "name": "Classic Black",
                 "weight": 17.0097,
                 "price": 129.99,
-                "remaining_products": 85,
+                "remaining_products": 72,
                 "color": "Black",
                 "img": [
                     {
@@ -7176,7 +7176,7 @@
                 "name": "Morden Black",
                 "weight": 17.0097,
                 "price": 129.99,
-                "remaining_products": 90,
+                "remaining_products": 49,
                 "color": "Black",
                 "img": [
                     {
@@ -7377,7 +7377,7 @@
                 "name": "Item 102 Pounds 394.99",
                 "weight": "102 Pounds",
                 "price": 394.99,
-                "remaining_products": 62,
+                "remaining_products": 42,
                 "color": "Blue",
                 "img": [
                     {
@@ -7556,7 +7556,7 @@
                 "name": "Black Blue",
                 "weight": 25.3104336,
                 "price": 239.99,
-                "remaining_products": 88,
+                "remaining_products": 24,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -7597,7 +7597,7 @@
                 "name": "Orange",
                 "weight": 25.3104336,
                 "price": 239.99,
-                "remaining_products": 93,
+                "remaining_products": 43,
                 "color": "Orange",
                 "img": [
                     {
@@ -7638,7 +7638,7 @@
                 "name": "Black Green",
                 "weight": 25.3104336,
                 "price": 239.99,
-                "remaining_products": 31,
+                "remaining_products": 77,
                 "color": "Green, Black",
                 "img": [
                     {
@@ -7823,7 +7823,7 @@
                 "name": "Black-Wide Belt",
                 "weight": 20.41164,
                 "price": 219.99,
-                "remaining_products": 101,
+                "remaining_products": 74,
                 "color": "Black",
                 "img": [
                     {
@@ -7872,7 +7872,7 @@
                 "name": "Pink",
                 "weight": 20.41164,
                 "price": 189.99,
-                "remaining_products": 83,
+                "remaining_products": 84,
                 "color": "Pink",
                 "img": [
                     {
@@ -7921,7 +7921,7 @@
                 "name": "Pink-6.2MPH",
                 "weight": 20.41164,
                 "price": 209.99,
-                "remaining_products": 25,
+                "remaining_products": 99,
                 "color": "Pink",
                 "img": [
                     {
@@ -7966,7 +7966,7 @@
                 "name": "Black+43\"\u00d718\" Wide Belt",
                 "weight": 20.41164,
                 "price": 259.99,
-                "remaining_products": 77,
+                "remaining_products": 90,
                 "color": "Black",
                 "img": [
                     {
@@ -8011,7 +8011,7 @@
                 "name": "White-Wide Belt",
                 "weight": 20.41164,
                 "price": 229.99,
-                "remaining_products": 5,
+                "remaining_products": 16,
                 "color": "White",
                 "img": [
                     {
@@ -8060,7 +8060,7 @@
                 "name": "Black",
                 "weight": 20.41164,
                 "price": 189.99,
-                "remaining_products": 20,
+                "remaining_products": 24,
                 "color": "Black",
                 "img": [
                     {
@@ -8289,7 +8289,7 @@
                 "name": "Orange",
                 "weight": 19.186941599999997,
                 "price": 199.99,
-                "remaining_products": 67,
+                "remaining_products": 12,
                 "color": "Orange",
                 "img": [
                     {
@@ -8330,7 +8330,7 @@
                 "name": "Wooden",
                 "weight": 19.186941599999997,
                 "price": 199.99,
-                "remaining_products": 39,
+                "remaining_products": 91,
                 "color": "Yellow",
                 "img": [
                     {
@@ -8367,7 +8367,7 @@
                 "name": "Black",
                 "weight": 19.186941599999997,
                 "price": 199.99,
-                "remaining_products": 12,
+                "remaining_products": 2,
                 "color": "Black",
                 "img": [
                     {
@@ -8412,7 +8412,7 @@
                 "name": "Black-Incline",
                 "weight": 19.186941599999997,
                 "price": 199.99,
-                "remaining_products": 83,
+                "remaining_products": 29,
                 "color": "Black",
                 "img": [
                     {
@@ -8453,7 +8453,7 @@
                 "name": "Yellow",
                 "weight": 19.186941599999997,
                 "price": 199.99,
-                "remaining_products": 78,
+                "remaining_products": 23,
                 "color": "Yellow",
                 "img": [
                     {
@@ -8652,7 +8652,7 @@
                 "name": "Weight Bench Set",
                 "weight": 13.154168,
                 "price": 124.99,
-                "remaining_products": 100,
+                "remaining_products": 5,
                 "color": "Tread Mill",
                 "img": [
                     {
@@ -8697,7 +8697,7 @@
                 "name": "air walker",
                 "weight": 13.154168,
                 "price": 117.8,
-                "remaining_products": 12,
+                "remaining_products": 19,
                 "color": "Tread Mill",
                 "img": [
                     {
@@ -8734,7 +8734,7 @@
                 "name": "Happy Bike",
                 "weight": 13.154168,
                 "price": 103.13,
-                "remaining_products": 91,
+                "remaining_products": 0,
                 "color": "Tread Mill",
                 "img": [
                     {
@@ -8779,7 +8779,7 @@
                 "name": "Tread Mill",
                 "weight": 13.154168,
                 "price": 142.99,
-                "remaining_products": 47,
+                "remaining_products": 82,
                 "color": "Tread Mill",
                 "img": [
                     {
@@ -8937,7 +8937,7 @@
                 "name": "Item 51 Pounds 239.99",
                 "weight": "51 Pounds",
                 "price": 239.99,
-                "remaining_products": 94,
+                "remaining_products": 39,
                 "color": "Black",
                 "img": [
                     {
@@ -9162,7 +9162,7 @@
                 "name": "Item 216 Pounds 1999",
                 "weight": "216 Pounds",
                 "price": 1999,
-                "remaining_products": 46,
+                "remaining_products": 92,
                 "color": "Silver",
                 "img": [
                     {
@@ -9323,7 +9323,7 @@
                 "name": "Electric lift",
                 "weight": 21.999212,
                 "price": 259.99,
-                "remaining_products": 28,
+                "remaining_products": 42,
                 "color": "black",
                 "img": [
                     {
@@ -9360,7 +9360,7 @@
                 "name": "Electric lift with Handle Bar",
                 "weight": 21.999212,
                 "price": 399.99,
-                "remaining_products": 39,
+                "remaining_products": 19,
                 "color": "black",
                 "img": [
                     {
@@ -9533,7 +9533,7 @@
                 "name": "Blue",
                 "weight": 20.41164,
                 "price": 179.99,
-                "remaining_products": 8,
+                "remaining_products": 27,
                 "color": "Blue",
                 "img": [
                     {
@@ -9582,7 +9582,7 @@
                 "name": "Red",
                 "weight": 20.41164,
                 "price": 179.99,
-                "remaining_products": 64,
+                "remaining_products": 11,
                 "color": "Red",
                 "img": [
                     {
@@ -9790,7 +9790,7 @@
                 "name": "Item 94 Pounds 399.99",
                 "weight": "94 Pounds",
                 "price": 399.99,
-                "remaining_products": 74,
+                "remaining_products": 49,
                 "color": "Smart",
                 "img": [
                     {
@@ -9950,7 +9950,7 @@
                 "name": "Item 109 Pounds 891.79",
                 "weight": "109 Pounds",
                 "price": 891.79,
-                "remaining_products": 36,
+                "remaining_products": 99,
                 "color": "Black",
                 "img": [
                     {
@@ -10107,7 +10107,7 @@
                 "name": "Kids Barbell with Adjustable Plates",
                 "weight": 12.8820128,
                 "price": 29.95,
-                "remaining_products": 2,
+                "remaining_products": 12,
                 "color": "Blue, Red, and Yellow",
                 "img": [
                     {
@@ -10148,7 +10148,7 @@
                 "name": "Kids Weight Bench Set",
                 "weight": 12.8820128,
                 "price": 79.97,
-                "remaining_products": 44,
+                "remaining_products": 20,
                 "color": "Blue, Red, and Yellow",
                 "img": [
                     {
@@ -10189,7 +10189,7 @@
                 "name": "Kids Treadmill",
                 "weight": 12.8820128,
                 "price": 124.99,
-                "remaining_products": 13,
+                "remaining_products": 53,
                 "color": "Blue, Red, and Yellow",
                 "img": [
                     {
@@ -10230,7 +10230,7 @@
                 "name": "Kids Exercise Bike",
                 "weight": 12.8820128,
                 "price": 107.95,
-                "remaining_products": 14,
+                "remaining_products": 56,
                 "color": "Blue, Red, and Yellow",
                 "img": [
                     {
@@ -10367,7 +10367,7 @@
                 "name": "Item 315.7 Pounds 1899.99",
                 "weight": "315.7 Pounds",
                 "price": 1899.99,
-                "remaining_products": 86,
+                "remaining_products": 98,
                 "color": "Red+Black",
                 "img": [
                     {
@@ -10560,7 +10560,7 @@
                 "name": "Item 315.7 Pounds 1599.99",
                 "weight": "315.7 Pounds",
                 "price": 1599.99,
-                "remaining_products": 4,
+                "remaining_products": 62,
                 "color": "Red+Black",
                 "img": [
                     {
@@ -10749,7 +10749,7 @@
                 "name": "Automatic tilt",
                 "weight": 22.6796,
                 "price": 259.99,
-                "remaining_products": 45,
+                "remaining_products": 21,
                 "color": "black",
                 "img": [
                     {
@@ -10762,7 +10762,7 @@
                 "name": "black",
                 "weight": 22.6796,
                 "price": 224.18,
-                "remaining_products": 77,
+                "remaining_products": 71,
                 "color": "Black",
                 "img": [
                     {
@@ -10935,7 +10935,7 @@
                 "name": "Navy",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 58,
+                "remaining_products": 45,
                 "color": "Navy",
                 "img": [
                     {
@@ -10984,7 +10984,7 @@
                 "name": "Red",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 76,
+                "remaining_products": 53,
                 "color": "Red",
                 "img": [
                     {
@@ -11033,7 +11033,7 @@
                 "name": "Purple",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 34,
+                "remaining_products": 36,
                 "color": "Purple",
                 "img": [
                     {
@@ -11082,7 +11082,7 @@
                 "name": "Silver",
                 "weight": 46.039588,
                 "price": 279.99,
-                "remaining_products": 63,
+                "remaining_products": 98,
                 "color": "Silver",
                 "img": [
                     {
@@ -11300,7 +11300,7 @@
                 "name": "Silver",
                 "weight": 18.5065536,
                 "price": 119.99,
-                "remaining_products": 40,
+                "remaining_products": 75,
                 "color": "Silver",
                 "img": [
                     {
@@ -11345,7 +11345,7 @@
                 "name": "Z-Black",
                 "weight": 18.5065536,
                 "price": 99.99,
-                "remaining_products": 64,
+                "remaining_products": 62,
                 "color": "Black",
                 "img": [
                     {
@@ -11382,7 +11382,7 @@
                 "name": "Z-White",
                 "weight": 18.5065536,
                 "price": 99.99,
-                "remaining_products": 97,
+                "remaining_products": 68,
                 "color": "White",
                 "img": [
                     {
@@ -11419,7 +11419,7 @@
                 "name": "Black",
                 "weight": 18.5065536,
                 "price": 119.99,
-                "remaining_products": 5,
+                "remaining_products": 41,
                 "color": "Black",
                 "img": [
                     {
@@ -11464,7 +11464,7 @@
                 "name": "Z-Blue",
                 "weight": 18.5065536,
                 "price": 99.99,
-                "remaining_products": 80,
+                "remaining_products": 99,
                 "color": "Blue",
                 "img": [
                     {
@@ -11654,7 +11654,7 @@
                 "name": "Item 68 Pounds 299.99",
                 "weight": "68 Pounds",
                 "price": 299.99,
-                "remaining_products": 87,
+                "remaining_products": 59,
                 "color": "Gray",
                 "img": [
                     {
@@ -11883,7 +11883,7 @@
                 "name": "Red",
                 "weight": 22.5,
                 "price": 279.99,
-                "remaining_products": 66,
+                "remaining_products": 95,
                 "color": "Red",
                 "img": [
                     {
@@ -11924,7 +11924,7 @@
                 "name": "Black",
                 "weight": 22.5,
                 "price": 279.99,
-                "remaining_products": 10,
+                "remaining_products": 33,
                 "color": "Black",
                 "img": [
                     {
@@ -11973,7 +11973,7 @@
                 "name": "Blue",
                 "weight": 22.5,
                 "price": 279.99,
-                "remaining_products": 32,
+                "remaining_products": 91,
                 "color": "Blue",
                 "img": [
                     {
@@ -12187,7 +12187,7 @@
                 "name": "Item 38 Kilograms 499.99",
                 "weight": "38 Kilograms",
                 "price": 499.99,
-                "remaining_products": 73,
+                "remaining_products": 26,
                 "color": "Black, Grey",
                 "img": [
                     {
@@ -12409,7 +12409,7 @@
                 "name": "Auto Incline",
                 "weight": 49.9858384,
                 "price": 539.97,
-                "remaining_products": 26,
+                "remaining_products": 79,
                 "color": "Black",
                 "img": [
                     {
@@ -12450,7 +12450,7 @@
                 "name": "Slim",
                 "weight": 49.9858384,
                 "price": 539.97,
-                "remaining_products": 43,
+                "remaining_products": 30,
                 "color": "Black",
                 "img": [
                     {
@@ -12671,7 +12671,7 @@
                 "name": "NordicTrack Commercial X22i Incline Treadmill",
                 "weight": 209.559504,
                 "price": 3199,
-                "remaining_products": 97,
+                "remaining_products": 98,
                 "color": "Black",
                 "img": [
                     {
@@ -12724,7 +12724,7 @@
                 "name": "NordicTrack Commercial X32i Incline Treadmill",
                 "weight": 209.559504,
                 "price": 3799,
-                "remaining_products": 10,
+                "remaining_products": 87,
                 "color": "Black",
                 "img": [
                     {
@@ -12950,7 +12950,7 @@
                 "name": "Manual",
                 "weight": 22.23,
                 "price": 119.99,
-                "remaining_products": 19,
+                "remaining_products": 49,
                 "color": "Classic",
                 "img": [
                     {
@@ -12991,7 +12991,7 @@
                 "name": "Smart",
                 "weight": 22.23,
                 "price": 119.99,
-                "remaining_products": 83,
+                "remaining_products": 26,
                 "color": "Classic",
                 "img": [
                     {
@@ -13028,7 +13028,7 @@
                 "name": "Smart Manual",
                 "weight": 22.23,
                 "price": 119.99,
-                "remaining_products": 92,
+                "remaining_products": 10,
                 "color": "Classic",
                 "img": [
                     {
@@ -13215,7 +13215,7 @@
                 "name": "Item 77 Pounds 289.99",
                 "weight": "77 Pounds",
                 "price": 289.99,
-                "remaining_products": 77,
+                "remaining_products": 53,
                 "color": "Manual Inclne",
                 "img": [
                     {
@@ -13408,7 +13408,7 @@
                 "name": "RF-C5",
                 "weight": 23.586784,
                 "price": 179.99,
-                "remaining_products": 30,
+                "remaining_products": 64,
                 "color": "BlackRed",
                 "img": [
                     {
@@ -13670,7 +13670,7 @@
                 "name": "TM008 Black",
                 "weight": 18.14368,
                 "price": 99.99,
-                "remaining_products": 84,
+                "remaining_products": 37,
                 "color": "Black",
                 "img": [
                     {
@@ -13711,7 +13711,7 @@
                 "name": "TM008 Gray",
                 "weight": 18.14368,
                 "price": 99.99,
-                "remaining_products": 37,
+                "remaining_products": 36,
                 "color": "Gray",
                 "img": [
                     {
@@ -13752,7 +13752,7 @@
                 "name": "TM008 Classic Black",
                 "weight": 18.14368,
                 "price": 99.99,
-                "remaining_products": 25,
+                "remaining_products": 92,
                 "color": "Black",
                 "img": [
                     {
@@ -13876,7 +13876,7 @@
                 "name": "2 in 1 Massage Walking Pad BLACK",
                 "weight": 15.195332,
                 "price": 179.99,
-                "remaining_products": 52,
+                "remaining_products": 86,
                 "color": "Black",
                 "img": [
                     {
@@ -13921,7 +13921,7 @@
                 "name": "Manual Incline Black",
                 "weight": 15.195332,
                 "price": 126.99,
-                "remaining_products": 11,
+                "remaining_products": 94,
                 "color": "Black",
                 "img": [
                     {
@@ -13970,7 +13970,7 @@
                 "name": "Manual Incline Orange",
                 "weight": 15.195332,
                 "price": 139.99,
-                "remaining_products": 70,
+                "remaining_products": 39,
                 "color": "Orange",
                 "img": [
                     {
@@ -14200,7 +14200,7 @@
                 "name": "Premium Smart",
                 "weight": 46.719976,
                 "price": 454.3,
-                "remaining_products": 7,
+                "remaining_products": 20,
                 "color": "Gray",
                 "img": [
                     {
@@ -14249,7 +14249,7 @@
                 "name": "Smart",
                 "weight": 46.719976,
                 "price": 449.99,
-                "remaining_products": 27,
+                "remaining_products": 23,
                 "color": "Gray",
                 "img": [
                     {
@@ -14286,7 +14286,7 @@
                 "name": "Classic",
                 "weight": 46.719976,
                 "price": 347.55,
-                "remaining_products": 11,
+                "remaining_products": 44,
                 "color": "Gray",
                 "img": [
                     {
@@ -14519,7 +14519,7 @@
                 "name": "Item 37.5 Pounds 119.99",
                 "weight": "37.5 Pounds",
                 "price": 119.99,
-                "remaining_products": 54,
+                "remaining_products": 11,
                 "color": "Black",
                 "img": [
                     {
@@ -14684,7 +14684,7 @@
                 "name": "Item 110 Pounds 699",
                 "weight": "110 Pounds",
                 "price": 699,
-                "remaining_products": 69,
+                "remaining_products": 59,
                 "color": "Black",
                 "img": [
                     {
@@ -14893,7 +14893,7 @@
                 "name": "White",
                 "weight": 31.524644,
                 "price": 239.99,
-                "remaining_products": 24,
+                "remaining_products": 82,
                 "color": "White",
                 "img": [
                     {
@@ -14942,7 +14942,7 @@
                 "name": "Champagne",
                 "weight": 31.524644,
                 "price": 239.99,
-                "remaining_products": 37,
+                "remaining_products": 63,
                 "color": "Champagne",
                 "img": [
                     {
@@ -14991,7 +14991,7 @@
                 "name": "Black",
                 "weight": 31.524644,
                 "price": 239.99,
-                "remaining_products": 15,
+                "remaining_products": 11,
                 "color": "Black",
                 "img": [
                     {
@@ -15044,7 +15044,7 @@
                 "name": "Classic",
                 "weight": 31.524644,
                 "price": 239.99,
-                "remaining_products": 67,
+                "remaining_products": 69,
                 "color": "Champagne",
                 "img": [
                     {
@@ -15089,7 +15089,7 @@
                 "name": "Red",
                 "weight": 31.524644,
                 "price": 239.99,
-                "remaining_products": 46,
+                "remaining_products": 98,
                 "color": "Red",
                 "img": [
                     {
@@ -15138,7 +15138,7 @@
                 "name": "Black + Natural",
                 "weight": 31.524644,
                 "price": 239.99,
-                "remaining_products": 12,
+                "remaining_products": 74,
                 "color": "Black",
                 "img": [
                     {
@@ -15187,7 +15187,7 @@
                 "name": "Dark Green",
                 "weight": 31.524644,
                 "price": 239.99,
-                "remaining_products": 84,
+                "remaining_products": 72,
                 "color": "Green, Dark Green",
                 "img": [
                     {
@@ -15389,7 +15389,7 @@
                 "name": "Classic with APP",
                 "weight": 16.782904,
                 "price": 110.5,
-                "remaining_products": 73,
+                "remaining_products": 63,
                 "color": "Balck Red",
                 "img": [
                     {
@@ -15434,7 +15434,7 @@
                 "name": "Incline White with APP",
                 "weight": 16.782904,
                 "price": 110.5,
-                "remaining_products": 4,
+                "remaining_products": 70,
                 "color": "White",
                 "img": [
                     {
@@ -15479,7 +15479,7 @@
                 "name": "Incline Orange with APP",
                 "weight": 16.782904,
                 "price": 110.5,
-                "remaining_products": 67,
+                "remaining_products": 60,
                 "color": "Orange",
                 "img": [
                     {
@@ -15524,7 +15524,7 @@
                 "name": "Classic",
                 "weight": 16.782904,
                 "price": 110.5,
-                "remaining_products": 47,
+                "remaining_products": 64,
                 "color": "Balck Red",
                 "img": [
                     {
@@ -15749,7 +15749,7 @@
                 "name": "Item 50 Pounds 199.99",
                 "weight": "50 Pounds",
                 "price": 199.99,
-                "remaining_products": 81,
+                "remaining_products": 87,
                 "color": "gray;black",
                 "img": [
                     {
@@ -15955,7 +15955,7 @@
                 "name": "Premium Smart",
                 "weight": 76.0220192,
                 "price": 1153.99,
-                "remaining_products": 75,
+                "remaining_products": 58,
                 "color": "Black",
                 "img": [
                     {
@@ -15996,7 +15996,7 @@
                 "name": "Advance Smart",
                 "weight": 76.0220192,
                 "price": 799.99,
-                "remaining_products": 7,
+                "remaining_products": 63,
                 "color": "Black",
                 "img": [
                     {
@@ -16198,7 +16198,7 @@
                 "name": "Black",
                 "weight": 47.0,
                 "price": 449.99,
-                "remaining_products": 10,
+                "remaining_products": 72,
                 "color": "Black",
                 "img": [
                     {
@@ -16211,7 +16211,7 @@
                 "name": "Grey",
                 "weight": 47.0,
                 "price": 449.99,
-                "remaining_products": 28,
+                "remaining_products": 26,
                 "color": "Grey",
                 "img": [
                     {
@@ -16361,7 +16361,7 @@
                 "name": "Black",
                 "weight": 16.782904,
                 "price": 149.99,
-                "remaining_products": 50,
+                "remaining_products": 5,
                 "color": "Black",
                 "img": [
                     {
@@ -16398,7 +16398,7 @@
                 "name": "Silver",
                 "weight": 16.782904,
                 "price": 149.99,
-                "remaining_products": 30,
+                "remaining_products": 2,
                 "color": "Silver",
                 "img": [
                     {
@@ -16644,7 +16644,7 @@
                 "name": "SLFTRD213.5 BLACK",
                 "weight": 30.163868,
                 "price": 230.84,
-                "remaining_products": 11,
+                "remaining_products": 15,
                 "color": "Black",
                 "img": [
                     {
@@ -16689,7 +16689,7 @@
                 "name": "SLFTRD20 BLACK",
                 "weight": 30.163868,
                 "price": 215.99,
-                "remaining_products": 45,
+                "remaining_products": 58,
                 "color": "Black",
                 "img": [
                     {
@@ -16734,7 +16734,7 @@
                 "name": "SLFTRD18 BLACK",
                 "weight": 30.163868,
                 "price": 259.9,
-                "remaining_products": 10,
+                "remaining_products": 68,
                 "color": "Black",
                 "img": [
                     {
@@ -16775,7 +16775,7 @@
                 "name": "SLFTRD80 BLACK",
                 "weight": 30.163868,
                 "price": 224.99,
-                "remaining_products": 63,
+                "remaining_products": 101,
                 "color": "Black",
                 "img": [
                     {

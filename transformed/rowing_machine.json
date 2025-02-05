@@ -145,7 +145,7 @@
                 "name": "Item 250 Pounds 2995",
                 "weight": "250 Pounds",
                 "price": 2995,
-                "remaining_products": 53,
+                "remaining_products": 101,
                 "color": "Black",
                 "img": [
                     {
@@ -294,7 +294,7 @@
                 "name": "Hi-Rise",
                 "weight": 31.75144,
                 "price": 1228,
-                "remaining_products": 54,
+                "remaining_products": 46,
                 "color": "Hi-Rise",
                 "img": [
                     {
@@ -323,7 +323,7 @@
                 "name": "Lo-Rise",
                 "weight": 31.75144,
                 "price": 1129,
-                "remaining_products": 70,
+                "remaining_products": 51,
                 "color": "Hi-Rise",
                 "img": [
                     {
@@ -488,7 +488,7 @@
                 "name": "Black / Red",
                 "weight": 26.308336,
                 "price": 579.99,
-                "remaining_products": 80,
+                "remaining_products": 59,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -537,7 +537,7 @@
                 "name": "black, blue",
                 "weight": 26.308336,
                 "price": 579.99,
-                "remaining_products": 60,
+                "remaining_products": 96,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -706,7 +706,7 @@
                 "name": "Item 145 Pounds 1695",
                 "weight": "145 Pounds",
                 "price": 1695,
-                "remaining_products": 34,
+                "remaining_products": 58,
                 "color": "Black/ Silver",
                 "img": [
                     {
@@ -861,7 +861,7 @@
                 "name": "Q1S Pro - Electromagnetic 1.0 (2023)",
                 "weight": 22.6796,
                 "price": 329.99,
-                "remaining_products": 47,
+                "remaining_products": 73,
                 "color": "Smart Electromagnetic",
                 "img": [
                     {
@@ -906,7 +906,7 @@
                 "name": "Q1S Pro - Electromagnetic 2.0 (2024)",
                 "weight": 22.6796,
                 "price": 329.99,
-                "remaining_products": 57,
+                "remaining_products": 94,
                 "color": "Smart Electromagnetic",
                 "img": [
                     {
@@ -955,7 +955,7 @@
                 "name": "Q1SW - Magnetic Silent",
                 "weight": 22.6796,
                 "price": 329.99,
-                "remaining_products": 13,
+                "remaining_products": 83,
                 "color": "Smart Electromagnetic",
                 "img": [
                     {
@@ -1004,7 +1004,7 @@
                 "name": "Q1S - Magnetic",
                 "weight": 22.6796,
                 "price": 329.99,
-                "remaining_products": 89,
+                "remaining_products": 35,
                 "color": "Smart Electromagnetic",
                 "img": [
                     {
@@ -1053,7 +1053,7 @@
                 "name": "R06 - Water & Magnetic Dual Resistance",
                 "weight": 22.6796,
                 "price": 329.99,
-                "remaining_products": 4,
+                "remaining_products": 37,
                 "color": "Tan",
                 "img": [
                     {
@@ -1203,7 +1203,7 @@
                 "name": "Item 23 Pounds 189.99",
                 "weight": "23 Pounds",
                 "price": 189.99,
-                "remaining_products": 59,
+                "remaining_products": 7,
                 "color": "Black+Red",
                 "img": [
                     {
@@ -1352,7 +1352,7 @@
                 "name": "Forest",
                 "weight": 46.266384,
                 "price": 1495,
-                "remaining_products": 90,
+                "remaining_products": 28,
                 "color": "Pirate Black",
                 "img": [
                     {
@@ -1397,7 +1397,7 @@
                 "name": "Sunset",
                 "weight": 46.266384,
                 "price": 1495,
-                "remaining_products": 64,
+                "remaining_products": 1,
                 "color": "Pirate Black",
                 "img": [
                     {
@@ -1442,7 +1442,7 @@
                 "name": "Pirate Black",
                 "weight": 46.266384,
                 "price": 1495,
-                "remaining_products": 28,
+                "remaining_products": 5,
                 "color": "Black",
                 "img": [
                     {
@@ -1495,7 +1495,7 @@
                 "name": "Sunrise",
                 "weight": 46.266384,
                 "price": 1495,
-                "remaining_products": 60,
+                "remaining_products": 56,
                 "color": "Pirate Black",
                 "img": [
                     {
@@ -1540,7 +1540,7 @@
                 "name": "River",
                 "weight": 46.266384,
                 "price": 1495,
-                "remaining_products": 8,
+                "remaining_products": 50,
                 "color": "Pirate Black",
                 "img": [
                     {
@@ -1702,7 +1702,7 @@
                 "name": "Item 63.27 Pounds 169.99",
                 "weight": "63.27 Pounds",
                 "price": 169.99,
-                "remaining_products": 81,
+                "remaining_products": 15,
                 "color": "Black+Red",
                 "img": [
                     {
@@ -1914,7 +1914,7 @@
                 "name": "Item 280 Pounds 2899",
                 "weight": "280 Pounds",
                 "price": 2899,
-                "remaining_products": 32,
+                "remaining_products": 19,
                 "color": "Black Frame/Charcoal",
                 "img": [
                     {
@@ -2044,7 +2044,7 @@
                 "name": "Oak Pro",
                 "weight": 29.937072,
                 "price": 469.99,
-                "remaining_products": 3,
+                "remaining_products": 37,
                 "color": "Dark Rower Machine",
                 "img": [
                     {
@@ -2089,7 +2089,7 @@
                 "name": "Foldable Rower Machine",
                 "weight": 29.937072,
                 "price": 349.99,
-                "remaining_products": 18,
+                "remaining_products": 0,
                 "color": "Dark Rower Machine",
                 "img": [
                     {
@@ -2138,7 +2138,7 @@
                 "name": "Dark Rower Machine",
                 "weight": 29.937072,
                 "price": 299.99,
-                "remaining_products": 89,
+                "remaining_products": 22,
                 "color": "Dark Rower Machine",
                 "img": [
                     {
@@ -2183,7 +2183,7 @@
                 "name": "Rower Footpad Adjustable",
                 "weight": 29.937072,
                 "price": 699.99,
-                "remaining_products": 41,
+                "remaining_products": 31,
                 "color": "Dark Rower Machine",
                 "img": [
                     {
@@ -2334,7 +2334,7 @@
                 "name": "Item 28 Pounds 139",
                 "weight": "28 Pounds",
                 "price": 139,
-                "remaining_products": 36,
+                "remaining_products": 37,
                 "color": "silver",
                 "img": [
                     {
@@ -2477,7 +2477,7 @@
                 "name": "Item 36.25 Kilograms 469.99",
                 "weight": "36.25 Kilograms",
                 "price": 469.99,
-                "remaining_products": 7,
+                "remaining_products": 48,
                 "color": "Wood",
                 "img": [
                     {
@@ -2617,7 +2617,7 @@
                 "name": "Item 25 Kilograms 179.99",
                 "weight": "25 Kilograms",
                 "price": 179.99,
-                "remaining_products": 39,
+                "remaining_products": 98,
                 "color": "Black",
                 "img": [
                     {
@@ -2774,7 +2774,7 @@
                 "name": "Item 25.4 Pounds 92.21",
                 "weight": "25.4 Pounds",
                 "price": 92.21,
-                "remaining_products": 40,
+                "remaining_products": 11,
                 "color": "Black",
                 "img": [
                     {
@@ -2922,7 +2922,7 @@
                 "name": "Item 56 Pounds 99.99",
                 "weight": "56 Pounds",
                 "price": 99.99,
-                "remaining_products": 29,
+                "remaining_products": 78,
                 "color": "Black/Gray",
                 "img": [
                     {
@@ -3075,7 +3075,7 @@
                 "name": "Item 98 Pounds 999.99",
                 "weight": "98 Pounds",
                 "price": 999.99,
-                "remaining_products": 66,
+                "remaining_products": 33,
                 "color": "Oak",
                 "img": [
                     {
@@ -3253,7 +3253,7 @@
                 "name": "Smart Magnetic Fan",
                 "weight": 29.1206064,
                 "price": 399.98,
-                "remaining_products": 9,
+                "remaining_products": 52,
                 "color": "Steel",
                 "img": [
                     {
@@ -3314,7 +3314,7 @@
                 "name": "Magnetic",
                 "weight": 29.1206064,
                 "price": 149.49,
-                "remaining_products": 89,
+                "remaining_products": 27,
                 "color": "Steel",
                 "img": [
                     {
@@ -3479,7 +3479,7 @@
                 "name": "Item 37 Pounds 169.99",
                 "weight": "37 Pounds",
                 "price": 169.99,
-                "remaining_products": 31,
+                "remaining_products": 80,
                 "color": "Blue",
                 "img": [
                     {
@@ -3614,7 +3614,7 @@
                 "name": "Item 68 Pounds 189.99",
                 "weight": "68 Pounds",
                 "price": 189.99,
-                "remaining_products": 101,
+                "remaining_products": 13,
                 "color": "Water Rower",
                 "img": [
                     {
@@ -3751,7 +3751,7 @@
                 "name": "Magnetic Rower",
                 "weight": 17.690088,
                 "price": 159.99,
-                "remaining_products": 52,
+                "remaining_products": 36,
                 "color": "black",
                 "img": [
                     {
@@ -3788,7 +3788,7 @@
                 "name": "Water Rowing Machine",
                 "weight": 17.690088,
                 "price": 399.99,
-                "remaining_products": 50,
+                "remaining_products": 96,
                 "color": "black",
                 "img": [
                     {
@@ -3928,7 +3928,7 @@
                 "name": "Item 51.7 Kilograms 1321.08",
                 "weight": "51.7 Kilograms",
                 "price": 1321.08,
-                "remaining_products": 20,
+                "remaining_products": 38,
                 "color": "Black",
                 "img": [
                     {
@@ -4072,7 +4072,7 @@
                 "name": "WR88- Water Rowing",
                 "weight": 21.772416,
                 "price": 179,
-                "remaining_products": 53,
+                "remaining_products": 87,
                 "color": "Black",
                 "img": [
                     {
@@ -4109,7 +4109,7 @@
                 "name": "R10 rowing machine black no bluetooth",
                 "weight": 21.772416,
                 "price": 179,
-                "remaining_products": 40,
+                "remaining_products": 49,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -4187,7 +4187,7 @@
                 "name": "R10W - Magnetic",
                 "weight": 21.772416,
                 "price": 179,
-                "remaining_products": 26,
+                "remaining_products": 25,
                 "color": "Black",
                 "img": [
                     {
@@ -4224,7 +4224,7 @@
                 "name": "WR88- Mag&Water",
                 "weight": 21.772416,
                 "price": 179,
-                "remaining_products": 39,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -4373,7 +4373,7 @@
                 "name": "Black/Red",
                 "weight": 26.761928,
                 "price": 229.99,
-                "remaining_products": 44,
+                "remaining_products": 35,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -4450,7 +4450,7 @@
                 "name": "White/Red",
                 "weight": 26.761928,
                 "price": 229.99,
-                "remaining_products": 46,
+                "remaining_products": 1,
                 "color": "Red, White",
                 "img": [
                     {
@@ -4595,7 +4595,7 @@
                 "name": "Item 30 Pounds 135.99",
                 "weight": "30 Pounds",
                 "price": 135.99,
-                "remaining_products": 77,
+                "remaining_products": 62,
                 "color": "Dark Grey",
                 "img": [
                     {
@@ -4753,7 +4753,7 @@
                 "name": "Item 24 Kilograms 499.99",
                 "weight": "24 Kilograms",
                 "price": 499.99,
-                "remaining_products": 7,
+                "remaining_products": 72,
                 "color": "Oak",
                 "img": [
                     {
@@ -4903,7 +4903,7 @@
                 "name": "Black",
                 "weight": 19.5,
                 "price": 129.99,
-                "remaining_products": 38,
+                "remaining_products": 1,
                 "color": "Black",
                 "img": [
                     {
@@ -4952,7 +4952,7 @@
                 "name": "Gray",
                 "weight": 19.5,
                 "price": 129.99,
-                "remaining_products": 99,
+                "remaining_products": 87,
                 "color": "Gray",
                 "img": [
                     {
@@ -5138,7 +5138,7 @@
                 "name": "Item 34.5 Pounds 105.99",
                 "weight": "34.5 Pounds",
                 "price": 105.99,
-                "remaining_products": 95,
+                "remaining_products": 7,
                 "color": "Gray",
                 "img": [
                     {
@@ -5267,7 +5267,7 @@
                 "name": "Item 62 Pounds 149.99",
                 "weight": "62 Pounds",
                 "price": 149.99,
-                "remaining_products": 44,
+                "remaining_products": 80,
                 "color": "Grey, Green",
                 "img": [
                     {
@@ -5408,7 +5408,7 @@
                 "name": "Orange",
                 "weight": 10.496118880000001,
                 "price": 95.99,
-                "remaining_products": 49,
+                "remaining_products": 32,
                 "color": "Orange",
                 "img": [
                     {
@@ -5449,7 +5449,7 @@
                 "name": "Pink",
                 "weight": 10.496118880000001,
                 "price": 95.99,
-                "remaining_products": 90,
+                "remaining_products": 86,
                 "color": "Pink",
                 "img": [
                     {
@@ -5490,7 +5490,7 @@
                 "name": "Red",
                 "weight": 10.496118880000001,
                 "price": 95.99,
-                "remaining_products": 20,
+                "remaining_products": 12,
                 "color": "Red",
                 "img": [
                     {
@@ -5650,7 +5650,7 @@
                 "name": "Item 72 Pounds 479.99",
                 "weight": "72 Pounds",
                 "price": 479.99,
-                "remaining_products": 26,
+                "remaining_products": 89,
                 "color": "Black-BW5 Air Magnetic Rowing Machines for Home Commercial Rower Machine",
                 "img": [
                     {
@@ -5811,7 +5811,7 @@
                 "name": "8 Levels - Black/Red",
                 "weight": 28.122704,
                 "price": 379,
-                "remaining_products": 21,
+                "remaining_products": 15,
                 "color": "Red, Black",
                 "img": [
                     {
@@ -5856,7 +5856,7 @@
                 "name": "10 Levels - Black/Grey",
                 "weight": 28.122704,
                 "price": 617.89,
-                "remaining_products": 30,
+                "remaining_products": 47,
                 "color": "Black",
                 "img": [
                     {
@@ -6021,7 +6021,7 @@
                 "name": "Power10 Max",
                 "weight": 81.65,
                 "price": 849,
-                "remaining_products": 29,
+                "remaining_products": 96,
                 "color": "Titanium/Black",
                 "img": [
                     {
@@ -6058,7 +6058,7 @@
                 "name": "Power10",
                 "weight": 81.65,
                 "price": 849,
-                "remaining_products": 6,
+                "remaining_products": 30,
                 "color": "Titanium/Black",
                 "img": [
                     {
@@ -6223,7 +6223,7 @@
                 "name": "Item 110 Pounds 699",
                 "weight": "110 Pounds",
                 "price": 699,
-                "remaining_products": 45,
+                "remaining_products": 61,
                 "color": "Black",
                 "img": [
                     {
@@ -6379,7 +6379,7 @@
                 "name": "Item 109 Pounds 891.79",
                 "weight": "109 Pounds",
                 "price": 891.79,
-                "remaining_products": 9,
+                "remaining_products": 55,
                 "color": "Black",
                 "img": [
                     {
@@ -6553,7 +6553,7 @@
                 "name": "02-Blue Smart Rower Black",
                 "weight": 34.7905064,
                 "price": 474.98,
-                "remaining_products": 82,
+                "remaining_products": 48,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -6602,7 +6602,7 @@
                 "name": "03-Green Smart Rower Black",
                 "weight": 34.7905064,
                 "price": 499.99,
-                "remaining_products": 71,
+                "remaining_products": 66,
                 "color": "Green, Black",
                 "img": [
                     {
@@ -6651,7 +6651,7 @@
                 "name": "00-Premium Classic Rower Black",
                 "weight": 34.7905064,
                 "price": 398.88,
-                "remaining_products": 70,
+                "remaining_products": 0,
                 "color": "Black",
                 "img": [
                     {
@@ -6700,7 +6700,7 @@
                 "name": "01-Black Smart Rower Black",
                 "weight": 34.7905064,
                 "price": 499.99,
-                "remaining_products": 1,
+                "remaining_products": 20,
                 "color": "Black",
                 "img": [
                     {
@@ -6749,7 +6749,7 @@
                 "name": "04-Smart Wooden Rower Black",
                 "weight": 34.7905064,
                 "price": 454.98,
-                "remaining_products": 90,
+                "remaining_products": 38,
                 "color": "Black",
                 "img": [
                     {
@@ -6892,7 +6892,7 @@
                 "name": "Blue",
                 "weight": 15.648924,
                 "price": 179.99,
-                "remaining_products": 32,
+                "remaining_products": 95,
                 "color": "Blue",
                 "img": [
                     {
@@ -6941,7 +6941,7 @@
                 "name": "Orange",
                 "weight": 15.648924,
                 "price": 179.99,
-                "remaining_products": 45,
+                "remaining_products": 57,
                 "color": "Orange",
                 "img": [
                     {
@@ -7122,7 +7122,7 @@
                 "name": "Item 52 Pounds 173.9",
                 "weight": "52 Pounds",
                 "price": 173.9,
-                "remaining_products": 22,
+                "remaining_products": 6,
                 "color": "Black",
                 "img": [
                     {
@@ -7284,7 +7284,7 @@
                 "name": "Smart Quite Rail",
                 "weight": 27.6237528,
                 "price": 264.36,
-                "remaining_products": 35,
+                "remaining_products": 40,
                 "color": "Grey",
                 "img": [
                     {
@@ -7321,7 +7321,7 @@
                 "name": "Smart Water Rower",
                 "weight": 27.6237528,
                 "price": 264.36,
-                "remaining_products": 70,
+                "remaining_products": 15,
                 "color": "Grey",
                 "img": [
                     {
@@ -7362,7 +7362,7 @@
                 "name": "Smart Long Rail",
                 "weight": 27.6237528,
                 "price": 264.36,
-                "remaining_products": 99,
+                "remaining_products": 13,
                 "color": "Grey",
                 "img": [
                     {
@@ -7423,7 +7423,7 @@
                 "name": "Classic Long Rail",
                 "weight": 27.6237528,
                 "price": 264.36,
-                "remaining_products": 81,
+                "remaining_products": 83,
                 "color": "Grey",
                 "img": [
                     {
@@ -7572,7 +7572,7 @@
                 "name": "Item 26 Kilograms 799.99",
                 "weight": "26 Kilograms",
                 "price": 799.99,
-                "remaining_products": 5,
+                "remaining_products": 25,
                 "color": "BLACK",
                 "img": [
                     {
@@ -7758,7 +7758,7 @@
                 "name": "Classic",
                 "weight": 10.1604608,
                 "price": 119.99,
-                "remaining_products": 71,
+                "remaining_products": 33,
                 "color": "Black",
                 "img": [
                     {
@@ -7799,7 +7799,7 @@
                 "name": "Smart",
                 "weight": 10.1604608,
                 "price": 119.99,
-                "remaining_products": 62,
+                "remaining_products": 26,
                 "color": "Black",
                 "img": [
                     {
@@ -7952,7 +7952,7 @@
                 "name": "Item 25.4 Pounds 85.99",
                 "weight": "25.4 Pounds",
                 "price": 85.99,
-                "remaining_products": 23,
+                "remaining_products": 71,
                 "color": "Black",
                 "img": [
                     {
@@ -8099,7 +8099,7 @@
                 "name": "Item 105 Pounds 1299.98",
                 "weight": "105 Pounds",
                 "price": 1299.98,
-                "remaining_products": 55,
+                "remaining_products": 96,
                 "color": "Black",
                 "img": [
                     {
@@ -8264,7 +8264,7 @@
                 "name": "Item 200 Pounds 2139",
                 "weight": "200 Pounds",
                 "price": 2139,
-                "remaining_products": 65,
+                "remaining_products": 4,
                 "color": "Silver",
                 "img": [
                     {
@@ -8406,7 +8406,7 @@
                 "name": "Item 114 Pounds 2199",
                 "weight": "114 Pounds",
                 "price": 2199,
-                "remaining_products": 99,
+                "remaining_products": 1,
                 "color": "Black",
                 "img": [
                     {
@@ -8585,7 +8585,7 @@
                 "name": "Smart Black",
                 "weight": 37.01,
                 "price": 373.55,
-                "remaining_products": 56,
+                "remaining_products": 78,
                 "color": "Black",
                 "img": [
                     {
@@ -8622,7 +8622,7 @@
                 "name": "Classic Black",
                 "weight": 37.01,
                 "price": 373.55,
-                "remaining_products": 91,
+                "remaining_products": 62,
                 "color": "Black",
                 "img": [
                     {
@@ -8671,7 +8671,7 @@
                 "name": "Advance Smart Black",
                 "weight": 37.01,
                 "price": 373.55,
-                "remaining_products": 94,
+                "remaining_products": 85,
                 "color": "Black",
                 "img": [
                     {
@@ -8845,7 +8845,7 @@
                 "name": "Row S",
                 "weight": 55.791816,
                 "price": 1299.99,
-                "remaining_products": 28,
+                "remaining_products": 10,
                 "color": "Black",
                 "img": [
                     {
@@ -8894,7 +8894,7 @@
                 "name": "Row",
                 "weight": 55.791816,
                 "price": 1299.99,
-                "remaining_products": 59,
+                "remaining_products": 84,
                 "color": "Black",
                 "img": [
                     {
@@ -9087,7 +9087,7 @@
                 "name": "Smart",
                 "weight": 22.4981632,
                 "price": 219.99,
-                "remaining_products": 30,
+                "remaining_products": 93,
                 "color": "Gray",
                 "img": [
                     {
@@ -9136,7 +9136,7 @@
                 "name": "Classic",
                 "weight": 22.4981632,
                 "price": 147.24,
-                "remaining_products": 75,
+                "remaining_products": 27,
                 "color": "Gray",
                 "img": [
                     {
@@ -9181,7 +9181,7 @@
                 "name": "Dual Rail Premium Smart",
                 "weight": 22.4981632,
                 "price": 399.99,
-                "remaining_products": 66,
+                "remaining_products": 40,
                 "color": "Gray",
                 "img": [
                     {
@@ -9384,7 +9384,7 @@
                 "name": "Gray",
                 "weight": 43.0,
                 "price": 699.99,
-                "remaining_products": 72,
+                "remaining_products": 32,
                 "color": "Gray",
                 "img": [
                     {
@@ -9541,7 +9541,7 @@
                 "name": "Item 120 Pounds 1199.99",
                 "weight": "120 Pounds",
                 "price": 1199.99,
-                "remaining_products": 72,
+                "remaining_products": 5,
                 "color": "Black",
                 "img": [
                     {
@@ -9690,7 +9690,7 @@
                 "name": "Item 13 Kilograms 499",
                 "weight": "13 Kilograms",
                 "price": 499,
-                "remaining_products": 72,
+                "remaining_products": 14,
                 "color": "Black",
                 "img": [
                     {
@@ -9851,7 +9851,7 @@
                 "name": "Item 37 Kilograms 799",
                 "weight": "37 Kilograms",
                 "price": 799,
-                "remaining_products": 100,
+                "remaining_products": 6,
                 "color": "black",
                 "img": [
                     {
@@ -9976,7 +9976,7 @@
                 "name": "Item 23 Pounds 179.99",
                 "weight": "23 Pounds",
                 "price": 179.99,
-                "remaining_products": 28,
+                "remaining_products": 83,
                 "color": "Black and Red",
                 "img": [
                     {
@@ -10131,7 +10131,7 @@
                 "name": "Item 26 Kilograms 1289.99",
                 "weight": "26 Kilograms",
                 "price": 1289.99,
-                "remaining_products": 98,
+                "remaining_products": 61,
                 "color": "Gray",
                 "img": [
                     {
@@ -10280,7 +10280,7 @@
                 "name": "Item 50.7 Pounds 179.99",
                 "weight": "50.7 Pounds",
                 "price": 179.99,
-                "remaining_products": 10,
+                "remaining_products": 40,
                 "color": "Black+Red",
                 "img": [
                     {
@@ -10427,7 +10427,7 @@
                 "name": "WR88- Water Rowing",
                 "weight": 21.772416,
                 "price": 229.99,
-                "remaining_products": 39,
+                "remaining_products": 80,
                 "color": "black",
                 "img": [
                     {
@@ -10464,7 +10464,7 @@
                 "name": "R10 rowing machine black no bluetooth",
                 "weight": 21.772416,
                 "price": 229.99,
-                "remaining_products": 86,
+                "remaining_products": 27,
                 "color": "Blue, Black",
                 "img": [
                     {
@@ -10501,7 +10501,7 @@
                 "name": "R10 - Magnetic",
                 "weight": 21.772416,
                 "price": 229.99,
-                "remaining_products": 65,
+                "remaining_products": 61,
                 "color": "black",
                 "img": [
                     {
@@ -10542,7 +10542,7 @@
                 "name": "R10W - Magnetic",
                 "weight": 21.772416,
                 "price": 229.99,
-                "remaining_products": 32,
+                "remaining_products": 50,
                 "color": "black",
                 "img": [
                     {
@@ -10579,7 +10579,7 @@
                 "name": "WR88- Mag&Water",
                 "weight": 21.772416,
                 "price": 229.99,
-                "remaining_products": 100,
+                "remaining_products": 10,
                 "color": "black",
                 "img": [
                     {
@@ -10723,7 +10723,7 @@
                 "name": "Item 57 Pounds 369.99",
                 "weight": "57 Pounds",
                 "price": 369.99,
-                "remaining_products": 1,
+                "remaining_products": 59,
                 "color": "Black",
                 "img": [
                     {
@@ -10904,7 +10904,7 @@
                 "name": "Grey",
                 "weight": 11.113004,
                 "price": 91.19,
-                "remaining_products": 79,
+                "remaining_products": 31,
                 "color": "Grey",
                 "img": [
                     {
@@ -10953,7 +10953,7 @@
                 "name": "Green",
                 "weight": 11.113004,
                 "price": 91.19,
-                "remaining_products": 67,
+                "remaining_products": 101,
                 "color": "Green",
                 "img": [
                     {
@@ -11010,7 +11010,7 @@
                 "name": "2 - Pink",
                 "weight": 11.113004,
                 "price": 91.19,
-                "remaining_products": 2,
+                "remaining_products": 28,
                 "color": "Pink",
                 "img": [
                     {
@@ -11180,7 +11180,7 @@
                 "name": "magnetic rower 02",
                 "weight": 23.59,
                 "price": 179.99,
-                "remaining_products": 90,
+                "remaining_products": 75,
                 "color": "black",
                 "img": [
                     {
@@ -11193,7 +11193,7 @@
                 "name": "magnetic rower 03",
                 "weight": 23.59,
                 "price": 179.99,
-                "remaining_products": 26,
+                "remaining_products": 82,
                 "color": "black",
                 "img": [
                     {
@@ -11347,7 +11347,7 @@
                 "name": "PRO SMART",
                 "weight": 17.1457776,
                 "price": 186.98,
-                "remaining_products": 73,
+                "remaining_products": 24,
                 "color": "Silver",
                 "img": [
                     {
@@ -11388,7 +11388,7 @@
                 "name": "SMART Row-N-Ride BIKE",
                 "weight": 17.1457776,
                 "price": 299.99,
-                "remaining_products": 37,
+                "remaining_products": 29,
                 "color": "Silver",
                 "img": [
                     {
@@ -11429,7 +11429,7 @@
                 "name": "PRO",
                 "weight": 17.1457776,
                 "price": 119.19,
-                "remaining_products": 71,
+                "remaining_products": 48,
                 "color": "Silver",
                 "img": [
                     {
@@ -11478,7 +11478,7 @@
                 "name": "SMART",
                 "weight": 17.1457776,
                 "price": 139.99,
-                "remaining_products": 7,
+                "remaining_products": 50,
                 "color": "Silver",
                 "img": [
                     {
@@ -11617,7 +11617,7 @@
                 "name": "MR280-Oak Wood",
                 "weight": 24.0,
                 "price": 499.99,
-                "remaining_products": 88,
+                "remaining_products": 8,
                 "color": "MR280PRO-Tablet Holder",
                 "img": [
                     {
@@ -11662,7 +11662,7 @@
                 "name": "MR280PRO-Tablet Holder",
                 "weight": 24.0,
                 "price": 499.99,
-                "remaining_products": 47,
+                "remaining_products": 55,
                 "color": "MR280PRO-Tablet Holder",
                 "img": [
                     {
@@ -11707,7 +11707,7 @@
                 "name": "MR380-28L Water Tank",
                 "weight": 24.0,
                 "price": 499.99,
-                "remaining_products": 80,
+                "remaining_products": 48,
                 "color": "Tan",
                 "img": [
                     {
@@ -11868,7 +11868,7 @@
                 "name": "Item 71.89 Pounds 239.99",
                 "weight": "71.89 Pounds",
                 "price": 239.99,
-                "remaining_products": 20,
+                "remaining_products": 48,
                 "color": "Black+Orange",
                 "img": [
                     {
@@ -12017,7 +12017,7 @@
                 "name": "Item 20 Pounds 649",
                 "weight": "20 Pounds",
                 "price": 649,
-                "remaining_products": 101,
+                "remaining_products": 47,
                 "color": "black",
                 "img": [
                     {
@@ -12164,7 +12164,7 @@
                 "name": "Item 57 Pounds 1519",
                 "weight": "57 Pounds",
                 "price": 1519,
-                "remaining_products": 6,
+                "remaining_products": 26,
                 "color": "Black",
                 "img": [
                     {
@@ -12342,7 +12342,7 @@
                 "name": "Smart",
                 "weight": 24.0,
                 "price": 399.99,
-                "remaining_products": 23,
+                "remaining_products": 84,
                 "color": "Silver",
                 "img": [
                     {
@@ -12391,7 +12391,7 @@
                 "name": "Classic",
                 "weight": 24.0,
                 "price": 189.99,
-                "remaining_products": 57,
+                "remaining_products": 48,
                 "color": "Silver",
                 "img": [
                     {
@@ -12576,7 +12576,7 @@
                 "name": "Magnetic",
                 "weight": 24.4486088,
                 "price": 189.98,
-                "remaining_products": 77,
+                "remaining_products": 99,
                 "color": "Gray",
                 "img": [
                     {
@@ -12625,7 +12625,7 @@
                 "name": "Smart Air",
                 "weight": 24.4486088,
                 "price": 369.99,
-                "remaining_products": 89,
+                "remaining_products": 90,
                 "color": "Gray",
                 "img": [
                     {
@@ -12814,7 +12814,7 @@
                 "name": "Item 100 Pounds 899",
                 "weight": "100 Pounds",
                 "price": 899,
-                "remaining_products": 21,
+                "remaining_products": 56,
                 "color": "Black",
                 "img": [
                     {
@@ -12960,7 +12960,7 @@
                 "name": "H016-1",
                 "weight": 28.122704,
                 "price": 409.99,
-                "remaining_products": 77,
+                "remaining_products": 91,
                 "color": "H015-3",
                 "img": [
                     {
@@ -13001,7 +13001,7 @@
                 "name": "H015-3",
                 "weight": 28.122704,
                 "price": 399.99,
-                "remaining_products": 47,
+                "remaining_products": 40,
                 "color": "H015-3",
                 "img": [
                     {
@@ -13192,7 +13192,7 @@
                 "name": "Item 53 Kilograms 1149",
                 "weight": "53 Kilograms",
                 "price": 1149,
-                "remaining_products": 1,
+                "remaining_products": 78,
                 "color": "Oak Wood - Vintage Stain",
                 "img": [
                     {
@@ -13315,7 +13315,7 @@
                 "name": "Item 85 Pounds 1559.99",
                 "weight": "85 Pounds",
                 "price": 1559.99,
-                "remaining_products": 14,
+                "remaining_products": 98,
                 "color": "Black",
                 "img": [
                     {
@@ -13463,7 +13463,7 @@
                 "name": "R05 Pro - Foldable Magnetic Rowing",
                 "weight": 19.958047999999998,
                 "price": 229.99,
-                "remaining_products": 54,
+                "remaining_products": 18,
                 "color": "Black/Orange",
                 "img": [
                     {
@@ -13508,7 +13508,7 @@
                 "name": "R10 - Water Rowing",
                 "weight": 19.958047999999998,
                 "price": 279.99,
-                "remaining_products": 97,
+                "remaining_products": 61,
                 "color": "Black/Orange",
                 "img": [
                     {
@@ -13690,7 +13690,7 @@
                 "name": "Item 41 Kilograms 398.99",
                 "weight": "41 Kilograms",
                 "price": 398.99,
-                "remaining_products": 89,
+                "remaining_products": 87,
                 "color": "Black/Yellow",
                 "img": [
                     {
@@ -13811,7 +13811,7 @@
                 "name": "Item 23 Pounds 179.99",
                 "weight": "23 Pounds",
                 "price": 179.99,
-                "remaining_products": 13,
+                "remaining_products": 49,
                 "color": "Black and Red",
                 "img": [
                     {
@@ -13958,7 +13958,7 @@
                 "name": "Item 57.32 Pounds 1299.99",
                 "weight": "57.32 Pounds",
                 "price": 1299.99,
-                "remaining_products": 69,
+                "remaining_products": 77,
                 "color": "Gray",
                 "img": [
                     {
@@ -14107,7 +14107,7 @@
                 "name": "Black",
                 "weight": 43.0,
                 "price": 699.99,
-                "remaining_products": 49,
+                "remaining_products": 22,
                 "color": "Black",
                 "img": [
                     {
@@ -14152,7 +14152,7 @@
                 "name": "Gray",
                 "weight": 43.0,
                 "price": 699.99,
-                "remaining_products": 56,
+                "remaining_products": 45,
                 "color": "Gray",
                 "img": [
                     {
