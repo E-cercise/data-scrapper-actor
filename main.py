@@ -6,7 +6,7 @@ from io import BytesIO
 # API Configuration
 IMAGE_UPLOAD_URL = "http://127.0.0.1:8888/api/image/upload"
 EQUIPMENT_ADD_URL = "http://127.0.0.1:8888/api/equipment"
-BEARER_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzg4NTAwNjMsIm5hbWUiOiJQcmVhd3BhbiBUaGFtYXBpcG9sIiwidXNlcl9pZCI6IjJkMmUzYWM1LTExYzctNDNiOS1iODUwLWQzNmU2M2M5ODU2NyJ9.kDrDrBtx0bsT5cHPfVWY7hO8BH-WJ6i6idEaXZopBAE"
+BEARER_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzk3MDg2OTgsIm5hbWUiOiJQcmVhd3BhbiBUaGFtYXBpcG9sIiwicm9sZSI6IkFETUlOIiwidXNlcl9pZCI6IjYxNGRhZDRhLTgyZmEtNGY0Zi1iMTYxLWFmZDQ2NjJkY2E1ZiJ9.hPklS_-2vAtiyf-4vXB9ejqSvHp5O3BVWoj-_02f_VI"
 EQUIPMENTS_JSON = "equipments.json"
 LOG_FILE = "equipment_upload.log"
 

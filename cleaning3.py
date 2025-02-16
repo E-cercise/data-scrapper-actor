@@ -64,7 +64,7 @@ def process_data(json_file):
         product["material"] = material
         product["weight"] = weight
         
-        product["attributes"] = remove_keys(product["attributes"], ["Brand", "Model Name", "Material", "Color", "Item Weight", "ASIN"])
+        product["attributes"] = remove_keys(product["attributes"], ["Brand", "Model Name", "Material", "Color", "Item Weight", "ASIN", "Brand Name"])
         
         new_data.append(product)
 
