@@ -6,13 +6,16 @@ from io import BytesIO
 # API Configuration
 IMAGE_UPLOAD_URL = "http://127.0.0.1:8888/api/image/upload"
 EQUIPMENT_ADD_URL = "http://127.0.0.1:8888/api/equipment"
-BEARER_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzk3MDg2OTgsIm5hbWUiOiJQcmVhd3BhbiBUaGFtYXBpcG9sIiwicm9sZSI6IkFETUlOIiwidXNlcl9pZCI6IjYxNGRhZDRhLTgyZmEtNGY0Zi1iMTYxLWFmZDQ2NjJkY2E1ZiJ9.hPklS_-2vAtiyf-4vXB9ejqSvHp5O3BVWoj-_02f_VI"
+BEARER_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDEzNjYxOTQsIm5hbWUiOiJQcmVhd3BhbiBUaGFtYXBpcG9sIiwicm9sZSI6IkFETUlOIiwidXNlcl9pZCI6IjY4MjBlNjYwLTczMGYtNDMwZi04ZjdhLThkMDgzNjNjNmQ0NyJ9.13pSb3QbcMTsNR_bD9504r65PE1WSG82oHorQ02A1b4"
 EQUIPMENTS_JSON = "equipments.json"
 LOG_FILE = "equipment_upload.log"
 
 HEADERS = {
     "Authorization": f"Bearer {BEARER_TOKEN}"
 }
+
+def convert_to_baht(usd_price: float) -> float:
+    return usd_price * 33.7
 
 def log_message(message):
     """Logs messages to a file and prints them to the console."""
@@ -66,57 +69,65 @@ def upload_image(image_url):
 
 def process_equipment_data():
     """Reads equipment data, uploads images, and sends formatted data synchronously."""
+    error_count = 0
+
     try:
         with open(EQUIPMENTS_JSON, "r", encoding="utf-8") as file:
             equipments = json.load(file)
 
         for index, equipment in enumerate(equipments):
-            equipment_name = equipment.get("title", "Unknown")
-            log_message(f"\n--- Processing Equipment {index + 1}/{len(equipments)}: {equipment_name} ---")
+            try:
+                equipment_name = equipment.get("title", "Unknown")
+                log_message(f"\n--- Processing Equipment {index + 1}/{len(equipments)}: {equipment_name} ---")
 
-            # Process images
-            for option in equipment.get("equipment_options", []):
-                if "img" in option:
-                    for img in option["img"]:
-                        if not img.get("link"):  # If link is null or missing, use a placeholder
-                            img["link"] = generate_placeholder_url(equipment_name, option["name"])
-                            log_message(f"🔹 Assigned placeholder image: {img['link']}")
+                # Process images
+                for option in equipment.get("equipment_options", []):
+                    if "img" in option:
+                        for img in option["img"]:
+                            if not img.get("link"):  # If link is null or missing, use a placeholder
+                                img["link"] = generate_placeholder_url(equipment_name, option["name"])
+                                log_message(f"🔹 Assigned placeholder image: {img['link']}")
 
-                        # Upload the image
-                        image_id = upload_image(img["link"])
-                        if image_id:
-                            img["id"] = image_id  # Replace URL with Image ID
-                        del img["link"]  # Remove link field
+                            # Upload the image
+                            image_id = upload_image(img["link"])
+                            if image_id:
+                                img["id"] = image_id  # Replace URL with Image ID
+                            del img["link"]  # Remove link field
 
-            # Format Equipment JSON
-            formatted_equipment = {
-                "name": equipment.get("title", ""),
-                "brand": equipment.get("brand", ""),
-                "model": equipment.get("model_name", ""),
-                "color": equipment.get("color", ""),
-                "material": equipment.get("material", ""),
-                "description": equipment.get("description", ""),
-                "options": [
-                    {
-                        "name": option["name"],
-                        "price": option["price"],
-                        "weight": extract_numeric_weight(option["weight"]),
-                        "available": option["remaining_products"],
-                        "images": option.get("img", [])
-                    }
-                    for option in equipment.get("equipment_options", [])
-                ],
-                "muscle_group_used": equipment.get("muscle_group_used", []),
-                "features": equipment.get("features", []),
-                "additional_fields": [
-                    {"key": attr["key"], "value": attr["value"]}
-                    for attr in equipment.get("attributes", [])
-                ]
-            }
+                # Format Equipment JSON
+                formatted_equipment = {
+                    "name": equipment.get("title", ""),
+                    "brand": equipment.get("brand", ""),
+                    "model": equipment.get("model_name", ""),
+                    "color": equipment.get("color", ""),
+                    "material": equipment.get("material", ""),
+                    "description": equipment.get("description", ""),
+                    "options": [
+                        {
+                            "name": option["name"],
+                            "price": convert_to_baht(option["price"]),
+                            "weight": extract_numeric_weight(option["weight"]),
+                            "available": option["remaining_products"],
+                            "images": option.get("img", [])
+                        }
+                        for option in equipment.get("equipment_options", [])
+                    ],
+                    "muscle_group_used": equipment.get("muscle_group_used", []),
+                    "features": equipment.get("features", []),
+                    "additional_fields": [
+                        {"key": attr["key"], "value": attr["value"]}
+                        for attr in equipment.get("attributes", [])
+                    ],
+                    "category": equipment.get("category", "")
+                }
 
-            # Send POST request to add equipment
-            post_equipment(formatted_equipment)
+                # Send POST request to add equipment
+                post_equipment(formatted_equipment)
+            except Exception as e:
+                error_count += 1
+                log_message(f"❌ Error processing equipment data: {str(e)}, continue to process next equipment")
 
+        log_message(f"error count: {error_count}")
     except Exception as e:
         log_message(f"❌ Error processing equipment data: {str(e)}")
 
@@ -137,3 +148,4 @@ def post_equipment(equipment_data):
 
 if __name__ == "__main__":
     process_equipment_data()
+ 
